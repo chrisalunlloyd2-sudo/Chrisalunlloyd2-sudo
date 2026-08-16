@@ -1,0 +1,1593 @@
+{
+  "Aegis_Agents": [
+    {
+      "tag": "TODO",
+      "text": "architecture (Aegis mirror).",
+      "file": "fog_of_war.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "fog_of_war.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture",
+      "file": "fog_of_war.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "substrate the BDI bot already uses, ported for the",
+      "file": "fog_of_war.py:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture -----------------------------------------------",
+      "file": "fog_of_war.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "fog_of_war.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "item with priority + dependency tracking.\"\"\"",
+      "file": "fog_of_war.py:68"
+    },
+    {
+      "tag": "TODO",
+      "text": "board (blackboard) per cell.\"\"\"",
+      "file": "fog_of_war.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "id: str) -> bool:",
+      "file": "fog_of_war.py:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "fog_of_war.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "fog_of_war.py:105"
+    },
+    {
+      "tag": "TODO",
+      "text": "by priority (then id) \u2014 deterministic.\"\"\"",
+      "file": "fog_of_war.py:109"
+    },
+    {
+      "tag": "TODO",
+      "text": "blackboard.\"\"\"",
+      "file": "fog_of_war.py:122"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture\", priority=2)",
+      "file": "fog_of_war.py:144"
+    },
+    {
+      "tag": "TODO",
+      "text": "drain_order\": order, \"board\": cell.board.stats()}",
+      "file": "fog_of_war.py:155"
+    },
+    {
+      "tag": "BUG",
+      "text": "LOGGING",
+      "file": "gemini_bridge_api.py:884"
+    },
+    {
+      "tag": "TODO",
+      "text": "priority_and_deps():",
+      "file": "test_fog_of_war.py:19"
+    },
+    {
+      "tag": "TODO",
+      "text": "id in todos:",
+      "file": "gemini_bridge_rag.py:166"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "gemini_bridge_rag.py:168"
+    },
+    {
+      "tag": "HACK",
+      "text": "v3.1",
+      "file": "gemini_extension/content.js:1"
+    }
+  ],
+  "H2OIDE": [
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "autonomous_engine.py:21"
+    }
+  ],
+  "H2OMatrixCE": [
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "WAKE.sh:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "SYNC_ALL.sh:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "Keystore...\"",
+      "file": "manifest_apk.sh:106"
+    },
+    {
+      "tag": "TODO",
+      "text": "Scanner",
+      "file": "TODO_SCANNER.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
+      "file": "TODO_SCANNER.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "TODO_SCANNER.py:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "TODO_SCANNER.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "TODO_SCANNER.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = True",
+      "file": "TODO_SCANNER.py:69"
+    },
+    {
+      "tag": "TODO",
+      "text": "section and line.startswith('##'):",
+      "file": "TODO_SCANNER.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "TODO_SCANNER.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "section:",
+      "file": "TODO_SCANNER.py:75"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "PocketMatrix/system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "PocketMatrix/system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "PocketMatrix/system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/chat_harvester.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/gui_bridge.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "PocketMatrix/system/gui_bridge.py:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/gui_bridge.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "PocketMatrix/system/gui_bridge.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "PocketMatrix/system/gui_bridge.py:138"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/gui_bridge.py:141"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "PocketMatrix/system/gui_bridge.py:164"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/gui_bridge.py:165"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "PocketMatrix/system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "H2OIDE/initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "H2OIDE/initialize_enterprise_project.py:83"
+    }
+  ],
+  "house-inference": [
+    {
+      "tag": "BUG",
+      "text": "<one-line cause>",
+      "file": "qwen/qwen.py:37"
+    },
+    {
+      "tag": "BUG",
+      "text": "<one-line>  (no other text)",
+      "file": "qwen/qwen.py:40"
+    }
+  ],
+  "living-ascii-art": [
+    {
+      "tag": "BUG",
+      "text": "in kernel\"",
+      "file": "scripts/fetch_data.py:79"
+    }
+  ],
+  "Machine2": [
+    {
+      "tag": "BUG",
+      "text": "Initializing GPU bindings\"",
+      "file": "tests/e2e_runner.py:452"
+    }
+  ],
+  "MatrixCE_GUI": [
+    {
+      "tag": "TODO",
+      "text": "Database",
+      "file": "web/PocketMatrix/zero_to_ce/payload/init_databases.py:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "web/PocketMatrix/system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "web/PocketMatrix/system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "web/PocketMatrix/system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "web/PocketMatrix/system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/chat_harvester.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "web/PocketMatrix/system/orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/orchestrator.py:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "Prompt length: {len(prompt)}\")",
+      "file": "web/PocketMatrix/system/orchestrator.py:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response status: {response.status_code}\")",
+      "file": "web/PocketMatrix/system/orchestrator.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response content: {response.text}\")",
+      "file": "web/PocketMatrix/system/orchestrator.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "web/PocketMatrix/system/gui_bridge.py:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "web/PocketMatrix/system/gui_bridge.py:243"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/gui_bridge.py:246"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "web/PocketMatrix/system/gui_bridge.py:269"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/gui_bridge.py:270"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "web/PocketMatrix/system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:266"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'TODO: (.*)')",
+      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\\n\")",
+      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "web/_Archived_Root/scripts/project_manager.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "List\\n\")",
+      "file": "web/_Archived_Root/scripts/project_manager.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "web/_Archived_Root/scripts/SYNC_ALL.sh:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "Keystore...\"",
+      "file": "web/_Archived_Root/scripts/manifest_apk.sh:106"
+    },
+    {
+      "tag": "TODO",
+      "text": "Scanner",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = True",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:69"
+    },
+    {
+      "tag": "TODO",
+      "text": "section and line.startswith('##'):",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "section:",
+      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "web/_Archived_Root/scripts/triton_broker.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "web/_Archived_Root/scripts/triton_broker.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/_Archived_Root/scripts/triton_broker.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/_Archived_Root/scripts/triton_broker.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "web/_Archived_Root/scripts/triton_broker.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "web/H2OIDE/initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "web/H2OIDE/initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "web/H2OIDE/pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "web/H2OIDE/autonomous_engine.py:21"
+    },
+    {
+      "tag": "BUG",
+      "text": "in login functionality\\n- Implement new authentication syste",
+      "file": "web/scripts/update_todo.py:20"
+    }
+  ],
+  "Matrix_CEAGENTS": [
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/flow_orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/flow_orchestrator.py:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/chat_harvester.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/orchestrator.py:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "Prompt length: {len(prompt)}\")",
+      "file": "system/orchestrator.py:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response status: {response.status_code}\")",
+      "file": "system/orchestrator.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response content: {response.text}\")",
+      "file": "system/orchestrator.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "system/gui_bridge.py:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "system/gui_bridge.py:534"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/gui_bridge.py:537"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "system/gui_bridge.py:560"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/gui_bridge.py:561"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "system/backup/gui_bridge_LEGACY.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "system/backup/gui_bridge_LEGACY.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "system/backup/gui_bridge_LEGACY.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "system/backup/gui_bridge_LEGACY.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "system/backup/gui_bridge_LEGACY.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:266"
+    }
+  ],
+  "Matrix_CEAPPS": [
+    {
+      "tag": "BUG",
+      "text": "keystore...\"",
+      "file": "QwenConfigApp/build.sh:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "keyalg RSA -keysize 2048 -validity 10000 -storepass matrixce",
+      "file": "QwenConfigApp/build.sh:48"
+    }
+  ],
+  "Matrix_CEBack": [
+    {
+      "tag": "TODO",
+      "text": "\\s*(.*)', msg_body, re.IGNORECASE)",
+      "file": "gmail_harvester.py:77"
+    }
+  ],
+  "Matrix_CEKAI9000": [
+    {
+      "tag": "TODO",
+      "text": "DIR = \"/data/data/com.termux/files/home/.qwen/todos\"",
+      "file": "autonomous_loop.py:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "file():",
+      "file": "autonomous_loop.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR):",
+      "file": "autonomous_loop.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR) if f.endswith('.json')]",
+      "file": "autonomous_loop.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "list for now",
+      "file": "autonomous_loop.py:19"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR, files[0])",
+      "file": "autonomous_loop.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "file = get_active_todo_file()",
+      "file": "autonomous_loop.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "file:",
+      "file": "autonomous_loop.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "file)",
+      "file": "autonomous_loop.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "list format.\")",
+      "file": "autonomous_loop.py:45"
+    },
+    {
+      "tag": "TODO",
+      "text": "file}\")",
+      "file": "autonomous_loop.py:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "file, data)",
+      "file": "autonomous_loop.py:63"
+    },
+    {
+      "tag": "TODO",
+      "text": "file, data)",
+      "file": "autonomous_loop.py:89"
+    }
+  ],
+  "MATRIX_GEN8_HOME": [
+    {
+      "tag": "TODO",
+      "text": "Database",
+      "file": "PocketMatrix/zero_to_ce/payload/init_databases.py:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "PocketMatrix/system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "PocketMatrix/system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "PocketMatrix/system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/chat_harvester.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/orchestrator.py:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "Prompt length: {len(prompt)}\")",
+      "file": "PocketMatrix/system/orchestrator.py:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response status: {response.status_code}\")",
+      "file": "PocketMatrix/system/orchestrator.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response content: {response.text}\")",
+      "file": "PocketMatrix/system/orchestrator.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/gui_bridge.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "PocketMatrix/system/gui_bridge.py:241"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/gui_bridge.py:244"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "PocketMatrix/system/gui_bridge.py:267"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/gui_bridge.py:268"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "PocketMatrix/system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "PocketMatrix/system/backup/gui_bridge_LEGACY.py:266"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'TODO: (.*)')",
+      "file": "_Archived_Root/scripts/TODO_SYPHON.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "_Archived_Root/scripts/TODO_SYPHON.py:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "_Archived_Root/scripts/TODO_SYPHON.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\\n\")",
+      "file": "_Archived_Root/scripts/TODO_SYPHON.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "_Archived_Root/scripts/project_manager.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "List\\n\")",
+      "file": "_Archived_Root/scripts/project_manager.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "_Archived_Root/scripts/SYNC_ALL.sh:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "Keystore...\"",
+      "file": "_Archived_Root/scripts/manifest_apk.sh:106"
+    },
+    {
+      "tag": "TODO",
+      "text": "Scanner",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = True",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:69"
+    },
+    {
+      "tag": "TODO",
+      "text": "section and line.startswith('##'):",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "section:",
+      "file": "_Archived_Root/scripts/TODO_SCANNER.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "_Archived_Root/scripts/triton_broker.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "_Archived_Root/scripts/triton_broker.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "_Archived_Root/scripts/triton_broker.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "_Archived_Root/scripts/triton_broker.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "_Archived_Root/scripts/triton_broker.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "H2OIDE/initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "H2OIDE/initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "H2OIDE/pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "H2OIDE/autonomous_engine.py:21"
+    },
+    {
+      "tag": "BUG",
+      "text": "in login functionality\\n- Implement new authentication syste",
+      "file": "scripts/update_todo.py:20"
+    }
+  ],
+  "mind-palace": [
+    {
+      "tag": "BUG",
+      "text": "false,",
+      "file": "src/engine/collision.js:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "'#ffaa00',",
+      "file": "src/ui/gist_wall.js:25"
+    },
+    {
+      "tag": "BUG",
+      "text": "'\ud83d\udd0d',",
+      "file": "src/ui/gist_wall.js:36"
+    },
+    {
+      "tag": "BUG",
+      "text": "logs for ViperKernel',",
+      "file": "src/ui/gist_wall.js:123"
+    },
+    {
+      "tag": "BUG",
+      "text": "logs for MoeGUI',",
+      "file": "src/ui/gist_wall.js:131"
+    },
+    {
+      "tag": "BUG",
+      "text": "logs for GeneticFoundry',",
+      "file": "src/ui/gist_wall.js:139"
+    },
+    {
+      "tag": "BUG",
+      "text": "false,",
+      "file": "src/physics/collision.js:20"
+    }
+  ],
+  "Nova": [
+    {
+      "tag": "BUG",
+      "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
+      "file": "prompt_evolver.py:90"
+    },
+    {
+      "tag": "BUG",
+      "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
+      "file": "prompt_evolver.py:92"
+    }
+  ],
+  "openrouter_manager": [
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "project/GENESIS_TRAINING.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "List')",
+      "file": "project/GENESIS_TRAINING.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for SOPs')",
+      "file": "project/GENESIS_TRAINING.py:28"
+    }
+  ],
+  "sims-java-neo-fx": [
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
+      "file": "extract_global_todos.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE.\",",
+      "file": "extract_global_todos.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "extract_global_todos.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority)\")",
+      "file": "extract_global_todos.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "extract_global_todos.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\").fetchall()",
+      "file": "extract_global_todos.py:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_EXTRACT_{now_id()}_{index:03d}\"",
+      "file": "extract_global_todos.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "extract_global_todos.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, 2, assigned),",
+      "file": "extract_global_todos.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
+      "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:969"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:827"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement dynamic routing based on ledger health",
+      "file": "swarm_router.py:76"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
+    },
+    {
+      "tag": "BUG",
+      "text": "report.\"),",
+      "file": "scripts/agents/crew_loop.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "<what>\"",
+      "file": "scripts/agents/crew_loop.py:44"
+    }
+  ],
+  "SIMS1337": [
+    {
+      "tag": "BUG",
+      "text": "report.\"),",
+      "file": "scripts/agents/crew_loop.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "<what>\"",
+      "file": "scripts/agents/crew_loop.py:44"
+    }
+  ],
+  "SimsMerged": [
+    {
+      "tag": "TODO",
+      "text": "\" in line or \"TODO \" in line:",
+      "file": "SSD_SANDBOX/harvest_todos.py:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement hot-patch algorithm",
+      "file": "SSD_SANDBOX/research_outputs/patch_economy.py_1780779565.py:6"
+    },
+    {
+      "tag": "TODO",
+      "text": "list)}",
+      "file": "backend/main.py:197"
+    },
+    {
+      "tag": "BUG",
+      "text": "HUNTER]",
+      "file": "backend/bug_hunter.py:4"
+    },
+    {
+      "tag": "BUG",
+      "text": "Hunting Session...\")",
+      "file": "backend/bug_hunter.py:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "Hunting Session Complete. 0 Crashes found.\")",
+      "file": "backend/bug_hunter.py:43"
+    },
+    {
+      "tag": "BUG",
+      "text": "hunter import *",
+      "file": "backend/tests/test_bug_hunter.py:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "hunter\"\"\"",
+      "file": "backend/tests/test_bug_hunter.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "was found.\"",
+      "file": "backend/tok_communications/inner_tok_layer.py:62"
+    },
+    {
+      "tag": "BUG",
+      "text": "Socrates...\")",
+      "file": "backend/core/placement_agent.py:171"
+    },
+    {
+      "tag": "BUG",
+      "text": "prompt = f\"FIX THIS CODE. It failed runtime.\\nCODE:\\n{raw_co",
+      "file": "backend/core/placement_agent.py:172"
+    },
+    {
+      "tag": "BUG",
+      "text": "Socrates\", debug_prompt, task_type=\"debugger\")",
+      "file": "backend/core/placement_agent.py:173"
+    },
+    {
+      "tag": "BUG",
+      "text": "SUCCESS] Socrates fixed logic.\")",
+      "file": "backend/core/placement_agent.py:177"
+    },
+    {
+      "tag": "TODO",
+      "text": "list = []",
+      "file": "backend/core/data_expert.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "list = data.get(\"todos\", [])",
+      "file": "backend/core/data_expert.py:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "list,",
+      "file": "backend/core/data_expert.py:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "list:",
+      "file": "backend/core/data_expert.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.append(item)",
+      "file": "backend/core/data_expert.py:57"
+    },
+    {
+      "tag": "TODO",
+      "text": "list,",
+      "file": "backend/core/data_expert.py:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "list:",
+      "file": "backend/core/data_expert.py:124"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.append(mandate)",
+      "file": "backend/core/data_expert.py:125"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "backend/core/data_expert.py:128"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sweep",
+      "file": "backend/core/ideator_agent.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "context = \"\"",
+      "file": "backend/core/ideator_agent.py:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "context += f\"FILE: {file} L{i+1}: {line.strip()}\\n\"",
+      "file": "backend/core/ideator_agent.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "context:",
+      "file": "backend/core/ideator_agent.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "context[:4000]}\\n\\n\"",
+      "file": "backend/core/ideator_agent.py:60"
+    },
+    {
+      "tag": "BUG",
+      "text": "classes and suggests architectural patterns.",
+      "file": "backend/core/ideator_agent.py:91"
+    },
+    {
+      "tag": "BUG",
+      "text": "class = details.split(\":\")[0]",
+      "file": "backend/core/ideator_agent.py:105"
+    },
+    {
+      "tag": "BUG",
+      "text": "class] = self.profile[\"recurring_bugs\"].get(bug_class, 0) + ",
+      "file": "backend/core/ideator_agent.py:106"
+    },
+    {
+      "tag": "BUG",
+      "text": "class] > 5:",
+      "file": "backend/core/ideator_agent.py:108"
+    },
+    {
+      "tag": "BUG",
+      "text": "'{bug_class}' detected 5+ times. Suggesting defensive patter",
+      "file": "backend/core/ideator_agent.py:109"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.append(f\"AGENT_INITIATED: {item.get('task')}\")",
+      "file": "backend/core/communication_orchestrator.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "context = \" | \".join(todos[:3])",
+      "file": "backend/core/agent_sentience.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "context}]\"",
+      "file": "backend/core/agent_sentience.py:132"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"",
+      "file": "backend/core/symbolic_router.py:58"
+    },
+    {
+      "tag": "TODO",
+      "text": "PATH = \"C:\\\\Users\\\\viper\\\\Desktop\\\\SimsMerged\\\\SSD_SANDBOX\\\\",
+      "file": "backend/core/session_harvester.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "list across sessions.",
+      "file": "backend/core/session_harvester.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "PATH):",
+      "file": "backend/core/session_harvester.py:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "PATH, \"r\") as f:",
+      "file": "backend/core/session_harvester.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "PATH, \"w\") as f:",
+      "file": "backend/core/session_harvester.py:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "prompt = (",
+      "file": "backend/core/evolution_council.py:174"
+    },
+    {
+      "tag": "BUG",
+      "text": "prompt, task_type=\"swarm_debug\")",
+      "file": "backend/core/evolution_council.py:182"
+    },
+    {
+      "tag": "BUG",
+      "text": "attempt.\", \"warn\")",
+      "file": "backend/core/evolution_council.py:273"
+    }
+  ]
+}
