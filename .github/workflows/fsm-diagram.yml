@@ -14,13 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup PlantUML & Graphviz
-        run: sudo apt-get update && sudo apt-get install -y plantuml graphviz
+      - name: Setup Graphviz + Modern PlantUML
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y graphviz default-jre-headless
+          curl -sL https://github.com/plantuml/plantuml/releases/download/v1.2024.7/plantuml-1.2024.7.jar -o /tmp/plantuml.jar
       - name: Compile State Machine Diagram
         run: |
           mkdir -p assets/fsm
           if [ -f fsm/states.puml ]; then
-            plantuml -tsvg -o "../assets/fsm" fsm/states.puml
+            java -jar /tmp/plantuml.jar -tsvg -o "../assets/fsm" fsm/states.puml
           fi
       - name: Commit FSM Diagram
         run: |

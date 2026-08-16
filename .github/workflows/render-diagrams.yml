@@ -19,8 +19,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install Mermaid CLI
-        run: npm install -g @mermaid-js/mermaid-cli
+      - name: Install Mermaid CLI + Chromium
+        run: |
+          npm install -g @mermaid-js/mermaid-cli
+          npx puppeteer browsers install chrome
       - name: Compile Architecture to Dark-Mode SVG
         run: |
           mkdir -p assets/diagrams
