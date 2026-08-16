@@ -19,10 +19,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install Mermaid CLI + Chromium
+      - name: Install Mermaid CLI + Chrome
         run: |
           npm install -g @mermaid-js/mermaid-cli
           npx puppeteer browsers install chrome
+          CHROME=$(find "$HOME/.cache/puppeteer" -name chrome -type f 2>/dev/null | head -1)
+          if [ -n "$CHROME" ]; then
+            echo "PUPPETEER_EXECUTABLE_PATH=$CHROME" >> "$GITHUB_ENV"
+          elif command -v google-chrome >/dev/null; then
+            echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome" >> "$GITHUB_ENV"
+          fi
       - name: Compile Architecture to Dark-Mode SVG
         run: |
           mkdir -p assets/diagrams

@@ -14,7 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_ALL_REPOS || secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          config_committer: chrisalunlloyd2-sudo
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
