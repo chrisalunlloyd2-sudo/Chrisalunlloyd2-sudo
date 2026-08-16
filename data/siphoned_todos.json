@@ -1,4 +1,11 @@
 {
+  "aegis-agent-bridge": [
+    {
+      "tag": "TODO",
+      "text": "|",
+      "file": "docs/EMAIL_PROTOCOL.md:22"
+    }
+  ],
   "Aegis_Agents": [
     {
       "tag": "TODO",
@@ -101,7 +108,129 @@
       "file": "gemini_extension/content.js:1"
     }
   ],
+  "Chrisalunlloyd2-sudo": [
+    {
+      "tag": "TODO",
+      "text": "Hex Matrix",
+      "file": "README.md:54"
+    },
+    {
+      "tag": "TODO",
+      "text": "hex_grid.svg\" alt=\"Autonomous TODO Hex Grid\" width=\"100%\" />",
+      "file": "README.md:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "siphon, cross-repo synthesis, BDI HUD, FSM heatmap",
+      "file": "README.md:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "hex matrix + agent contract-selection overlay.",
+      "file": "scripts/generate_hex_grid.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "markers PLUS per-repo agent event streams",
+      "file": "scripts/generate_hex_grid.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "hex_grid.svg\"",
+      "file": "scripts/generate_hex_grid.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "Hex-Siphoner\"})",
+      "file": "scripts/generate_hex_grid.py:19"
+    },
+    {
+      "tag": "TODO",
+      "text": "\\u25cf FIXME \\u25cf HACK \\u25cf BUG'",
+      "file": "scripts/generate_hex_grid.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "HEX MATRIX + CONTRACT SELECTION</text>",
+      "file": "scripts/generate_hex_grid.py:77"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'(TODO|FIXME|HACK|BUG)[\\s:\\-_]+(.*)', ",
+      "file": "scripts/generate_hex_grid.py:91"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.search(line)",
+      "file": "scripts/generate_hex_grid.py:107"
+    },
+    {
+      "tag": "TODO",
+      "text": "mirror\",\"file\":\"TASKS.md:1\"}]",
+      "file": "scripts/generate_hex_grid.py:138"
+    }
+  ],
   "H2OIDE": [
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "README_ENTERPRISE.md:705"
+    },
     {
       "tag": "TODO",
       "text": "(Google Keep Hypersync)**",
@@ -121,13 +250,308 @@
       "tag": "TODO",
       "text": "List",
       "file": "autonomous_engine.py:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in H2OIDE",
+      "file": "todo_0001__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "todo_0001__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:27"
     }
   ],
   "H2OMatrixCE": [
     {
       "tag": "TODO",
+      "text": "#6 in H2OMatrixCE",
+      "file": "todo_0006__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0006__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB.md:27"
+    },
+    {
+      "tag": "TODO",
       "text": "SCANNER.py",
       "file": "WAKE.sh:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in H2OMatrixCE",
+      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in H2OMatrixCE",
+      "file": "todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in H2OMatrixCE",
+      "file": "todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in H2OMatrixCE",
+      "file": "todo_0001_LIST.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "todo_0001_LIST.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001_LIST.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_LIST.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_LIST.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in H2OMatrixCE",
+      "file": "todo_0010__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0010__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0010__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in H2OMatrixCE",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in H2OMatrixCE",
+      "file": "todo_0002_S_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "todo_0002_S_---.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002_S_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_S_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_S_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in H2OMatrixCE",
+      "file": "todo_0005__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "todo_0005__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0005__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix/feature is a hypothesis based on observed data flow anom",
+      "file": "SINGULARITY_ROADMAP.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in H2OMatrixCE",
+      "file": "todo_0009_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0009_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0009_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "README.md:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "README.md:49"
     },
     {
       "tag": "TODO",
@@ -138,6 +562,36 @@
       "tag": "BUG",
       "text": "Keystore...\"",
       "file": "manifest_apk.sh:106"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in H2OMatrixCE",
+      "file": "todo_0003_LIST_in_line.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "todo_0003_LIST_in_line.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "todo_0003_LIST_in_line.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003_LIST_in_line.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_LIST_in_line.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_LIST_in_line.md:27"
     },
     {
       "tag": "TODO",
@@ -256,6 +710,346 @@
     },
     {
       "tag": "TODO",
+      "text": "#6 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0006__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0006__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0006__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0001_LIST.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "AEGEN_TODOS/todo_0001_LIST.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0001_LIST.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001_LIST.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001_LIST.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0010__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0010__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0010__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0002_S_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "AEGEN_TODOS/todo_0002_S_---.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0002_S_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002_S_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002_S_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in H2OMatrixCE",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "H2OIDE/README_ENTERPRISE.md:705"
+    },
+    {
+      "tag": "TODO",
       "text": "(Google Keep Hypersync)**",
       "file": "H2OIDE/initialize_enterprise_project.py:57"
     },
@@ -265,7 +1059,54 @@
       "file": "H2OIDE/initialize_enterprise_project.py:83"
     }
   ],
+  "H2O_MATRIX": [
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in H2O_MATRIX",
+      "file": "todo_0001_LIST.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "todo_0001_LIST.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001_LIST.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_LIST.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_LIST.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix/feature is a hypothesis based on observed data flow anom",
+      "file": "SINGULARITY_ROADMAP.md:15"
+    }
+  ],
   "house-inference": [
+    {
+      "tag": "BUG",
+      "text": "/ FIX: / VERIFY: |",
+      "file": "qwen/README.md:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "<one line>` |",
+      "file": "qwen/README.md:20"
+    },
     {
       "tag": "BUG",
       "text": "<one-line cause>",
@@ -287,273 +1128,1855 @@
   "Machine2": [
     {
       "tag": "BUG",
+      "text": "reports from text.",
+      "file": "ArchivalMoe_docx.md:144"
+    },
+    {
+      "tag": "BUG",
       "text": "Initializing GPU bindings\"",
       "file": "tests/e2e_runner.py:452"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": ".agents/worker_e2e_impl_3/progress.md:18"
+    }
+  ],
+  "MasterLogs": [
+    {
+      "tag": "BUG",
+      "text": "traces, KV snapshots, keyword lists, LoRA updates \u2014 auto-pop",
+      "file": "README.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "logs",
+      "file": "README.md:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "output gets posted as a GitHub Gist and linked here. The gis",
+      "file": "README.md:24"
+    },
+    {
+      "tag": "BUG",
+      "text": "Logs",
+      "file": "projects/GeneticFoundry/README.md:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "Logs",
+      "file": "projects/ViperKernel/README.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "Logs",
+      "file": "projects/MoeGUI/README.md:15"
     }
   ],
   "MatrixCE_GUI": [
     {
       "tag": "TODO",
-      "text": "Database",
-      "file": "web/PocketMatrix/zero_to_ce/payload/init_databases.py:28"
-    },
-    {
-      "tag": "BUG",
-      "text": "this in C.\"",
-      "file": "web/PocketMatrix/system/fault_injector.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "web/PocketMatrix/system/chat_harvester.py:7"
-    },
-    {
-      "tag": "TODO",
-      "text": "Database for H2O Execution",
-      "file": "web/PocketMatrix/system/chat_harvester.py:37"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "web/PocketMatrix/system/chat_harvester.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/chat_harvester.py:39"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "web/PocketMatrix/system/orchestrator.py:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/orchestrator.py:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "Prompt length: {len(prompt)}\")",
-      "file": "web/PocketMatrix/system/orchestrator.py:44"
-    },
-    {
-      "tag": "BUG",
-      "text": "Response status: {response.status_code}\")",
-      "file": "web/PocketMatrix/system/orchestrator.py:49"
-    },
-    {
-      "tag": "BUG",
-      "text": "Response content: {response.text}\")",
-      "file": "web/PocketMatrix/system/orchestrator.py:56"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "web/PocketMatrix/system/gui_bridge.py:26"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "web/PocketMatrix/system/gui_bridge.py:243"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/gui_bridge.py:246"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "web/PocketMatrix/system/gui_bridge.py:269"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/gui_bridge.py:270"
-    },
-    {
-      "tag": "TODO",
-      "text": "database with Google Keep with backoff.",
-      "file": "web/PocketMatrix/system/google_bridge.py:47"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "Router",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:131"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:134"
-    },
-    {
-      "tag": "TODO",
-      "text": "list.\"})",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:139"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:239"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:242"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:265"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "web/PocketMatrix/system/backup/gui_bridge_LEGACY.py:266"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern = re.compile(r'TODO: (.*)')",
-      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:13"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:28"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\\n\")",
-      "file": "web/_Archived_Root/scripts/TODO_SYPHON.py:65"
+      "text": "#179 in MatrixCE_GUI",
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:1"
     },
     {
       "tag": "TODO",
       "text": "list",
-      "file": "web/_Archived_Root/scripts/project_manager.py:20"
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:12"
     },
     {
       "tag": "TODO",
-      "text": "List\\n\")",
-      "file": "web/_Archived_Root/scripts/project_manager.py:22"
+      "text": "Text",
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:15"
     },
     {
       "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "web/_Archived_Root/scripts/SYNC_ALL.sh:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "Keystore...\"",
-      "file": "web/_Archived_Root/scripts/manifest_apk.sh:106"
+      "text": "list",
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:17"
     },
     {
       "tag": "TODO",
-      "text": "Scanner",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:8"
+      "text": "",
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:21"
     },
     {
       "tag": "TODO",
-      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:15"
+      "text": "",
+      "file": "todo_0179_.md_with_comprehensive_TODO_list.md:27"
     },
     {
       "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:27"
+      "text": "#93 in MatrixCE_GUI",
+      "file": "todo_0093_.md.md:1"
     },
     {
       "tag": "TODO",
-      "text": "section = False",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:65"
+      "text": "Text",
+      "file": "todo_0093_.md.md:15"
     },
     {
       "tag": "TODO",
-      "text": "LIST\" in line:",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:67"
+      "text": "",
+      "file": "todo_0093_.md.md:21"
     },
     {
       "tag": "TODO",
-      "text": "section = True",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:69"
+      "text": "",
+      "file": "todo_0093_.md.md:27"
     },
     {
       "tag": "TODO",
-      "text": "section and line.startswith('##'):",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:72"
+      "text": "#226 in MatrixCE_GUI",
+      "file": "todo_0226_list_will_be_used_to_track_and_implement_database_.md:1"
     },
     {
       "tag": "TODO",
-      "text": "section = False",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:73"
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0226_list_will_be_used_to_track_and_implement_database_.md:12"
     },
     {
       "tag": "TODO",
-      "text": "section:",
-      "file": "web/_Archived_Root/scripts/TODO_SCANNER.py:75"
+      "text": "Text",
+      "file": "todo_0226_list_will_be_used_to_track_and_implement_database_.md:15"
     },
     {
       "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "web/_Archived_Root/scripts/triton_broker.py:14"
+      "text": "",
+      "file": "todo_0226_list_will_be_used_to_track_and_implement_database_.md:21"
     },
     {
       "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "web/_Archived_Root/scripts/triton_broker.py:22"
+      "text": "",
+      "file": "todo_0226_list_will_be_used_to_track_and_implement_database_.md:27"
     },
     {
       "tag": "TODO",
-      "text": "DB)",
-      "file": "web/_Archived_Root/scripts/triton_broker.py:23"
+      "text": "#43 in MatrixCE_GUI",
+      "file": "todo_0043_.md.md:1"
     },
     {
       "tag": "TODO",
-      "text": "DB)",
-      "file": "web/_Archived_Root/scripts/triton_broker.py:33"
+      "text": "Text",
+      "file": "todo_0043_.md.md:15"
     },
     {
       "tag": "TODO",
-      "text": "DB)",
-      "file": "web/_Archived_Root/scripts/triton_broker.py:43"
+      "text": "",
+      "file": "todo_0043_.md.md:21"
     },
     {
       "tag": "TODO",
-      "text": "(Google Keep Hypersync)**",
-      "file": "web/H2OIDE/initialize_enterprise_project.py:57"
-    },
-    {
-      "tag": "BUG",
-      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "file": "web/H2OIDE/initialize_enterprise_project.py:83"
+      "text": "",
+      "file": "todo_0043_.md.md:27"
     },
     {
       "tag": "TODO",
-      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
-      "file": "web/H2OIDE/pedagogy_loop.py:140"
+      "text": "#333 in MatrixCE_GUI",
+      "file": "todo_0333_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0333_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0333_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0333_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#265 in MatrixCE_GUI",
+      "file": "todo_0265_List.md:1"
     },
     {
       "tag": "TODO",
       "text": "List",
-      "file": "web/H2OIDE/autonomous_engine.py:21"
+      "file": "todo_0265_List.md:12"
     },
     {
-      "tag": "BUG",
-      "text": "in login functionality\\n- Implement new authentication syste",
-      "file": "web/scripts/update_todo.py:20"
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0265_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0265_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0265_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#204 in MatrixCE_GUI",
+      "file": "todo_0204_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0204_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0204_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0204_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0204_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#231 in MatrixCE_GUI",
+      "file": "todo_0231_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0231_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0231_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0231_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#291 in MatrixCE_GUI",
+      "file": "todo_0291_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0291_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0291_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0291_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0291_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#165 in MatrixCE_GUI",
+      "file": "todo_0165_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0165_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0165_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0165_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0165_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#307 in MatrixCE_GUI",
+      "file": "todo_0307_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0307_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0307_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0307_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#381 in MatrixCE_GUI",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'TODO: (.*)')",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "(.*)')",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0381__pattern__re.compilerTODO_..md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#117 in MatrixCE_GUI",
+      "file": "todo_0117_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0117_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0117_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0117_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0117_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#371 in MatrixCE_GUI",
+      "file": "todo_0371_list_outlines_the_tasks_that_need_to_be_completed_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the tasks that need to be completed for the Op",
+      "file": "todo_0371_list_outlines_the_tasks_that_need_to_be_completed_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0371_list_outlines_the_tasks_that_need_to_be_completed_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0371_list_outlines_the_tasks_that_need_to_be_completed_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0371_list_outlines_the_tasks_that_need_to_be_completed_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#322 in MatrixCE_GUI",
+      "file": "todo_0322_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0322_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0322_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0322_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0322_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#176 in MatrixCE_GUI",
+      "file": "todo_0176_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0176_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0176_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0176_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0176_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#193 in MatrixCE_GUI",
+      "file": "todo_0193_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0193_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0193_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0193_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0193_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#135 in MatrixCE_GUI",
+      "file": "todo_0135_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0135_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0135_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0135_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#107 in MatrixCE_GUI",
+      "file": "todo_0107_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0107_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0107_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0107_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#182 in MatrixCE_GUI",
+      "file": "todo_0182_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0182_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0182_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0182_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#156 in MatrixCE_GUI",
+      "file": "todo_0156_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0156_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0156_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0156_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in MatrixCE_GUI",
+      "file": "todo_0006_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#50 in MatrixCE_GUI",
+      "file": "todo_0050_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0050_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0050_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0050_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0050_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#66 in MatrixCE_GUI",
+      "file": "todo_0066_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0066_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0066_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0066_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#200 in MatrixCE_GUI",
+      "file": "todo_0200_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0200_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0200_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0200_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0200_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#313 in MatrixCE_GUI",
+      "file": "todo_0313_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0313_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0313_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0313_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#197 in MatrixCE_GUI",
+      "file": "todo_0197_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0197_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0197_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0197_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0197_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#329 in MatrixCE_GUI",
+      "file": "todo_0329_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0329_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0329_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0329_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0329_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#254 in MatrixCE_GUI",
+      "file": "todo_0254_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0254_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0254_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0254_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0254_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#161 in MatrixCE_GUI",
+      "file": "todo_0161_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0161_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0161_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0161_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#261 in MatrixCE_GUI",
+      "file": "todo_0261_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0261_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0261_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0261_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#26 in MatrixCE_GUI",
+      "file": "todo_0026_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0026_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0026_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0026_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0026_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#387 in MatrixCE_GUI",
+      "file": "todo_0387__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0387__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0387__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0387__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0387__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#149 in MatrixCE_GUI",
+      "file": "todo_0149_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0149_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0149_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0149_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0149_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#230 in MatrixCE_GUI",
+      "file": "todo_0230_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0230_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0230_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0230_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#376 in MatrixCE_GUI",
+      "file": "todo_0376_.md_w_as_f.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0376_.md_w_as_f.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0376_.md_w_as_f.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0376_.md_w_as_f.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#133 in MatrixCE_GUI",
+      "file": "todo_0133_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0133_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0133_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0133_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#364 in MatrixCE_GUI",
+      "file": "todo_0364_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0364_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0364_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0364_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0364_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#96 in MatrixCE_GUI",
+      "file": "todo_0096_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0096_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0096_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0096_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0096_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#284 in MatrixCE_GUI",
+      "file": "todo_0284_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0284_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0284_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0284_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#354 in MatrixCE_GUI",
+      "file": "todo_0354__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "todo_0354__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0354__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0354__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0354__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#358 in MatrixCE_GUI",
+      "file": "todo_0358__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0358__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0358__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0358__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0358__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#22 in MatrixCE_GUI",
+      "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
     }
   ],
   "Matrix_CEAGENTS": [
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEAGENTS",
+      "file": "todo_0002__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "todo_0002__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#16 in Matrix_CEAGENTS",
+      "file": "todo_0016__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0016__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0016__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in Matrix_CEAGENTS",
+      "file": "todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in Matrix_CEAGENTS",
+      "file": "todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in Matrix_CEAGENTS",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in Matrix_CEAGENTS",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in Matrix_CEAGENTS",
+      "file": "todo_0007_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0007_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0007_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in Matrix_CEAGENTS",
+      "file": "todo_0003__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0003__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in Matrix_CEAGENTS",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#13 in Matrix_CEAGENTS",
+      "file": "todo_0013__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0013__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0013__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in Matrix_CEAGENTS",
+      "file": "todo_0009__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0009__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0009__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#15 in Matrix_CEAGENTS",
+      "file": "todo_0015__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0015__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0015__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#12 in Matrix_CEAGENTS",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in Matrix_CEAGENTS",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#14 in Matrix_CEAGENTS",
+      "file": "todo_0014_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0014_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0014_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in Matrix_CEAGENTS",
+      "file": "todo_0005__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0005__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0005__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#16 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#13 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#15 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#12 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#14 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:27"
+    },
     {
       "tag": "TODO",
       "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
@@ -687,6 +3110,66 @@
   ],
   "Matrix_CEAPPS": [
     {
+      "tag": "TODO",
+      "text": "#1 in Matrix_CEAPPS",
+      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEAPPS",
+      "file": "todo_0002__Verification_cycle_3-reply_test..md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002__Verification_cycle_3-reply_test..md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__Verification_cycle_3-reply_test..md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__Verification_cycle_3-reply_test..md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "0001__Training_routine_implementation_for_skill_harv.md",
+      "file": "README.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "0002__Verification_cycle_3-reply_test..md",
+      "file": "README.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "75ad01061ac7_file_does_not_parse_invalid_ch.md",
+      "file": "README.md:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "75ad01061ac7 \u2014 SYNTAX",
+      "file": "todo/todo_75ad01061ac7_file_does_not_parse_invalid_ch.md:1"
+    },
+    {
       "tag": "BUG",
       "text": "keystore...\"",
       "file": "QwenConfigApp/build.sh:47"
@@ -700,11 +3183,171 @@
   "Matrix_CEBack": [
     {
       "tag": "TODO",
+      "text": "#1 in Matrix_CEBack",
+      "file": "todo_0001__FIX_LEARN.md:1"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix",
+      "file": "todo_0001__FIX_LEARN.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001__FIX_LEARN.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__FIX_LEARN.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__FIX_LEARN.md:27"
+    },
+    {
+      "tag": "TODO",
       "text": "\\s*(.*)', msg_body, re.IGNORECASE)",
       "file": "gmail_harvester.py:77"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in Matrix_CEBack",
+      "file": "todo_0003_s_task_list.appendtype_TODO_content_t..md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003_s_task_list.appendtype_TODO_content_t..md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_s_task_list.appendtype_TODO_content_t..md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_s_task_list.appendtype_TODO_content_t..md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "eaa0655e153a_function_generate_oauth2_strin.md",
+      "file": "README.md:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEBack",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "\\s*(.*)', msg_body, re.IGNORECASE)",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "\\s*(.*)', msg_body, re.IGNORECASE)",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_s__re.findallrTODO_s._msg_body_re.IGNOR.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "eaa0655e153a \u2014 STUB",
+      "file": "todo/todo_eaa0655e153a_function_generate_oauth2_strin.md:1"
     }
   ],
   "Matrix_CEKAI9000": [
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEKAI9000",
+      "file": "todo_0002__DIR.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR):",
+      "file": "todo_0002__DIR.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002__DIR.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__DIR.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002__DIR.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in Matrix_CEKAI9000",
+      "file": "todo_0001__DIR___data_data_com.termux_files_home_.qwen_tod.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR = \"/data/data/com.termux/files/home/.qwen/todos\"",
+      "file": "todo_0001__DIR___data_data_com.termux_files_home_.qwen_tod.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001__DIR___data_data_com.termux_files_home_.qwen_tod.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__DIR___data_data_com.termux_files_home_.qwen_tod.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001__DIR___data_data_com.termux_files_home_.qwen_tod.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in Matrix_CEKAI9000",
+      "file": "todo_0003__DIR_if_f.endswith.json.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR) if f.endswith('.json')]",
+      "file": "todo_0003__DIR_if_f.endswith.json.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003__DIR_if_f.endswith.json.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DIR_if_f.endswith.json.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DIR_if_f.endswith.json.md:27"
+    },
     {
       "tag": "TODO",
       "text": "DIR = \"/data/data/com.termux/files/home/.qwen/todos\"",
@@ -769,9 +3412,84 @@
       "tag": "TODO",
       "text": "file, data)",
       "file": "autonomous_loop.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in Matrix_CEKAI9000",
+      "file": "todo_0004__DIR_files0.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DIR, files[0])",
+      "file": "todo_0004__DIR_files0.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004__DIR_files0.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DIR_files0.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DIR_files0.md:27"
     }
   ],
   "MATRIX_GEN8_HOME": [
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "|   | Orchestrator  |",
+      "file": "Blueprint.md:75"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix/feature is a hypothesis based on observed data flow anom",
+      "file": "SINGULARITY_ROADMAP.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "PROJECT_LOG.md:119"
+    },
+    {
+      "tag": "BUG",
+      "text": "mode, exposing the UI to `http://127.0.0.1:8081`. You can op",
+      "file": "README.md:159"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py` to parse these logs.",
+      "file": "SCIENTIFIC_LOG.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "UPDATE_LOG.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".director_payload.md:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "CHANGELOG.md:69"
+    },
+    {
+      "tag": "BUG",
+      "text": "and anchored the taskbar.",
+      "file": "CHANGELOG.md:88"
+    },
     {
       "tag": "TODO",
       "text": "Database",
@@ -1008,6 +3726,66 @@
       "file": "_Archived_Root/scripts/triton_broker.py:43"
     },
     {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "H2OIDE/README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "H2OIDE/README_ENTERPRISE.md:705"
+    },
+    {
       "tag": "TODO",
       "text": "(Google Keep Hypersync)**",
       "file": "H2OIDE/initialize_enterprise_project.py:57"
@@ -1028,9 +3806,639 @@
       "file": "H2OIDE/autonomous_engine.py:21"
     },
     {
-      "tag": "BUG",
-      "text": "in login functionality\\n- Implement new authentication syste",
-      "file": "scripts/update_todo.py:20"
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:90"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:96"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:130"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:132"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:133"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:136"
+    },
+    {
+      "tag": "TODO",
+      "text": "list has been updated with a comprehensive outline of tasks ",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "list by implementing automated testing, optimizing database ",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:149"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:166"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:168"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:202"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:203"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:204"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:205"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:207"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:208"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:326"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:352"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:356"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:358"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:392"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:393"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:394"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:395"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:445"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:449"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:451"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:487"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:488"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:489"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:490"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:633"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:772"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:798"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:804"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:840"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:841"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:842"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:843"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:887"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:891"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:893"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:929"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:930"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:931"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:932"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1037"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1117"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1143"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1147"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1149"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1185"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1186"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1187"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1188"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1245"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1249"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1251"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1287"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1288"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1289"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1290"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1401"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1481"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1507"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1511"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1513"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1549"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1550"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1551"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1552"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1608"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1612"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1614"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1650"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1651"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1652"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1653"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1781"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1955"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1956"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1957"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:1958"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:2097"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:2149"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:2395"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:2460"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:2803"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3050"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3090"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3094"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3096"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3132"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3133"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3135"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3177"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3181"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3183"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3219"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3220"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3221"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3222"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3305"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3357"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3383"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3387"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3389"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3425"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3426"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3427"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3428"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3485"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3489"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3491"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3527"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3528"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3529"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3530"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3621"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "docs/enterprise/HOURLY_UPGRADES.md:3647"
     }
   ],
   "mind-palace": [
@@ -1070,7 +4478,29 @@
       "file": "src/physics/collision.js:20"
     }
   ],
+  "MultiPage_E2E_20010": [
+    {
+      "tag": "BUG",
+      "text": "fixes, enhancements, and new features.",
+      "file": "CHANGELOG.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixes",
+      "file": "CHANGELOG.md:5"
+    }
+  ],
   "Nova": [
+    {
+      "tag": "BUG",
+      "text": "Fixed:** The `get_program_out` function in `DarwinianEngine_",
+      "file": "NOTES.md:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "using Boolean Logic.",
+      "file": "NOTES.md:38"
+    },
     {
       "tag": "BUG",
       "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
@@ -1080,41 +4510,1183 @@
       "tag": "BUG",
       "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
       "file": "prompt_evolver.py:92"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:85"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:100"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:108"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:113"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/ROADMAP.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:6"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:19"
     }
   ],
   "openrouter_manager": [
     {
       "tag": "TODO",
-      "text": "(Google Keep Hypersync)**",
-      "file": "initialize_enterprise_project.py:57"
-    },
-    {
-      "tag": "BUG",
-      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "file": "initialize_enterprise_project.py:83"
+      "text": "#521 in openrouter_manager",
+      "file": "todo_0521_.md_with_improved_documentation_and_formatting.md:1"
     },
     {
       "tag": "TODO",
-      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
-      "file": "pedagogy_loop.py:140"
+      "text": "Text",
+      "file": "todo_0521_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0521_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0521_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#324 in openrouter_manager",
+      "file": "todo_0324_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0324_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0324_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0324_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#55 in openrouter_manager",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0055_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in openrouter_manager",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#177 in openrouter_manager",
+      "file": "todo_0177_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0177_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0177_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0177_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in openrouter_manager",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#393 in openrouter_manager",
+      "file": "todo_0393_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0393_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0393_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0393_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0393_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#389 in openrouter_manager",
+      "file": "todo_0389_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0389_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0389_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0389_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#304 in openrouter_manager",
+      "file": "todo_0304_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list and prioritizing tasks, we can ensure the successful co",
+      "file": "todo_0304_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0304_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0304_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0304_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#27 in openrouter_manager",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#122 in openrouter_manager",
+      "file": "todo_0122_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0122_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0122_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0122_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#215 in openrouter_manager",
+      "file": "todo_0215_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0215_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0215_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0215_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#43 in openrouter_manager",
+      "file": "todo_0043_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0043_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0043_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0043_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#307 in openrouter_manager",
+      "file": "todo_0307_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0307_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0307_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0307_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#257 in openrouter_manager",
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:1"
     },
     {
       "tag": "TODO",
       "text": "list",
-      "file": "project/GENESIS_TRAINING.py:22"
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:12"
     },
     {
       "tag": "TODO",
-      "text": "List')",
-      "file": "project/GENESIS_TRAINING.py:24"
+      "text": "Text",
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:15"
     },
     {
       "tag": "TODO",
-      "text": "List for SOPs')",
-      "file": "project/GENESIS_TRAINING.py:28"
+      "text": "list",
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0257_.md_with_comprehensive_TODO_list.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#514 in openrouter_manager",
+      "file": "todo_0514_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0514_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0514_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0514_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#243 in openrouter_manager",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0243_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#171 in openrouter_manager",
+      "file": "todo_0171_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0171_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0171_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0171_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#468 in openrouter_manager",
+      "file": "todo_0468_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0468_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0468_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0468_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0468_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#437 in openrouter_manager",
+      "file": "todo_0437_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0437_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0437_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0437_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#507 in openrouter_manager",
+      "file": "todo_0507_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0507_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0507_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0507_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0507_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#59 in openrouter_manager",
+      "file": "todo_0059_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0059_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0059_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0059_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0059_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#346 in openrouter_manager",
+      "file": "todo_0346_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0346_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0346_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0346_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0346_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#274 in openrouter_manager",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure seamless tracking and implementation of tasks",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized to facilitate efficient c",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0274_list_to_ensure_seamless_tracking_and_implementatio.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#88 in openrouter_manager",
+      "file": "todo_0088_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0088_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0088_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0088_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#23 in openrouter_manager",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#28 in openrouter_manager",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list has been updated with a comprehensive outline of tasks ",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#407 in openrouter_manager",
+      "file": "todo_0407_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0407_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0407_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0407_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#339 in openrouter_manager",
+      "file": "todo_0339_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0339_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0339_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0339_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0339_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#143 in openrouter_manager",
+      "file": "todo_0143_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0143_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0143_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0143_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#365 in openrouter_manager",
+      "file": "todo_0365_.md_w_as_f.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0365_.md_w_as_f.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0365_.md_w_as_f.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0365_.md_w_as_f.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#465 in openrouter_manager",
+      "file": "todo_0465_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0465_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0465_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0465_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0465_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#37 in openrouter_manager",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#368 in openrouter_manager",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0368_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#303 in openrouter_manager",
+      "file": "todo_0303_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0303_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0303_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0303_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0303_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#453 in openrouter_manager",
+      "file": "todo_0453_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0453_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0453_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0453_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0453_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#317 in openrouter_manager",
+      "file": "todo_0317_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0317_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0317_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0317_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#406 in openrouter_manager",
+      "file": "todo_0406_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0406_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0406_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0406_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#124 in openrouter_manager",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0124_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#44 in openrouter_manager",
+      "file": "todo_0044_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0044_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0044_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0044_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#354 in openrouter_manager",
+      "file": "todo_0354_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0354_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0354_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0354_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#516 in openrouter_manager",
+      "file": "todo_0516_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0516_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0516_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0516_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0516_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#130 in openrouter_manager",
+      "file": "todo_0130_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0130_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0130_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    }
+  ],
+  "Ryush": [
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:329"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:432"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:567"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:705"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:840"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:975"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1121"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1268"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1415"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1562"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1718"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:1874"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:2030"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:2247"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:2449"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:2651"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:2871"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:3091"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "README.md:3311"
+    },
+    {
+      "tag": "BUG",
+      "text": "collection.",
+      "file": "blueprint.md:161"
     }
   ],
   "sims-java-neo-fx": [
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
     {
       "tag": "TODO",
       "text": "hits = scan_todos(source)",
@@ -1144,6 +5716,11 @@
       "tag": "TODO",
       "text": "count\": len(todo_hits)})",
       "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
@@ -1207,6 +5784,11 @@
     },
     {
       "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
       "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
       "file": "extract_global_todos.py:14"
     },
@@ -1267,6 +5849,16 @@
     },
     {
       "tag": "BUG",
+      "text": "fixes.",
+      "file": "CONTRIBUTING.md:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
       "text": "fix\",",
       "file": "risc_bridge_server.py:84"
     },
@@ -1274,6 +5866,31 @@
       "tag": "BUG",
       "text": "fix\"}:",
       "file": "risc_bridge_server.py:969"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "DarwinGeneticLLMPIPE_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE`, and SHA ledger where relevant.",
+      "file": "AGENT_APP_DEV_PROTOCOL.md:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "BVD_ASSIST_SYNC_20260514.md:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
     },
     {
       "tag": "TODO",
@@ -1322,8 +5939,28 @@
     },
     {
       "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "COUNTER_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extraction:** Deep scan of all source files for `// TODO` an",
+      "file": "END_TO_END_PLAN.md:32"
+    },
+    {
+      "tag": "TODO",
       "text": "Implement dynamic routing based on ledger health",
       "file": "swarm_router.py:76"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "BLUEPRINT.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
     },
     {
       "tag": "TODO",
@@ -1356,7 +5993,69 @@
       "file": "scripts/agents/crew_loop.py:44"
     }
   ],
+  "sims-javafx-neo": [
+    {
+      "tag": "BUG",
+      "text": "in simulation logic",
+      "file": ".director_payload.md:138"
+    },
+    {
+      "tag": "BUG",
+      "text": "in simulation logic",
+      "file": "CHANGELOG.md:13"
+    }
+  ],
   "SIMS1337": [
+    {
+      "tag": "TODO",
+      "text": "at (0,0) \"Wire FOW to all 8 models\" \u2192 marked \u2705 done",
+      "file": "CHANGELOG.md:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "docs/RUNBOOK.md:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "Auto-Resolve",
+      "file": "docs/RUNBOOK.md:55"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution + Dashboards | \u23f3 Ongoing | Parallel |",
+      "file": "docs/MASTER_STATUS_UPDATED.md:40"
+    },
+    {
+      "tag": "TODO",
+      "text": "resolution, revenue) continue autonomously.",
+      "file": "docs/MASTER_STATUS_UPDATED.md:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACT)",
+      "file": "docs/LEARNINGS.md:155"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACTIVE with today's date",
+      "file": "docs/LEARNINGS.md:158"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACT)",
+      "file": "docs/LEARNINGS.md:247"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACTIVE with today's date",
+      "file": "docs/LEARNINGS.md:250"
+    },
+    {
+      "tag": "BUG",
+      "text": "Trail",
+      "file": "docs/BLUEPRINT.md:56"
+    },
     {
       "tag": "BUG",
       "text": "report.\"),",
@@ -1369,6 +6068,41 @@
     }
   ],
   "SimsMerged": [
+    {
+      "tag": "BUG",
+      "text": "Hunter.",
+      "file": "MASTER_BOOK.md:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "statements are placed surgically around new state changes.",
+      "file": "SSD_SANDBOX/MASTER_SWARM_ARCHITECTURE_180_STEPS.md:141"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" in line or \"TODO \" in line:",
+      "file": "SSD_SANDBOX/FORGOTTEN_TODOS.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement hot-patch algorithm",
+      "file": "SSD_SANDBOX/FORGOTTEN_TODOS.md:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "list across sessions.",
+      "file": "SSD_SANDBOX/FORGOTTEN_TODOS.md:6"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST (EXTENSIVE)",
+      "file": "SSD_SANDBOX/MASTER_TODO.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "Client-Side Key Identifiers**: Verify that your frontend map",
+      "file": "SSD_SANDBOX/ADVANCED_SLM_PLAYBOOKS.md:210"
+    },
     {
       "tag": "TODO",
       "text": "\" in line or \"TODO \" in line:",
@@ -1588,6 +6322,11 @@
       "tag": "BUG",
       "text": "attempt.\", \"warn\")",
       "file": "backend/core/evolution_council.py:273"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix (non-breaking change which fixes an issue)",
+      "file": ".github/PULL_REQUEST_TEMPLATE.md:7"
     }
   ]
 }
