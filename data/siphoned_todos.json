@@ -1,9 +1,295 @@
 {
+  "02_agent_work": [
+    {
+      "tag": "TODO",
+      "text": "', 'FIXME:', 'STRATEGY:']",
+      "file": "system_deep_scan.py:18"
+    }
+  ],
   "aegis-agent-bridge": [
     {
       "tag": "TODO",
       "text": "|",
       "file": "docs/EMAIL_PROTOCOL.md:22"
+    }
+  ],
+  "aegis-fleet-docs": [
+    {
+      "tag": "BUG",
+      "text": "fixed 2026-08-09.)",
+      "file": "WORKFLOW.md:30"
+    }
+  ],
+  "Aegis-GAN-OTG": [
+    {
+      "tag": "TODO",
+      "text": "extractor import run_todo_extractor",
+      "file": "aegis_hive_daemon.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extractor\", run_todo_extractor)",
+      "file": "aegis_hive_daemon.py:167"
+    },
+    {
+      "tag": "TODO",
+      "text": "or // TODO tags and logs them for the Swarm to fix autonomou",
+      "file": "aegis_todo_extractor.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "EXTRACTOR] Sweeping codebase for unresolved TODO tasks...\")",
+      "file": "aegis_todo_extractor.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" in line:",
+      "file": "aegis_todo_extractor.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\\n\")",
+      "file": "aegis_todo_extractor.py:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extractor Daemon\\n\\n\")",
+      "file": "aegis_todo_extractor.py:31"
+    },
+    {
+      "tag": "TODO",
+      "text": "EXTRACTOR] Extracted {len(todos)} TODOs into AEGIS_GLOBAL_TO",
+      "file": "aegis_todo_extractor.py:34"
+    },
+    {
+      "tag": "TODO",
+      "text": "EXTRACTOR] Codebase is clean. No TODOs found.\")",
+      "file": "aegis_todo_extractor.py:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "extractor():",
+      "file": "aegis_todo_extractor.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "CRITICAL] {e}\")",
+      "file": "aegis_todo_extractor.py:44"
+    },
+    {
+      "tag": "TODO",
+      "text": "extractor()",
+      "file": "aegis_todo_extractor.py:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "aegis_global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "aegis_global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "aegis_global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "aegis_global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "aegis_global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "aegis_global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "aegis_global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "aegis_global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "aegis_global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "aegis_global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "aegis_global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "Tell user which population is being used",
+      "file": "karoo-gp.py:490"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:827"
+    },
+    {
+      "tag": "TODO",
+      "text": "This should be renamed 'tree_min_nodes' because it restricts",
+      "file": "karoo_gp/base_class.py:137"
+    },
+    {
+      "tag": "TODO",
+      "text": "Generalize: save_population(fname, next_gen=False, append=Fa",
+      "file": "karoo_gp/base_class.py:220"
+    },
+    {
+      "tag": "TODO",
+      "text": "This usually thows an error in interactive mode. We currentl",
+      "file": "karoo_gp/base_class.py:255"
+    },
+    {
+      "tag": "TODO",
+      "text": "Make more generic. Take the name as a parameter, pass",
+      "file": "karoo_gp/base_class.py:262"
+    },
+    {
+      "tag": "TODO",
+      "text": "Would make sense for trees to be directly comparable (a > b)",
+      "file": "karoo_gp/base_class.py:288"
+    },
+    {
+      "tag": "TODO",
+      "text": "This should probably return all the trees with the highest s",
+      "file": "karoo_gp/base_class.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "rename `random_state_` (skl)",
+      "file": "karoo_gp/base_class.py:330"
+    },
+    {
+      "tag": "TODO",
+      "text": "It's probably wasteful to store X_train, etc. directly, and ",
+      "file": "karoo_gp/base_class.py:419"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with a save() method, possibly call automatically wh",
+      "file": "karoo_gp/base_class.py:544"
+    },
+    {
+      "tag": "TODO",
+      "text": "remove?\"\"\"",
+      "file": "karoo_gp/base_class.py:738"
+    },
+    {
+      "tag": "TODO",
+      "text": "cli test expected output (from '..write_json()')",
+      "file": "karoo_gp/base_class.py:806"
+    },
+    {
+      "tag": "TODO",
+      "text": "should be (-1, -0.33, 0.33, 1)",
+      "file": "karoo_gp/base_class.py:844"
+    },
+    {
+      "tag": "BUG",
+      "text": "display mode')",
+      "file": "karoo_gp/pause.py:40"
+    },
+    {
+      "tag": "BUG",
+      "text": "display mode engaged (for evolutionary biologists)')",
+      "file": "karoo_gp/pause.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "This doesn't need to use ast. Instead:",
+      "file": "karoo_gp/node.py:57"
+    },
+    {
+      "tag": "TODO",
+      "text": "What sympy does, but for those unsupported functions.",
+      "file": "karoo_gp/node.py:191"
+    },
+    {
+      "tag": "TODO",
+      "text": "min: list, but one line per tree and reduced info",
+      "file": "karoo_gp/node.py:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "Single-line only",
+      "file": "karoo_gp/node.py:227"
+    },
+    {
+      "tag": "TODO",
+      "text": "start from 0",
+      "file": "karoo_gp/tree.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a Node.inherited_type() which gets parent.child_type",
+      "file": "karoo_gp/tree.py:133"
+    },
+    {
+      "tag": "TODO",
+      "text": "COnvert this to Node.inherited_types to replace swappable",
+      "file": "karoo_gp/tree.py:168"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sometimes cause nans",
+      "file": "karoo_gp/node_lib.py:82"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement lru_cache, check out statistics on hit/miss",
+      "file": "karoo_gp/population.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "Using int(v * pop_max) is not optimal, but would cause the",
+      "file": "karoo_gp/population.py:138"
+    },
+    {
+      "tag": "TODO",
+      "text": "This could move to Tree.crossover(), but it changes",
+      "file": "karoo_gp/population.py:176"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add to test_node library\"\"\"",
+      "file": "karoo_gp/test/test_node.py:83"
+    },
+    {
+      "tag": "BUG",
+      "text": "or set expected output for tests",
+      "file": "karoo_gp/test/util.py:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "Evaluate again to check that everything works and that the",
+      "file": "karoo_gp/test/test_population.py:132"
+    },
+    {
+      "tag": "TODO",
+      "text": "failing on parse_node:",
+      "file": "karoo_gp/test/test_sklearn.py:12"
     }
   ],
   "Aegis_Agents": [
@@ -108,6 +394,286 @@
       "file": "gemini_extension/content.js:1"
     }
   ],
+  "Aegis_LeadManager": [
+    {
+      "tag": "TODO",
+      "text": "counting, no asking a model for an opinion.",
+      "file": "README.md:52"
+    }
+  ],
+  "Aegis_Unified": [
+    {
+      "tag": "TODO",
+      "text": "objects with provenance + completion.",
+      "file": "contracts.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "it knows where it came from (repo, source",
+      "file": "contracts.py:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "objects with provenance + completion (propose AND close)",
+      "file": "README.md:74"
+    },
+    {
+      "tag": "TODO",
+      "text": "is checked off with a \u2705, never erased.",
+      "file": "README.md:80"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"^\\s*[-*]\\s*\\[\\s*\\]\")",
+      "file": "repo_driver.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(TODO|FIXME|XXX|HACK)\")",
+      "file": "repo_driver.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.search(line):",
+      "file": "repo_driver.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.search(line):",
+      "file": "repo_driver.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todos),",
+      "file": "repo_driver.py:70"
+    },
+    {
+      "tag": "TODO",
+      "text": "needs intent",
+      "file": "self_extend.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "fix this\\ndef x():\\n    pass\\n\")",
+      "file": "tests/test_repo_driver.py:11"
+    }
+  ],
+  "ArchivalMoe": [
+    {
+      "tag": "BUG",
+      "text": "hunter. Here is a real function from {project}, file `{file}",
+      "file": "moa_orchestrator.py:36"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports from text.",
+      "file": "README.md:207"
+    },
+    {
+      "tag": "BUG",
+      "text": "report\"),",
+      "file": "context_injector.py:201"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports from text.",
+      "file": "context_injector.py:207"
+    },
+    {
+      "tag": "BUG",
+      "text": "report\", \"action\") else \"normal\"",
+      "file": "context_injector.py:216"
+    },
+    {
+      "tag": "BUG",
+      "text": "report \u2192 proposed_updates with diff_type='bugfix'",
+      "file": "context_injector.py:225"
+    },
+    {
+      "tag": "BUG",
+      "text": "report\" else \"improve\"",
+      "file": "context_injector.py:241"
+    },
+    {
+      "tag": "TODO",
+      "text": "add retry logic. Can we also add caching? \"",
+      "file": "context_injector.py:346"
+    },
+    {
+      "tag": "BUG",
+      "text": "or missing error handler in {project}. Show the corrected co",
+      "file": "agents/update_agent.py:37"
+    }
+  ],
+  "BDI_FSM_AGENT": [
+    {
+      "tag": "BUG",
+      "text": "`json` was never imported at module level, so",
+      "file": "tests/test_corpus_gather.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix: \"ordered list\" must not also produce a bullet \"list\"",
+      "file": "tests/test_code_ask.py:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "\"android.contentEvil\" must NOT be allowed",
+      "file": "tests/test_domain_node.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "docs/BANBURISMUS.md:110"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixed from the original sketch)",
+      "file": "docs/programmatic_meaning.md:41"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix pass (202/202) |",
+      "file": "docs/ROADMAP.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "docs/ARCHITECTURE.md:223"
+    }
+  ],
+  "brute-foundry": [
+    {
+      "tag": "TODO",
+      "text": "#3 in brute_foundry",
+      "file": "todo_0003_._n.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003_._n.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_._n.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_._n.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in brute_foundry",
+      "file": "todo_0002_.____n____pass_n.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002_.____n____pass_n.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_.____n____pass_n.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_.____n____pass_n.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in brute_foundry",
+      "file": "todo_0004__.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004__.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "0001_s__market-forecast_economics_hook_.md",
+      "file": "README.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "0002_.____n____pass_n.md",
+      "file": "README.md:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "0003_._n.md",
+      "file": "README.md:31"
+    },
+    {
+      "tag": "TODO",
+      "text": "0004__.md",
+      "file": "README.md:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in brute_foundry",
+      "file": "todo_0001_s__market-forecast_economics_hook_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001_s__market-forecast_economics_hook_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_s__market-forecast_economics_hook_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_s__market-forecast_economics_hook_.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "(`false` is a",
+      "file": "DEVLOG.md:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "s  market-forecast economics hook ($hash)",
+      "file": "CHANGELOG.md:40"
+    },
+    {
+      "tag": "TODO",
+      "text": "9f831a6c546b \u2014 CONTRACT",
+      "file": "todo/todo_9f831a6c546b_module_has_summary_line_but_no.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "ab4a1050eda3 \u2014 STUB",
+      "file": "todo/todo_ab4a1050eda3_function_main_is_an_empty_stub.md:1"
+    },
+    {
+      "tag": "BUG",
+      "text": "remove statements, re-verify, keep the smallest that still p",
+      "file": "foundry/masterpiece.py:7"
+    },
+    {
+      "tag": "BUG",
+      "text": "at the AST statement level (ast.unparse handles ANY code, in",
+      "file": "foundry/masterpiece.py:73"
+    }
+  ],
   "Chrisalunlloyd2-sudo": [
     {
       "tag": "TODO",
@@ -157,17 +723,100 @@
     {
       "tag": "TODO",
       "text": "pattern = re.compile(r'(TODO|FIXME|HACK|BUG)[\\s:\\-_]+(.*)', ",
-      "file": "scripts/generate_hex_grid.py:91"
+      "file": "scripts/generate_hex_grid.py:103"
     },
     {
       "tag": "TODO",
       "text": "pattern.search(line)",
-      "file": "scripts/generate_hex_grid.py:107"
+      "file": "scripts/generate_hex_grid.py:123"
     },
     {
       "tag": "TODO",
       "text": "mirror\",\"file\":\"TASKS.md:1\"}]",
-      "file": "scripts/generate_hex_grid.py:138"
+      "file": "scripts/generate_hex_grid.py:157"
+    }
+  ],
+  "curator_system": [
+    {
+      "tag": "FIXME",
+      "text": "(Step 181)",
+      "file": "audit.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "?\\s*(.*)|//\\s*TODO:?\\s*(.*)', content, re.IGNORECASE)",
+      "file": "audit.py:34"
+    },
+    {
+      "tag": "FIXME",
+      "text": "?\\s*(.*)|//\\s*FIXME:?\\s*(.*)', content, re.IGNORECASE)",
+      "file": "audit.py:35"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard = \"## \ud83d\udea9 GLOBAL TO-DO DASHBOARD\\n\\n\"",
+      "file": "global_audit.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard += f\"### {project_name} ({parts[0]})\\n\"",
+      "file": "global_audit.py:35"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard += \"- \u26a0\ufe0f **HALF-FINISHED**: Missing entry point.\\n",
+      "file": "global_audit.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard += f\"- [ ] TODO: {t['task']} (in {t['file']})\\n\"",
+      "file": "global_audit.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard += f\"- [ ] FIXME: {f_task['task']} (in {f_task['fi",
+      "file": "global_audit.py:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard += \"\\n\"",
+      "file": "global_audit.py:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "dashboard)",
+      "file": "global_audit.py:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "99fa8b881eac__step_181_.md`",
+      "file": "README.md:18"
+    }
+  ],
+  "darwingeneticllmpipe": [
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "README.md:23"
+    }
+  ],
+  "db": [
+    {
+      "tag": "TODO",
+      "text": "70dfbe619ef1_function_main_is_an_empty_stub.md`",
+      "file": "README.md:26"
+    },
+    {
+      "tag": "BUG",
+      "text": "for easy Android automation. Environment is Java.",
+      "file": "SCIENTIFIC_LOG.md:3"
+    }
+  ],
+  "gitautoship": [
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "README.md:23"
     }
   ],
   "H2OIDE": [
@@ -1096,6 +1745,18 @@
       "file": "SINGULARITY_ROADMAP.md:15"
     }
   ],
+  "home": [
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:970"
+    }
+  ],
   "house-inference": [
     {
       "tag": "BUG",
@@ -1118,11 +1779,884 @@
       "file": "qwen/qwen.py:40"
     }
   ],
+  "karoo_gp": [
+    {
+      "tag": "TODO",
+      "text": "This should be renamed 'tree_min_nodes' because it restricts",
+      "file": "base_class.py:137"
+    },
+    {
+      "tag": "TODO",
+      "text": "Generalize: save_population(fname, next_gen=False, append=Fa",
+      "file": "base_class.py:220"
+    },
+    {
+      "tag": "TODO",
+      "text": "This usually thows an error in interactive mode. We currentl",
+      "file": "base_class.py:255"
+    },
+    {
+      "tag": "TODO",
+      "text": "Make more generic. Take the name as a parameter, pass",
+      "file": "base_class.py:262"
+    },
+    {
+      "tag": "TODO",
+      "text": "Would make sense for trees to be directly comparable (a > b)",
+      "file": "base_class.py:288"
+    },
+    {
+      "tag": "TODO",
+      "text": "This should probably return all the trees with the highest s",
+      "file": "base_class.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "rename `random_state_` (skl)",
+      "file": "base_class.py:330"
+    },
+    {
+      "tag": "TODO",
+      "text": "It's probably wasteful to store X_train, etc. directly, and ",
+      "file": "base_class.py:419"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with a save() method, possibly call automatically wh",
+      "file": "base_class.py:544"
+    },
+    {
+      "tag": "TODO",
+      "text": "remove?\"\"\"",
+      "file": "base_class.py:738"
+    },
+    {
+      "tag": "TODO",
+      "text": "cli test expected output (from '..write_json()')",
+      "file": "base_class.py:806"
+    },
+    {
+      "tag": "TODO",
+      "text": "should be (-1, -0.33, 0.33, 1)",
+      "file": "base_class.py:844"
+    },
+    {
+      "tag": "BUG",
+      "text": "display mode')",
+      "file": "pause.py:40"
+    },
+    {
+      "tag": "BUG",
+      "text": "display mode engaged (for evolutionary biologists)')",
+      "file": "pause.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "This doesn't need to use ast. Instead:",
+      "file": "node.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "What sympy does, but for those unsupported functions.",
+      "file": "node.py:199"
+    },
+    {
+      "tag": "TODO",
+      "text": "min: list, but one line per tree and reduced info",
+      "file": "node.py:223"
+    },
+    {
+      "tag": "TODO",
+      "text": "Single-line only",
+      "file": "node.py:235"
+    },
+    {
+      "tag": "TODO",
+      "text": "start from 0",
+      "file": "tree.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a Node.inherited_type() which gets parent.child_type",
+      "file": "tree.py:138"
+    },
+    {
+      "tag": "TODO",
+      "text": "COnvert this to Node.inherited_types to replace swappable",
+      "file": "tree.py:173"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sometimes cause nans",
+      "file": "node_lib.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement lru_cache, check out statistics on hit/miss",
+      "file": "population.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "Using int(v * pop_max) is not optimal, but would cause the",
+      "file": "population.py:138"
+    },
+    {
+      "tag": "TODO",
+      "text": "This could move to Tree.crossover(), but it changes",
+      "file": "population.py:176"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add to test_node library\"\"\"",
+      "file": "test/test_node.py:80"
+    },
+    {
+      "tag": "BUG",
+      "text": "or set expected output for tests",
+      "file": "test/util.py:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "Evaluate again to check that everything works and that the",
+      "file": "test/test_population.py:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "failing on parse_node:",
+      "file": "test/test_sklearn.py:9"
+    }
+  ],
   "living-ascii-art": [
     {
       "tag": "BUG",
       "text": "in kernel\"",
       "file": "scripts/fetch_data.py:79"
+    }
+  ],
+  "local_desktop": [
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
+      "file": "extract_global_todos.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE.\",",
+      "file": "extract_global_todos.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "extract_global_todos.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority)\")",
+      "file": "extract_global_todos.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "extract_global_todos.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\").fetchall()",
+      "file": "extract_global_todos.py:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_EXTRACT_{now_id()}_{index:03d}\"",
+      "file": "extract_global_todos.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "extract_global_todos.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, 2, assigned),",
+      "file": "extract_global_todos.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
+      "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:970"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "DarwinGeneticLLMPIPE_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE`, and SHA ledger where relevant.",
+      "file": "AGENT_APP_DEV_PROTOCOL.md:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "BVD_ASSIST_SYNC_20260514.md:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: 2",
+      "file": "README.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "README.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:881"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "COUNTER_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extraction:** Deep scan of all source files for `// TODO` an",
+      "file": "END_TO_END_PLAN.md:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "BLUEPRINT.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "capture.",
+      "file": "CHANGELOG.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
+    }
+  ],
+  "local_desktop-main": [
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
+      "file": "extract_global_todos.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE.\",",
+      "file": "extract_global_todos.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "extract_global_todos.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority)\")",
+      "file": "extract_global_todos.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "extract_global_todos.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\").fetchall()",
+      "file": "extract_global_todos.py:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_EXTRACT_{now_id()}_{index:03d}\"",
+      "file": "extract_global_todos.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "extract_global_todos.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, 2, assigned),",
+      "file": "extract_global_todos.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
+      "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:969"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "DarwinGeneticLLMPIPE_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE`, and SHA ledger where relevant.",
+      "file": "AGENT_APP_DEV_PROTOCOL.md:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "BVD_ASSIST_SYNC_20260514.md:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "System | ACTIVE |",
+      "file": "README.md:214"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:827"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "COUNTER_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extraction:** Deep scan of all source files for `// TODO` an",
+      "file": "END_TO_END_PLAN.md:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement dynamic routing based on ledger health",
+      "file": "swarm_router.py:76"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "BLUEPRINT.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "capture.",
+      "file": "CHANGELOG.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
+    }
+  ],
+  "local_documents": [
+    {
+      "tag": "TODO",
+      "text": "if this was already computed in \"minLength\", use that value ",
+      "file": "attribute.js:767"
+    },
+    {
+      "tag": "FIXME",
+      "text": "there's two different \"dependencies\" errors here with slight",
+      "file": "attribute.js:878"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the",
+      "file": "index.umd.js:2659"
+    },
+    {
+      "tag": "TODO",
+      "text": "fix the email production",
+      "file": "helpers.js:154"
+    },
+    {
+      "tag": "FIXME",
+      "text": "whitespace is invalid",
+      "file": "helpers.js:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "A more accurate regular expression for \"uri\" goes:",
+      "file": "helpers.js:166"
+    },
+    {
+      "tag": "TODO",
+      "text": "fix this - see #15",
+      "file": "validator.js:330"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix: used dev dependency types in package                   ",
+      "file": "CHANGELOG.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix and test case when using optional definitions path      ",
+      "file": "CHANGELOG.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "for nullable items.                                         ",
+      "file": "CHANGELOG.md:67"
+    },
+    {
+      "tag": "BUG",
+      "text": "(path contained `array` instead of `items`)                 ",
+      "file": "CHANGELOG.md:72"
+    },
+    {
+      "tag": "BUG",
+      "text": "in union pathing. `$Ref` was missing `/anyOf`               ",
+      "file": "CHANGELOG.md:77"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the",
+      "file": "types.js:2139"
     }
   ],
   "Machine2": [
@@ -2174,6 +3708,1008 @@
       "tag": "TODO",
       "text": "",
       "file": "todo_0022_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    }
+  ],
+  "MatrixWinCE": [
+    {
+      "tag": "TODO",
+      "text": "HARVESTER",
+      "file": "gmail_harvester.py:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "items from email body text.\"\"\"",
+      "file": "gmail_harvester.py:74"
+    },
+    {
+      "tag": "TODO",
+      "text": "/ FIXME: / FEATURE: lines",
+      "file": "gmail_harvester.py:76"
+    },
+    {
+      "tag": "TODO",
+      "text": "= match.group(1).strip()",
+      "file": "gmail_harvester.py:84"
+    },
+    {
+      "tag": "TODO",
+      "text": "and len(todo) > 5:",
+      "file": "gmail_harvester.py:85"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = hashlib.sha256(",
+      "file": "gmail_harvester.py:92"
+    },
+    {
+      "tag": "TODO",
+      "text": "id}\",",
+      "file": "gmail_harvester.py:102"
+    },
+    {
+      "tag": "TODO",
+      "text": "Harvester\")",
+      "file": "gmail_harvester.py:261"
+    },
+    {
+      "tag": "TODO",
+      "text": "line: str, agent: str) -> dict:",
+      "file": "fow_miner.py:93"
+    },
+    {
+      "tag": "TODO",
+      "text": "to GGUF and get an action plan.\"\"\"",
+      "file": "fow_miner.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "{todo_line[:200]}\\n\"",
+      "file": "fow_miner.py:97"
+    },
+    {
+      "tag": "TODO",
+      "text": "line) % 100000}\"",
+      "file": "fow_miner.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "line[:200],",
+      "file": "fow_miner.py:108"
+    },
+    {
+      "tag": "TODO",
+      "text": "in todos[:3]:  # mine max 3 per hex per round",
+      "file": "fow_miner.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "resolution via GGUF.",
+      "file": "fow_patrol.py:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "to GGUF for resolution plan.\"\"\"",
+      "file": "fow_patrol.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "in todos:",
+      "file": "fow_patrol.py:71"
+    },
+    {
+      "tag": "TODO",
+      "text": "text (after file:line prefix)",
+      "file": "fow_patrol.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "else todo[:200]",
+      "file": "fow_patrol.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "found: {text}\\n\"",
+      "file": "fow_patrol.py:77"
+    },
+    {
+      "tag": "TODO",
+      "text": "count = len(task[\"todos\"])",
+      "file": "fow_patrol.py:112"
+    },
+    {
+      "tag": "TODO",
+      "text": "count} TODOs)\")",
+      "file": "fow_patrol.py:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "count} TODOs)\")",
+      "file": "fow_patrol.py:117"
+    },
+    {
+      "tag": "TODO",
+      "text": "found, generate /spec from prompt",
+      "file": "ROADMAP.md:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "list from code comments (// TODO, # FIXME)",
+      "file": "ROADMAP.md:90"
+    },
+    {
+      "tag": "TODO",
+      "text": "Harvester (`gmail_harvester.py`)",
+      "file": "README.md:438"
+    },
+    {
+      "tag": "TODO",
+      "text": "count, visibility, and recency",
+      "file": "fow_kqml_bridge.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "line, ...]}\"\"\"",
+      "file": "fow_gate.py:142"
+    },
+    {
+      "tag": "HACK",
+      "text": "context near coordinates",
+      "file": "fow_gate.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "pat = re.compile(r'(TODO|FIXME|HACK|\u2b21)', re.IGNORECASE)",
+      "file": "fow_gate.py:150"
+    },
+    {
+      "tag": "HACK",
+      "text": "only",
+      "file": "fow_gate.py:169"
+    },
+    {
+      "tag": "TODO",
+      "text": "pat.search(line):",
+      "file": "fow_gate.py:170"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todos),",
+      "file": "fow_gate.py:200"
+    },
+    {
+      "tag": "TODO",
+      "text": "count']} TODOs{blind_flag}\")",
+      "file": "fow_gate.py:241"
+    },
+    {
+      "tag": "TODO",
+      "text": "in h[\"todos\"][:3]:",
+      "file": "fow_gate.py:244"
+    },
+    {
+      "tag": "TODO",
+      "text": "Priorities",
+      "file": "BUILD_LOG.md:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "count per hex (T1, T2 markers), tooltip shows TODO text",
+      "file": "BUILD_LOG.md:16"
+    },
+    {
+      "tag": "FIXME",
+      "text": "markers",
+      "file": "gist_scanner.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"",
+      "file": "gist_scanner.py:78"
+    },
+    {
+      "tag": "TODO",
+      "text": "{t[:80]}\")",
+      "file": "gist_scanner.py:232"
+    },
+    {
+      "tag": "TODO",
+      "text": "emails.\"\"\"",
+      "file": "auto_updater.py:178"
+    },
+    {
+      "tag": "BUG",
+      "text": "in classified.get(\"bug\", [])[:3]:",
+      "file": "auto_updater.py:289"
+    },
+    {
+      "tag": "TODO",
+      "text": "milestone roadmap project sprint task break down\"},",
+      "file": "nyx/router.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix/feature is a hypothesis based on observed data flow anom",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SINGULARITY_ROADMAP.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PROJECT_LOG.md:119"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py` to parse these logs.",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SCIENTIFIC_LOG.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/UPDATE_LOG.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/.director_payload.md:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "Sync windows dynamically fetch this data, providing a real-t",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/CHANGELOG.md:69"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/zero_to_ce/payload/init_databases.py:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:231"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:234"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:257"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:258"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:266"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'TODO: (.*)')",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\\n\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/project_manager.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "List\\n\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/project_manager.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/SYNC_ALL.sh:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "Keystore...\"",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/manifest_apk.sh:106"
+    },
+    {
+      "tag": "TODO",
+      "text": "Scanner",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "pattern.findall(content)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST\" in line:",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = True",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:69"
+    },
+    {
+      "tag": "TODO",
+      "text": "section and line.startswith('##'):",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "section = False",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "section:",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:43"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/README_ENTERPRISE.md:705"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/H2OIDE/autonomous_engine.py:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:90"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:96"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:130"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:132"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:133"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:136"
+    },
+    {
+      "tag": "TODO",
+      "text": "list has been updated with a comprehensive outline of tasks ",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "list by implementing automated testing, optimizing database ",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:149"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:166"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:168"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:202"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:203"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:204"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:205"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:207"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:208"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:326"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:352"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:356"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:358"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:392"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:393"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:394"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:395"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:445"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:449"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:451"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:487"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:488"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:489"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:490"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:633"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:772"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:798"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:804"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:840"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:841"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:842"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:843"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:887"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:891"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:893"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:929"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:930"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:931"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:932"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1037"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1117"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1143"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1147"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1149"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1185"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1186"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1187"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1188"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1245"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1249"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1251"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1287"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1288"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1289"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1290"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1401"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1481"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1507"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1511"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1513"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1549"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1550"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1551"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1552"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1608"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1612"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1614"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1650"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1651"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1652"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1653"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1781"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1955"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1956"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1957"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1958"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2097"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2149"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "modules/workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2395"
     }
   ],
   "Matrix_CEAGENTS": [
@@ -5554,6 +8090,18 @@
       "file": "todo_0130_list_will_be_used_to_track_and_implement_API_updat.md:15"
     }
   ],
+  "Plane2d": [
+    {
+      "tag": "TODO",
+      "text": "0e16031f16b9_function_draw_is_an_empty_stub.md",
+      "file": "README.md:31"
+    },
+    {
+      "tag": "TODO",
+      "text": "0e16031f16b9 \u2014 STUB",
+      "file": "todo/todo_0e16031f16b9_function_draw_is_an_empty_stub.md:1"
+    }
+  ],
   "Ryush": [
     {
       "tag": "BUG",
@@ -5654,6 +8202,18 @@
       "tag": "BUG",
       "text": "collection.",
       "file": "blueprint.md:161"
+    }
+  ],
+  "scripts": [
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "friday_synthesis.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "project_architect.py:92"
     }
   ],
   "sims-java-neo-fx": [
@@ -6327,6 +8887,1602 @@
       "tag": "BUG",
       "text": "fix (non-breaking change which fixes an issue)",
       "file": ".github/PULL_REQUEST_TEMPLATE.md:7"
+    }
+  ],
+  "talon-gate": [
+    {
+      "tag": "BUG",
+      "text": "caught and rejected before being accepted as done.",
+      "file": "README.md:10"
+    }
+  ],
+  "Termux-env": [
+    {
+      "tag": "TODO",
+      "text": "items.",
+      "file": "README.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "docs/repo-audit-template.md:25"
+    }
+  ],
+  "test": [
+    {
+      "tag": "TODO",
+      "text": "Add to test_node library\"\"\"",
+      "file": "test_node.py:80"
+    },
+    {
+      "tag": "BUG",
+      "text": "or set expected output for tests",
+      "file": "util.py:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "Evaluate again to check that everything works and that the",
+      "file": "test_population.py:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "3811990c1186_evaluate_again_to_check_that_e.md`",
+      "file": "README.md:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "failing on parse_node:",
+      "file": "test_sklearn.py:9"
+    }
+  ],
+  "tools": [
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
+      "file": "extract_global_todos.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE.\",",
+      "file": "extract_global_todos.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "extract_global_todos.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority)\")",
+      "file": "extract_global_todos.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "extract_global_todos.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\").fetchall()",
+      "file": "extract_global_todos.py:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_EXTRACT_{now_id()}_{index:03d}\"",
+      "file": "extract_global_todos.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "extract_global_todos.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, 2, assigned),",
+      "file": "extract_global_todos.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
+      "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:881"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
+    }
+  ],
+  "viper-root": [
+    {
+      "tag": "TODO",
+      "text": "queue): **9787** (approved:1811 | declined:7198 | implemente",
+      "file": "STATE_SNAPSHOT.md:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "HARVEST (from session 2026-06-14)",
+      "file": "VIPER_MASTER_PLAN.md:231"
+    },
+    {
+      "tag": "BUG",
+      "text": "it scans raw lines, so string literals trigger findings.",
+      "file": "CODE_QUALITY_REVIEW.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "SOVEREIGN_SOP.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "findings into the queue |",
+      "file": "SOVEREIGN_SOP.md:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "lists.",
+      "file": "SOPS.md:246"
+    },
+    {
+      "tag": "BUG",
+      "text": "is our design review.",
+      "file": "docs/AEGIS_QUEUE.md:26"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "docs/ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler` | LIB+CLI | 435 | 2 |  |  | ast_todo_crawler.py \u2014 t",
+      "file": "docs/MECHANISM_CENSUS.md:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "|  | email_todo.py \u2014 TODOS FROM EMAIL: BM25-ranked, injectio",
+      "file": "docs/MECHANISM_CENSUS.md:161"
+    },
+    {
+      "tag": "BUG",
+      "text": "clas |",
+      "file": "docs/MECHANISM_CENSUS.md:173"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent + contrib |",
+      "file": "docs/MECHANISM_CENSUS.md:329"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent` | LIVE | 477 | 1 |  | 12260 | todo_agent.py \u2014 the LOC",
+      "file": "docs/MECHANISM_CENSUS.md:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "extractor` | ORPHAN | 12 | 0 |  |  |  |",
+      "file": "docs/MECHANISM_CENSUS.md:385"
+    },
+    {
+      "tag": "TODO",
+      "text": "| email_todo.tick() | 3600s | 2 | True | 2 | 0 | 1.62 |",
+      "file": "docs/INVENTORY.md:54"
+    }
+  ],
+  "viper-scripts": [
+    {
+      "tag": "TODO",
+      "text": "#8 in viper-scripts",
+      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "repoint Hermes base_url at the gateway (8800).",
+      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "the test caught)",
+      "file": "code_assist.py:109"
+    },
+    {
+      "tag": "BUG",
+      "text": "this routing decision:\\nQuery: {query}\\nChosen agent: {agent",
+      "file": "db-init-prompts.py:96"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "db-init-prompts.py:351"
+    },
+    {
+      "tag": "BUG",
+      "text": "the parser\")     -> {\"station\": \"CODE\", \"source\": \"wave\", ..",
+      "file": "wave_router.py:11"
+    },
+    {
+      "tag": "BUG",
+      "text": "the parser quickly\", \"purge the database\", \"describe the arc",
+      "file": "wave_router.py:92"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n    pass\",",
+      "file": "cortex.py:273"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "cortex.py:274"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "cortex.py:275"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "cortex.py:276"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in viper-scripts",
+      "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "repoint OPENAI_BASE_URL at the gateway (8800) for queue+time",
+      "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in viper-scripts",
+      "file": "todo_0003_implement_n.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "todo_0003_implement_n.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003_implement_n.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_implement_n.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_implement_n.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in viper-scripts",
+      "file": "todo_0002_implement_n.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "todo_0002_implement_n.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002_implement_n.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_implement_n.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_implement_n.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in viper-scripts",
+      "file": "todo_0005__name_scaffold_fitness_0.0_id_None.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0005__name_scaffold_fitness_0.0_id_None.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__name_scaffold_fitness_0.0_id_None.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__name_scaffold_fitness_0.0_id_None.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in viper-scripts",
+      "file": "todo_0006_._Command_only.__shell_find.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006_._Command_only.__shell_find.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_._Command_only.__shell_find.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_._Command_only.__shell_find.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "the parser\", \"discuss the roadmap\", \"wipe the folder\"]:",
+      "file": "wave_kernel.py:153"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in viper-scripts",
+      "file": "todo_0004_implement_n.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n}}\",",
+      "file": "todo_0004_implement_n.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004_implement_n.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004_implement_n.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004_implement_n.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in viper-scripts",
+      "file": "todo_0001_implement_n____pass.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement\\n    pass\",",
+      "file": "todo_0001_implement_n____pass.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001_implement_n____pass.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_implement_n____pass.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_implement_n____pass.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "repoint OPENAI_BASE_URL at the gateway (8800) for queue+time",
+      "file": "docs/serving_settings.md:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "repoint Hermes base_url at the gateway (8800).",
+      "file": "docs/serving_settings.md:38"
+    }
+  ],
+  "viper-state": [
+    {
+      "tag": "TODO",
+      "text": "HARVEST (from session 2026-06-14)",
+      "file": "VIPER_MASTER_PLAN.md:231"
+    }
+  ],
+  "VIPER_SCRIPT_LIBRARY": [
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "CHAT_SYPHON.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE`, POE/PON tables, install rules, and advancement decis",
+      "file": "training_notes/viper_java_risc/2026-05-24-web-ui-global-chat-recovery.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "builds, there are two cases:",
+      "file": "sops/build.md:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/build.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/build.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "classic `!`-macros by adding `-Z trace-macros`:",
+      "file": "sops/debugging.md:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "build of Python, otherwise Valgrind won't produce usable res",
+      "file": "sops/debugging.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "interpreter and recompile.",
+      "file": "sops/debugging.md:30"
+    },
+    {
+      "tag": "BUG",
+      "text": "hooks in `rust-gdb` ([rust-lang/rust#96365](https://github.c",
+      "file": "sops/debugging.md:43"
+    },
+    {
+      "tag": "BUG",
+      "text": "build of python as described in the previous chapter",
+      "file": "sops/debugging.md:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "their code is by setting breakpoints.",
+      "file": "sops/debugging.md:60"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols:",
+      "file": "sops/debugging.md:67"
+    },
+    {
+      "tag": "BUG",
+      "text": "is the default for maturin, but you can explicitly ensure de",
+      "file": "sops/debugging.md:70"
+    },
+    {
+      "tag": "BUG",
+      "text": "Launcher:",
+      "file": "sops/debugging.md:153"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3\",",
+      "file": "sops/debugging.md:160"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 with Args\",",
+      "file": "sops/debugging.md:179"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 Tests\",",
+      "file": "sops/debugging.md:188"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3\" configuration and click Start Debugging (F5).",
+      "file": "sops/debugging.md:210"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 with Args\" (remember to edit the configuration with you",
+      "file": "sops/debugging.md:213"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 Tests\" (edit the test path as needed).",
+      "file": "sops/debugging.md:214"
+    },
+    {
+      "tag": "BUG",
+      "text": "console to evaluate expressions",
+      "file": "sops/debugging.md:218"
+    },
+    {
+      "tag": "BUG",
+      "text": "flags:",
+      "file": "sops/debugging.md:224"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 with Environment\",",
+      "file": "sops/debugging.md:228"
+    },
+    {
+      "tag": "BUG",
+      "text": "config = {",
+      "file": "sops/debugging.md:274"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 (Jupyter)\",",
+      "file": "sops/debugging.md:278"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 (Jupyter)\":",
+      "file": "sops/debugging.md:310"
+    },
+    {
+      "tag": "BUG",
+      "text": "config[\"configurations\"][0])",
+      "file": "sops/debugging.md:316"
+    },
+    {
+      "tag": "BUG",
+      "text": "config = existing_config",
+      "file": "sops/debugging.md:318"
+    },
+    {
+      "tag": "BUG",
+      "text": "config, f, indent=4)",
+      "file": "sops/debugging.md:324"
+    },
+    {
+      "tag": "BUG",
+      "text": "PyO3 (Jupyter)\" configuration and start debugging",
+      "file": "sops/debugging.md:350"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and enhancements, to additions and fixes to documentat",
+      "file": "sops/Readme.md:150"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/MobileVLM.md:363"
+    },
+    {
+      "tag": "TODO",
+      "text": "naming",
+      "file": "sops/reactor-refactor.md:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/reactor-refactor.md:205"
+    },
+    {
+      "tag": "BUG",
+      "text": "and fix failing Playwright tests",
+      "file": "sops/healer.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/healer.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "failed tests**: For each failing test run playwright_test_de",
+      "file": "sops/healer.md:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "and fix the failing login test.'",
+      "file": "sops/healer.md:63"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "sops/README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "sops/README_ENTERPRISE.md:705"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the NVIDIA driver host passthrough (such as missing a sha",
+      "file": "sops/CUDA-FEDORA.md:243"
+    },
+    {
+      "tag": "TODO",
+      "text": "We should allow to override the `derive-{const,mut}-casts`, ",
+      "file": "sops/docs.md:378"
+    },
+    {
+      "tag": "TODO",
+      "text": "explain these in detail)",
+      "file": "sops/docs.md:614"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixed:** The `get_program_out` function in `DarwinianEngine_",
+      "file": "sops/NOTES.md:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "using Boolean Logic.",
+      "file": "sops/NOTES.md:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "LIST",
+      "file": "sops/SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/builtin.md:39"
+    },
+    {
+      "tag": "BUG",
+      "text": "})",
+      "file": "sops/builtin.md:40"
+    },
+    {
+      "tag": "BUG",
+      "text": "INPUT`       | `0`        | Enable input debugging and print",
+      "file": "sops/OPENVINO.md:338"
+    },
+    {
+      "tag": "BUG",
+      "text": "OUTPUT`      | `0`        | Enable output debugging and prin",
+      "file": "sops/OPENVINO.md:339"
+    },
+    {
+      "tag": "BUG",
+      "text": "logging from the VirglRenderer APIR component to specified f",
+      "file": "sops/configuration.md:62"
+    },
+    {
+      "tag": "BUG",
+      "text": "logging from the GGML backend to specified file",
+      "file": "sops/configuration.md:124"
+    },
+    {
+      "tag": "BUG",
+      "text": "support, driver-diagnostics2,",
+      "file": "sops/NEWS.md:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "template-parser.cpp`  | Debug tool for template analysis    ",
+      "file": "sops/autoparser.md:446"
+    },
+    {
+      "tag": "BUG",
+      "text": "Tools",
+      "file": "sops/autoparser.md:451"
+    },
+    {
+      "tag": "BUG",
+      "text": "template-parser.cpp`",
+      "file": "sops/autoparser.md:453"
+    },
+    {
+      "tag": "BUG",
+      "text": "template-parser path/to/template.jinja`",
+      "file": "sops/autoparser.md:455"
+    },
+    {
+      "tag": "BUG",
+      "text": "Logging**: Enable with `LLAMA_LOG_VERBOSITY=2`",
+      "file": "sops/autoparser.md:462"
+    },
+    {
+      "tag": "BUG",
+      "text": "template-parser` to verify markers are correctly extracted.",
+      "file": "sops/autoparser.md:521"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add Rustsec link)",
+      "file": "sops/quoting_warning.md:251"
+    },
+    {
+      "tag": "BUG",
+      "text": "where `^` actually does get partially expanded in single-quo",
+      "file": "sops/quoting_warning.md:274"
+    },
+    {
+      "tag": "TODO",
+      "text": "add more about copy-paste and human readability.",
+      "file": "sops/quoting_warning.md:365"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/SECURITY.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "issues, or participate in substantive design discussions. Re",
+      "file": "sops/AGENTS.md:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "issues independently, and (3) can discuss it directly with r",
+      "file": "sops/AGENTS.md:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "create policy, then insert link].",
+      "file": "sops/ORG_CODE_OF_CONDUCT.md:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "optionally include the",
+      "file": "sops/ORG_CODE_OF_CONDUCT.md:90"
+    },
+    {
+      "tag": "BUG",
+      "text": "report](https://github.com/zesterer/chumsky/issues/new).",
+      "file": "sops/getting_started.md:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/getting_started.md:189"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix: used dev dependency types in package                   ",
+      "file": "sops/changelog.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix and test case when using optional definitions path      ",
+      "file": "sops/changelog.md:58"
+    },
+    {
+      "tag": "BUG",
+      "text": "for nullable items.                                         ",
+      "file": "sops/changelog.md:69"
+    },
+    {
+      "tag": "BUG",
+      "text": "(path contained `array` instead of `items`)                 ",
+      "file": "sops/changelog.md:74"
+    },
+    {
+      "tag": "BUG",
+      "text": "in union pathing. `$Ref` was missing `/anyOf`               ",
+      "file": "sops/changelog.md:79"
+    },
+    {
+      "tag": "TODO",
+      "text": "Talk more about passes",
+      "file": "sops/internals.md:28"
+    },
+    {
+      "tag": "HACK",
+      "text": "around the fact that `Cell` and `AtomicUN` all have",
+      "file": "sops/BitElement.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix/feature is a hypothesis based on observed data flow anom",
+      "file": "sops/SINGULARITY_ROADMAP.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "where dropping long lists would cause a stack overflow.  ([#",
+      "file": "sops/release-notes.md:63"
+    },
+    {
+      "tag": "BUG",
+      "text": "builds:",
+      "file": "sops/build-s390x.md:45"
+    },
+    {
+      "tag": "BUG",
+      "text": "\\",
+      "file": "sops/build-s390x.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "j $(nproc)",
+      "file": "sops/build-s390x.md:52"
+    },
+    {
+      "tag": "FIXME",
+      "text": "Describe how to ensure that a Kani proof is \"total\" (esp wrt",
+      "file": "sops/validation.md:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "list manager that provides core task management functionalit",
+      "file": "sops/planner.md:77"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/planner.md:93"
+    },
+    {
+      "tag": "TODO",
+      "text": "appears in the list with unchecked checkbox",
+      "file": "sops/planner.md:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "list controls become visible (Mark all as complete checkbox)",
+      "file": "sops/planner.md:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "highlighting examples in doc comments [Konrad Rudolph][]",
+      "file": "sops/CHANGES.md:670"
+    },
+    {
+      "tag": "BUG",
+      "text": "(#3194, #3195) [Konrad Rudolph][]",
+      "file": "sops/CHANGES.md:741"
+    },
+    {
+      "tag": "BUG",
+      "text": "with $ and @ variables [Josh Goebel][]",
+      "file": "sops/CHANGES.md:778"
+    },
+    {
+      "tag": "HACK",
+      "text": "` to the labels highlighted inside comments [Josh Goebel][]",
+      "file": "sops/CHANGES.md:1345"
+    },
+    {
+      "tag": "BUG",
+      "text": "due to badly behaved regex (#2376) [Josh Goebel][]",
+      "file": "sops/CHANGES.md:1484"
+    },
+    {
+      "tag": "BUG",
+      "text": "modes.  Better error handling for crash conditions. (#2286) ",
+      "file": "sops/CHANGES.md:1551"
+    },
+    {
+      "tag": "BUG",
+      "text": "with minified browser build:",
+      "file": "sops/CHANGES.md:2312"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix release without any significant new features. Enjoy!",
+      "file": "sops/CHANGES.md:2975"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes:",
+      "file": "sops/CHANGES.md:3157"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the packer which caused incorrect highlighting",
+      "file": "sops/CHANGES.md:3264"
+    },
+    {
+      "tag": "BUG",
+      "text": "with Javascript highlighting that",
+      "file": "sops/CHANGES.md:3325"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes for parsing HTML and XML attributes.",
+      "file": "sops/CHANGES.md:3340"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/mtmd-debug.md:1"
+    },
+    {
+      "tag": "BUG",
+      "text": "report.",
+      "file": "sops/protocols.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "tracker](https://github.com/pypy/pypy/issues/3848).",
+      "file": "sops/protocols.md:484"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/OPENCL.md:278"
+    },
+    {
+      "tag": "BUG",
+      "text": "in streaming encoding ([#90](https://github.com/marshallpier",
+      "file": "sops/RELEASE-NOTES.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "or regression is identified, we will yank any affected versi",
+      "file": "sops/POLICIES.md:110"
+    },
+    {
+      "tag": "BUG",
+      "text": "is uncovered, we will release a fix in 0.10.21 and",
+      "file": "sops/POLICIES.md:112"
+    },
+    {
+      "tag": "TODO",
+      "text": "check-disable -->",
+      "file": "sops/reviewing.md:87"
+    },
+    {
+      "tag": "TODO",
+      "text": "comments",
+      "file": "sops/reviewing.md:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "check-enable -->",
+      "file": "sops/reviewing.md:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix. No new features.",
+      "file": "sops/ReleaseNotes.md:67"
+    },
+    {
+      "tag": "BUG",
+      "text": "(also described in",
+      "file": "sops/ReleaseNotes.md:85"
+    },
+    {
+      "tag": "BUG",
+      "text": "where tools which overwrite",
+      "file": "sops/ReleaseNotes.md:88"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixes",
+      "file": "sops/ReleaseNotes.md:337"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixes",
+      "file": "sops/ReleaseNotes.md:366"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixes",
+      "file": "sops/ReleaseNotes.md:641"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixes",
+      "file": "sops/ReleaseNotes.md:672"
+    },
+    {
+      "tag": "TODO",
+      "text": "@ngxson : we should update this, since minja dependency has ",
+      "file": "sops/function-calling.md:274"
+    },
+    {
+      "tag": "TODO",
+      "text": "what is fallback?",
+      "file": "sops/error_and_recovery.md:124"
+    },
+    {
+      "tag": "TODO",
+      "text": "can't remember where I saw docs for this one before.",
+      "file": "sops/error_and_recovery.md:126"
+    },
+    {
+      "tag": "TODO",
+      "text": "Section on Ariadne?",
+      "file": "sops/error_and_recovery.md:129"
+    },
+    {
+      "tag": "BUG",
+      "text": "mode is off",
+      "file": "sops/01_quick.md:25"
+    },
+    {
+      "tag": "BUG",
+      "text": "mode is on",
+      "file": "sops/01_quick.md:32"
+    },
+    {
+      "tag": "BUG",
+      "text": "logging",
+      "file": "sops/VirtGPU.md:137"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/ZenDNN.md:218"
+    },
+    {
+      "tag": "BUG",
+      "text": "the inference graph: you can use [llama-eval-callback](/exam",
+      "file": "sops/HOWTO-add-model.md:116"
+    },
+    {
+      "tag": "BUG",
+      "text": "the multimodal preprocessor and encoder, you can use [llama-",
+      "file": "sops/HOWTO-add-model.md:129"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sops/SYCL.md:528"
+    },
+    {
+      "tag": "BUG",
+      "text": "j --target llama-completion",
+      "file": "sops/SYCL.md:529"
+    },
+    {
+      "tag": "BUG",
+      "text": "| 0 (default) or 1 | Enable log function by macro: GGML_SYCL",
+      "file": "sops/SYCL.md:740"
+    },
+    {
+      "tag": "BUG",
+      "text": "SYCL_POOL | Enable device memory pool logging on teardown. U",
+      "file": "sops/SYCL.md:755"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/SYCL.md:840"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix or proposed feature that meets these requirements!",
+      "file": "sops/pull_request_template.md:37"
+    },
+    {
+      "tag": "BUG",
+      "text": "in Foo's `eval` function that produces unexpected scoping be",
+      "file": "sops/tutorial.md:851"
+    },
+    {
+      "tag": "BUG",
+      "text": "and consider how it could be fixed",
+      "file": "sops/tutorial.md:856"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "sops/generator.md:58"
+    },
+    {
+      "tag": "BUG",
+      "text": "a specific test without anything else to keep the feedback l",
+      "file": "sops/debugging-tests.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh in the scripts folder whose parameter takes a REGEX ",
+      "file": "sops/debugging-tests.md:5"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh [OPTION]... <test_regex> <test_number>`",
+      "file": "sops/debugging-tests.md:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh test-tokenizer",
+      "file": "sops/debugging-tests.md:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh -g test-tokenizer",
+      "file": "sops/debugging-tests.md:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh test 23",
+      "file": "sops/debugging-tests.md:31"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh -h` to print help.",
+      "file": "sops/debugging-tests.md:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "&& mkdir build-ci-debug && cd build-ci-debug",
+      "file": "sops/debugging-tests.md:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "mode. You may adapt the arguments as needed, but in this cas",
+      "file": "sops/debugging-tests.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "DLLAMA_CUDA=1 -DLLAMA_FATAL_WARNINGS=ON ..",
+      "file": "sops/debugging-tests.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "is a great way to get experience with the PyO3 codebase.",
+      "file": "sops/Contributing.md:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py",
+      "file": "scripts/WAKE.sh:25"
+    },
+    {
+      "tag": "FIXME",
+      "text": "When/if _get_field_parts() support multi-dimensional arrays,",
+      "file": "scripts/gguf_reader.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "add option to make this a warning and accept duplicate keys ",
+      "file": "scripts/gguf_reader.py:208"
+    },
+    {
+      "tag": "FIXME",
+      "text": "Handle multi-dimensional arrays properly instead of flatteni",
+      "file": "scripts/gguf_reader.py:246"
+    },
+    {
+      "tag": "BUG",
+      "text": "if args.verbose else logging.INFO)",
+      "file": "scripts/gguf_new_metadata.py:123"
+    },
+    {
+      "tag": "BUG",
+      "text": "if args.verbose else logging.INFO)",
+      "file": "scripts/gguf_set_metadata.py:87"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT=\"dwarf-with-dsym\"",
+      "file": "scripts/build-xcframework.sh:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols from the copy",
+      "file": "scripts/build-xcframework.sh:376"
+    },
+    {
+      "tag": "BUG",
+      "text": "info to a separate file",
+      "file": "scripts/build-xcframework.sh:383"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols paths",
+      "file": "scripts/build-xcframework.sh:525"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-ios-sim/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:529"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-ios-device/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:531"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-macos/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:533"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-visionos/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:535"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-visionos-sim/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:537"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-tvos-device/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:539"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols $(pwd)/build-tvos-sim/dSYMs/llama.dSYM \\",
+      "file": "scripts/build-xcframework.sh:541"
+    },
+    {
+      "tag": "BUG",
+      "text": "bool = False",
+      "file": "scripts/utils.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "= True",
+      "file": "scripts/utils.py:121"
+    },
+    {
+      "tag": "BUG",
+      "text": "EXTERNAL\" in os.environ",
+      "file": "scripts/utils.py:124"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/utils.py:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extend this if the prefix(es) need to be configurable",
+      "file": "scripts/granite.py:117"
+    },
+    {
+      "tag": "BUG",
+      "text": "if args.verbose else logging.INFO)",
+      "file": "scripts/gguf_dump.py:457"
+    },
+    {
+      "tag": "BUG",
+      "text": "j8",
+      "file": "scripts/run-converted-model-embeddings-logits.sh:21"
+    },
+    {
+      "tag": "BUG",
+      "text": "m $CONVERTED_MODEL --embedding -p \"Hello world today\" --save",
+      "file": "scripts/run-converted-model-embeddings-logits.sh:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "Manifested in core.\")",
+      "file": "scripts/injection_attack.py:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "image support for Chameleon",
+      "file": "scripts/chameleon.py:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "add ellipsis in the type signature",
+      "file": "scripts/convert_lora_to_gguf.py:63"
+    },
+    {
+      "tag": "TODO",
+      "text": "make sure this is correct",
+      "file": "scripts/convert_lora_to_gguf.py:98"
+    },
+    {
+      "tag": "TODO",
+      "text": "support higher dimensional A shapes bigger than 1",
+      "file": "scripts/convert_lora_to_gguf.py:172"
+    },
+    {
+      "tag": "TODO",
+      "text": "compose the above two",
+      "file": "scripts/convert_lora_to_gguf.py:178"
+    },
+    {
+      "tag": "BUG",
+      "text": "if args.verbose else logging.INFO)",
+      "file": "scripts/convert_lora_to_gguf.py:325"
+    },
+    {
+      "tag": "TODO",
+      "text": "these do not belong to block_mappings_cfg - move them to map",
+      "file": "scripts/tensor_mapping.py:1264"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/loom.sh:4"
+    },
+    {
+      "tag": "BUG",
+      "text": "assertions=on\" \\",
+      "file": "scripts/loom.sh:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "generate tokenizer tests for llama.cpp",
+      "file": "scripts/convert_hf_to_gguf_update.py:55"
+    },
+    {
+      "tag": "TODO",
+      "text": "this string has to exercise as much pre-tokenizer functional",
+      "file": "scripts/convert_hf_to_gguf_update.py:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "add models here, base models preferred",
+      "file": "scripts/convert_hf_to_gguf_update.py:85"
+    },
+    {
+      "tag": "TODO",
+      "text": "multiply by the scale directly instead of inverting it twice",
+      "file": "scripts/bitnet.py:28"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific ctest program.",
+      "file": "scripts/debug-test.sh:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific ctest program.",
+      "file": "scripts/debug-test.sh:42"
+    },
+    {
+      "tag": "BUG",
+      "text": "DGGML_CUDA=1 || abort \"Failed to build environment\"",
+      "file": "scripts/debug-test.sh:112"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/debug-test.sh:171"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/ = {",
+      "file": "scripts/validate-visionos.sh:365"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = dwarf;",
+      "file": "scripts/validate-visionos.sh:399"
     }
   ]
 }
