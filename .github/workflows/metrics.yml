@@ -15,11 +15,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # NOTE: lowlighter/metrics requires a CLASSIC token (GraphQL auth).
-          # Fine-grained PATs are rejected at setup. GITHUB_TOKEN is classic and
-          # covers public + this-repo stats. Add a classic PAT as METRICS_TOKEN
-          # to include full private-repo stats.
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Fine-grained PATs are rejected at setup. GITHUB_TOKEN is always
+          # classic and covers public + this-repo stats, so we use it directly.
+          # To include full private-repo stats, set METRICS_TOKEN to a CLASSIC
+          # PAT (never fine-grained) and put it FIRST explicitly:
+          #   token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "chore(metrics): refresh deep metrics [skip ci]"
           user: ${{ github.repository_owner }}
