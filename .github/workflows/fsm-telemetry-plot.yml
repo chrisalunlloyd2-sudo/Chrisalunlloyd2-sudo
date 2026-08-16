@@ -20,6 +20,7 @@ jobs:
       - name: Generate Matrix Plot SVG
         run: |
           pip install matplotlib numpy
+          mkdir -p assets/agent
           python - << 'EOF'
           import matplotlib.pyplot as plt
           import numpy as np
@@ -45,4 +46,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/agent/fsm_density.svg
           git commit -m "telemetry: update daily FSM transition heatmap [skip ci]" || exit 0
-          git push
+          git pull --rebase origin main || true
+          git push || { sleep 5 && git pull --rebase origin main && git push; }
