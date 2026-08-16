@@ -84,16 +84,32 @@ def render_grid(all_items, events_by_repo, now=None):
 
 def main():
     try:
-        repos_data = gh_get(f"https://api.github.com/users/{GH_USER}/repos?per_page=100&type=owner")
-    except Exception:
+        # Authenticated endpoint: users/{login}/repos only lists PUBLIC repos —
+        # private fleet repos (BDI_FSM_AGENT, Sophia, Aegis_Unified) are invisible
+        # there even with a token. user/repos returns everything the PAT can see.
+        repos_data = gh_get("https://api.github.com/user/repos?per_page=100&affiliation=owner")
+        page = 2
+        while len(repos_data) == 100:
+            more = gh_get(f"https://api.github.com/user/repos?per_page=100&affiliation=owner&page={page}")
+            if not more:
+                break
+            repos_data += more
+            page += 1
+        print(f"  [api] repos={len(repos_data)}")
+    except Exception as exc:
+        print(f"  [api] FAILED {type(exc).__name__}: {exc}")
         repos_data = [{"name": GH_USER, "default_branch": "main"}]
 
     todo_pattern = re.compile(r'(TODO|FIXME|HACK|BUG)[\s:\-_]+(.*)', re.IGNORECASE)
     EVENT_PATHS = ("state/agent_events.jsonl", "agent_events.jsonl")
     todos_by_repo, events_by_repo = {}, {}
 
+    repo_filter = os.environ.get("GH_REPO_FILTER", "")
+    wanted = set(r.strip() for r in repo_filter.split(",") if r.strip())
     for repo in repos_data:
         name = repo["name"]
+        if wanted and name not in wanted:
+            continue
         clone_url = f"https://x-access-token:{GH_TOKEN}@github.com/{GH_USER}/{name}.git"
         os.system(f"git clone --depth 1 -q {clone_url} /tmp/{name} 2>/dev/null")
         repo_todos, repo_events = [], []
@@ -111,9 +127,11 @@ def main():
                                         "file": f"{os.path.relpath(os.path.join(root,f), f'/tmp/{name}')}:{idx}"})
                     except Exception:
                         pass
+        found = []
         for ep in EVENT_PATHS:
             p = f"/tmp/{name}/{ep}"
             if os.path.exists(p):
+                found.append(ep)
                 try:
                     for ln in open(p):
                         ln = ln.strip()
@@ -121,13 +139,14 @@ def main():
                             ev = json.loads(ln)
                             ev["repo"] = name
                             repo_events.append(ev)
-                except Exception:
-                    pass
+                except Exception as exc:
+                    print(f"  [{name}] event read error {ep}: {exc}")
         if repo_todos:
             todos_by_repo[name] = repo_todos[:200]
         if repo_events:
             events_by_repo[name] = sorted(repo_events, key=lambda e: e.get("ts", 0))[-12:]
         os.system(f"rm -rf /tmp/{name}")
+        print(f"  [{name}] clone_done todos={len(repo_todos)} events={len(repo_events)} files={found}")
 
     with open(OUT_JSON, "w") as f:
         json.dump(todos_by_repo, f, indent=2)
