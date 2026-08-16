@@ -32,8 +32,11 @@ jobs:
       - name: Compile Architecture to Dark-Mode SVG
         run: |
           mkdir -p assets/diagrams
+          # GH runners block Chrome's sandbox (AppArmor); --no-sandbox is the
+          # standard workaround for headless SVG rendering in Actions.
+          echo '{"args": ["--no-sandbox", "--disable-setuid-sandbox"]}' > /tmp/puppeteer.json
           for f in schemas/*.mmd dags/*.mmd; do
-            [ -f "$f" ] && mmdc -i "$f" -o "assets/diagrams/$(basename "$f" .mmd).svg" -t dark -b transparent
+            [ -f "$f" ] && mmdc -p /tmp/puppeteer.json -i "$f" -o "assets/diagrams/$(basename "$f" .mmd).svg" -t dark -b transparent
           done
       - name: Commit Updated Schemas
         run: |
