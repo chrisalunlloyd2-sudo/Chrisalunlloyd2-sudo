@@ -1,0 +1,32 @@
+name: Agent Post-Mortem & Exception Digest
+
+on:
+  workflow_run:
+    workflows: ["*"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze-failures:
+    runs-on: ubuntu-latest
+    if: "${{ github.event.workflow_run.conclusion == 'failure' || github.event_name == 'workflow_dispatch' }}"
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append Incident Log
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%SZ")
+          FAILED_WORKFLOW="${{ github.event.workflow_run.name || 'Manual Health Audit' }}"
+          RUN_URL="${{ github.event.workflow_run.html_url || 'N/A' }}"
+          mkdir -p logs
+          cat << EOF >> POST_MORTEMS.md
+          
+                    ### ⚠️ Incident Detected: ${FAILED_WORKFLOW}
+                    - **Timestamp:** \`${TIMESTAMP}\`
+                    - **Workflow Run:** [View Execution Log](${RUN_URL})
+                    - **Agent Diagnosis Status:** \`PENDING_BDI_ANALYSIS\`
+                    - **Recommended Action:** Validate state lock and corpus integrity; check heartbeat feed.
+          
+                    ---

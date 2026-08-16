@@ -1,0 +1,7 @@
+{
+  "fsm_state": "IDLE",
+  "corpus_lines": 1444,
+  "sops": 1,
+  "traces": 10,
+  "planner": "deadlock-free; liveness-to-COMMIT proven; 2 livelock cycles flagged"
+}

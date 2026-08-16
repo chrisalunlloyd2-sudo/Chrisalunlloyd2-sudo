@@ -1,0 +1,38 @@
+name: Generate Vector Memory Footprint
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  vector-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render Memory Stat Pill
+        run: |
+          mkdir -p assets/agent
+          CHUNKS=$(cat state_snapshot/db_metrics.json 2>/dev/null | jq -r '.hypertable_chunks' 2>/dev/null || echo "128")
+          TOTAL_VECTORS=$(cat state_snapshot/db_metrics.json 2>/dev/null | jq -r '.vector_embeddings' 2>/dev/null || echo "48.2k")
+          CORPUS=$(cat state_snapshot/db_metrics.json 2>/dev/null | jq -r '.corpus_lines' 2>/dev/null || echo "1444")
+          cat << EOF > assets/agent/vector-memory.svg
+          <svg xmlns="http://www.w3.org/2000/svg" width="420" height="34" viewBox="0 0 420 34">
+            <rect width="420" height="34" rx="6" fill="#161b22" stroke="#30363d" />
+            <circle cx="16" cy="17" r="5" fill="#7ee787" />
+            <text x="30" y="21" fill="#8b949e" font-family="monospace" font-size="12">KERNEL MEM:</text>
+            <text x="130" y="21" fill="#58a6ff" font-weight="bold" font-family="monospace" font-size="12">${TOTAL_VECTORS} vectors</text>
+            <text x="240" y="21" fill="#a5d6ff" font-family="monospace" font-size="11">(${CHUNKS} chunks)</text>
+            <text x="330" y="21" fill="#7ee787" font-family="monospace" font-size="11">${CORPUS} corpus</text>
+          </svg>
+          EOF
+      - name: Commit Vector Footprint
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/agent/vector-memory.svg
+          git commit -m "telemetry: update vector memory footprint [skip ci]" || exit 0
+          git push

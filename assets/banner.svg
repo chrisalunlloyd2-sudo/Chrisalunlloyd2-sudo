@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes glow {
+          0%, 100% { filter: drop-shadow(0 0 8px #00f2fe); }
+          50% { filter: drop-shadow(0 0 20px #4facfe); }
+        }
+        .hero {
+          background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #00f2fe);
+          background-size: 400% 400%;
+          animation: gradient 12s ease infinite;
+          height: 190px;
+          border-radius: 16px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          font-family: system-ui, -apple-system, sans-serif;
+          color: #fff;
+          box-sizing: border-box;
+          border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+        .title {
+          font-size: 2.2rem;
+          font-weight: 900;
+          letter-spacing: 2px;
+          animation: glow 3s ease-in-out infinite;
+          margin: 0;
+        }
+        .subtitle {
+          font-size: 0.95rem;
+          color: #a0aec0;
+          margin-top: 8px;
+          letter-spacing: 1px;
+        }
+      </style>
+      <div class="hero">
+        <h1 class="title">KERNEL // SYSTEM ONLINE</h1>
+        <p class="subtitle">DETERMINISTIC BDI-FSM AGENT • SOPHIA LOGIC • ENIGMA ROTORS • 672 TESTS GREEN</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

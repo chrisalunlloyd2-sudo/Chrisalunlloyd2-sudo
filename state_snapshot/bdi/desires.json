@@ -1,0 +1,7 @@
+[
+  "resolve BLOCKED livelock cycle",
+  "triage 11 BDI TODOs",
+  "triage 14 Aegis_Agents TODOs",
+  "keep corpus >=500 lines",
+  "self-sustain binaries"
+]

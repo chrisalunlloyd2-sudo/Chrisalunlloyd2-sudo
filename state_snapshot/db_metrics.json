@@ -1,0 +1,8 @@
+{
+  "hypertable_chunks": 7,
+  "vector_embeddings": "1.4k",
+  "corpus_lines": 1444,
+  "sops": 1,
+  "repos": 7,
+  "last_suite": "672 passed 72.6s"
+}

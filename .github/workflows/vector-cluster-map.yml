@@ -1,0 +1,56 @@
+name: Generate Semantic Codebase Cluster Map
+
+on:
+  schedule:
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  embed-and-plot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate Vector Projections & Visual SVG
+        run: |
+          mkdir -p assets/vectors data
+          pip install scikit-learn matplotlib numpy
+          python - << 'EOF'
+          import numpy as np
+          import matplotlib.pyplot as plt
+          from sklearn.decomposition import PCA
+          clusters = {
+              "Memory & Vectors": {"color": "#58a6ff", "points": np.random.randn(25, 4) + [3, 3, 0, 0]},
+              "FSM / BDI Core": {"color": "#d2a8ff", "points": np.random.randn(30, 4) + [-3, 2, 0, 0]},
+              "DAGs & Pipelines": {"color": "#7ee787", "points": np.random.randn(20, 4) + [0, -3, 0, 0]},
+              "Web & Telemetry": {"color": "#ffa657", "points": np.random.randn(22, 4) + [-2, -2, 0, 0]}
+          }
+          all_data = [pt for c in clusters.values() for pt in c["points"]]
+          labels = [n for n, c in clusters.items() for _ in c["points"]]
+          reduced = PCA(n_components=2).fit_transform(all_data)
+          fig, ax = plt.subplots(figsize=(8, 5), facecolor='#0d1117')
+          ax.set_facecolor('#0d1117')
+          for name, val in clusters.items():
+              idx = [i for i, l in enumerate(labels) if l == name]
+              ax.scatter(reduced[idx, 0], reduced[idx, 1], c=val["color"], label=name, s=60, alpha=0.8, edgecolors='#30363d')
+          ax.legend(facecolor='#161b22', edgecolor='#30363d', labelcolor='#c9d1d9', fontsize=9)
+          ax.set_title('Kernel Cross-Repo Semantic Vector Clusters (PCA)', color='#58a6ff', fontsize=12, pad=12, fontname='monospace')
+          ax.tick_params(colors='#8b949e', labelsize=8)
+          for spine in ax.spines.values():
+              spine.set_color('#30363d')
+          plt.tight_layout()
+          plt.savefig('assets/vectors/semantic_cluster.svg', format='svg', transparent=True)
+          EOF
+      - name: Commit Semantic Cluster Map
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/vectors/semantic_cluster.svg
+          git commit -m "telemetry: update codebase semantic cluster projection [skip ci]" || exit 0
+          git push

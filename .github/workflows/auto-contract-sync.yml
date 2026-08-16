@@ -1,0 +1,44 @@
+name: Autonomous Multi-Repo Contract Sync
+
+on:
+  push:
+    paths:
+      - 'schemas/**'
+      - 'contracts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-downstream:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Broadcast Schema Updates
+        env:
+          GH_TOKEN: ${{ secrets.PAT_ALL_REPOS || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          REPOS=("BDI_FSM_AGENT" "Sophia" "Aegis_Unified")
+          for TARGET_REPO in "${REPOS[@]}"; do
+            echo "Processing ${TARGET_REPO}..."
+            git clone "https://x-access-token:${GH_TOKEN}@github.com/${GH_USER}/${TARGET_REPO}.git" /tmp/${TARGET_REPO}
+            mkdir -p /tmp/${TARGET_REPO}/shared_contracts
+            cp -r schemas/* /tmp/${TARGET_REPO}/shared_contracts/
+            cd /tmp/${TARGET_REPO}
+            git checkout -b auto/schema-sync-$(date +%Y%m%d)
+            git config user.name "bot-orchestrator[bot]"
+            git config user.email "bot-orchestrator[bot]@users.noreply.github.com"
+            git add shared_contracts/
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(contracts): sync latest data schemas from orchestrator"
+              git push -f origin auto/schema-sync-$(date +%Y%m%d)
+              gh pr create --repo "${GH_USER}/${TARGET_REPO}" \
+                --title "🤖 Auto-Sync: Updated Data Schemas & API Contracts" \
+                --body "Automated schema synchronization triggered by commit \`${GITHUB_SHA}\` in orchestrator." \
+                --head "auto/schema-sync-$(date +%Y%m%d)" --base "main" || true
+            fi
+            rm -rf /tmp/${TARGET_REPO}
+            cd - > /dev/null
+          done

@@ -1,0 +1,31 @@
+name: Compile FSM Transition Diagrams
+
+on:
+  push:
+    paths:
+      - 'fsm/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render-fsm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup PlantUML & Graphviz
+        run: sudo apt-get update && sudo apt-get install -y plantuml graphviz
+      - name: Compile State Machine Diagram
+        run: |
+          mkdir -p assets/fsm
+          if [ -f fsm/states.puml ]; then
+            plantuml -tsvg -o "../assets/fsm" fsm/states.puml
+          fi
+      - name: Commit FSM Diagram
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/fsm/
+          git commit -m "chore(fsm): recompile state transitions diagram [skip ci]" || exit 0
+          git push

@@ -1,0 +1,103 @@
+name: Cross-Repo Synthesis & Unification Engine
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  synthesize-and-unify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Orchestrator
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install Graphviz & Network Tools
+        run: sudo apt-get update && sudo apt-get install -y graphviz
+      - name: Run Correlation & Dependency Unification
+        env:
+          GH_TOKEN: ${{ secrets.PAT_ALL_REPOS || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p assets/synthesis data
+          python - << 'EOF'
+          import os, json, urllib.request
+          from collections import defaultdict
+          GH_TOKEN = os.environ.get("GH_TOKEN"); GH_USER = os.environ.get("GH_USER")
+          try:
+              todos_by_repo = json.load(open("data/siphoned_todos.json"))
+          except Exception:
+              todos_by_repo = {}
+          headers = {"Authorization": f"Bearer {GH_TOKEN}", "Accept": "application/vnd.github.v3+json", "User-Agent": "Synthesis-Unifier"}
+          try:
+              req = urllib.request.Request(f"https://api.github.com/users/{GH_USER}/repos?per_page=100&type=owner", headers=headers)
+              with urllib.request.urlopen(req) as resp:
+                  repos_data = json.loads(resp.read().decode())
+          except Exception:
+              repos_data = [{"name": r} for r in todos_by_repo.keys()] or [{"name": "BDI_FSM_AGENT"}]
+          repo_names = [r["name"] for r in repos_data]
+          domain_keywords = {
+              "Database": ["timescale", "postgres", "sql", "mongo", "hypertable", "vector", "corpus"],
+              "Orchestration": ["airflow", "dag", "cron", "pipeline", "schedule", "dream"],
+              "Agent/BDI": ["bdi", "fsm", "state", "belief", "intention", "desire", "memory", "markov", "ban"],
+              "API/Web": ["api", "fastapi", "flask", "endpoint", "nginx", "caddy", "socket", "webui"],
+              "Telemetry": ["stats", "telemetry", "metric", "log", "monitor", "svg", "heartbeat"]
+          }
+          repo_domains = defaultdict(set); cross_links = []; next_actions = []
+          for repo in repo_names:
+              tasks = todos_by_repo.get(repo, [])
+              combined = (repo + " " + " ".join(t.get("text","") for t in tasks)).lower()
+              for domain, keys in domain_keywords.items():
+                  if any(k in combined for k in keys):
+                      repo_domains[repo].add(domain)
+          for i, r1 in enumerate(repo_names):
+              for r2 in repo_names[i+1:]:
+                  shared = repo_domains[r1].intersection(repo_domains[r2])
+                  if shared:
+                      cross_links.append({"source": r1, "target": r2, "domains": list(shared)})
+          priority_weight = {"FIXME": 1, "BUG": 1, "TODO": 2, "HACK": 3}
+          for repo, tasks in todos_by_repo.items():
+              for t in tasks:
+                  next_actions.append({"priority": priority_weight.get(t.get("tag","TODO"),2), "tag": t.get("tag","TODO"),
+                                       "repo": repo, "task": t.get("text"), "location": t.get("file"),
+                                       "domains": list(repo_domains.get(repo, ["General"]))})
+          next_actions.sort(key=lambda x: x["priority"])
+          payload = {"total_repos": len(repo_names), "cross_links": cross_links,
+                     "next_actions": next_actions[:25],
+                     "unified_stack": {d: [r for r, doms in repo_domains.items() if d in doms] for d in domain_keywords}}
+          json.dump(payload, open("data/synthesis.json","w"), indent=2)
+          md = ["# 🌐 Multi-Repo Unified Synthesis & Next Steps",
+                "", "> Automated correlation report generated for Kernel BDI execution loops.",
+                "", "### 🔗 Cross-Repository Domain Correlations", "| Source Repo | Target Repo | Shared Domains |", "| :--- | :--- | :--- |"]
+          for link in cross_links:
+              md.append(f"| `{link['source']}` | `{link['target']}` | {', '.join(link['domains'])} |")
+          md += ["", "### ⚡ Prioritized Execution Queue (Next Steps)"]
+          for act in next_actions[:15]:
+              icon = "🔴" if act["tag"] in ["FIXME","BUG"] else "🟡" if act["tag"]=="HACK" else "🔵"
+              md.append(f"- {icon} **[{act['tag']}]** `{act['repo']}` → {act['task']} *({act['location']})*")
+          open("SYNTHESIS_PLAN.md","w").write("\n".join(md) + "\n")
+          dot = ['digraph UnifiedArchitecture {', '  bgcolor="#0d1117"; pad=0.3; rankdir=LR;',
+                 '  node [shape=box, style="filled,rounded", color="#30363d", fillcolor="#161b22", fontcolor="#c9d1d9", fontname="Courier"];',
+                 '  edge [color="#58a6ff", penwidth=1.2, arrowsize=0.8, fontcolor="#8b949e", fontname="Courier", fontsize=9];']
+          for repo, doms in repo_domains.items():
+              dot.append(f'  "{repo}" [label="{repo}\\n[{", ".join(list(doms)[:2])}]", color="#58a6ff", fillcolor="#161b22"];')
+          for link in cross_links:
+              lbl = link["domains"][0] if link["domains"] else ""
+              dot.append(f'  "{link["source"]}" -> "{link["target"]}" [label=" {lbl} "];')
+          dot.append("}")
+          open("/tmp/arch.dot","w").write("\n".join(dot))
+          os.system("dot -Tsvg /tmp/arch.dot -o assets/synthesis/unified_dag.svg")
+          EOF
+      - name: Commit Synthesized Graph and Plan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/synthesis/unified_dag.svg SYNTHESIS_PLAN.md data/synthesis.json
+          git commit -m "ci(synthesis): cross-correlate repos and compile unified plan [skip ci]" || exit 0
+          git push

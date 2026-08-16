@@ -1,0 +1,29 @@
+@startuml
+!theme plain
+skinparam backgroundColor transparent
+skinparam state {
+  BackgroundColor #161b22
+  BorderColor #58a6ff
+  FontColor #c9d1d9
+  ArrowColor #7ee787
+}
+[*] --> IDLE : Boot
+IDLE --> EVALUATE : new_slot
+EVALUATE --> COMMIT : recipe_hit
+EVALUATE --> SYNTHESIZE : needs_mining
+EVALUATE --> BLOCKED : all_rejected
+EVALUATE --> PLATEAU : stalled
+SYNTHESIZE --> VERIFY : candidates_ready
+SYNTHESIZE --> BLOCKED : none_produced
+VERIFY --> COMMIT : pass
+VERIFY --> BLOCKED : fail
+COMMIT --> WAIT_AEGIS : needs_approval
+COMMIT --> IDLE : done
+BLOCKED --> IDLE : give_up
+PLATEAU --> EVALUATE : expand_horizon
+PLATEAU --> EVALUATE : decompose_subgoal
+PLATEAU --> COMMIT : commit_min_regret
+PLATEAU --> IDLE : give_up
+WAIT_AEGIS --> COMMIT : approved
+WAIT_AEGIS --> IDLE : denied
+@enduml

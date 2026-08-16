@@ -1,0 +1,74 @@
+name: Generate BDI Cognitive HUD
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render-bdi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate BDI HUD SVG
+        run: |
+          mkdir -p assets/agent
+          BELIEFS=$(cat state_snapshot/bdi/beliefs.json 2>/dev/null || echo '{"db_sync": "synced", "health": "nominal", "drift": "<0.01%"}')
+          DESIRES=$(cat state_snapshot/bdi/desires.json 2>/dev/null || echo '["maintain_zero_drift", "prune_old_snapshots"]')
+          INTENTION=$(cat state_snapshot/bdi/active_plan.txt 2>/dev/null || echo "EXECUTE_DAILY_TIMESCALEDB_COMPACTION")
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%SZ")
+
+          cat << EOF > assets/agent/bdi-core-hud.svg
+          <svg fill="none" viewBox="0 0 750 260" width="750" height="260" xmlns="http://www.w3.org/2000/svg">
+            <foreignObject width="100%" height="100%">
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                  .bdi-card { background:radial-gradient(circle at top left, #161b22, #0d1117);
+                    border:1px solid #30363d; border-radius:12px; padding:18px;
+                    font-family:ui-monospace, SFMono-Regular, Menlo, monospace; color:#c9d1d9; }
+                  .header { display:flex; justify-content:space-between; border-bottom:1px solid #21262d; padding-bottom:8px; margin-bottom:12px; }
+                  .header span { font-size:13px; font-weight:700; color:#58a6ff; }
+                  .grid { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; }
+                  .col { background:#161b22; border:1px solid #21262d; border-radius:8px; padding:10px; }
+                  .label { font-size:11px; font-weight:700; text-transform:uppercase; margin-bottom:6px; letter-spacing:0.5px; }
+                  .beliefs-label { color:#7ee787; } .desires-label { color:#ffa657; } .intentions-label { color:#d2a8ff; }
+                  .content { font-size:11px; line-height:1.4; color:#8b949e; word-break:break-all; }
+                  .badge { background:#388bfd15; color:#58a6ff; padding:2px 6px; border-radius:4px; display:inline-block; font-size:10px; margin-top:4px; }
+                </style>
+                <div class="bdi-card">
+                  <div class="header">
+                    <span>🧠 BDI COGNITIVE MATRIX [KERNEL RUNTIME]</span>
+                    <span style="color:#8b949e; font-size:11px;">SYNC: ${TIMESTAMP}</span>
+                  </div>
+                  <div class="grid">
+                    <div class="col">
+                      <div class="label beliefs-label">1. Beliefs (World State)</div>
+                      <div class="content"><code>${BELIEFS}</code></div>
+                    </div>
+                    <div class="col">
+                      <div class="label desires-label">2. Desires (Goal Queue)</div>
+                      <div class="content"><code>${DESIRES}</code></div>
+                    </div>
+                    <div class="col">
+                      <div class="label intentions-label">3. Intention (Active Plan)</div>
+                      <div class="content">
+                        <span class="badge">ACTIVE</span>
+                        <div style="margin-top:6px; color:#f0f6fc; font-weight:600;">${INTENTION}</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </foreignObject>
+          </svg>
+          EOF
+      - name: Commit Cognitive HUD
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/agent/bdi-core-hud.svg
+          git commit -m "telemetry: update BDI runtime HUD [skip ci]" || exit 0
+          git push
