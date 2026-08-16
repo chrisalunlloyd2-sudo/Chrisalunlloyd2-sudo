@@ -1,0 +1,351 @@
+{
+  "total_repos": 58,
+  "cross_links": [
+    {
+      "source": "Aegis_Agents",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "mind-palace",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    }
+  ],
+  "next_actions": [
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis_Agents",
+      "task": "LOGGING",
+      "location": "gemini_bridge_api.py:884",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "H2OIDE",
+      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "location": "initialize_enterprise_project.py:83",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "H2OMatrixCE",
+      "task": "Keystore...\"",
+      "location": "manifest_apk.sh:106",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "H2OMatrixCE",
+      "task": "this in C.\"",
+      "location": "PocketMatrix/system/fault_injector.py:33",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "H2OMatrixCE",
+      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "location": "H2OIDE/initialize_enterprise_project.py:83",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "house-inference",
+      "task": "<one-line cause>",
+      "location": "qwen/qwen.py:37",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "house-inference",
+      "task": "<one-line>  (no other text)",
+      "location": "qwen/qwen.py:40",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "living-ascii-art",
+      "task": "in kernel\"",
+      "location": "scripts/fetch_data.py:79",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Machine2",
+      "task": "Initializing GPU bindings\"",
+      "location": "tests/e2e_runner.py:452",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "this in C.\"",
+      "location": "web/PocketMatrix/system/fault_injector.py:33",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "Prompt length: {len(prompt)}\")",
+      "location": "web/PocketMatrix/system/orchestrator.py:44",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "Response status: {response.status_code}\")",
+      "location": "web/PocketMatrix/system/orchestrator.py:49",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "Response content: {response.text}\")",
+      "location": "web/PocketMatrix/system/orchestrator.py:56",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "Keystore...\"",
+      "location": "web/_Archived_Root/scripts/manifest_apk.sh:106",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "location": "web/H2OIDE/initialize_enterprise_project.py:83",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MatrixCE_GUI",
+      "task": "in login functionality\\n- Implement new authentication syste",
+      "location": "web/scripts/update_todo.py:20",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAGENTS",
+      "task": "this in C.\"",
+      "location": "system/fault_injector.py:33",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAGENTS",
+      "task": "Prompt length: {len(prompt)}\")",
+      "location": "system/orchestrator.py:44",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAGENTS",
+      "task": "Response status: {response.status_code}\")",
+      "location": "system/orchestrator.py:49",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAGENTS",
+      "task": "Response content: {response.text}\")",
+      "location": "system/orchestrator.py:56",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAPPS",
+      "task": "keystore...\"",
+      "location": "QwenConfigApp/build.sh:47",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Matrix_CEAPPS",
+      "task": "keyalg RSA -keysize 2048 -validity 10000 -storepass matrixce",
+      "location": "QwenConfigApp/build.sh:48",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MATRIX_GEN8_HOME",
+      "task": "this in C.\"",
+      "location": "PocketMatrix/system/fault_injector.py:33",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MATRIX_GEN8_HOME",
+      "task": "Prompt length: {len(prompt)}\")",
+      "location": "PocketMatrix/system/orchestrator.py:44",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "MATRIX_GEN8_HOME",
+      "task": "Response status: {response.status_code}\")",
+      "location": "PocketMatrix/system/orchestrator.py:49",
+      "domains": [
+        "Telemetry"
+      ]
+    }
+  ],
+  "unified_stack": {
+    "Database": [],
+    "Orchestration": [],
+    "Agent/BDI": [
+      "Aegis_Agents"
+    ],
+    "API/Web": [],
+    "Telemetry": [
+      "Aegis_Agents",
+      "MasterLogs",
+      "MatrixCE_GUI",
+      "MATRIX_GEN8_HOME",
+      "mind-palace",
+      "SimsMerged"
+    ]
+  }
+}
