@@ -404,6 +404,21 @@
   "Aegis_Unified": [
     {
       "tag": "TODO",
+      "text": "scan** \u2014 count open TODO/FIXME per repo \u2192 blackboard",
+      "file": "REPLICATE.md:80"
+    },
+    {
+      "tag": "BUG",
+      "text": "\u00b7 2 repos with uncommitted work |",
+      "file": "FORWARD-PLAN.md:10"
+    },
+    {
+      "tag": "TODO",
+      "text": "cards \u2192 GitHub issues)",
+      "file": "FORWARD-PLAN.md:41"
+    },
+    {
+      "tag": "TODO",
       "text": "objects with provenance + completion.",
       "file": "contracts.py:1"
     },
@@ -448,9 +463,14 @@
       "file": "repo_driver.py:70"
     },
     {
+      "tag": "BUG",
+      "text": "2026-08-16).",
+      "file": "self_extend.py:77"
+    },
+    {
       "tag": "TODO",
       "text": "needs intent",
-      "file": "self_extend.py:157"
+      "file": "self_extend.py:160"
     },
     {
       "tag": "TODO",
@@ -508,6 +528,21 @@
   "BDI_FSM_AGENT": [
     {
       "tag": "BUG",
+      "text": "signature is absent from the real scan:",
+      "file": "tests/test_seed_factory_paths.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "finish f\\n    # FIXME: edge case\\n\")",
+      "file": "tests/test_seed_factory.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "x\\n\")",
+      "file": "tests/test_seed_factory.py:87"
+    },
+    {
+      "tag": "BUG",
       "text": "`json` was never imported at module level, so",
       "file": "tests/test_corpus_gather.py:2"
     },
@@ -520,6 +555,11 @@
       "tag": "BUG",
       "text": "\"android.contentEvil\" must NOT be allowed",
       "file": "tests/test_domain_node.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "we fixed: treating an already-SATISFIED clause as a unit and",
+      "file": "pedagogy/dpll_sat.md:6"
     },
     {
       "tag": "BUG",
@@ -540,6 +580,41 @@
       "tag": "BUG",
       "text": "",
       "file": "docs/ARCHITECTURE.md:223"
+    },
+    {
+      "tag": "FIXME",
+      "text": "markers + missing README/pyproject/LICENSE",
+      "file": "bdi_fsm/seed_factory.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"\\b(TODO|FIXME|XXX|HACK)\\b[:\\s]*(.*)$\", re.",
+      "file": "bdi_fsm/seed_factory.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "markers, missing docs/packaging, untested modules.\"\"\"",
+      "file": "bdi_fsm/seed_factory.py:33"
+    },
+    {
+      "tag": "FIXME",
+      "text": "markers in .py/.md (line-level, capped)",
+      "file": "bdi_fsm/seed_factory.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(txt):",
+      "file": "bdi_fsm/seed_factory.py:55"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\") are NOT gaps",
+      "file": "bdi_fsm/seed_factory.py:59"
+    },
+    {
+      "tag": "BUG",
+      "text": "we fixed: treating an already-SATISFIED clause \"",
+      "file": "bdi_fsm/seed_factory.py:124"
     }
   ],
   "brute-foundry": [
@@ -1924,6 +1999,13 @@
       "tag": "TODO",
       "text": "failing on parse_node:",
       "file": "test/test_sklearn.py:9"
+    }
+  ],
+  "Kernel_Pedagogy": [
+    {
+      "tag": "BUG",
+      "text": "we fixed: treating an already-SATISFIED clause as a unit and",
+      "file": "dpll_sat.md:6"
     }
   ],
   "living-ascii-art": [
@@ -7014,6 +7096,13 @@
       "file": "src/physics/collision.js:20"
     }
   ],
+  "mindpalace": [
+    {
+      "tag": "HACK",
+      "text": "comments \u2192 hex crystals (height = complexity)",
+      "file": "ROADMAP.md:37"
+    }
+  ],
   "MultiPage_E2E_20010": [
     {
       "tag": "BUG",
@@ -8887,6 +8976,13 @@
       "tag": "BUG",
       "text": "fix (non-breaking change which fixes an issue)",
       "file": ".github/PULL_REQUEST_TEMPLATE.md:7"
+    }
+  ],
+  "Sophia": [
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "sophia/reach.py:70"
     }
   ],
   "talon-gate": [
