@@ -5,35 +5,84 @@
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
+| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `H2OIDE` | Telemetry |
+| `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
-| `Aegis_Agents` | `MatrixCE_GUI` | Telemetry |
-| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry |
+| `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI |
+| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
-| `Aegis_Agents` | `SimsMerged` | Telemetry |
-| `MasterLogs` | `MatrixCE_GUI` | Telemetry |
+| `Aegis_Agents` | `Nova` | Telemetry |
+| `Aegis_Agents` | `openrouter_manager` | Agent/BDI |
+| `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
+| `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
+| `Aegis_Agents` | `SimsMerged` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `SimsMerged` | Telemetry, Agent/BDI |
+| `H2OIDE` | `H2OMatrixCE` | Telemetry |
+| `H2OIDE` | `MasterLogs` | Telemetry |
+| `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
+| `H2OIDE` | `mind-palace` | Telemetry |
+| `H2OIDE` | `Nova` | Telemetry |
+| `H2OIDE` | `sims-java-neo-fx` | Telemetry |
+| `H2OIDE` | `sims-javafx-neo` | Telemetry |
+| `H2OIDE` | `SimsMerged` | Telemetry |
+| `H2OMatrixCE` | `MasterLogs` | Telemetry |
+| `H2OMatrixCE` | `MATRIX_GEN8_HOME` | Telemetry |
+| `H2OMatrixCE` | `mind-palace` | Telemetry |
+| `H2OMatrixCE` | `Nova` | Telemetry |
+| `H2OMatrixCE` | `sims-java-neo-fx` | Telemetry |
+| `H2OMatrixCE` | `sims-javafx-neo` | Telemetry |
+| `H2OMatrixCE` | `SimsMerged` | Telemetry |
 | `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
 | `MasterLogs` | `mind-palace` | Telemetry |
+| `MasterLogs` | `Nova` | Telemetry |
+| `MasterLogs` | `sims-java-neo-fx` | Telemetry |
+| `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Telemetry |
-| `MatrixCE_GUI` | `mind-palace` | Telemetry |
-| `MatrixCE_GUI` | `SimsMerged` | Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
-| `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry |
+| `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
+| `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
+| `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
+| `mind-palace` | `Nova` | Telemetry |
+| `mind-palace` | `sims-java-neo-fx` | Telemetry |
+| `mind-palace` | `sims-javafx-neo` | Telemetry |
 | `mind-palace` | `SimsMerged` | Telemetry |
+| `Nova` | `sims-java-neo-fx` | Telemetry |
+| `Nova` | `sims-javafx-neo` | Telemetry |
+| `Nova` | `SimsMerged` | Telemetry |
+| `openrouter_manager` | `SimsMerged` | Agent/BDI |
+| `sims-java-neo-fx` | `sims-javafx-neo` | Telemetry |
+| `sims-java-neo-fx` | `SimsMerged` | Telemetry |
+| `sims-javafx-neo` | `SimsMerged` | Telemetry |
 
 ### ⚡ Prioritized Execution Queue (Next Steps)
+- 🔴 **[BUG]** `aegis-fleet-docs` → fixed 2026-08-09.) *(WORKFLOW.md:30)*
+- 🔴 **[BUG]** `Aegis-GAN-OTG` → display mode') *(karoo_gp/pause.py:40)*
+- 🔴 **[BUG]** `Aegis-GAN-OTG` → display mode engaged (for evolutionary biologists)') *(karoo_gp/pause.py:75)*
+- 🔴 **[BUG]** `Aegis-GAN-OTG` → or set expected output for tests *(karoo_gp/test/util.py:42)*
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
-- 🔴 **[BUG]** `H2OIDE` → C/C++ in real-time, heavily assisted by the Danube AI tutor. *(initialize_enterprise_project.py:83)*
-- 🔴 **[BUG]** `H2OMatrixCE` → Keystore..." *(manifest_apk.sh:106)*
-- 🔴 **[BUG]** `H2OMatrixCE` → this in C." *(PocketMatrix/system/fault_injector.py:33)*
-- 🔴 **[BUG]** `H2OMatrixCE` → C/C++ in real-time, heavily assisted by the Danube AI tutor. *(H2OIDE/initialize_enterprise_project.py:83)*
-- 🔴 **[BUG]** `house-inference` → <one-line cause> *(qwen/qwen.py:37)*
-- 🔴 **[BUG]** `house-inference` → <one-line>  (no other text) *(qwen/qwen.py:40)*
-- 🔴 **[BUG]** `living-ascii-art` → in kernel" *(scripts/fetch_data.py:79)*
-- 🔴 **[BUG]** `Machine2` → Initializing GPU bindings" *(tests/e2e_runner.py:452)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → this in C." *(web/PocketMatrix/system/fault_injector.py:33)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → Prompt length: {len(prompt)}") *(web/PocketMatrix/system/orchestrator.py:44)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → Response status: {response.status_code}") *(web/PocketMatrix/system/orchestrator.py:49)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → Response content: {response.text}") *(web/PocketMatrix/system/orchestrator.py:56)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → Keystore..." *(web/_Archived_Root/scripts/manifest_apk.sh:106)*
-- 🔴 **[BUG]** `MatrixCE_GUI` → C/C++ in real-time, heavily assisted by the Danube AI tutor. *(web/H2OIDE/initialize_enterprise_project.py:83)*
+- 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
+- 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
+- 🔴 **[BUG]** `ArchivalMoe` → hunter. Here is a real function from {project}, file `{file} *(moa_orchestrator.py:36)*
+- 🔴 **[BUG]** `ArchivalMoe` → reports from text. *(README.md:207)*
+- 🔴 **[BUG]** `ArchivalMoe` → report"), *(context_injector.py:201)*
+- 🔴 **[BUG]** `ArchivalMoe` → reports from text. *(context_injector.py:207)*
+- 🔴 **[BUG]** `ArchivalMoe` → report", "action") else "normal" *(context_injector.py:216)*
+- 🔴 **[BUG]** `ArchivalMoe` → report → proposed_updates with diff_type='bugfix' *(context_injector.py:225)*
+- 🔴 **[BUG]** `ArchivalMoe` → report" else "improve" *(context_injector.py:241)*
+- 🔴 **[BUG]** `ArchivalMoe` → or missing error handler in {project}. Show the corrected co *(agents/update_agent.py:37)*

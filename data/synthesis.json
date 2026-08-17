@@ -1,6 +1,28 @@
 {
-  "total_repos": 58,
+  "total_repos": 59,
   "cross_links": [
+    {
+      "source": "Aegis_Agents",
+      "target": "Chrisalunlloyd2-sudo",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "H2OIDE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "H2OMatrixCE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
     {
       "source": "Aegis_Agents",
       "target": "MasterLogs",
@@ -12,14 +34,15 @@
       "source": "Aegis_Agents",
       "target": "MatrixCE_GUI",
       "domains": [
-        "Telemetry"
+        "Agent/BDI"
       ]
     },
     {
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -31,15 +54,221 @@
     },
     {
       "source": "Aegis_Agents",
-      "target": "SimsMerged",
+      "target": "Nova",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "MasterLogs",
+      "source": "Aegis_Agents",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "H2OIDE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "H2OMatrixCE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
       "target": "MatrixCE_GUI",
       "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "H2OMatrixCE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "SimsMerged",
+      "domains": [
         "Telemetry"
       ]
     },
@@ -59,6 +288,27 @@
     },
     {
       "source": "MasterLogs",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
       "target": "SimsMerged",
       "domains": [
         "Telemetry"
@@ -68,21 +318,23 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
       "source": "MatrixCE_GUI",
-      "target": "mind-palace",
+      "target": "openrouter_manager",
       "domains": [
-        "Telemetry"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry"
+        "Agent/BDI"
       ]
     },
     {
@@ -94,7 +346,58 @@
     },
     {
       "source": "MATRIX_GEN8_HOME",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI",
+        "API/Web"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "mind-palace",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "mind-palace",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "mind-palace",
+      "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
@@ -105,9 +408,98 @@
       "domains": [
         "Telemetry"
       ]
+    },
+    {
+      "source": "Nova",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Nova",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Nova",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "openrouter_manager",
+      "target": "SimsMerged",
+      "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "sims-java-neo-fx",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "sims-java-neo-fx",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "sims-javafx-neo",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
     }
   ],
   "next_actions": [
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "aegis-fleet-docs",
+      "task": "fixed 2026-08-09.)",
+      "location": "WORKFLOW.md:30",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode')",
+      "location": "karoo_gp/pause.py:40",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode engaged (for evolutionary biologists)')",
+      "location": "karoo_gp/pause.py:75",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "or set expected output for tests",
+      "location": "karoo_gp/test/util.py:42",
+      "domains": [
+        "General"
+      ]
+    },
     {
       "priority": 1,
       "tag": "BUG",
@@ -122,229 +514,233 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "H2OIDE",
-      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "location": "initialize_enterprise_project.py:83",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "H2OMatrixCE",
-      "task": "Keystore...\"",
-      "location": "manifest_apk.sh:106",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "H2OMatrixCE",
-      "task": "this in C.\"",
-      "location": "PocketMatrix/system/fault_injector.py:33",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "H2OMatrixCE",
-      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "location": "H2OIDE/initialize_enterprise_project.py:83",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "house-inference",
-      "task": "<one-line cause>",
-      "location": "qwen/qwen.py:37",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "house-inference",
-      "task": "<one-line>  (no other text)",
-      "location": "qwen/qwen.py:40",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "living-ascii-art",
-      "task": "in kernel\"",
-      "location": "scripts/fetch_data.py:79",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Machine2",
-      "task": "Initializing GPU bindings\"",
-      "location": "tests/e2e_runner.py:452",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "this in C.\"",
-      "location": "web/PocketMatrix/system/fault_injector.py:33",
+      "repo": "Aegis_Unified",
+      "task": "\u00b7 2 repos with uncommitted work |",
+      "location": "FORWARD-PLAN.md:10",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "Prompt length: {len(prompt)}\")",
-      "location": "web/PocketMatrix/system/orchestrator.py:44",
+      "repo": "Aegis_Unified",
+      "task": "2026-08-16).",
+      "location": "self_extend.py:77",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "Response status: {response.status_code}\")",
-      "location": "web/PocketMatrix/system/orchestrator.py:49",
+      "repo": "ArchivalMoe",
+      "task": "hunter. Here is a real function from {project}, file `{file}",
+      "location": "moa_orchestrator.py:36",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "Response content: {response.text}\")",
-      "location": "web/PocketMatrix/system/orchestrator.py:56",
+      "repo": "ArchivalMoe",
+      "task": "reports from text.",
+      "location": "README.md:207",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "Keystore...\"",
-      "location": "web/_Archived_Root/scripts/manifest_apk.sh:106",
+      "repo": "ArchivalMoe",
+      "task": "report\"),",
+      "location": "context_injector.py:201",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "location": "web/H2OIDE/initialize_enterprise_project.py:83",
+      "repo": "ArchivalMoe",
+      "task": "reports from text.",
+      "location": "context_injector.py:207",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MatrixCE_GUI",
-      "task": "in login functionality\\n- Implement new authentication syste",
-      "location": "web/scripts/update_todo.py:20",
+      "repo": "ArchivalMoe",
+      "task": "report\", \"action\") else \"normal\"",
+      "location": "context_injector.py:216",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Matrix_CEAGENTS",
-      "task": "this in C.\"",
-      "location": "system/fault_injector.py:33",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Matrix_CEAGENTS",
-      "task": "Prompt length: {len(prompt)}\")",
-      "location": "system/orchestrator.py:44",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Matrix_CEAGENTS",
-      "task": "Response status: {response.status_code}\")",
-      "location": "system/orchestrator.py:49",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Matrix_CEAGENTS",
-      "task": "Response content: {response.text}\")",
-      "location": "system/orchestrator.py:56",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Matrix_CEAPPS",
-      "task": "keystore...\"",
-      "location": "QwenConfigApp/build.sh:47",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Matrix_CEAPPS",
-      "task": "keyalg RSA -keysize 2048 -validity 10000 -storepass matrixce",
-      "location": "QwenConfigApp/build.sh:48",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "MATRIX_GEN8_HOME",
-      "task": "this in C.\"",
-      "location": "PocketMatrix/system/fault_injector.py:33",
+      "repo": "ArchivalMoe",
+      "task": "report \u2192 proposed_updates with diff_type='bugfix'",
+      "location": "context_injector.py:225",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MATRIX_GEN8_HOME",
-      "task": "Prompt length: {len(prompt)}\")",
-      "location": "PocketMatrix/system/orchestrator.py:44",
+      "repo": "ArchivalMoe",
+      "task": "report\" else \"improve\"",
+      "location": "context_injector.py:241",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "MATRIX_GEN8_HOME",
-      "task": "Response status: {response.status_code}\")",
-      "location": "PocketMatrix/system/orchestrator.py:49",
+      "repo": "ArchivalMoe",
+      "task": "or missing error handler in {project}. Show the corrected co",
+      "location": "agents/update_agent.py:37",
       "domains": [
-        "Telemetry"
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "signature is absent from the real scan:",
+      "location": "tests/test_seed_factory_paths.py:22",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "`json` was never imported at module level, so",
+      "location": "tests/test_corpus_gather.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "fix: \"ordered list\" must not also produce a bullet \"list\"",
+      "location": "tests/test_code_ask.py:10",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "\"android.contentEvil\" must NOT be allowed",
+      "location": "tests/test_domain_node.py:17",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "we fixed: treating an already-SATISFIED clause as a unit and",
+      "location": "pedagogy/dpll_sat.md:6",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "",
+      "location": "docs/BANBURISMUS.md:110",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "fixed from the original sketch)",
+      "location": "docs/programmatic_meaning.md:41",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "fix pass (202/202) |",
+      "location": "docs/ROADMAP.md:35",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "BDI_FSM_AGENT",
+      "task": "",
+      "location": "docs/ARCHITECTURE.md:223",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "FIXME",
+      "repo": "BDI_FSM_AGENT",
+      "task": "markers + missing README/pyproject/LICENSE",
+      "location": "bdi_fsm/seed_factory.py:8",
+      "domains": [
+        "General"
       ]
     }
   ],
   "unified_stack": {
     "Database": [],
-    "Orchestration": [],
-    "Agent/BDI": [
-      "Aegis_Agents"
+    "Orchestration": [
+      "Kernel_Pedagogy"
     ],
-    "API/Web": [],
-    "Telemetry": [
+    "Agent/BDI": [
       "Aegis_Agents",
-      "MasterLogs",
+      "Chrisalunlloyd2-sudo",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
+      "openrouter_manager",
+      "SimsMerged"
+    ],
+    "API/Web": [
+      "MatrixCE_GUI",
+      "MATRIX_GEN8_HOME",
+      "openrouter_manager"
+    ],
+    "Telemetry": [
+      "Aegis_Agents",
+      "Chrisalunlloyd2-sudo",
+      "H2OIDE",
+      "H2OMatrixCE",
+      "MasterLogs",
+      "MATRIX_GEN8_HOME",
       "mind-palace",
+      "Nova",
+      "sims-java-neo-fx",
+      "sims-javafx-neo",
       "SimsMerged"
     ]
   }
