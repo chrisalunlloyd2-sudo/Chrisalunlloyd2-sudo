@@ -483,91 +483,91 @@
   <text x="110.0" y="675.5575286112626" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="110.0" y="685.5575286112626" fill="#8b949e" font-size="6.5" text-anchor="middle">scan** — ..</text>
   <text x="110.0" y="696.5575286112626" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,646.6 168.5,670.0 141.5,670.0 128.0,646.6 141.5,623.2 168.5,623.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="155.0" y="638.5767664977294" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="649.5767664977294" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="155.0" y="659.5767664977294" fill="#8b949e" font-size="6.5" text-anchor="middle">· 2 repos..</text>
   <text x="155.0" y="670.5767664977294" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,672.6 213.5,695.9 186.5,695.9 173.0,672.6 186.5,649.2 213.5,649.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="200.0" y="664.5575286112626" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="675.5575286112626" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="200.0" y="685.5575286112626" fill="#8b949e" font-size="6.5" text-anchor="middle">cards → G..</text>
   <text x="200.0" y="696.5575286112626" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,646.6 258.5,670.0 231.5,670.0 218.0,646.6 231.5,623.2 258.5,623.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="245.0" y="638.5767664977294" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="649.5767664977294" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="245.0" y="659.5767664977294" fill="#8b949e" font-size="6.5" text-anchor="middle">objects w..</text>
   <text x="245.0" y="670.5767664977294" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,672.6 303.5,695.9 276.5,695.9 263.0,672.6 276.5,649.2 303.5,649.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="290.0" y="664.5575286112626" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="675.5575286112626" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="290.0" y="685.5575286112626" fill="#8b949e" font-size="6.5" text-anchor="middle">it knows ..</text>
   <text x="290.0" y="696.5575286112626" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,646.6 348.5,670.0 321.5,670.0 308.0,646.6 321.5,623.2 348.5,623.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="335.0" y="638.5767664977294" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="649.5767664977294" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="335.0" y="659.5767664977294" fill="#8b949e" font-size="6.5" text-anchor="middle">objects w..</text>
   <text x="335.0" y="670.5767664977294" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,698.5 78.5,721.9 51.5,721.9 38.0,698.5 51.5,675.2 78.5,675.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="65.0" y="690.5382907247957" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="701.5382907247957" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="65.0" y="711.5382907247957" fill="#8b949e" font-size="6.5" text-anchor="middle">is checke..</text>
   <text x="65.0" y="722.5382907247957" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,724.5 123.5,747.9 96.5,747.9 83.0,724.5 96.5,701.1 123.5,701.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="110.0" y="716.5190528383289" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="727.5190528383289" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="110.0" y="737.5190528383289" fill="#8b949e" font-size="6.5" text-anchor="middle">RE = re.c..</text>
   <text x="110.0" y="748.5190528383289" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,698.5 168.5,721.9 141.5,721.9 128.0,698.5 141.5,675.2 168.5,675.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="155.0" y="690.5382907247957" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="701.5382907247957" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="155.0" y="711.5382907247957" fill="#8b949e" font-size="6.5" text-anchor="middle">RE = re.c..</text>
   <text x="155.0" y="722.5382907247957" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,724.5 213.5,747.9 186.5,747.9 173.0,724.5 186.5,701.1 213.5,701.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="200.0" y="716.5190528383289" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="727.5190528383289" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="200.0" y="737.5190528383289" fill="#8b949e" font-size="6.5" text-anchor="middle">RE.search..</text>
   <text x="200.0" y="748.5190528383289" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,698.5 258.5,721.9 231.5,721.9 218.0,698.5 231.5,675.2 258.5,675.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="245.0" y="690.5382907247957" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="701.5382907247957" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="245.0" y="711.5382907247957" fill="#8b949e" font-size="6.5" text-anchor="middle">RE.search..</text>
   <text x="245.0" y="722.5382907247957" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,724.5 303.5,747.9 276.5,747.9 263.0,724.5 276.5,701.1 303.5,701.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="290.0" y="716.5190528383289" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="727.5190528383289" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="290.0" y="737.5190528383289" fill="#8b949e" font-size="6.5" text-anchor="middle">count": l..</text>
   <text x="290.0" y="748.5190528383289" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,698.5 348.5,721.9 321.5,721.9 308.0,698.5 321.5,675.2 348.5,675.2" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="335.0" y="690.5382907247957" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="701.5382907247957" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="335.0" y="711.5382907247957" fill="#8b949e" font-size="6.5" text-anchor="middle">2026-08-1..</text>
   <text x="335.0" y="722.5382907247957" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,750.5 78.5,773.9 51.5,773.9 38.0,750.5 51.5,727.1 78.5,727.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="65.0" y="742.499814951862" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="753.499814951862" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="65.0" y="763.499814951862" fill="#8b949e" font-size="6.5" text-anchor="middle">needs int..</text>
   <text x="65.0" y="774.499814951862" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,776.5 123.5,799.9 96.5,799.9 83.0,776.5 96.5,753.1 123.5,753.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="110.0" y="768.4805770653952" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="779.4805770653952" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Aegis_Un..</text>
   <text x="110.0" y="789.4805770653952" fill="#8b949e" font-size="6.5" text-anchor="middle">fix this\..</text>
   <text x="110.0" y="800.4805770653952" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] Aegis_Unified: agent 'kernel-localho' selected contract: Aegis_Unified</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] Aegis_Unified: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,750.5 168.5,773.9 141.5,773.9 128.0,750.5 141.5,727.1 168.5,727.1" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="742.499814951862" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="753.499814951862" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
@@ -627,109 +627,109 @@
   <text x="245.0" y="805.4613391789284" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="245.0" y="815.4613391789284" fill="#8b949e" font-size="6.5" text-anchor="middle">signature..</text>
   <text x="245.0" y="826.4613391789284" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,828.4 303.5,851.8 276.5,851.8 263.0,828.4 276.5,805.1 303.5,805.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="290.0" y="820.4421012924615" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="831.4421012924615" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="290.0" y="841.4421012924615" fill="#8b949e" font-size="6.5" text-anchor="middle">finish f\..</text>
   <text x="290.0" y="852.4421012924615" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,802.5 348.5,825.8 321.5,825.8 308.0,802.5 321.5,779.1 348.5,779.1" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="335.0" y="794.4613391789284" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="805.4613391789284" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="335.0" y="815.4613391789284" fill="#8b949e" font-size="6.5" text-anchor="middle">x\n")</text>
   <text x="335.0" y="826.4613391789284" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,854.4 78.5,877.8 51.5,877.8 38.0,854.4 51.5,831.0 78.5,831.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="65.0" y="846.4228634059947" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="65.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">`json` wa..</text>
   <text x="65.0" y="878.4228634059947" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,880.4 123.5,903.8 96.5,903.8 83.0,880.4 96.5,857.0 123.5,857.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="110.0" y="872.4036255195278" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="110.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">fix: "ord..</text>
   <text x="110.0" y="904.4036255195278" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,854.4 168.5,877.8 141.5,877.8 128.0,854.4 141.5,831.0 168.5,831.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="155.0" y="846.4228634059947" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="155.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">"android...</text>
   <text x="155.0" y="878.4228634059947" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,880.4 213.5,903.8 186.5,903.8 173.0,880.4 186.5,857.0 213.5,857.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="200.0" y="872.4036255195278" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="200.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
   <text x="200.0" y="904.4036255195278" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,854.4 258.5,877.8 231.5,877.8 218.0,854.4 231.5,831.0 258.5,831.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="245.0" y="846.4228634059947" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="245.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   <text x="245.0" y="878.4228634059947" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,880.4 303.5,903.8 276.5,903.8 263.0,880.4 276.5,857.0 303.5,857.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="290.0" y="872.4036255195278" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="290.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">fixed fro..</text>
   <text x="290.0" y="904.4036255195278" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,854.4 348.5,877.8 321.5,877.8 308.0,854.4 321.5,831.0 348.5,831.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="335.0" y="846.4228634059947" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="335.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">fix pass ..</text>
   <text x="335.0" y="878.4228634059947" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,906.4 78.5,929.8 51.5,929.8 38.0,906.4 51.5,883.0 78.5,883.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="65.0" y="898.384387633061" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="65.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   <text x="65.0" y="930.384387633061" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,932.4 123.5,955.7 96.5,955.7 83.0,932.4 96.5,909.0 123.5,909.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="110.0" y="924.3651497465942" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
   <text x="110.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="110.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">markers +..</text>
   <text x="110.0" y="956.3651497465942" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,906.4 168.5,929.8 141.5,929.8 128.0,906.4 141.5,883.0 168.5,883.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="155.0" y="898.384387633061" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="155.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">RE = re.c..</text>
   <text x="155.0" y="930.384387633061" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,932.4 213.5,955.7 186.5,955.7 173.0,932.4 186.5,909.0 213.5,909.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="200.0" y="924.3651497465942" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">markers, ..</text>
   <text x="200.0" y="956.3651497465942" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="245.0" y="898.384387633061" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
   <text x="245.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="245.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">markers i..</text>
   <text x="245.0" y="930.384387633061" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,932.4 303.5,955.7 276.5,955.7 263.0,932.4 276.5,909.0 303.5,909.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="290.0" y="924.3651497465942" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="290.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">RE.findit..</text>
   <text x="290.0" y="956.3651497465942" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,906.4 348.5,929.8 321.5,929.8 308.0,906.4 321.5,883.0 348.5,883.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="335.0" y="898.384387633061" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="335.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">list") ar..</text>
   <text x="335.0" y="930.384387633061" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,958.3 78.5,981.7 51.5,981.7 38.0,958.3 51.5,935.0 78.5,935.0" fill="#0f2b1a" stroke="#3fb950" stroke-width="2.2" />
   <text x="65.0" y="950.3459118601273" fill="#3fb950" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="65.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
   <text x="65.0" y="982.3459118601273" fill="#3fb950" font-size="6.5" text-anchor="middle">✓ contract</text>
-  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel-localho' selected contract: fleet</title></g><g class="hex-cell" tabindex="0">
+  <title>[OCCUPIED] BDI_FSM_AGENT: agent 'kernel' selected contract: heartbeat-cycle</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,984.3 123.5,1007.7 96.5,1007.7 83.0,984.3 96.5,960.9 123.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
