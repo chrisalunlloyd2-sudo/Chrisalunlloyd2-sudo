@@ -7670,11 +7670,6 @@
       "tag": "BUG",
       "text": "in simulation logic",
       "file": ".director_payload.md:138"
-    },
-    {
-      "tag": "BUG",
-      "text": "in simulation logic",
-      "file": "CHANGELOG.md:13"
     }
   ],
   "SIMS1337": [
@@ -8006,13 +8001,6 @@
       "tag": "BUG",
       "text": "",
       "file": "sophia/reach.py:70"
-    }
-  ],
-  "talon-gate": [
-    {
-      "tag": "BUG",
-      "text": "caught and rejected before being accepted as done.",
-      "file": "README.md:10"
     }
   ],
   "Termux-env": [
