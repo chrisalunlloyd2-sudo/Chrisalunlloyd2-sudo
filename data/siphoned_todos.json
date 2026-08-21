@@ -478,6 +478,58 @@
       "file": "tests/test_repo_driver.py:11"
     }
   ],
+  "agent-squiggly": [
+    {
+      "tag": "TODO",
+      "text": "count   INTEGER DEFAULT 0,",
+      "file": "agent_squiggly.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "count).\"\"\"",
+      "file": "agent_squiggly.py:170"
+    },
+    {
+      "tag": "TODO",
+      "text": "= 0",
+      "file": "agent_squiggly.py:177"
+    },
+    {
+      "tag": "TODO",
+      "text": "+= txt.upper().count(\"TODO\") + txt.upper().count(\"FIXME\")",
+      "file": "agent_squiggly.py:187"
+    },
+    {
+      "tag": "TODO",
+      "text": "* 0.025)",
+      "file": "agent_squiggly.py:200"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "agent_squiggly.py:201"
+    },
+    {
+      "tag": "TODO",
+      "text": "count,last_commit,last_crawl,status) \"",
+      "file": "agent_squiggly.py:395"
+    },
+    {
+      "tag": "TODO",
+      "text": "count=?,last_commit=?,last_crawl=? WHERE folder=?\",",
+      "file": "agent_squiggly.py:410"
+    },
+    {
+      "tag": "TODO",
+      "text": "count, has_git, status, last_commit \"",
+      "file": "agent_squiggly.py:440"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\",\"has_git\",\"status\",\"last_commit\"]",
+      "file": "agent_squiggly.py:444"
+    }
+  ],
   "ArchivalMoe": [
     {
       "tag": "BUG",
@@ -1269,13 +1321,43 @@
     },
     {
       "tag": "TODO",
-      "text": "(Google Keep Hypersync)**",
-      "file": "README.md:23"
+      "text": "database with Google Keep with backoff.",
+      "file": "README.md:178"
     },
     {
-      "tag": "BUG",
-      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "file": "README.md:49"
+      "tag": "TODO",
+      "text": "google()`",
+      "file": "README.md:190"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER.py`",
+      "file": "README.md:221"
+    },
+    {
+      "tag": "TODO",
+      "text": "Scanner",
+      "file": "README.md:223"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER` | `cleanup_completed` | `cleanup_completed()` |",
+      "file": "README.md:392"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER` | `scan_todos` | `scan_todos()` |",
+      "file": "README.md:393"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCANNER` | `update_syphon` | `update_syphon(all_todos)` |",
+      "file": "README.md:394"
+    },
+    {
+      "tag": "TODO",
+      "text": "google` | `sync_todo_google()` |",
+      "file": "README.md:426"
     },
     {
       "tag": "TODO",
@@ -6113,17 +6195,27 @@
     {
       "tag": "TODO",
       "text": "crystals** \u2014 TODO/FIXME/HACK comments \u2192 hex crystals (height",
-      "file": "README.md:82"
+      "file": "README.md:98"
     },
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:110"
+      "file": "README.md:130"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:118"
+      "file": "README.md:138"
+    },
+    {
+      "tag": "BUG",
+      "text": "log)",
+      "file": "BLUEPRINT.md:184"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals]",
+      "file": "BLUEPRINT.md:210"
     }
   ],
   "MultiPage_E2E_20010": [
@@ -6148,6 +6240,11 @@
       "tag": "BUG",
       "text": "using Boolean Logic.",
       "file": "NOTES.md:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "Install cryptography and use real Ed25519",
+      "file": "heartbeat_endpoint_atomic.py:95"
     },
     {
       "tag": "BUG",
