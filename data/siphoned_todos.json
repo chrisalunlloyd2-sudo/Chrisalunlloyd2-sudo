@@ -8501,6 +8501,41 @@
     },
     {
       "tag": "TODO",
+      "text": "= uids[:limit]",
+      "file": "email_harvester.py:180"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_harvester.py:184"
+    },
+    {
+      "tag": "TODO",
+      "text": "/ intent extraction from self-sent emails \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "email_harvester.py:281"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE   = re.compile(r'(?im)^\\s*(TODO|FIXME|HACK|NOTE|REMIND(?:",
+      "file": "email_harvester.py:288"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "email_harvester.py:323"
+    },
+    {
+      "tag": "TODO",
+      "text": "= uids[:limit]",
+      "file": "email_harvester.py:500"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_harvester.py:507"
+    },
+    {
+      "tag": "TODO",
       "text": "#7 in viper-scripts",
       "file": "todo_0007_repoint_OPENAI_BASE_URL_at_the_gateway_8800_for_.md:1"
     },
