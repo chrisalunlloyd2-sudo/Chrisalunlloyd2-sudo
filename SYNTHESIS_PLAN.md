@@ -5,31 +5,31 @@
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
-| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `H2OIDE` | Telemetry |
 | `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
 | `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI |
-| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
 | `Aegis_Agents` | `mindpalace` | Telemetry |
 | `Aegis_Agents` | `Nova` | Telemetry |
 | `Aegis_Agents` | `openrouter_manager` | Agent/BDI |
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
-| `Aegis_Agents` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `SimsMerged` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI |
-| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `mindpalace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `SimsMerged` | Telemetry, Agent/BDI |
 | `H2OIDE` | `H2OMatrixCE` | Telemetry |
 | `H2OIDE` | `MasterLogs` | Telemetry |
 | `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
@@ -54,16 +54,16 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
-| `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
 | `mind-palace` | `mindpalace` | Telemetry |
 | `mind-palace` | `Nova` | Telemetry |
 | `mind-palace` | `sims-java-neo-fx` | Telemetry |
