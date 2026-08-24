@@ -1,12 +1,12 @@
 {
-  "total_repos": 59,
+  "total_repos": 60,
   "cross_links": [
     {
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -353,16 +353,16 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -584,8 +584,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -691,6 +691,22 @@
     {
       "priority": 1,
       "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "workarounds',",
+      "location": "streamer.js:18",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "vis",
+      "location": "src/main.js:211",
+      "domains": []
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
       "repo": "BDI_FSM_AGENT",
       "task": "signature is absent from the real scan:",
       "location": "tests/test_seed_factory_paths.py:22",
@@ -764,26 +780,6 @@
       "repo": "BDI_FSM_AGENT",
       "task": "fix pass (202/202) |",
       "location": "docs/ROADMAP.md:35",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "",
-      "location": "docs/ARCHITECTURE.md:223",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "FIXME",
-      "repo": "BDI_FSM_AGENT",
-      "task": "markers + missing README/pyproject/LICENSE",
-      "location": "bdi_fsm/seed_factory.py:8",
       "domains": [
         "General"
       ]
