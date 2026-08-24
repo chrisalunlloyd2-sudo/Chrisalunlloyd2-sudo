@@ -582,6 +582,18 @@
       "file": "agents/update_agent.py:37"
     }
   ],
+  "avatar-creator": [
+    {
+      "tag": "BUG",
+      "text": "workarounds',",
+      "file": "streamer.js:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "vis",
+      "file": "src/main.js:211"
+    }
+  ],
   "BDI_FSM_AGENT": [
     {
       "tag": "BUG",
@@ -7197,12 +7209,12 @@
     {
       "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:140"
+      "file": "CROSS_CORRELATED_ROADMAP.md:147"
     },
     {
       "tag": "BUG",
       "text": "#1)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:181"
+      "file": "CROSS_CORRELATED_ROADMAP.md:189"
     },
     {
       "tag": "TODO",
