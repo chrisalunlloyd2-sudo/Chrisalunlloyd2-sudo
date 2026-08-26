@@ -591,7 +591,12 @@
     {
       "tag": "BUG",
       "text": "vis",
-      "file": "src/main.js:211"
+      "file": "src/main.js:213"
+    },
+    {
+      "tag": "HACK",
+      "text": "",
+      "file": "src/avatar/SkinMaterialSystem.js:20"
     }
   ],
   "BDI_FSM_AGENT": [
@@ -9464,6 +9469,16 @@
   ],
   "viper-scripts": [
     {
+      "tag": "BUG",
+      "text": "as a live PID",
+      "file": "cell_report.py:45"
+    },
+    {
+      "tag": "BUG",
+      "text": "this file shipped with, now nailed down --------------------",
+      "file": "cell_report.py:371"
+    },
+    {
       "tag": "TODO",
       "text": "backlog. Mining with no source of",
       "file": "miner_daemon.py:31"
@@ -9657,6 +9672,66 @@
       "tag": "BUG",
       "text": "you",
       "file": "aegis_tools.py:272"
+    },
+    {
+      "tag": "BUG",
+      "text": "does not live in any file, so no amount of reading a file fi",
+      "file": "clock_cycle.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver was budgeted 90s and took",
+      "file": "clock_cycle.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver case:",
+      "file": "clock_cycle.py:220"
+    },
+    {
+      "tag": "BUG",
+      "text": "the lock was",
+      "file": "clock_cycle.py:255"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver was given and blew through by 1441 seconds was a",
+      "file": "clock_cycle.py:364"
+    },
+    {
+      "tag": "BUG",
+      "text": "as reading a PID and calling it health.",
+      "file": "clock_cycle.py:683"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver on 2026-08-25: 1531s of wall, hero_kernel's ~1900MB r",
+      "file": "clock_cycle.py:870"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver_priced_to_ceiling\"] = period_for(heavy) == CEIL_S",
+      "file": "clock_cycle.py:873"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver     hung 1531s against a 90s budget   -> calls the mo",
+      "file": "ollama_guard.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "this system keeps producing: a check that is TRUE and IRRELE",
+      "file": "ollama_guard.py:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver, aegis_piano and the MoeGUI bridge on 2026-08-25 whil",
+      "file": "ollama_guard.py:439"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing a different hat.",
+      "file": "ollama_guard.py:607"
     },
     {
       "tag": "TODO",
@@ -10392,76 +10467,6 @@
       "tag": "BUG",
       "text": "this system keeps producing. The local peer gets no",
       "file": "kqml_peer.py:22"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "kqml_peer.py:151"
-    },
-    {
-      "tag": "TODO",
-      "text": "extractions\",    \"\"),",
-      "file": "hexflow_server.py:195"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\", 0),",
-      "file": "hexflow_server.py:334"
-    },
-    {
-      "tag": "TODO",
-      "text": "WHERE status='pending'\").fetchone()[0]",
-      "file": "aegis_survey.py:130"
-    },
-    {
-      "tag": "TODO",
-      "text": "WHERE status='quarantined'\").fetchone()[0]",
-      "file": "aegis_survey.py:131"
-    },
-    {
-      "tag": "TODO",
-      "text": "WHERE status='pending'",
-      "file": "aegis_survey.py:132"
-    },
-    {
-      "tag": "TODO",
-      "text": "surfaced for approval, never auto-actioned. A model that can",
-      "file": "commitments.py:28"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "commitments.py:353"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler",
-      "file": "soak_driver.py:95"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.scan()",
-      "file": "soak_driver.py:98"
-    },
-    {
-      "tag": "BUG",
-      "text": "matched-slug repos never got linked)",
-      "file": "project_sync.py:111"
-    },
-    {
-      "tag": "BUG",
-      "text": "class as closing GitHub issue #220 on a `pass` stub.\",",
-      "file": "seed_lessons_foundry.py:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_signal.py:163"
-    },
-    {
-      "tag": "TODO",
-      "text": "bodies (work() and the loop) and it's a real subsystem.",
-      "file": "proto.py:15"
     }
   ],
   "viper-state": [
