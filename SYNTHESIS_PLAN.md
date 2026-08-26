@@ -54,13 +54,13 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |

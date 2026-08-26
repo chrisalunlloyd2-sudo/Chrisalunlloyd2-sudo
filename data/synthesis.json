@@ -353,16 +353,16 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -701,7 +701,7 @@
       "tag": "BUG",
       "repo": "avatar-creator",
       "task": "vis",
-      "location": "src/main.js:211",
+      "location": "src/main.js:213",
       "domains": []
     },
     {
