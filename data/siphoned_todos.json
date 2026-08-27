@@ -589,6 +589,11 @@
       "file": "streamer.js:18"
     },
     {
+      "tag": "HACK",
+      "text": "to insert below */ }');",
+      "file": "patch.js:4"
+    },
+    {
       "tag": "BUG",
       "text": "vis",
       "file": "src/main.js:213"
@@ -596,7 +601,7 @@
     {
       "tag": "HACK",
       "text": "",
-      "file": "src/avatar/SkinMaterialSystem.js:20"
+      "file": "src/avatar/SkinMaterialSystem.js:24"
     }
   ],
   "BDI_FSM_AGENT": [
@@ -2846,6 +2851,21 @@
     }
   ],
   "Machine2": [
+    {
+      "tag": "TODO",
+      "text": "driver, or by any cell. If you find yourself wanting to rout",
+      "file": "chat_kernels.py:6"
+    },
+    {
+      "tag": "BUG",
+      "text": "waiting for Chris to pick the 9b: 900 tokens at ~1.5 tok/s i",
+      "file": "chat_kernels.py:231"
+    },
+    {
+      "tag": "BUG",
+      "text": "in this codebase this week: a proxy",
+      "file": "chat_kernels.py:454"
+    },
     {
       "tag": "BUG",
       "text": "reports from text.",
@@ -9781,7 +9801,7 @@
     {
       "tag": "BUG",
       "text": "once made a cleanup script kill itself).",
-      "file": "aegis_resume.py:103"
+      "file": "aegis_resume.py:111"
     },
     {
       "tag": "TODO",
@@ -9869,6 +9889,31 @@
       "file": "priority_ledger.py:126"
     },
     {
+      "tag": "TODO",
+      "text": "LIST, which this machine already has nine of:",
+      "file": "sticky.py:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "is TIME-triggered   -- it surfaces when a queue reaches it",
+      "file": "sticky.py:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "pays",
+      "file": "sticky.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "with extra steps.",
+      "file": "sticky.py:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "sticky.py:191"
+    },
+    {
       "tag": "BUG",
       "text": "run exact sophia_loop inference path.\"\"\"",
       "file": "_test_sophia_infer.py:1"
@@ -9945,298 +9990,328 @@
     },
     {
       "tag": "TODO",
+      "text": "driver\"] in hive_daemon is set from -- if you change",
+      "file": "todo_driver.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "TICK_BUDGET_S\", \"240\"))",
+      "file": "todo_driver.py:55"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver\"] was 600s while the honest worst case is 660s.",
+      "file": "todo_driver.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "TAIL_BUDGET_S\", \"180\"))",
+      "file": "todo_driver.py:67"
+    },
+    {
+      "tag": "TODO",
       "text": "driver: {evidence[:300]}\"],",
-      "file": "todo_driver.py:104"
+      "file": "todo_driver.py:132"
     },
     {
       "tag": "TODO",
       "text": "text: str, attempt: int = 0, lesson_hint: str = \"\") -> str |",
-      "file": "todo_driver.py:118"
+      "file": "todo_driver.py:146"
     },
     {
       "tag": "TODO",
       "text": "text}{hint}\\n\"",
-      "file": "todo_driver.py:133"
+      "file": "todo_driver.py:161"
     },
     {
       "tag": "TODO",
       "text": "fn():\")",
-      "file": "todo_driver.py:246"
-    },
-    {
-      "tag": "TODO",
-      "text": "fn():\\n    pass\", \"fitness\": 0.0, \"nash_settled\": True}",
       "file": "todo_driver.py:274"
     },
     {
       "tag": "TODO",
+      "text": "fn():\\n    pass\", \"fitness\": 0.0, \"nash_settled\": True}",
+      "file": "todo_driver.py:302"
+    },
+    {
+      "tag": "TODO",
       "text": "item: dict, code: str, fitness: float, nash_settled: bool):",
-      "file": "todo_driver.py:281"
+      "file": "todo_driver.py:309"
     },
     {
       "tag": "TODO",
       "text": "win\",",
-      "file": "todo_driver.py:283"
+      "file": "todo_driver.py:311"
     },
     {
       "tag": "TODO",
       "text": "id\":     todo_item.get(\"id\"),",
-      "file": "todo_driver.py:285"
+      "file": "todo_driver.py:313"
     },
     {
       "tag": "TODO",
       "text": "item.get(\"repo\"),",
-      "file": "todo_driver.py:286"
+      "file": "todo_driver.py:314"
     },
     {
       "tag": "TODO",
       "text": "text\":   todo_item.get(\"text\", \"\")[:120],",
-      "file": "todo_driver.py:287"
+      "file": "todo_driver.py:315"
     },
     {
       "tag": "TODO",
       "text": "item: dict, outcome: str):",
-      "file": "todo_driver.py:300"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver\",",
-      "file": "todo_driver.py:307"
-    },
-    {
-      "tag": "TODO",
-      "text": "done: [{todo_item.get('repo')}] {todo_item.get('text','')[:8",
-      "file": "todo_driver.py:308"
-    },
-    {
-      "tag": "TODO",
-      "text": "item: dict, result: dict):",
-      "file": "todo_driver.py:319"
-    },
-    {
-      "tag": "TODO",
-      "text": "item.get(\"id\"),",
-      "file": "todo_driver.py:326"
-    },
-    {
-      "tag": "TODO",
-      "text": "item.get(\"text\", \"\")[:120],",
-      "file": "todo_driver.py:327"
-    },
-    {
-      "tag": "TODO",
-      "text": "item.get(\"repo\"),",
       "file": "todo_driver.py:328"
     },
     {
       "tag": "TODO",
-      "text": "wins(limit: int = 50) -> list[dict]:",
+      "text": "driver\",",
+      "file": "todo_driver.py:335"
+    },
+    {
+      "tag": "TODO",
+      "text": "done: [{todo_item.get('repo')}] {todo_item.get('text','')[:8",
+      "file": "todo_driver.py:336"
+    },
+    {
+      "tag": "TODO",
+      "text": "item: dict, result: dict):",
       "file": "todo_driver.py:347"
     },
     {
       "tag": "TODO",
+      "text": "item.get(\"id\"),",
+      "file": "todo_driver.py:354"
+    },
+    {
+      "tag": "TODO",
+      "text": "item.get(\"text\", \"\")[:120],",
+      "file": "todo_driver.py:355"
+    },
+    {
+      "tag": "TODO",
+      "text": "item.get(\"repo\"),",
+      "file": "todo_driver.py:356"
+    },
+    {
+      "tag": "TODO",
+      "text": "wins(limit: int = 50) -> list[dict]:",
+      "file": "todo_driver.py:375"
+    },
+    {
+      "tag": "TODO",
       "text": "win ever recorded, newest last, read from the JSONL log.",
-      "file": "todo_driver.py:348"
+      "file": "todo_driver.py:376"
     },
     {
       "tag": "TODO",
       "text": "id\"):",
-      "file": "todo_driver.py:362"
+      "file": "todo_driver.py:390"
     },
     {
       "tag": "TODO",
       "text": "wins \u2014 shared by the HEX GAME gist and AEGIS survey.\"\"\"",
-      "file": "todo_driver.py:379"
-    },
-    {
-      "tag": "TODO",
-      "text": "wins(50)",
-      "file": "todo_driver.py:380"
-    },
-    {
-      "tag": "TODO",
-      "text": "wins recorded yet_\\n\"",
-      "file": "todo_driver.py:382"
-    },
-    {
-      "tag": "TODO",
-      "text": "win as a HEX GAME move entry.\"\"\"",
-      "file": "todo_driver.py:394"
-    },
-    {
-      "tag": "TODO",
-      "text": "win to AEGIS survey gist via aegis_gist.\"\"\"",
       "file": "todo_driver.py:407"
     },
     {
       "tag": "TODO",
-      "text": "WINS.md file into the 4D HEX GAME gist as a live move board.",
-      "file": "todo_driver.py:417"
+      "text": "wins(50)",
+      "file": "todo_driver.py:408"
     },
     {
       "tag": "TODO",
-      "text": "WINS - brute-foundry hex territory\\n\"",
-      "file": "todo_driver.py:418"
+      "text": "wins recorded yet_\\n\"",
+      "file": "todo_driver.py:410"
     },
     {
       "tag": "TODO",
-      "text": "driver*\\n\\n\"",
-      "file": "todo_driver.py:419"
+      "text": "win as a HEX GAME move entry.\"\"\"",
+      "file": "todo_driver.py:422"
     },
     {
       "tag": "TODO",
-      "text": "WINS.md\": {\"content\": body}}",
-      "file": "todo_driver.py:423"
-    },
-    {
-      "tag": "TODO",
-      "text": "win to catalog_export.json's todo_driver section, then trigg",
+      "text": "win to AEGIS survey gist via aegis_gist.\"\"\"",
       "file": "todo_driver.py:435"
     },
     {
       "tag": "TODO",
+      "text": "WINS.md file into the 4D HEX GAME gist as a live move board.",
+      "file": "todo_driver.py:445"
+    },
+    {
+      "tag": "TODO",
+      "text": "WINS - brute-foundry hex territory\\n\"",
+      "file": "todo_driver.py:446"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver*\\n\\n\"",
+      "file": "todo_driver.py:447"
+    },
+    {
+      "tag": "TODO",
+      "text": "WINS.md\": {\"content\": body}}",
+      "file": "todo_driver.py:451"
+    },
+    {
+      "tag": "TODO",
+      "text": "win to catalog_export.json's todo_driver section, then trigg",
+      "file": "todo_driver.py:463"
+    },
+    {
+      "tag": "TODO",
       "text": "driver_wins\", [])",
-      "file": "todo_driver.py:440"
+      "file": "todo_driver.py:468"
     },
     {
       "tag": "TODO",
       "text": "driver_wins\"] = wins[-100:]   # keep last 100",
-      "file": "todo_driver.py:449"
+      "file": "todo_driver.py:477"
     },
     {
       "tag": "TODO",
       "text": "resolves.\"\"\"",
-      "file": "todo_driver.py:469"
+      "file": "todo_driver.py:497"
     },
     {
       "tag": "TODO",
       "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "todo_driver.py:482"
+      "file": "todo_driver.py:510"
     },
     {
       "tag": "TODO",
       "text": "id   = item.get(\"id\", \"?\")",
-      "file": "todo_driver.py:489"
+      "file": "todo_driver.py:517"
     },
     {
       "tag": "TODO",
       "text": "driver] -> [{item.get('repo')}] {text[:70]}\")",
-      "file": "todo_driver.py:493"
+      "file": "todo_driver.py:523"
     },
     {
       "tag": "TODO",
       "text": "{todo_id}:{attempt}\")",
-      "file": "todo_driver.py:528"
+      "file": "todo_driver.py:570"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:587"
+      "file": "todo_driver.py:629"
     },
     {
       "tag": "TODO",
       "text": "crawl.tick_off(item, evidence=closed_reason)",
-      "file": "todo_driver.py:588"
+      "file": "todo_driver.py:630"
     },
     {
       "tag": "TODO",
       "text": "id\": todo_id, \"repo\": item.get(\"repo\"), \"text\": text[:80],",
-      "file": "todo_driver.py:602"
+      "file": "todo_driver.py:644"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:617"
+      "file": "todo_driver.py:665"
     },
     {
       "tag": "TODO",
       "text": "DRIVER_LIFE_S\", str(6 * 3600)))",
-      "file": "todo_driver.py:619"
+      "file": "todo_driver.py:667"
     },
     {
       "tag": "TODO",
       "text": "driver] starting \u2014 max_todos={max_todos} interval={interval_",
-      "file": "todo_driver.py:622"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl fallback",
-      "file": "todo_driver.py:631"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl.crawl()",
-      "file": "todo_driver.py:632"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver] done \u2014 processed {done} todos\")",
-      "file": "todo_driver.py:648"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver\", \"once\", 300, 2) and has",
-      "file": "todo_driver.py:654"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl",
-      "file": "todo_driver.py:669"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl.crawl()",
       "file": "todo_driver.py:670"
     },
     {
       "tag": "TODO",
-      "text": "id\": rec.get(\"todo_id\"), \"fitness\": rec.get(\"fitness\"),",
-      "file": "todo_driver.py:680"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\"):",
-      "file": "todo_driver.py:696"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\"])",
-      "file": "todo_driver.py:697"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\" in r]",
-      "file": "todo_driver.py:711"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: no runs yet\"",
-      "file": "todo_driver.py:724"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\" in l]",
-      "file": "todo_driver.py:726"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: {len(rows)} processed \u00b7 {ticked} ticked \u00b7 {len(rows)",
-      "file": "todo_driver.py:728"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: error ({e})\"",
-      "file": "todo_driver.py:730"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl",
-      "file": "todo_driver.py:738"
+      "text": "crawl fallback",
+      "file": "todo_driver.py:679"
     },
     {
       "tag": "TODO",
       "text": "crawl.crawl()",
-      "file": "todo_driver.py:739"
+      "file": "todo_driver.py:680"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver] done \u2014 processed {done} todos\")",
+      "file": "todo_driver.py:696"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver\", \"once\", 300, 2) and has",
+      "file": "todo_driver.py:702"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "todo_driver.py:717"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.crawl()",
+      "file": "todo_driver.py:718"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": rec.get(\"todo_id\"), \"fitness\": rec.get(\"fitness\"),",
+      "file": "todo_driver.py:728"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"):",
+      "file": "todo_driver.py:747"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"])",
+      "file": "todo_driver.py:748"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\" in r]",
+      "file": "todo_driver.py:762"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver: no runs yet\"",
+      "file": "todo_driver.py:775"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\" in l]",
+      "file": "todo_driver.py:777"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver: {len(rows)} processed \u00b7 {ticked} ticked \u00b7 {len(rows)",
+      "file": "todo_driver.py:779"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver: error ({e})\"",
+      "file": "todo_driver.py:781"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "todo_driver.py:789"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.crawl()",
+      "file": "todo_driver.py:790"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver\")",
+      "file": "todo_driver.py:822"
+    },
+    {
+      "tag": "BUG",
+      "text": "instead of catching it.",
+      "file": "todo_driver.py:824"
     },
     {
       "tag": "BUG",
@@ -10412,61 +10487,6 @@
       "tag": "BUG",
       "text": "from 2026-08-03/04, listed against its law below. The",
       "file": "wiring_contract.py:34"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "m2_watchdog.py:96"
-    },
-    {
-      "tag": "BUG",
-      "text": "to get right, and duplicating that here",
-      "file": "bdi_cell.py:95"
-    },
-    {
-      "tag": "BUG",
-      "text": "fixed: digest() computed max_pid/max_fid *inside* the try bl",
-      "file": "moe_heartbeat.py:6"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_command_center.py:483"
-    },
-    {
-      "tag": "TODO",
-      "text": "*.md` files \u2014 \"gits-as-todos\".",
-      "file": "ONBOARDING.md:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "ONBOARDING.md:41"
-    },
-    {
-      "tag": "TODO",
-      "text": "state open        # the shared queue, same on every machine",
-      "file": "ONBOARDING.md:43"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py scan                 # AST-crawl the repo for rea",
-      "file": "ONBOARDING.md:49"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py sync                 # publish new items to the G",
-      "file": "ONBOARDING.md:50"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "e2e_summary.py:84"
-    },
-    {
-      "tag": "BUG",
-      "text": "this system keeps producing. The local peer gets no",
-      "file": "kqml_peer.py:22"
     }
   ],
   "viper-state": [
