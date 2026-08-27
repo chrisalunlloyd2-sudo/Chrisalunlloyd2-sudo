@@ -14,21 +14,21 @@
 <title>Aegis_Agents</title>
 <path fill="#161b22" stroke="#58a6ff" d="M215,-922.35C215,-922.35 41,-922.35 41,-922.35 35,-922.35 29,-916.35 29,-910.35 29,-910.35 29,-896.35 29,-896.35 29,-890.35 35,-884.35 41,-884.35 41,-884.35 215,-884.35 215,-884.35 221,-884.35 227,-890.35 227,-896.35 227,-896.35 227,-910.35 227,-910.35 227,-916.35 221,-922.35 215,-922.35"/>
 <text text-anchor="middle" x="128" y="-907.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">Aegis_Agents</text>
-<text text-anchor="middle" x="128" y="-892.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Telemetry, Agent/BDI]</text>
+<text text-anchor="middle" x="128" y="-892.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, Telemetry]</text>
 </g>
 <!-- Chrisalunlloyd2&#45;sudo -->
 <g id="node2" class="node">
 <title>Chrisalunlloyd2&#45;sudo</title>
 <path fill="#161b22" stroke="#58a6ff" d="M536,-922.35C536,-922.35 362,-922.35 362,-922.35 356,-922.35 350,-916.35 350,-910.35 350,-910.35 350,-896.35 350,-896.35 350,-890.35 356,-884.35 362,-884.35 362,-884.35 536,-884.35 536,-884.35 542,-884.35 548,-890.35 548,-896.35 548,-896.35 548,-910.35 548,-910.35 548,-916.35 542,-922.35 536,-922.35"/>
 <text text-anchor="middle" x="449" y="-907.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">Chrisalunlloyd2&#45;sudo</text>
-<text text-anchor="middle" x="449" y="-892.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Telemetry, Agent/BDI]</text>
+<text text-anchor="middle" x="449" y="-892.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, Telemetry]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;Chrisalunlloyd2&#45;sudo -->
 <g id="edge1" class="edge">
 <title>Aegis_Agents&#45;&gt;Chrisalunlloyd2&#45;sudo</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M227.31,-903.35C263.48,-903.35 304.59,-903.35 341.45,-903.35"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="341.74,-906.15 349.74,-903.35 341.74,-900.55 341.74,-906.15"/>
-<text text-anchor="middle" x="303" y="-906.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="303" y="-906.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- H2OIDE -->
 <g id="node3" class="node">
@@ -77,7 +77,7 @@
 <title>MatrixCE_GUI</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1214,-1354.35C1214,-1354.35 1056,-1354.35 1056,-1354.35 1050,-1354.35 1044,-1348.35 1044,-1342.35 1044,-1342.35 1044,-1328.35 1044,-1328.35 1044,-1322.35 1050,-1316.35 1056,-1316.35 1056,-1316.35 1214,-1316.35 1214,-1316.35 1220,-1316.35 1226,-1322.35 1226,-1328.35 1226,-1328.35 1226,-1342.35 1226,-1342.35 1226,-1348.35 1220,-1354.35 1214,-1354.35"/>
 <text text-anchor="middle" x="1135" y="-1339.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MatrixCE_GUI</text>
-<text text-anchor="middle" x="1135" y="-1324.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Agent/BDI]</text>
+<text text-anchor="middle" x="1135" y="-1324.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, API/Web]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MatrixCE_GUI -->
 <g id="edge5" class="edge">
@@ -91,14 +91,14 @@
 <title>MATRIX_GEN8_HOME</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1490,-953.35C1490,-953.35 1332,-953.35 1332,-953.35 1326,-953.35 1320,-947.35 1320,-941.35 1320,-941.35 1320,-927.35 1320,-927.35 1320,-921.35 1326,-915.35 1332,-915.35 1332,-915.35 1490,-915.35 1490,-915.35 1496,-915.35 1502,-921.35 1502,-927.35 1502,-927.35 1502,-941.35 1502,-941.35 1502,-947.35 1496,-953.35 1490,-953.35"/>
 <text text-anchor="middle" x="1411" y="-938.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MATRIX_GEN8_HOME</text>
-<text text-anchor="middle" x="1411" y="-923.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Telemetry]</text>
+<text text-anchor="middle" x="1411" y="-923.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, API/Web]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MATRIX_GEN8_HOME -->
 <g id="edge6" class="edge">
 <title>Aegis_Agents&#45;&gt;MATRIX_GEN8_HOME</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M227.25,-911.09C238.22,-915.72 248.22,-922.25 256,-931.35 298.68,-981.27 226.17,-1181.34 274,-1226.35 363.18,-1310.25 702.56,-1227.82 825,-1226.35 880.57,-1225.68 896.79,-1239.37 950,-1223.35 1133.72,-1168.03 1315.94,-1018.13 1383.02,-958.9"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1385.03,-960.86 1389.15,-953.46 1381.31,-956.68 1385.03,-960.86"/>
-<text text-anchor="middle" x="796" y="-1233.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="796" y="-1233.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- mind&#45;palace -->
 <g id="node9" class="node">
@@ -147,7 +147,7 @@
 <title>openrouter_manager</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1766,-1317.35C1766,-1317.35 1608,-1317.35 1608,-1317.35 1602,-1317.35 1596,-1311.35 1596,-1305.35 1596,-1305.35 1596,-1291.35 1596,-1291.35 1596,-1285.35 1602,-1279.35 1608,-1279.35 1608,-1279.35 1766,-1279.35 1766,-1279.35 1772,-1279.35 1778,-1285.35 1778,-1291.35 1778,-1291.35 1778,-1305.35 1778,-1305.35 1778,-1311.35 1772,-1317.35 1766,-1317.35"/>
 <text text-anchor="middle" x="1687" y="-1302.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">openrouter_manager</text>
-<text text-anchor="middle" x="1687" y="-1287.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Agent/BDI]</text>
+<text text-anchor="middle" x="1687" y="-1287.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, API/Web]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;openrouter_manager -->
 <g id="edge10" class="edge">
@@ -189,14 +189,14 @@
 <title>SimsMerged</title>
 <path fill="#161b22" stroke="#58a6ff" d="M2937,-1077.35C2937,-1077.35 2763,-1077.35 2763,-1077.35 2757,-1077.35 2751,-1071.35 2751,-1065.35 2751,-1065.35 2751,-1051.35 2751,-1051.35 2751,-1045.35 2757,-1039.35 2763,-1039.35 2763,-1039.35 2937,-1039.35 2937,-1039.35 2943,-1039.35 2949,-1045.35 2949,-1051.35 2949,-1051.35 2949,-1065.35 2949,-1065.35 2949,-1071.35 2943,-1077.35 2937,-1077.35"/>
 <text text-anchor="middle" x="2850" y="-1062.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">SimsMerged</text>
-<text text-anchor="middle" x="2850" y="-1047.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Telemetry, Agent/BDI]</text>
+<text text-anchor="middle" x="2850" y="-1047.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, Telemetry]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;SimsMerged -->
 <g id="edge13" class="edge">
 <title>Aegis_Agents&#45;&gt;SimsMerged</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M227.11,-910.81C238.18,-915.48 248.24,-922.09 256,-931.35 287.14,-968.51 248.09,-1326.37 274,-1367.35 319.69,-1439.61 362.51,-1449.35 448,-1449.35 448,-1449.35 448,-1449.35 2588,-1449.35 2763.33,-1449.35 2828.19,-1174.02 2844.52,-1085.45"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="2847.3,-1085.84 2845.95,-1077.47 2841.78,-1084.85 2847.3,-1085.84"/>
-<text text-anchor="middle" x="1549" y="-1452.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="1549" y="-1452.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- Chrisalunlloyd2&#45;sudo&#45;&gt;H2OIDE -->
 <g id="edge14" class="edge">
@@ -231,7 +231,7 @@
 <title>Chrisalunlloyd2&#45;sudo&#45;&gt;MATRIX_GEN8_HOME</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M490.88,-922.51C550.16,-949.14 664.18,-996.02 767,-1013.35 975.16,-1048.44 1223.71,-989.61 1341.54,-955.72"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1342.55,-958.34 1349.46,-953.42 1340.99,-952.96 1342.55,-958.34"/>
-<text text-anchor="middle" x="896.5" y="-1026.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="896.5" y="-1026.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- Chrisalunlloyd2&#45;sudo&#45;&gt;mind&#45;palace -->
 <g id="edge19" class="edge">
@@ -280,7 +280,7 @@
 <title>Chrisalunlloyd2&#45;sudo&#45;&gt;SimsMerged</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M471.38,-922.48C503.44,-951.11 560.77,-1002.11 566,-1005.35 597.02,-1024.55 607.18,-1025.46 642,-1036.35 903.6,-1118.18 972.84,-1130.31 1244,-1170.35 1298.12,-1178.34 2171.29,-1243.35 2226,-1243.35 2226,-1243.35 2226,-1243.35 2588,-1243.35 2696.97,-1243.35 2792.21,-1134.69 2830.76,-1083.92"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="2833.05,-1085.53 2835.61,-1077.45 2828.57,-1082.18 2833.05,-1085.53"/>
-<text text-anchor="middle" x="1687" y="-1215.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="1687" y="-1215.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- H2OIDE&#45;&gt;H2OMatrixCE -->
 <g id="edge26" class="edge">
@@ -462,14 +462,14 @@
 <title>MatrixCE_GUI&#45;&gt;MATRIX_GEN8_HOME</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1156.57,-1316.22C1191.2,-1282.97 1261.36,-1210.98 1302,-1137.35 1314.63,-1114.46 1309.1,-1105.11 1320,-1081.35 1340.48,-1036.72 1371.68,-988.91 1391.45,-960.33"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1393.94,-961.65 1396.21,-953.49 1389.34,-958.45 1393.94,-961.65"/>
-<text text-anchor="middle" x="1273" y="-1221.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text text-anchor="middle" x="1273" y="-1221.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MatrixCE_GUI&#45;&gt;openrouter_manager -->
 <g id="edge51" class="edge">
 <title>MatrixCE_GUI&#45;&gt;openrouter_manager</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1226.21,-1329.28C1325.61,-1322.59 1484.96,-1311.87 1587.54,-1304.97"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1587.95,-1307.75 1595.75,-1304.42 1587.58,-1302.16 1587.95,-1307.75"/>
-<text text-anchor="middle" x="1411" y="-1325.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text text-anchor="middle" x="1411" y="-1325.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MatrixCE_GUI&#45;&gt;SimsMerged -->
 <g id="edge52" class="edge">
@@ -504,7 +504,7 @@
 <title>MATRIX_GEN8_HOME&#45;&gt;openrouter_manager</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1423.82,-953.56C1462.76,-1016.84 1585.21,-1215.34 1596,-1227.35 1611.85,-1245 1632.45,-1261.6 1649.94,-1274.31"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1648.58,-1276.78 1656.72,-1279.15 1651.84,-1272.22 1648.58,-1276.78"/>
-<text text-anchor="middle" x="1549" y="-1199.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text text-anchor="middle" x="1549" y="-1199.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MATRIX_GEN8_HOME&#45;&gt;sims&#45;java&#45;neo&#45;fx -->
 <g id="edge57" class="edge">
@@ -525,7 +525,7 @@
 <title>MATRIX_GEN8_HOME&#45;&gt;SimsMerged</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1475.5,-953.36C1551.07,-975.06 1681.46,-1009.58 1796,-1025.35 2139.64,-1072.65 2552.03,-1067.98 2742.72,-1062.38"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="2742.88,-1065.18 2750.79,-1062.14 2742.71,-1059.58 2742.88,-1065.18"/>
-<text text-anchor="middle" x="2126.5" y="-1061.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Telemetry </text>
+<text text-anchor="middle" x="2126.5" y="-1061.15" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- mind&#45;palace&#45;&gt;mindpalace -->
 <g id="edge60" class="edge">
