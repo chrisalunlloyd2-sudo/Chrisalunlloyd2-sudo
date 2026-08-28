@@ -705,7 +705,7 @@
   <text x="200.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
   <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">vis</text>
   
-  <title>[avatar-creator] BUG: vis (src/main.js:213)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG: vis (src/main.js:214)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#271d13" stroke="#d29922" stroke-width="1.5" />
   <text x="245.0" y="898.384387633061" fill="#d29922" font-weight="bold" font-size="9" text-anchor="middle">HACK</text>
   <text x="245.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>

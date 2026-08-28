@@ -596,7 +596,7 @@
     {
       "tag": "BUG",
       "text": "vis",
-      "file": "src/main.js:213"
+      "file": "src/main.js:214"
     },
     {
       "tag": "HACK",
