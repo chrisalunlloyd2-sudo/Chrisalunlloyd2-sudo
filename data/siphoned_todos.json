@@ -533,6 +533,26 @@
       "tag": "TODO",
       "text": "count, has_git FROM projects \"",
       "file": "agent_squiggly.py:599"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement",
+      "file": "mined/mined_d3d8d2e9.py:8"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_601b4cd4.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "win[\"todo_win\"]",
+      "file": "dags/thing_redundancies.mmd:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "win_[\"'todo_win:\"]",
+      "file": "dags/thing_alerts.mmd:14"
     }
   ],
   "ArchivalMoe": [
