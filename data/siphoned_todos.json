@@ -536,8 +536,28 @@
     },
     {
       "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_be908c9a.py:2"
+    },
+    {
+      "tag": "TODO",
       "text": "Implement",
       "file": "mined/mined_d3d8d2e9.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_7be9d777.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_2b9a10d6.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "list assembled.\")",
+      "file": "mined/mined_2b9a10d6.py:26"
     },
     {
       "tag": "BUG",
@@ -614,14 +634,134 @@
       "file": "patch.js:4"
     },
     {
+      "tag": "TODO",
+      "text": "this is wrong if children's scrollHeight makes for a gui tal",
+      "file": "vendor/lil-gui.esm.min.js:2207"
+    },
+    {
+      "tag": "TODO",
+      "text": "lengthSquared?",
+      "file": "vendor/three/three.module.js:4393"
+    },
+    {
+      "tag": "TODO",
+      "text": "make this more efficient",
+      "file": "vendor/three/three.module.js:6363"
+    },
+    {
+      "tag": "TODO",
+      "text": "Copied from Object3D.toJSON",
+      "file": "vendor/three/three.module.js:9597"
+    },
+    {
+      "tag": "TODO",
+      "text": "(abelnation): RectAreaLight BRDF data needs to be moved from",
+      "file": "vendor/three/three.module.js:14595"
+    },
+    {
+      "tag": "TODO",
+      "text": "Attribute may not be available on context restore",
+      "file": "vendor/three/three.module.js:15585"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "vendor/three/three.module.js:19206"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "vendor/three/three.module.js:19223"
+    },
+    {
+      "tag": "BUG",
+      "text": "shaders' ).getTranslatedShaderSource( shader ) );",
+      "file": "vendor/three/three.module.js:19471"
+    },
+    {
+      "tag": "TODO",
+      "text": "Send this event to Three.js DevTools",
+      "file": "vendor/three/three.module.js:19878"
+    },
+    {
+      "tag": "TODO",
+      "text": "(abelnation): set RectAreaLight shadow uniforms",
+      "file": "vendor/three/three.module.js:21679"
+    },
+    {
+      "tag": "TODO",
+      "text": "do it if required only",
+      "file": "vendor/three/three.module.js:21860"
+    },
+    {
+      "tag": "TODO",
+      "text": "Uniformly handle mipmap definitions",
+      "file": "vendor/three/three.module.js:25561"
+    },
+    {
+      "tag": "TODO",
+      "text": "Remove this when possible, see #23278",
+      "file": "vendor/three/three.module.js:27457"
+    },
+    {
+      "tag": "TODO",
+      "text": "Better way to apply this offset?",
+      "file": "vendor/three/three.module.js:27596"
+    },
+    {
+      "tag": "TODO",
+      "text": "add integer and struct support",
+      "file": "vendor/three/three.module.js:28649"
+    },
+    {
+      "tag": "BUG",
+      "text": "configuration container",
+      "file": "vendor/three/three.module.js:28975"
+    },
+    {
+      "tag": "BUG",
+      "text": "= {",
+      "file": "vendor/three/three.module.js:28976"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "vendor/three/three.module.js:30347"
+    },
+    {
+      "tag": "TODO",
+      "text": "(abelnation): add area lights shadow info to uniforms",
+      "file": "vendor/three/three.module.js:30600"
+    },
+    {
+      "tag": "TODO",
+      "text": "consider referencing vectors instead of copying?",
+      "file": "vendor/three/three.module.js:37515"
+    },
+    {
+      "tag": "TODO",
+      "text": "Move this bit to Light.fromJSON();",
+      "file": "vendor/three/three.module.js:46385"
+    },
+    {
+      "tag": "TODO",
+      "text": "delete this comment?",
+      "file": "vendor/three/three.module.js:53223"
+    },
+    {
       "tag": "BUG",
       "text": "vis",
-      "file": "src/main.js:214"
+      "file": "src/main.js:222"
     },
     {
       "tag": "HACK",
       "text": "",
       "file": "src/avatar/SkinMaterialSystem.js:24"
+    },
+    {
+      "tag": "BUG",
+      "text": "the pleasure loop, aesthetic parser, and",
+      "file": "backend/bilingual.py:3"
     }
   ],
   "BDI_FSM_AGENT": [
