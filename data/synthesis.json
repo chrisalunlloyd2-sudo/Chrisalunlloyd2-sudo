@@ -1,12 +1,12 @@
 {
-  "total_repos": 60,
+  "total_repos": 59,
   "cross_links": [
     {
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -584,8 +584,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -704,22 +704,76 @@
       "repo": "avatar-creator",
       "task": "workarounds',",
       "location": "streamer.js:18",
-      "domains": []
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "",
+      "location": "vendor/three/three.module.js:19206",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "",
+      "location": "vendor/three/three.module.js:19223",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "shaders' ).getTranslatedShaderSource( shader ) );",
+      "location": "vendor/three/three.module.js:19471",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "configuration container",
+      "location": "vendor/three/three.module.js:28975",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "= {",
+      "location": "vendor/three/three.module.js:28976",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "avatar-creator",
+      "task": "",
+      "location": "vendor/three/three.module.js:30347",
+      "domains": [
+        "General"
+      ]
     },
     {
       "priority": 1,
       "tag": "BUG",
       "repo": "avatar-creator",
       "task": "vis",
-      "location": "src/main.js:214",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "signature is absent from the real scan:",
-      "location": "tests/test_seed_factory_paths.py:22",
+      "location": "src/main.js:222",
       "domains": [
         "General"
       ]
@@ -727,59 +781,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "`json` was never imported at module level, so",
-      "location": "tests/test_corpus_gather.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "fix: \"ordered list\" must not also produce a bullet \"list\"",
-      "location": "tests/test_code_ask.py:10",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "\"android.contentEvil\" must NOT be allowed",
-      "location": "tests/test_domain_node.py:17",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "we fixed: treating an already-SATISFIED clause as a unit and",
-      "location": "pedagogy/dpll_sat.md:6",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "",
-      "location": "docs/BANBURISMUS.md:110",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "BDI_FSM_AGENT",
-      "task": "fixed from the original sketch)",
-      "location": "docs/programmatic_meaning.md:41",
+      "repo": "avatar-creator",
+      "task": "the pleasure loop, aesthetic parser, and",
+      "location": "backend/bilingual.py:3",
       "domains": [
         "General"
       ]
