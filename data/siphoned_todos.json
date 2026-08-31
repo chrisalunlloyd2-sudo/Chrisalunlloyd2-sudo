@@ -620,9 +620,29 @@
       "tag": "BUG",
       "text": "or missing error handler in {project}. Show the corrected co",
       "file": "agents/update_agent.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "89e1764f6162 \u2014 SYNTAX",
+      "file": "todo/todo_89e1764f6162_file_does_not_parse_unterminat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "7c6cf9e193b9 \u2014 STUB",
+      "file": "todo/todo_7c6cf9e193b9_function_chat_start_is_an_empt.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "1cbaad1a98c4 \u2014 STUB",
+      "file": "todo/todo_1cbaad1a98c4_function_chat_end_is_an_empty_.md:1"
     }
   ],
   "avatar-creator": [
+    {
+      "tag": "BUG",
+      "text": "without ever opening a browser.",
+      "file": "TERMUX_SETUP.md:30"
+    },
     {
       "tag": "BUG",
       "text": "workarounds',",
@@ -7383,6 +7403,11 @@
   "mindpalace": [
     {
       "tag": "TODO",
+      "text": "crystals\",\"08_hall_lookback\",\"09_agents\"]",
+      "file": "e2e.sh:34"
+    },
+    {
+      "tag": "TODO",
       "text": "crystals, lab devices",
       "file": "ROADMAP.md:23"
     },
@@ -9665,8 +9690,18 @@
     },
     {
       "tag": "TODO",
+      "text": "crawl.crawl(), which scans C:\\Viper\\projects for unchecked m",
+      "file": "miner_daemon.py:159"
+    },
+    {
+      "tag": "TODO",
+      "text": "ids are cut to 16 chars, so \"contradiction_finder\" and",
+      "file": "miner_daemon.py:225"
+    },
+    {
+      "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "code_ledger.py:270"
+      "file": "code_ledger.py:281"
     },
     {
       "tag": "BUG",
@@ -9826,7 +9861,7 @@
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "ramp_controller.py:233"
+      "file": "ramp_controller.py:246"
     },
     {
       "tag": "TODO",
@@ -9895,6 +9930,11 @@
     },
     {
       "tag": "TODO",
+      "text": "crawler is documentation, not a hand-wave.",
+      "file": "block_promoter.py:128"
+    },
+    {
+      "tag": "TODO",
       "text": "driver     hung 1531s against a 90s budget   -> calls the mo",
       "file": "ollama_guard.py:16"
     },
@@ -9906,12 +9946,12 @@
     {
       "tag": "TODO",
       "text": "driver, aegis_piano and the MoeGUI bridge on 2026-08-25 whil",
-      "file": "ollama_guard.py:439"
+      "file": "ollama_guard.py:631"
     },
     {
       "tag": "BUG",
       "text": "wearing a different hat.",
-      "file": "ollama_guard.py:607"
+      "file": "ollama_guard.py:804"
     },
     {
       "tag": "TODO",
@@ -10107,6 +10147,11 @@
       "tag": "BUG",
       "text": "and a fixable one.",
       "file": "hero_kernel.py:619"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing a feature's clothes. `up` and",
+      "file": "supervisor.py:81"
     },
     {
       "tag": "TODO",
@@ -10627,26 +10672,6 @@
       "tag": "TODO",
       "text": "tighten this\\n\\n\"",
       "file": "ast_todo_crawler.py:386"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement'\\n\"                       # marker inside a string",
-      "file": "ast_todo_crawler.py:390"
-    },
-    {
-      "tag": "BUG",
-      "text": "2026-07-26: mid-sentence",
-      "file": "ast_todo_crawler.py:396"
-    },
-    {
-      "tag": "BUG",
-      "text": "is BETWEEN files, so the entire class was",
-      "file": "wiring_contract.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "from 2026-08-03/04, listed against its law below. The",
-      "file": "wiring_contract.py:34"
     }
   ],
   "viper-state": [
