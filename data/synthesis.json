@@ -353,16 +353,16 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -584,8 +584,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -614,6 +614,26 @@
       "repo": "agent-squiggly",
       "task": "",
       "location": "mined/mined_601b4cd4.py:15",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "that would have caught the last bug",
+      "location": "mined/mined_1c038099.py:11",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Alice",
+      "task": "Cube**: Red cube deployed to test Three.js rendering.",
+      "location": "CHANGELOG.md:13",
       "domains": [
         "General"
       ]
@@ -764,26 +784,6 @@
       "repo": "avatar-creator",
       "task": "= {",
       "location": "vendor/three/three.module.js:28976",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "",
-      "location": "vendor/three/three.module.js:30347",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "vis",
-      "location": "src/main.js:222",
       "domains": [
         "General"
       ]

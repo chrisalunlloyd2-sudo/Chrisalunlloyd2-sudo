@@ -54,13 +54,13 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI, Telemetry |
@@ -90,10 +90,10 @@
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
 - 🔴 **[BUG]** `agent-squiggly` →  *(mined/mined_601b4cd4.py:15)*
+- 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099.py:11)*
+- 🔴 **[BUG]** `Alice` → Cube**: Red cube deployed to test Three.js rendering. *(CHANGELOG.md:13)*
 - 🔴 **[BUG]** `ArchivalMoe` → hunter. Here is a real function from {project}, file `{file} *(moa_orchestrator.py:36)*
 - 🔴 **[BUG]** `ArchivalMoe` → reports from text. *(README.md:207)*
 - 🔴 **[BUG]** `ArchivalMoe` → report"), *(context_injector.py:201)*
 - 🔴 **[BUG]** `ArchivalMoe` → reports from text. *(context_injector.py:207)*
 - 🔴 **[BUG]** `ArchivalMoe` → report", "action") else "normal" *(context_injector.py:216)*
-- 🔴 **[BUG]** `ArchivalMoe` → report → proposed_updates with diff_type='bugfix' *(context_injector.py:225)*
-- 🔴 **[BUG]** `ArchivalMoe` → report" else "improve" *(context_injector.py:241)*
