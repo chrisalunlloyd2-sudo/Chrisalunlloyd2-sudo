@@ -560,9 +560,19 @@
       "file": "mined/mined_2b9a10d6.py:26"
     },
     {
+      "tag": "TODO",
+      "text": "Add your actual implementation here",
+      "file": "mined/mined_cc22f550.py:33"
+    },
+    {
       "tag": "BUG",
       "text": "",
       "file": "mined/mined_601b4cd4.py:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "that would have caught the last bug",
+      "file": "mined/mined_1c038099.py:11"
     },
     {
       "tag": "TODO",
@@ -573,6 +583,13 @@
       "tag": "TODO",
       "text": "win_[\"'todo_win:\"]",
       "file": "dags/thing_alerts.mmd:14"
+    }
+  ],
+  "Alice": [
+    {
+      "tag": "BUG",
+      "text": "Cube**: Red cube deployed to test Three.js rendering.",
+      "file": "CHANGELOG.md:13"
     }
   ],
   "ArchivalMoe": [
@@ -771,7 +788,7 @@
     {
       "tag": "BUG",
       "text": "vis",
-      "file": "src/main.js:222"
+      "file": "src/main.js:232"
     },
     {
       "tag": "HACK",
@@ -7403,8 +7420,13 @@
   "mindpalace": [
     {
       "tag": "TODO",
-      "text": "crystals\",\"08_hall_lookback\",\"09_agents\"]",
-      "file": "e2e.sh:34"
+      "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
+      "file": "e2e.sh:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
+      "file": "e2e.sh:79"
     },
     {
       "tag": "TODO",
@@ -7419,12 +7441,12 @@
     {
       "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:147"
+      "file": "CROSS_CORRELATED_ROADMAP.md:151"
     },
     {
       "tag": "BUG",
       "text": "#1)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:189"
+      "file": "CROSS_CORRELATED_ROADMAP.md:193"
     },
     {
       "tag": "TODO",
@@ -9691,12 +9713,12 @@
     {
       "tag": "TODO",
       "text": "crawl.crawl(), which scans C:\\Viper\\projects for unchecked m",
-      "file": "miner_daemon.py:159"
+      "file": "miner_daemon.py:209"
     },
     {
       "tag": "TODO",
       "text": "ids are cut to 16 chars, so \"contradiction_finder\" and",
-      "file": "miner_daemon.py:225"
+      "file": "miner_daemon.py:275"
     },
     {
       "tag": "TODO",
@@ -9931,7 +9953,32 @@
     {
       "tag": "TODO",
       "text": "crawler is documentation, not a hand-wave.",
-      "file": "block_promoter.py:128"
+      "file": "block_promoter.py:129"
+    },
+    {
+      "tag": "BUG",
+      "text": "(verify() awarding V_TESTS for merely not raising).",
+      "file": "block_promoter.py:378"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier ends with `validate_input(input_directory)`",
+      "file": "block_promoter.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier calls itself at module level",
+      "file": "block_promoter.py:599"
+    },
+    {
+      "tag": "BUG",
+      "text": "again: verify() grading \"it ran without",
+      "file": "block_promoter.py:603"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier's call at import time, authority_map",
+      "file": "block_promoter.py:628"
     },
     {
       "tag": "TODO",
@@ -10126,7 +10173,7 @@
     {
       "tag": "BUG",
       "text": "the parser quickly\", \"purge the database\", \"describe the arc",
-      "file": "wave_router.py:106"
+      "file": "wave_router.py:110"
     },
     {
       "tag": "TODO",
@@ -10152,6 +10199,11 @@
       "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
       "file": "supervisor.py:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_command.py:269"
     },
     {
       "tag": "TODO",
@@ -10642,36 +10694,6 @@
       "tag": "TODO",
       "text": "SYNC_LIMIT\", \"20\"))",
       "file": "ast_todo_crawler.py:327"
-    },
-    {
-      "tag": "TODO",
-      "text": "label()",
-      "file": "ast_todo_crawler.py:333"
-    },
-    {
-      "tag": "TODO",
-      "text": "md(it)",
-      "file": "ast_todo_crawler.py:340"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.\\n\\n- **File:** `{it['file']}`\\n- **Line:** {it['lin",
-      "file": "ast_todo_crawler.py:344"
-    },
-    {
-      "tag": "TODO",
-      "text": "md\": len(posted), \"gh_available\": gh, \"items\": posted}",
-      "file": "ast_todo_crawler.py:365"
-    },
-    {
-      "tag": "TODO",
-      "text": "list\"",
-      "file": "ast_todo_crawler.py:374"
-    },
-    {
-      "tag": "TODO",
-      "text": "tighten this\\n\\n\"",
-      "file": "ast_todo_crawler.py:386"
     }
   ],
   "viper-state": [
