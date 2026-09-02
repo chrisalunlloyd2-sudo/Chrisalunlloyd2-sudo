@@ -643,691 +643,691 @@
   <polygon points="92.0,854.4 78.5,877.8 51.5,877.8 38.0,854.4 51.5,831.0 78.5,831.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="846.4228634059947" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement</text>
+  <text x="65.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] TODO: Implement (mined/mined_d3d8d2e9.py:8)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Replace with the appropriate headers for your environment (mined/mined_2d158334.py:20)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,880.4 123.5,903.8 96.5,903.8 83.0,880.4 96.5,857.0 123.5,857.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="872.4036255195278" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="110.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_7be9d777.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334.py:48)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,854.4 168.5,877.8 141.5,877.8 128.0,854.4 141.5,831.0 168.5,831.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="846.4228634059947" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="155.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_2b9a10d6.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334.py:66)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,880.4 213.5,903.8 186.5,903.8 173.0,880.4 186.5,857.0 213.5,857.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="872.4036255195278" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">list asse..</text>
+  <text x="200.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] TODO: list assembled.") (mined/mined_2b9a10d6.py:26)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Replace with the appropriate headers for your environment (mined/mined_2d158334_121507.py:20)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,854.4 258.5,877.8 231.5,877.8 218.0,854.4 231.5,831.0 258.5,831.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="846.4228634059947" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Add your ..</text>
+  <text x="245.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] TODO: Add your actual implementation here (mined/mined_cc22f550.py:33)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,880.4 303.5,903.8 276.5,903.8 263.0,880.4 276.5,857.0 303.5,857.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="872.4036255195278" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334_121507.py:48)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,880.4 303.5,903.8 276.5,903.8 263.0,880.4 276.5,857.0 303.5,857.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="872.4036255195278" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="290.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
   
-  <title>[agent-squiggly] BUG:  (mined/mined_601b4cd4.py:15)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,854.4 348.5,877.8 321.5,877.8 308.0,854.4 321.5,831.0 348.5,831.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="335.0" y="846.4228634059947" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334_121507.py:66)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,854.4 348.5,877.8 321.5,877.8 308.0,854.4 321.5,831.0 348.5,831.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="846.4228634059947" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">that woul..</text>
+  <text x="335.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement</text>
   
-  <title>[agent-squiggly] BUG: that would have caught the last bug (mined/mined_1c038099.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Implement (mined/mined_d3d8d2e9.py:8)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,906.4 78.5,929.8 51.5,929.8 38.0,906.4 51.5,883.0 78.5,883.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="898.384387633061" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">win["todo..</text>
+  <text x="65.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] TODO: win["todo_win"] (dags/thing_redundancies.mmd:5)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_7be9d777.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,932.4 123.5,955.7 96.5,955.7 83.0,932.4 96.5,909.0 123.5,909.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="924.3651497465942" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">win_["'to..</text>
+  <text x="110.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] TODO: win_["'todo_win:"] (dags/thing_alerts.mmd:14)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,906.4 168.5,929.8 141.5,929.8 128.0,906.4 141.5,883.0 168.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="155.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Alice</text>
-  <text x="155.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">Cube**: R..</text>
+  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_2b9a10d6.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,906.4 168.5,929.8 141.5,929.8 128.0,906.4 141.5,883.0 168.5,883.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="898.384387633061" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="155.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="155.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">list asse..</text>
   
-  <title>[Alice] BUG: Cube**: Red cube deployed to test Three.js rendering. (CHANGELOG.md:13)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,932.4 213.5,955.7 186.5,955.7 173.0,932.4 186.5,909.0 213.5,909.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="924.3651497465942" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="200.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">hunter. H..</text>
+  <title>[agent-squiggly] TODO: list assembled.") (mined/mined_2b9a10d6.py:26)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,932.4 213.5,955.7 186.5,955.7 173.0,932.4 186.5,909.0 213.5,909.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="924.3651497465942" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="200.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">Add your ..</text>
   
-  <title>[ArchivalMoe] BUG: hunter. Here is a real function from {project}, file `{file} (moa_orchestrator.py:36)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="245.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="245.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">reports f..</text>
+  <title>[agent-squiggly] TODO: Add your actual implementation here (mined/mined_cc22f550.py:33)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="898.384387633061" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="245.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="245.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[ArchivalMoe] BUG: reports from text. (README.md:207)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,932.4 303.5,955.7 276.5,955.7 263.0,932.4 276.5,909.0 303.5,909.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="924.3651497465942" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="290.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="290.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">report"),</text>
+  <title>[agent-squiggly] TODO: Implement your rendering logic here (mined/mined_144108ab.py:44)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,932.4 303.5,955.7 276.5,955.7 263.0,932.4 276.5,909.0 303.5,909.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="924.3651497465942" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="290.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="290.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">Save rend..</text>
   
-  <title>[ArchivalMoe] BUG: report"), (context_injector.py:201)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Save rendered data to in-hexeract.json file (mined/mined_144108ab.py:47)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,906.4 348.5,929.8 321.5,929.8 308.0,906.4 321.5,883.0 348.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="335.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="335.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">reports f..</text>
+  <text x="335.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="335.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[ArchivalMoe] BUG: reports from text. (context_injector.py:207)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG:  (mined/mined_601b4cd4.py:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,958.3 78.5,981.7 51.5,981.7 38.0,958.3 51.5,935.0 78.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="65.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="65.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">report", ..</text>
+  <text x="65.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="65.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">that woul..</text>
   
-  <title>[ArchivalMoe] BUG: report", "action") else "normal" (context_injector.py:216)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,984.3 123.5,1007.7 96.5,1007.7 83.0,984.3 96.5,960.9 123.5,960.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="976.3266739736605" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="110.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="110.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">report → ..</text>
+  <title>[agent-squiggly] BUG: that would have caught the last bug (mined/mined_1c038099.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,984.3 123.5,1007.7 96.5,1007.7 83.0,984.3 96.5,960.9 123.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="110.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="110.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="110.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">win["todo..</text>
   
-  <title>[ArchivalMoe] BUG: report → proposed_updates with diff_type='bugfix' (context_injector.py:225)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,958.3 168.5,981.7 141.5,981.7 128.0,958.3 141.5,935.0 168.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="155.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="155.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">report" e..</text>
+  <title>[agent-squiggly] TODO: win["todo_win"] (dags/thing_redundancies.mmd:5)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,958.3 168.5,981.7 141.5,981.7 128.0,958.3 141.5,935.0 168.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="155.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
+  <text x="155.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">win_["'to..</text>
   
-  <title>[ArchivalMoe] BUG: report" else "improve" (context_injector.py:241)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,984.3 213.5,1007.7 186.5,1007.7 173.0,984.3 186.5,960.9 213.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="200.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">add retry..</text>
+  <title>[agent-squiggly] TODO: win_["'todo_win:"] (dags/thing_alerts.mmd:14)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,984.3 213.5,1007.7 186.5,1007.7 173.0,984.3 186.5,960.9 213.5,960.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="976.3266739736605" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="200.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Alice</text>
+  <text x="200.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">Cube**: R..</text>
   
-  <title>[ArchivalMoe] TODO: add retry logic. Can we also add caching? " (context_injector.py:346)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Alice] BUG: Cube**: Red cube deployed to test Three.js rendering. (CHANGELOG.md:13)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,958.3 258.5,981.7 231.5,981.7 218.0,958.3 231.5,935.0 258.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="245.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">or missin..</text>
+  <text x="245.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">hunter. H..</text>
   
-  <title>[ArchivalMoe] BUG: or missing error handler in {project}. Show the corrected co (agents/update_agent.py:37)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,984.3 303.5,1007.7 276.5,1007.7 263.0,984.3 276.5,960.9 303.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[ArchivalMoe] BUG: hunter. Here is a real function from {project}, file `{file} (moa_orchestrator.py:36)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,984.3 303.5,1007.7 276.5,1007.7 263.0,984.3 276.5,960.9 303.5,960.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="976.3266739736605" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="290.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">89e1764f6..</text>
+  <text x="290.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">reports f..</text>
   
-  <title>[ArchivalMoe] TODO: 89e1764f6162 — SYNTAX (todo/todo_89e1764f6162_file_does_not_parse_unterminat.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,958.3 348.5,981.7 321.5,981.7 308.0,958.3 321.5,935.0 348.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[ArchivalMoe] BUG: reports from text. (README.md:207)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,958.3 348.5,981.7 321.5,981.7 308.0,958.3 321.5,935.0 348.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="335.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">7c6cf9e19..</text>
+  <text x="335.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">report"),</text>
   
-  <title>[ArchivalMoe] TODO: 7c6cf9e193b9 — STUB (todo/todo_7c6cf9e193b9_function_chat_start_is_an_empt.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1010.3 78.5,1033.7 51.5,1033.7 38.0,1010.3 51.5,986.9 78.5,986.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="65.0" y="1002.3074360871937" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[ArchivalMoe] BUG: report"), (context_injector.py:201)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1010.3 78.5,1033.7 51.5,1033.7 38.0,1010.3 51.5,986.9 78.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="65.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
-  <text x="65.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">1cbaad1a9..</text>
+  <text x="65.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">reports f..</text>
   
-  <title>[ArchivalMoe] TODO: 1cbaad1a98c4 — STUB (todo/todo_1cbaad1a98c4_function_chat_end_is_an_empty_.md:1)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] BUG: reports from text. (context_injector.py:207)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1036.3 123.5,1059.7 96.5,1059.7 83.0,1036.3 96.5,1012.9 123.5,1012.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1028.2881982007268" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="110.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="110.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">without e..</text>
+  <text x="110.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="110.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">report", ..</text>
   
-  <title>[avatar-creator] BUG: without ever opening a browser. (TERMUX_SETUP.md:30)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] BUG: report", "action") else "normal" (context_injector.py:216)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1010.3 168.5,1033.7 141.5,1033.7 128.0,1010.3 141.5,986.9 168.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="155.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="155.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">workaroun..</text>
+  <text x="155.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="155.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">report → ..</text>
   
-  <title>[avatar-creator] BUG: workarounds', (streamer.js:18)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1036.3 213.5,1059.7 186.5,1059.7 173.0,1036.3 186.5,1012.9 213.5,1012.9" fill="#271d13" stroke="#d29922" stroke-width="1.5" />
-  <text x="200.0" y="1028.2881982007268" fill="#d29922" font-weight="bold" font-size="9" text-anchor="middle">HACK</text>
-  <text x="200.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="200.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">to insert..</text>
+  <title>[ArchivalMoe] BUG: report → proposed_updates with diff_type='bugfix' (context_injector.py:225)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1036.3 213.5,1059.7 186.5,1059.7 173.0,1036.3 186.5,1012.9 213.5,1012.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1028.2881982007268" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="200.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="200.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">report" e..</text>
   
-  <title>[avatar-creator] HACK: to insert below */ }'); (patch.js:4)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] BUG: report" else "improve" (context_injector.py:241)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1010.3 258.5,1033.7 231.5,1033.7 218.0,1010.3 231.5,986.9 258.5,986.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="1002.3074360871937" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="245.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">this is w..</text>
+  <text x="245.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="245.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">add retry..</text>
   
-  <title>[avatar-creator] TODO: this is wrong if children's scrollHeight makes for a gui tal (vendor/lil-gui.esm.min.js:2207)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1036.3 303.5,1059.7 276.5,1059.7 263.0,1036.3 276.5,1012.9 303.5,1012.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1028.2881982007268" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="290.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="290.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">lengthSqu..</text>
+  <title>[ArchivalMoe] TODO: add retry logic. Can we also add caching? " (context_injector.py:346)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1036.3 303.5,1059.7 276.5,1059.7 263.0,1036.3 276.5,1012.9 303.5,1012.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1028.2881982007268" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="290.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="290.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">or missin..</text>
   
-  <title>[avatar-creator] TODO: lengthSquared? (vendor/three/three.module.js:4393)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] BUG: or missing error handler in {project}. Show the corrected co (agents/update_agent.py:37)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1010.3 348.5,1033.7 321.5,1033.7 308.0,1010.3 321.5,986.9 348.5,986.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1002.3074360871937" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="335.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">make this..</text>
+  <text x="335.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="335.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">89e1764f6..</text>
   
-  <title>[avatar-creator] TODO: make this more efficient (vendor/three/three.module.js:6363)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] TODO: 89e1764f6162 — SYNTAX (todo/todo_89e1764f6162_file_does_not_parse_unterminat.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1062.3 78.5,1085.7 51.5,1085.7 38.0,1062.3 51.5,1038.9 78.5,1038.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1054.2689603142599" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="65.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">Copied fr..</text>
+  <text x="65.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="65.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">7c6cf9e19..</text>
   
-  <title>[avatar-creator] TODO: Copied from Object3D.toJSON (vendor/three/three.module.js:9597)</title></g><g class="hex-cell" tabindex="0">
+  <title>[ArchivalMoe] TODO: 7c6cf9e193b9 — STUB (todo/todo_7c6cf9e193b9_function_chat_start_is_an_empt.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1088.2 123.5,1111.6 96.5,1111.6 83.0,1088.2 96.5,1064.9 123.5,1064.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1080.249722427793" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="110.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
+  <text x="110.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Archival..</text>
+  <text x="110.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">1cbaad1a9..</text>
   
-  <title>[avatar-creator] TODO: (abelnation): RectAreaLight BRDF data needs to be moved from (vendor/three/three.module.js:14595)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1062.3 168.5,1085.7 141.5,1085.7 128.0,1062.3 141.5,1038.9 168.5,1038.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1054.2689603142599" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[ArchivalMoe] TODO: 1cbaad1a98c4 — STUB (todo/todo_1cbaad1a98c4_function_chat_end_is_an_empty_.md:1)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1062.3 168.5,1085.7 141.5,1085.7 128.0,1062.3 141.5,1038.9 168.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="155.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">Attribute..</text>
+  <text x="155.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">without e..</text>
   
-  <title>[avatar-creator] TODO: Attribute may not be available on context restore (vendor/three/three.module.js:15585)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG: without ever opening a browser. (TERMUX_SETUP.md:30)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1088.2 213.5,1111.6 186.5,1111.6 173.0,1088.2 186.5,1064.9 213.5,1064.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1080.249722427793" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="200.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="200.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">workaroun..</text>
   
-  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:19206)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1062.3 258.5,1085.7 231.5,1085.7 218.0,1062.3 231.5,1038.9 258.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[avatar-creator] BUG: workarounds', (streamer.js:18)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1062.3 258.5,1085.7 231.5,1085.7 218.0,1062.3 231.5,1038.9 258.5,1038.9" fill="#271d13" stroke="#d29922" stroke-width="1.5" />
+  <text x="245.0" y="1054.2689603142599" fill="#d29922" font-weight="bold" font-size="9" text-anchor="middle">HACK</text>
   <text x="245.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="245.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="245.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">to insert..</text>
   
-  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:19223)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1088.2 303.5,1111.6 276.5,1111.6 263.0,1088.2 276.5,1064.9 303.5,1064.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="1080.249722427793" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[avatar-creator] HACK: to insert below */ }'); (patch.js:4)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1088.2 303.5,1111.6 276.5,1111.6 263.0,1088.2 276.5,1064.9 303.5,1064.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="1080.249722427793" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="290.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">shaders' ..</text>
+  <text x="290.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">this is w..</text>
   
-  <title>[avatar-creator] BUG: shaders' ).getTranslatedShaderSource( shader ) ); (vendor/three/three.module.js:19471)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: this is wrong if children's scrollHeight makes for a gui tal (vendor/lil-gui.esm.min.js:2207)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1062.3 348.5,1085.7 321.5,1085.7 308.0,1062.3 321.5,1038.9 348.5,1038.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1054.2689603142599" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="335.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">Send this..</text>
+  <text x="335.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">lengthSqu..</text>
   
-  <title>[avatar-creator] TODO: Send this event to Three.js DevTools (vendor/three/three.module.js:19878)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: lengthSquared? (vendor/three/three.module.js:4393)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1114.2 78.5,1137.6 51.5,1137.6 38.0,1114.2 51.5,1090.8 78.5,1090.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1106.2304845413262" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="65.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
+  <text x="65.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">make this..</text>
   
-  <title>[avatar-creator] TODO: (abelnation): set RectAreaLight shadow uniforms (vendor/three/three.module.js:21679)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: make this more efficient (vendor/three/three.module.js:6363)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1140.2 123.5,1163.6 96.5,1163.6 83.0,1140.2 96.5,1116.8 123.5,1116.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1132.2112466548592" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="110.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">do it if ..</text>
+  <text x="110.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">Copied fr..</text>
   
-  <title>[avatar-creator] TODO: do it if required only (vendor/three/three.module.js:21860)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: Copied from Object3D.toJSON (vendor/three/three.module.js:9597)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1114.2 168.5,1137.6 141.5,1137.6 128.0,1114.2 141.5,1090.8 168.5,1090.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1106.2304845413262" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="155.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">Uniformly..</text>
+  <text x="155.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
   
-  <title>[avatar-creator] TODO: Uniformly handle mipmap definitions (vendor/three/three.module.js:25561)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: (abelnation): RectAreaLight BRDF data needs to be moved from (vendor/three/three.module.js:14595)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1140.2 213.5,1163.6 186.5,1163.6 173.0,1140.2 186.5,1116.8 213.5,1116.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1132.2112466548592" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="200.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">Remove th..</text>
+  <text x="200.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">Attribute..</text>
   
-  <title>[avatar-creator] TODO: Remove this when possible, see #23278 (vendor/three/three.module.js:27457)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1114.2 258.5,1137.6 231.5,1137.6 218.0,1114.2 231.5,1090.8 258.5,1090.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1106.2304845413262" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[avatar-creator] TODO: Attribute may not be available on context restore (vendor/three/three.module.js:15585)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1114.2 258.5,1137.6 231.5,1137.6 218.0,1114.2 231.5,1090.8 258.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="245.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">Better wa..</text>
+  <text x="245.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[avatar-creator] TODO: Better way to apply this offset? (vendor/three/three.module.js:27596)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1140.2 303.5,1163.6 276.5,1163.6 263.0,1140.2 276.5,1116.8 303.5,1116.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1132.2112466548592" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:19206)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1140.2 303.5,1163.6 276.5,1163.6 263.0,1140.2 276.5,1116.8 303.5,1116.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1132.2112466548592" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="290.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">add integ..</text>
+  <text x="290.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[avatar-creator] TODO: add integer and struct support (vendor/three/three.module.js:28649)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:19223)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1114.2 348.5,1137.6 321.5,1137.6 308.0,1114.2 321.5,1090.8 348.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="335.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">configura..</text>
+  <text x="335.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">shaders' ..</text>
   
-  <title>[avatar-creator] BUG: configuration container (vendor/three/three.module.js:28975)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1166.2 78.5,1189.6 51.5,1189.6 38.0,1166.2 51.5,1142.8 78.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="65.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[avatar-creator] BUG: shaders' ).getTranslatedShaderSource( shader ) ); (vendor/three/three.module.js:19471)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1166.2 78.5,1189.6 51.5,1189.6 38.0,1166.2 51.5,1142.8 78.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="65.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="65.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">= {</text>
+  <text x="65.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">Send this..</text>
   
-  <title>[avatar-creator] BUG: = { (vendor/three/three.module.js:28976)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1192.2 123.5,1215.6 96.5,1215.6 83.0,1192.2 96.5,1168.8 123.5,1168.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="1184.1727708819255" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[avatar-creator] TODO: Send this event to Three.js DevTools (vendor/three/three.module.js:19878)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1192.2 123.5,1215.6 96.5,1215.6 83.0,1192.2 96.5,1168.8 123.5,1168.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="110.0" y="1184.1727708819255" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="110.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="110.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
   
-  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:30347)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: (abelnation): set RectAreaLight shadow uniforms (vendor/three/three.module.js:21679)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1166.2 168.5,1189.6 141.5,1189.6 128.0,1166.2 141.5,1142.8 168.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="155.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
+  <text x="155.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">do it if ..</text>
   
-  <title>[avatar-creator] TODO: (abelnation): add area lights shadow info to uniforms (vendor/three/three.module.js:30600)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: do it if required only (vendor/three/three.module.js:21860)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1192.2 213.5,1215.6 186.5,1215.6 173.0,1192.2 186.5,1168.8 213.5,1168.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1184.1727708819255" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="200.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">consider ..</text>
+  <text x="200.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">Uniformly..</text>
   
-  <title>[avatar-creator] TODO: consider referencing vectors instead of copying? (vendor/three/three.module.js:37515)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: Uniformly handle mipmap definitions (vendor/three/three.module.js:25561)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1166.2 258.5,1189.6 231.5,1189.6 218.0,1166.2 231.5,1142.8 258.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="245.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">Move this..</text>
+  <text x="245.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">Remove th..</text>
   
-  <title>[avatar-creator] TODO: Move this bit to Light.fromJSON(); (vendor/three/three.module.js:46385)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: Remove this when possible, see #23278 (vendor/three/three.module.js:27457)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1192.2 303.5,1215.6 276.5,1215.6 263.0,1192.2 276.5,1168.8 303.5,1168.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="290.0" y="1184.1727708819255" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="290.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">delete th..</text>
+  <text x="290.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">Better wa..</text>
   
-  <title>[avatar-creator] TODO: delete this comment? (vendor/three/three.module.js:53223)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1166.2 348.5,1189.6 321.5,1189.6 308.0,1166.2 321.5,1142.8 348.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="335.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[avatar-creator] TODO: Better way to apply this offset? (vendor/three/three.module.js:27596)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1166.2 348.5,1189.6 321.5,1189.6 308.0,1166.2 321.5,1142.8 348.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="335.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">vis</text>
+  <text x="335.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">add integ..</text>
   
-  <title>[avatar-creator] BUG: vis (src/main.js:232)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1218.2 78.5,1241.5 51.5,1241.5 38.0,1218.2 51.5,1194.8 78.5,1194.8" fill="#271d13" stroke="#d29922" stroke-width="1.5" />
-  <text x="65.0" y="1210.1535329954588" fill="#d29922" font-weight="bold" font-size="9" text-anchor="middle">HACK</text>
+  <title>[avatar-creator] TODO: add integer and struct support (vendor/three/three.module.js:28649)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1218.2 78.5,1241.5 51.5,1241.5 38.0,1218.2 51.5,1194.8 78.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="65.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="65.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="65.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">configura..</text>
   
-  <title>[avatar-creator] HACK:  (src/avatar/SkinMaterialSystem.js:24)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG: configuration container (vendor/three/three.module.js:28975)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1244.1 123.5,1267.5 96.5,1267.5 83.0,1244.1 96.5,1220.8 123.5,1220.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1236.1342951089919" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
-  <text x="110.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">the pleas..</text>
+  <text x="110.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">= {</text>
   
-  <title>[avatar-creator] BUG: the pleasure loop, aesthetic parser, and (backend/bilingual.py:3)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG: = { (vendor/three/three.module.js:28976)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1218.2 168.5,1241.5 141.5,1241.5 128.0,1218.2 141.5,1194.8 168.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="155.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="155.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">signature..</text>
+  <text x="155.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="155.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[BDI_FSM_AGENT] BUG: signature is absent from the real scan: (tests/test_seed_factory_paths.py:22)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG:  (vendor/three/three.module.js:30347)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1244.1 213.5,1267.5 186.5,1267.5 173.0,1244.1 186.5,1220.8 213.5,1220.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1236.1342951089919" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="200.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">finish f\..</text>
+  <text x="200.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="200.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">(abelnati..</text>
   
-  <title>[BDI_FSM_AGENT] TODO: finish f\n    # FIXME: edge case\n") (tests/test_seed_factory.py:13)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: (abelnation): add area lights shadow info to uniforms (vendor/three/three.module.js:30600)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1218.2 258.5,1241.5 231.5,1241.5 218.0,1218.2 231.5,1194.8 258.5,1194.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="1210.1535329954588" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="245.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">x\n")</text>
+  <text x="245.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="245.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">consider ..</text>
   
-  <title>[BDI_FSM_AGENT] TODO: x\n") (tests/test_seed_factory.py:87)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1244.1 303.5,1267.5 276.5,1267.5 263.0,1244.1 276.5,1220.8 303.5,1220.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="1236.1342951089919" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="290.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="290.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">`json` wa..</text>
+  <title>[avatar-creator] TODO: consider referencing vectors instead of copying? (vendor/three/three.module.js:37515)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1244.1 303.5,1267.5 276.5,1267.5 263.0,1244.1 276.5,1220.8 303.5,1220.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="1236.1342951089919" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="290.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="290.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">Move this..</text>
   
-  <title>[BDI_FSM_AGENT] BUG: `json` was never imported at module level, so (tests/test_corpus_gather.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1218.2 348.5,1241.5 321.5,1241.5 308.0,1218.2 321.5,1194.8 348.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="335.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="335.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="335.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">fix: "ord..</text>
+  <title>[avatar-creator] TODO: Move this bit to Light.fromJSON(); (vendor/three/three.module.js:46385)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1218.2 348.5,1241.5 321.5,1241.5 308.0,1218.2 321.5,1194.8 348.5,1194.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="1210.1535329954588" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="335.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="335.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">delete th..</text>
   
-  <title>[BDI_FSM_AGENT] BUG: fix: "ordered list" must not also produce a bullet "list" (tests/test_code_ask.py:10)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] TODO: delete this comment? (vendor/three/three.module.js:53223)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1270.1 78.5,1293.5 51.5,1293.5 38.0,1270.1 51.5,1246.7 78.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="65.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="65.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">"android...</text>
+  <text x="65.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="65.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">vis</text>
   
-  <title>[BDI_FSM_AGENT] BUG: "android.contentEvil" must NOT be allowed (tests/test_domain_node.py:17)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1296.1 123.5,1319.5 96.5,1319.5 83.0,1296.1 96.5,1272.7 123.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="110.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="110.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
+  <title>[avatar-creator] BUG: vis (src/main.js:237)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1296.1 123.5,1319.5 96.5,1319.5 83.0,1296.1 96.5,1272.7 123.5,1272.7" fill="#271d13" stroke="#d29922" stroke-width="1.5" />
+  <text x="110.0" y="1288.0958193360582" fill="#d29922" font-weight="bold" font-size="9" text-anchor="middle">HACK</text>
+  <text x="110.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="110.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[BDI_FSM_AGENT] BUG: we fixed: treating an already-SATISFIED clause as a unit and (pedagogy/dpll_sat.md:6)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] HACK:  (src/avatar/SkinMaterialSystem.js:24)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1270.1 168.5,1293.5 141.5,1293.5 128.0,1270.1 141.5,1246.7 168.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
-  <text x="155.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="155.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="155.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">avatar-c..</text>
+  <text x="155.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">the pleas..</text>
   
-  <title>[BDI_FSM_AGENT] BUG:  (docs/BANBURISMUS.md:110)</title></g><g class="hex-cell" tabindex="0">
+  <title>[avatar-creator] BUG: the pleasure loop, aesthetic parser, and (backend/bilingual.py:3)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1296.1 213.5,1319.5 186.5,1319.5 173.0,1296.1 186.5,1272.7 213.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="200.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">fixed fro..</text>
+  <text x="200.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">(confirme..</text>
   
-  <title>[BDI_FSM_AGENT] BUG: fixed from the original sketch) (docs/programmatic_meaning.md:41)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] BUG: (confirmed 2026-09-01, not yet fixed) (AGENTS.md:26)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1270.1 258.5,1293.5 231.5,1293.5 218.0,1270.1 231.5,1246.7 258.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="245.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">fix pass ..</text>
+  <text x="245.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[BDI_FSM_AGENT] BUG: fix pass (202/202) | (docs/ROADMAP.md:35)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] BUG:  (AGENTS.md:35)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1296.1 303.5,1319.5 276.5,1319.5 263.0,1296.1 276.5,1272.7 303.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="290.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[BDI_FSM_AGENT] BUG:  (docs/ARCHITECTURE.md:223)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1270.1 348.5,1293.5 321.5,1293.5 308.0,1270.1 321.5,1246.7 348.5,1246.7" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
-  <text x="335.0" y="1262.1150572225251" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
+  <title>[BDI_FSM_AGENT] BUG:  (AGENTS.md:50)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1270.1 348.5,1293.5 321.5,1293.5 308.0,1270.1 321.5,1246.7 348.5,1246.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="1262.1150572225251" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="335.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">markers +..</text>
+  <text x="335.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">managemen..</text>
   
-  <title>[BDI_FSM_AGENT] FIXME: markers + missing README/pyproject/LICENSE (bdi_fsm/seed_factory.py:8)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1322.1 78.5,1345.5 51.5,1345.5 38.0,1322.1 51.5,1298.7 78.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="65.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[BDI_FSM_AGENT] TODO: management/task_watch.log` as usual. Include: the (AGENTS.md:85)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1322.1 78.5,1345.5 51.5,1345.5 38.0,1322.1 51.5,1298.7 78.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="65.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="65.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">RE = re.c..</text>
+  <text x="65.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">elsewhere.</text>
   
-  <title>[BDI_FSM_AGENT] TODO: RE = re.compile(r"\b(TODO|FIXME|XXX|HACK)\b[:\s]*(.*)$", re. (bdi_fsm/seed_factory.py:25)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1348.1 123.5,1371.4 96.5,1371.4 83.0,1348.1 96.5,1324.7 123.5,1324.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="110.0" y="1340.0573435631245" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[BDI_FSM_AGENT] BUG: elsewhere. (AGENTS.md:87)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1348.1 123.5,1371.4 96.5,1371.4 83.0,1348.1 96.5,1324.7 123.5,1324.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="110.0" y="1340.0573435631245" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="110.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">markers, ..</text>
+  <text x="110.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">signature..</text>
   
-  <title>[BDI_FSM_AGENT] TODO: markers, missing docs/packaging, untested modules.""" (bdi_fsm/seed_factory.py:33)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1322.1 168.5,1345.5 141.5,1345.5 128.0,1322.1 141.5,1298.7 168.5,1298.7" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
-  <text x="155.0" y="1314.0765814495915" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
+  <title>[BDI_FSM_AGENT] BUG: signature is absent from the real scan: (tests/test_seed_factory_paths.py:22)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1322.1 168.5,1345.5 141.5,1345.5 128.0,1322.1 141.5,1298.7 168.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="155.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">markers i..</text>
+  <text x="155.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">finish f\..</text>
   
-  <title>[BDI_FSM_AGENT] FIXME: markers in .py/.md (line-level, capped) (bdi_fsm/seed_factory.py:39)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] TODO: finish f\n    # FIXME: edge case\n") (tests/test_seed_factory.py:13)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1348.1 213.5,1371.4 186.5,1371.4 173.0,1348.1 186.5,1324.7 213.5,1324.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1340.0573435631245" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="200.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">RE.findit..</text>
+  <text x="200.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">x\n")</text>
   
-  <title>[BDI_FSM_AGENT] TODO: RE.finditer(txt): (bdi_fsm/seed_factory.py:55)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1322.1 258.5,1345.5 231.5,1345.5 218.0,1322.1 231.5,1298.7 258.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[BDI_FSM_AGENT] TODO: x\n") (tests/test_seed_factory.py:87)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1322.1 258.5,1345.5 231.5,1345.5 218.0,1322.1 231.5,1298.7 258.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="245.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">list") ar..</text>
+  <text x="245.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">`json` wa..</text>
   
-  <title>[BDI_FSM_AGENT] TODO: list") are NOT gaps (bdi_fsm/seed_factory.py:59)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] BUG: `json` was never imported at module level, so (tests/test_corpus_gather.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1348.1 303.5,1371.4 276.5,1371.4 263.0,1348.1 276.5,1324.7 303.5,1324.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1340.0573435631245" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
-  <text x="290.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
+  <text x="290.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">fix: "ord..</text>
   
-  <title>[BDI_FSM_AGENT] BUG: we fixed: treating an already-SATISFIED clause " (bdi_fsm/seed_factory.py:124)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1322.1 348.5,1345.5 321.5,1345.5 308.0,1322.1 321.5,1298.7 348.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="335.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">#3 in bru..</text>
+  <title>[BDI_FSM_AGENT] BUG: fix: "ordered list" must not also produce a bullet "list" (tests/test_code_ask.py:10)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1322.1 348.5,1345.5 321.5,1345.5 308.0,1322.1 321.5,1298.7 348.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="335.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="335.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">"android...</text>
   
-  <title>[brute-foundry] TODO: #3 in brute_foundry (todo_0003_._n.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1374.0 78.5,1397.4 51.5,1397.4 38.0,1374.0 51.5,1350.7 78.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="65.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="65.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
+  <title>[BDI_FSM_AGENT] BUG: "android.contentEvil" must NOT be allowed (tests/test_domain_node.py:17)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1374.0 78.5,1397.4 51.5,1397.4 38.0,1374.0 51.5,1350.7 78.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="65.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="65.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="65.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
   
-  <title>[brute-foundry] TODO: Text (todo_0003_._n.md:15)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1400.0 123.5,1423.4 96.5,1423.4 83.0,1400.0 96.5,1376.6 123.5,1376.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="110.0" y="1392.0188677901908" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <title>[BDI_FSM_AGENT] BUG: we fixed: treating an already-SATISFIED clause as a unit and (pedagogy/dpll_sat.md:6)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1400.0 123.5,1423.4 96.5,1423.4 83.0,1400.0 96.5,1376.6 123.5,1376.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="110.0" y="1392.0188677901908" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="110.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
   <text x="110.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO:  (todo_0003_._n.md:21)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1374.0 168.5,1397.4 141.5,1397.4 128.0,1374.0 141.5,1350.7 168.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="155.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="155.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <title>[BDI_FSM_AGENT] BUG:  (docs/BANBURISMUS.md:110)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1374.0 168.5,1397.4 141.5,1397.4 128.0,1374.0 141.5,1350.7 168.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="155.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="155.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">fixed fro..</text>
   
-  <title>[brute-foundry] TODO:  (todo_0003_._n.md:27)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1400.0 213.5,1423.4 186.5,1423.4 173.0,1400.0 186.5,1376.6 213.5,1376.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="1392.0188677901908" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="200.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">#2 in bru..</text>
+  <title>[BDI_FSM_AGENT] BUG: fixed from the original sketch) (docs/programmatic_meaning.md:41)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1400.0 213.5,1423.4 186.5,1423.4 173.0,1400.0 186.5,1376.6 213.5,1376.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1392.0188677901908" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="200.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="200.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">fix pass ..</text>
   
-  <title>[brute-foundry] TODO: #2 in brute_foundry (todo_0002_.____n____pass_n.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1374.0 258.5,1397.4 231.5,1397.4 218.0,1374.0 231.5,1350.7 258.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="245.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
+  <title>[BDI_FSM_AGENT] BUG: fix pass (202/202) | (docs/ROADMAP.md:35)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1374.0 258.5,1397.4 231.5,1397.4 218.0,1374.0 231.5,1350.7 258.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="245.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="245.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO: Text (todo_0002_.____n____pass_n.md:15)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1400.0 303.5,1423.4 276.5,1423.4 263.0,1400.0 276.5,1376.6 303.5,1376.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1392.0188677901908" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="290.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="290.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <title>[BDI_FSM_AGENT] BUG:  (docs/ARCHITECTURE.md:223)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1400.0 303.5,1423.4 276.5,1423.4 263.0,1400.0 276.5,1376.6 303.5,1376.6" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
+  <text x="290.0" y="1392.0188677901908" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
+  <text x="290.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="290.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">markers +..</text>
   
-  <title>[brute-foundry] TODO:  (todo_0002_.____n____pass_n.md:21)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] FIXME: markers + missing README/pyproject/LICENSE (bdi_fsm/seed_factory.py:8)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1374.0 348.5,1397.4 321.5,1397.4 308.0,1374.0 321.5,1350.7 348.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="335.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="335.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="335.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">RE = re.c..</text>
   
-  <title>[brute-foundry] TODO:  (todo_0002_.____n____pass_n.md:27)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] TODO: RE = re.compile(r"\b(TODO|FIXME|XXX|HACK)\b[:\s]*(.*)$", re. (bdi_fsm/seed_factory.py:25)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1426.0 78.5,1449.4 51.5,1449.4 38.0,1426.0 51.5,1402.6 78.5,1402.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1417.999629903724" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="65.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">#4 in bru..</text>
+  <text x="65.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="65.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">markers, ..</text>
   
-  <title>[brute-foundry] TODO: #4 in brute_foundry (todo_0004__.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1452.0 123.5,1475.4 96.5,1475.4 83.0,1452.0 96.5,1428.6 123.5,1428.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="110.0" y="1443.9803920172571" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="110.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
+  <title>[BDI_FSM_AGENT] TODO: markers, missing docs/packaging, untested modules.""" (bdi_fsm/seed_factory.py:33)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1452.0 123.5,1475.4 96.5,1475.4 83.0,1452.0 96.5,1428.6 123.5,1428.6" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
+  <text x="110.0" y="1443.9803920172571" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
+  <text x="110.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="110.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">markers i..</text>
   
-  <title>[brute-foundry] TODO: Text (todo_0004__.md:15)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] FIXME: markers in .py/.md (line-level, capped) (bdi_fsm/seed_factory.py:39)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1426.0 168.5,1449.4 141.5,1449.4 128.0,1426.0 141.5,1402.6 168.5,1402.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1417.999629903724" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="155.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="155.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="155.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="155.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">RE.findit..</text>
   
-  <title>[brute-foundry] TODO:  (todo_0004__.md:21)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] TODO: RE.finditer(txt): (bdi_fsm/seed_factory.py:55)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1452.0 213.5,1475.4 186.5,1475.4 173.0,1452.0 186.5,1428.6 213.5,1428.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1443.9803920172571" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="200.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="200.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="200.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">list") ar..</text>
   
-  <title>[brute-foundry] TODO:  (todo_0004__.md:27)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1426.0 258.5,1449.4 231.5,1449.4 218.0,1426.0 231.5,1402.6 258.5,1402.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1417.999629903724" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="245.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">0001_s__m..</text>
+  <title>[BDI_FSM_AGENT] TODO: list") are NOT gaps (bdi_fsm/seed_factory.py:59)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1426.0 258.5,1449.4 231.5,1449.4 218.0,1426.0 231.5,1402.6 258.5,1402.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1417.999629903724" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="245.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">BDI_FSM_..</text>
+  <text x="245.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">we fixed:..</text>
   
-  <title>[brute-foundry] TODO: 0001_s__market-forecast_economics_hook_.md (README.md:29)</title></g><g class="hex-cell" tabindex="0">
+  <title>[BDI_FSM_AGENT] BUG: we fixed: treating an already-SATISFIED clause " (bdi_fsm/seed_factory.py:124)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1452.0 303.5,1475.4 276.5,1475.4 263.0,1452.0 276.5,1428.6 303.5,1428.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="290.0" y="1443.9803920172571" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="290.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">0002_.___..</text>
+  <text x="290.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">#3 in bru..</text>
   
-  <title>[brute-foundry] TODO: 0002_.____n____pass_n.md (README.md:30)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: #3 in brute_foundry (todo_0003_._n.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1426.0 348.5,1449.4 321.5,1449.4 308.0,1426.0 321.5,1402.6 348.5,1402.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1417.999629903724" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="335.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">0003_._n.md</text>
+  <text x="335.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
   
-  <title>[brute-foundry] TODO: 0003_._n.md (README.md:31)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: Text (todo_0003_._n.md:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1478.0 78.5,1501.3 51.5,1501.3 38.0,1478.0 51.5,1454.6 78.5,1454.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1469.9611541307904" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="65.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">0004__.md</text>
+  <text x="65.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO: 0004__.md (README.md:32)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO:  (todo_0003_._n.md:21)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1503.9 123.5,1527.3 96.5,1527.3 83.0,1503.9 96.5,1480.6 123.5,1480.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1495.9419162443235" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="110.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">#1 in bru..</text>
+  <text x="110.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO: #1 in brute_foundry (todo_0001_s__market-forecast_economics_hook_.md:1)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO:  (todo_0003_._n.md:27)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1478.0 168.5,1501.3 141.5,1501.3 128.0,1478.0 141.5,1454.6 168.5,1454.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1469.9611541307904" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="155.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
+  <text x="155.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">#2 in bru..</text>
   
-  <title>[brute-foundry] TODO: Text (todo_0001_s__market-forecast_economics_hook_.md:15)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: #2 in brute_foundry (todo_0002_.____n____pass_n.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1503.9 213.5,1527.3 186.5,1527.3 173.0,1503.9 186.5,1480.6 213.5,1480.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1495.9419162443235" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="200.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="200.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
   
-  <title>[brute-foundry] TODO:  (todo_0001_s__market-forecast_economics_hook_.md:21)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: Text (todo_0002_.____n____pass_n.md:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1478.0 258.5,1501.3 231.5,1501.3 218.0,1478.0 231.5,1454.6 258.5,1454.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="1469.9611541307904" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
   <text x="245.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO:  (todo_0001_s__market-forecast_economics_hook_.md:27)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1503.9 303.5,1527.3 276.5,1527.3 263.0,1503.9 276.5,1480.6 303.5,1480.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="1495.9419162443235" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[brute-foundry] TODO:  (todo_0002_.____n____pass_n.md:21)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1503.9 303.5,1527.3 276.5,1527.3 263.0,1503.9 276.5,1480.6 303.5,1480.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="1495.9419162443235" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="290.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">(`false` ..</text>
+  <text x="290.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] BUG: (`false` is a (DEVLOG.md:131)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO:  (todo_0002_.____n____pass_n.md:27)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1478.0 348.5,1501.3 321.5,1501.3 308.0,1478.0 321.5,1454.6 348.5,1454.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1469.9611541307904" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="335.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">s  market..</text>
+  <text x="335.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">#4 in bru..</text>
   
-  <title>[brute-foundry] TODO: s  market-forecast economics hook ($hash) (CHANGELOG.md:40)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: #4 in brute_foundry (todo_0004__.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1529.9 78.5,1553.3 51.5,1553.3 38.0,1529.9 51.5,1506.5 78.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="65.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">9f831a6c5..</text>
+  <text x="65.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
   
-  <title>[brute-foundry] TODO: 9f831a6c546b — CONTRACT (todo/todo_9f831a6c546b_module_has_summary_line_but_no.md:1)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: Text (todo_0004__.md:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1555.9 123.5,1579.3 96.5,1579.3 83.0,1555.9 96.5,1532.5 123.5,1532.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1547.9034404713898" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="110.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">ab4a1050e..</text>
+  <text x="110.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] TODO: ab4a1050eda3 — STUB (todo/todo_ab4a1050eda3_function_main_is_an_empty_stub.md:1)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1529.9 168.5,1553.3 141.5,1553.3 128.0,1529.9 141.5,1506.5 168.5,1506.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="1521.9226783578567" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[brute-foundry] TODO:  (todo_0004__.md:21)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1529.9 168.5,1553.3 141.5,1553.3 128.0,1529.9 141.5,1506.5 168.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="155.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">remove st..</text>
+  <text x="155.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[brute-foundry] BUG: remove statements, re-verify, keep the smallest that still p (foundry/masterpiece.py:7)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1555.9 213.5,1579.3 186.5,1579.3 173.0,1555.9 186.5,1532.5 213.5,1532.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="1547.9034404713898" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[brute-foundry] TODO:  (todo_0004__.md:27)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1555.9 213.5,1579.3 186.5,1579.3 173.0,1555.9 186.5,1532.5 213.5,1532.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="1547.9034404713898" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
-  <text x="200.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">at the AS..</text>
+  <text x="200.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">0001_s__m..</text>
   
-  <title>[brute-foundry] BUG: at the AST statement level (ast.unparse handles ANY code, in (foundry/masterpiece.py:73)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: 0001_s__market-forecast_economics_hook_.md (README.md:29)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1529.9 258.5,1553.3 231.5,1553.3 218.0,1529.9 231.5,1506.5 258.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="245.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="245.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">Hex Matrix</text>
+  <text x="245.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="245.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">0002_.___..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: Hex Matrix (README.md:54)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: 0002_.____n____pass_n.md (README.md:30)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1555.9 303.5,1579.3 276.5,1579.3 263.0,1555.9 276.5,1532.5 303.5,1532.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="290.0" y="1547.9034404713898" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="290.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="290.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">hex_grid...</text>
+  <text x="290.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="290.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">0003_._n.md</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: hex_grid.svg" alt="Autonomous TODO Hex Grid" width="100%" /&gt; (README.md:56)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: 0003_._n.md (README.md:31)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1529.9 348.5,1553.3 321.5,1553.3 308.0,1529.9 321.5,1506.5 348.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="335.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">siphon, c..</text>
+  <text x="335.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="335.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">0004__.md</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: siphon, cross-repo synthesis, BDI HUD, FSM heatmap (README.md:81)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: 0004__.md (README.md:32)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1581.9 78.5,1605.3 51.5,1605.3 38.0,1581.9 51.5,1558.5 78.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="65.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">hex matri..</text>
+  <text x="65.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="65.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">#1 in bru..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: hex matrix + agent contract-selection overlay. (scripts/generate_hex_grid.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: #1 in brute_foundry (todo_0001_s__market-forecast_economics_hook_.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1607.9 123.5,1631.2 96.5,1631.2 83.0,1607.9 96.5,1584.5 123.5,1584.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1599.864964698456" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="110.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">markers P..</text>
+  <text x="110.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="110.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">Text</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: markers PLUS per-repo agent event streams (scripts/generate_hex_grid.py:4)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: Text (todo_0001_s__market-forecast_economics_hook_.md:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1581.9 168.5,1605.3 141.5,1605.3 128.0,1581.9 141.5,1558.5 168.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="155.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="155.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">hex_grid...</text>
+  <text x="155.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="155.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: hex_grid.svg" (scripts/generate_hex_grid.py:14)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO:  (todo_0001_s__market-forecast_economics_hook_.md:21)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1607.9 213.5,1631.2 186.5,1631.2 173.0,1607.9 186.5,1584.5 213.5,1584.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="200.0" y="1599.864964698456" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="200.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">Hex-Sipho..</text>
+  <text x="200.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="200.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: Hex-Siphoner"}) (scripts/generate_hex_grid.py:19)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1581.9 258.5,1605.3 231.5,1605.3 218.0,1581.9 231.5,1558.5 258.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="245.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="245.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">\u25cf FI..</text>
+  <title>[brute-foundry] TODO:  (todo_0001_s__market-forecast_economics_hook_.md:27)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1581.9 258.5,1605.3 231.5,1605.3 218.0,1581.9 231.5,1558.5 258.5,1558.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1573.884202584923" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="245.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="245.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">(`false` ..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: \u25cf FIXME \u25cf HACK \u25cf BUG' (scripts/generate_hex_grid.py:65)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] BUG: (`false` is a (DEVLOG.md:131)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1607.9 303.5,1631.2 276.5,1631.2 263.0,1607.9 276.5,1584.5 303.5,1584.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="290.0" y="1599.864964698456" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="290.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="290.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">HEX MATRI..</text>
+  <text x="290.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="290.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">s  market..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: HEX MATRIX + CONTRACT SELECTION&lt;/text&gt; (scripts/generate_hex_grid.py:77)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: s  market-forecast economics hook ($hash) (CHANGELOG.md:19)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1581.9 348.5,1605.3 321.5,1605.3 308.0,1581.9 321.5,1558.5 348.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="335.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">pattern =..</text>
+  <text x="335.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="335.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">9f831a6c5..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: pattern = re.compile(r'(TODO|FIXME|HACK|BUG)[\s:\-_]+(.*)',  (scripts/generate_hex_grid.py:103)</title></g><g class="hex-cell" tabindex="0">
+  <title>[brute-foundry] TODO: 9f831a6c546b — CONTRACT (todo/todo_9f831a6c546b_module_has_summary_line_but_no.md:1)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1633.8 78.5,1657.2 51.5,1657.2 38.0,1633.8 51.5,1610.5 78.5,1610.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1625.8457268119894" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="65.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">pattern.s..</text>
+  <text x="65.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="65.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">ab4a1050e..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: pattern.search(line) (scripts/generate_hex_grid.py:123)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1659.8 123.5,1683.2 96.5,1683.2 83.0,1659.8 96.5,1636.4 123.5,1636.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="110.0" y="1651.8264889255224" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
-  <text x="110.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">mirror","..</text>
+  <title>[brute-foundry] TODO: ab4a1050eda3 — STUB (todo/todo_ab4a1050eda3_function_main_is_an_empty_stub.md:1)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1659.8 123.5,1683.2 96.5,1683.2 83.0,1659.8 96.5,1636.4 123.5,1636.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="110.0" y="1651.8264889255224" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="110.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="110.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">remove st..</text>
   
-  <title>[Chrisalunlloyd2-sudo] TODO: mirror","file":"TASKS.md:1"}] (scripts/generate_hex_grid.py:157)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1633.8 168.5,1657.2 141.5,1657.2 128.0,1633.8 141.5,1610.5 168.5,1610.5" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
-  <text x="155.0" y="1625.8457268119894" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
-  <text x="155.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="155.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">(Step 181)</text>
+  <title>[brute-foundry] BUG: remove statements, re-verify, keep the smallest that still p (foundry/masterpiece.py:7)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1633.8 168.5,1657.2 141.5,1657.2 128.0,1633.8 141.5,1610.5 168.5,1610.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1625.8457268119894" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="155.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">brute-fo..</text>
+  <text x="155.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">at the AS..</text>
   
-  <title>[curator_system] FIXME: (Step 181) (audit.py:33)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1659.8 213.5,1683.2 186.5,1683.2 173.0,1659.8 186.5,1636.4 213.5,1636.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="1651.8264889255224" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="200.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="200.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">?\s*(.*)|..</text>
+  <title>[brute-foundry] BUG: at the AST statement level (ast.unparse handles ANY code, in (foundry/masterpiece.py:73)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1659.8 213.5,1683.2 186.5,1683.2 173.0,1659.8 186.5,1636.4 213.5,1636.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1651.8264889255224" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <text x="200.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="200.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">*(mined/m..</text>
   
-  <title>[curator_system] TODO: ?\s*(.*)|//\s*TODO:?\s*(.*)', content, re.IGNORECASE) (audit.py:34)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1633.8 258.5,1657.2 231.5,1657.2 218.0,1633.8 231.5,1610.5 258.5,1610.5" fill="#2c171d" stroke="#f85149" stroke-width="1.5" />
-  <text x="245.0" y="1625.8457268119894" fill="#f85149" font-weight="bold" font-size="9" text-anchor="middle">FIXME</text>
-  <text x="245.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="245.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">?\s*(.*)|..</text>
+  <title>[Chrisalunlloyd2-sudo] BUG: *(mined/mined_1c038099.py:11)* (SYNTHESIS_PLAN.md:93)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1633.8 258.5,1657.2 231.5,1657.2 218.0,1633.8 231.5,1610.5 258.5,1610.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="1625.8457268119894" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <text x="245.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="245.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">Hex Matrix</text>
   
-  <title>[curator_system] FIXME: ?\s*(.*)|//\s*FIXME:?\s*(.*)', content, re.IGNORECASE) (audit.py:35)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Chrisalunlloyd2-sudo] TODO: Hex Matrix (README.md:54)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1659.8 303.5,1683.2 276.5,1683.2 263.0,1659.8 276.5,1636.4 303.5,1636.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="290.0" y="1651.8264889255224" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="290.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="290.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">dashboard..</text>
+  <text x="290.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="290.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">hex_grid...</text>
   
-  <title>[curator_system] TODO: dashboard = "## 🚩 GLOBAL TO-DO DASHBOARD\n\n" (global_audit.py:13)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Chrisalunlloyd2-sudo] TODO: hex_grid.svg" alt="Autonomous TODO Hex Grid" width="100%" /&gt; (README.md:56)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1633.8 348.5,1657.2 321.5,1657.2 308.0,1633.8 321.5,1610.5 348.5,1610.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="335.0" y="1625.8457268119894" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="335.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="335.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">dashboard..</text>
+  <text x="335.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="335.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">siphon, c..</text>
   
-  <title>[curator_system] TODO: dashboard += f"### {project_name} ({parts[0]})\n" (global_audit.py:35)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Chrisalunlloyd2-sudo] TODO: siphon, cross-repo synthesis, BDI HUD, FSM heatmap (README.md:81)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1685.8 78.5,1709.2 51.5,1709.2 38.0,1685.8 51.5,1662.4 78.5,1662.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1677.8072510390557" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="65.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="65.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">dashboard..</text>
+  <text x="65.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="65.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">hex matri..</text>
   
-  <title>[curator_system] TODO: dashboard += "- ⚠️ **HALF-FINISHED**: Missing entry point.\n (global_audit.py:37)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Chrisalunlloyd2-sudo] TODO: hex matrix + agent contract-selection overlay. (scripts/generate_hex_grid.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1711.8 123.5,1735.2 96.5,1735.2 83.0,1711.8 96.5,1688.4 123.5,1688.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1703.7880131525887" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="110.0" y="1714.7880131525887" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="110.0" y="1724.7880131525887" fill="#8b949e" font-size="6.5" text-anchor="middle">dashboard..</text>
+  <text x="110.0" y="1714.7880131525887" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="110.0" y="1724.7880131525887" fill="#8b949e" font-size="6.5" text-anchor="middle">markers P..</text>
   
-  <title>[curator_system] TODO: dashboard += f"- [ ] TODO: {t['task']} (in {t['file']})\n" (global_audit.py:39)</title></g><g class="hex-cell" tabindex="0">
+  <title>[Chrisalunlloyd2-sudo] TODO: markers PLUS per-repo agent event streams (scripts/generate_hex_grid.py:4)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1685.8 168.5,1709.2 141.5,1709.2 128.0,1685.8 141.5,1662.4 168.5,1662.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="155.0" y="1677.8072510390557" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
-  <text x="155.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">curator_..</text>
-  <text x="155.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">dashboard..</text>
+  <text x="155.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">Chrisalu..</text>
+  <text x="155.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">hex_grid...</text>
   
-  <title>[curator_system] TODO: dashboard += f"- [ ] FIXME: {f_task['task']} (in {f_task['fi (global_audit.py:41)</title></g>
+  <title>[Chrisalunlloyd2-sudo] TODO: hex_grid.svg" (scripts/generate_hex_grid.py:14)</title></g>
   <text x="24" y="1778" class="meta">● TODO ● FIXME ● HACK ● BUG   |   ● OCCUPIED = agent selected a contract (green, last 7d)   |   full list: data/siphoned_todos.json</text></svg>

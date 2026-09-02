@@ -541,6 +541,36 @@
     },
     {
       "tag": "TODO",
+      "text": "Replace with the appropriate headers for your environment",
+      "file": "mined/mined_2d158334.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with the appropriate function for your environment",
+      "file": "mined/mined_2d158334.py:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with the appropriate function for your environment",
+      "file": "mined/mined_2d158334.py:66"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with the appropriate headers for your environment",
+      "file": "mined/mined_2d158334_121507.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with the appropriate function for your environment",
+      "file": "mined/mined_2d158334_121507.py:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "Replace with the appropriate function for your environment",
+      "file": "mined/mined_2d158334_121507.py:66"
+    },
+    {
+      "tag": "TODO",
       "text": "Implement",
       "file": "mined/mined_d3d8d2e9.py:8"
     },
@@ -563,6 +593,16 @@
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_cc22f550.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement your rendering logic here",
+      "file": "mined/mined_144108ab.py:44"
+    },
+    {
+      "tag": "TODO",
+      "text": "Save rendered data to in-hexeract.json file",
+      "file": "mined/mined_144108ab.py:47"
     },
     {
       "tag": "BUG",
@@ -788,7 +828,7 @@
     {
       "tag": "BUG",
       "text": "vis",
-      "file": "src/main.js:232"
+      "file": "src/main.js:237"
     },
     {
       "tag": "HACK",
@@ -802,6 +842,31 @@
     }
   ],
   "BDI_FSM_AGENT": [
+    {
+      "tag": "BUG",
+      "text": "(confirmed 2026-09-01, not yet fixed)",
+      "file": "AGENTS.md:26"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "AGENTS.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "AGENTS.md:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/task_watch.log` as usual. Include: the",
+      "file": "AGENTS.md:85"
+    },
+    {
+      "tag": "BUG",
+      "text": "elsewhere.",
+      "file": "AGENTS.md:87"
+    },
     {
       "tag": "BUG",
       "text": "signature is absent from the real scan:",
@@ -1002,7 +1067,7 @@
     {
       "tag": "TODO",
       "text": "s  market-forecast economics hook ($hash)",
-      "file": "CHANGELOG.md:40"
+      "file": "CHANGELOG.md:19"
     },
     {
       "tag": "TODO",
@@ -1026,6 +1091,11 @@
     }
   ],
   "Chrisalunlloyd2-sudo": [
+    {
+      "tag": "BUG",
+      "text": "*(mined/mined_1c038099.py:11)*",
+      "file": "SYNTHESIS_PLAN.md:93"
+    },
     {
       "tag": "TODO",
       "text": "Hex Matrix",
@@ -3067,6 +3137,261 @@
       "tag": "BUG",
       "text": "reports from text.",
       "file": "ArchivalMoe_docx.md:144"
+    },
+    {
+      "tag": "TODO",
+      "text": "744b883ce0c7 \u2014 NOTIMPL",
+      "file": "BDI_FSM_AGENT/todo/todo_744b883ce0c7_notimplementederror_implement_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "6b32a24655cd \u2014 NOTIMPL",
+      "file": "BDI_FSM_AGENT/todo/todo_6b32a24655cd_notimplementederror_implement_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "96c3b2302ad0 \u2014 NOTIMPL",
+      "file": "BDI_FSM_AGENT/todo/todo_96c3b2302ad0_notimplementederror_implement_.md:1"
+    },
+    {
+      "tag": "BUG",
+      "text": "signature is absent from the real scan:",
+      "file": "BDI_FSM_AGENT/tests/test_seed_factory_paths.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "finish f\\n    # FIXME: edge case\\n\")",
+      "file": "BDI_FSM_AGENT/tests/test_seed_factory.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "x\\n\")",
+      "file": "BDI_FSM_AGENT/tests/test_seed_factory.py:87"
+    },
+    {
+      "tag": "TODO",
+      "text": "never_takes_a_lattice_cell():",
+      "file": "BDI_FSM_AGENT/tests/test_contracts.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "displacing one would silently break the",
+      "file": "BDI_FSM_AGENT/tests/test_contracts.py:63"
+    },
+    {
+      "tag": "BUG",
+      "text": "`json` was never imported at module level, so",
+      "file": "BDI_FSM_AGENT/tests/test_corpus_gather.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix: \"ordered list\" must not also produce a bullet \"list\"",
+      "file": "BDI_FSM_AGENT/tests/test_code_ask.py:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "\"android.contentEvil\" must NOT be allowed",
+      "file": "BDI_FSM_AGENT/tests/test_domain_node.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "we fixed: treating an already-SATISFIED clause as a unit and",
+      "file": "BDI_FSM_AGENT/pedagogy/dpll_sat.md:6"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "BDI_FSM_AGENT/docs/BANBURISMUS.md:110"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixed from the original sketch)",
+      "file": "BDI_FSM_AGENT/docs/programmatic_meaning.md:41"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "BDI_FSM_AGENT/docs/ARCHITECTURE.md:223"
+    },
+    {
+      "tag": "BUG",
+      "text": "that only shows up as \"it used to be better\".",
+      "file": "BDI_FSM_AGENT/bdi_fsm/markov_chat.py:225"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl -> 19 real open items (93 raw, once duplicates,",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "the :8765 keyword matcher (\"hi\" inside",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:98"
+    },
+    {
+      "tag": "TODO",
+      "text": "is not authority, so it must NOT take a lattice cell: doing ",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:171"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, text, source=\"todo_crawl\", repo=None):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "on the board. Idempotent on todo_id \u2014 re-offering never dupl",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:303"
+    },
+    {
+      "tag": "TODO",
+      "text": "id in d:",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:305"
+    },
+    {
+      "tag": "TODO",
+      "text": "id}",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:306"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:307"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, \"text\": str(text)[:400], \"source\": source, \"repo\": repo,",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:308"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = rec",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:312"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl, which is now honest about what a task is.\"\"\"",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:317"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:322"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.crawl()",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:323"
+    },
+    {
+      "tag": "TODO",
+      "text": "ids=None, only_if=None):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:378"
+    },
+    {
+      "tag": "TODO",
+      "text": "ids is not None and tid not in todo_ids:",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:401"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, party, ok=True, evidence=\"\"):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:416"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.tick_off already enforces:",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:419"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:426"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, owner=party)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:429"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = rec",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:449"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, rec in d.items():",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:479"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, type(e).__name__, str(e)[:100]))",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:489"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:501"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, party, why=\"\"):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:507"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, owner=party)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:509"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:511"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = rec",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:518"
+    },
+    {
+      "tag": "BUG",
+      "text": "in one day -- the :8765 keyword matcher",
+      "file": "BDI_FSM_AGENT/bdi_fsm/langdetect.py:71"
+    },
+    {
+      "tag": "FIXME",
+      "text": "markers + missing README/pyproject/LICENSE",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"\\b(TODO|FIXME|XXX|HACK)\\b[:\\s]*(.*)$\", re.",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "markers, missing docs/packaging, untested modules.\"\"\"",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:33"
+    },
+    {
+      "tag": "FIXME",
+      "text": "markers in .py/.md (line-level, capped)",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(txt):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:55"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\") are NOT gaps",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:59"
+    },
+    {
+      "tag": "BUG",
+      "text": "we fixed: treating an already-SATISFIED clause \"",
+      "file": "BDI_FSM_AGENT/bdi_fsm/seed_factory.py:124"
     },
     {
       "tag": "BUG",
@@ -9713,12 +10038,17 @@
     {
       "tag": "TODO",
       "text": "crawl.crawl(), which scans C:\\Viper\\projects for unchecked m",
-      "file": "miner_daemon.py:209"
+      "file": "miner_daemon.py:253"
     },
     {
       "tag": "TODO",
       "text": "ids are cut to 16 chars, so \"contradiction_finder\" and",
-      "file": "miner_daemon.py:275"
+      "file": "miner_daemon.py:319"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "make_release.py:117"
     },
     {
       "tag": "TODO",
@@ -9858,7 +10188,7 @@
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "never_twice.py:386"
+      "file": "never_twice.py:447"
     },
     {
       "tag": "BUG",
@@ -9958,27 +10288,27 @@
     {
       "tag": "BUG",
       "text": "(verify() awarding V_TESTS for merely not raising).",
-      "file": "block_promoter.py:378"
+      "file": "block_promoter.py:395"
     },
     {
       "tag": "TODO",
       "text": "grand_unifier ends with `validate_input(input_directory)`",
-      "file": "block_promoter.py:441"
+      "file": "block_promoter.py:458"
     },
     {
       "tag": "TODO",
       "text": "grand_unifier calls itself at module level",
-      "file": "block_promoter.py:599"
+      "file": "block_promoter.py:616"
     },
     {
       "tag": "BUG",
       "text": "again: verify() grading \"it ran without",
-      "file": "block_promoter.py:603"
+      "file": "block_promoter.py:620"
     },
     {
       "tag": "TODO",
       "text": "grand_unifier's call at import time, authority_map",
-      "file": "block_promoter.py:628"
+      "file": "block_promoter.py:645"
     },
     {
       "tag": "TODO",
@@ -10193,7 +10523,7 @@
     {
       "tag": "BUG",
       "text": "and a fixable one.",
-      "file": "hero_kernel.py:619"
+      "file": "hero_kernel.py:719"
     },
     {
       "tag": "BUG",
@@ -10428,147 +10758,147 @@
     {
       "tag": "TODO",
       "text": "resolves.\"\"\"",
-      "file": "todo_driver.py:497"
+      "file": "todo_driver.py:501"
     },
     {
       "tag": "TODO",
       "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "todo_driver.py:510"
+      "file": "todo_driver.py:514"
     },
     {
       "tag": "TODO",
       "text": "id   = item.get(\"id\", \"?\")",
-      "file": "todo_driver.py:517"
+      "file": "todo_driver.py:521"
     },
     {
       "tag": "TODO",
       "text": "driver] -> [{item.get('repo')}] {text[:70]}\")",
-      "file": "todo_driver.py:523"
+      "file": "todo_driver.py:527"
     },
     {
       "tag": "TODO",
       "text": "{todo_id}:{attempt}\")",
-      "file": "todo_driver.py:570"
+      "file": "todo_driver.py:574"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:629"
+      "file": "todo_driver.py:633"
     },
     {
       "tag": "TODO",
       "text": "crawl.tick_off(item, evidence=closed_reason)",
-      "file": "todo_driver.py:630"
+      "file": "todo_driver.py:634"
     },
     {
       "tag": "TODO",
       "text": "id\": todo_id, \"repo\": item.get(\"repo\"), \"text\": text[:80],",
-      "file": "todo_driver.py:644"
+      "file": "todo_driver.py:648"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:665"
+      "file": "todo_driver.py:669"
     },
     {
       "tag": "TODO",
       "text": "DRIVER_LIFE_S\", str(6 * 3600)))",
-      "file": "todo_driver.py:667"
+      "file": "todo_driver.py:671"
     },
     {
       "tag": "TODO",
       "text": "driver] starting \u2014 max_todos={max_todos} interval={interval_",
-      "file": "todo_driver.py:670"
+      "file": "todo_driver.py:674"
     },
     {
       "tag": "TODO",
       "text": "crawl fallback",
-      "file": "todo_driver.py:679"
+      "file": "todo_driver.py:683"
     },
     {
       "tag": "TODO",
       "text": "crawl.crawl()",
-      "file": "todo_driver.py:680"
+      "file": "todo_driver.py:684"
     },
     {
       "tag": "TODO",
       "text": "driver] done \u2014 processed {done} todos\")",
-      "file": "todo_driver.py:696"
+      "file": "todo_driver.py:700"
     },
     {
       "tag": "TODO",
       "text": "driver\", \"once\", 300, 2) and has",
-      "file": "todo_driver.py:702"
+      "file": "todo_driver.py:706"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:717"
+      "file": "todo_driver.py:721"
     },
     {
       "tag": "TODO",
       "text": "crawl.crawl()",
-      "file": "todo_driver.py:718"
+      "file": "todo_driver.py:722"
     },
     {
       "tag": "TODO",
       "text": "id\": rec.get(\"todo_id\"), \"fitness\": rec.get(\"fitness\"),",
-      "file": "todo_driver.py:728"
+      "file": "todo_driver.py:732"
     },
     {
       "tag": "TODO",
       "text": "id\"):",
-      "file": "todo_driver.py:747"
+      "file": "todo_driver.py:751"
     },
     {
       "tag": "TODO",
       "text": "id\"])",
-      "file": "todo_driver.py:748"
+      "file": "todo_driver.py:752"
     },
     {
       "tag": "TODO",
       "text": "id\" in r]",
-      "file": "todo_driver.py:762"
+      "file": "todo_driver.py:766"
     },
     {
       "tag": "TODO",
       "text": "driver: no runs yet\"",
-      "file": "todo_driver.py:775"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\" in l]",
-      "file": "todo_driver.py:777"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: {len(rows)} processed \u00b7 {ticked} ticked \u00b7 {len(rows)",
       "file": "todo_driver.py:779"
     },
     {
       "tag": "TODO",
-      "text": "driver: error ({e})\"",
+      "text": "id\" in l]",
       "file": "todo_driver.py:781"
     },
     {
       "tag": "TODO",
+      "text": "driver: {len(rows)} processed \u00b7 {ticked} ticked \u00b7 {len(rows)",
+      "file": "todo_driver.py:783"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver: error ({e})\"",
+      "file": "todo_driver.py:785"
+    },
+    {
+      "tag": "TODO",
       "text": "crawl",
-      "file": "todo_driver.py:789"
+      "file": "todo_driver.py:793"
     },
     {
       "tag": "TODO",
       "text": "crawl.crawl()",
-      "file": "todo_driver.py:790"
+      "file": "todo_driver.py:794"
     },
     {
       "tag": "TODO",
       "text": "driver\")",
-      "file": "todo_driver.py:822"
+      "file": "todo_driver.py:826"
     },
     {
       "tag": "BUG",
       "text": "instead of catching it.",
-      "file": "todo_driver.py:824"
+      "file": "todo_driver.py:828"
     },
     {
       "tag": "BUG",
@@ -10689,11 +11019,6 @@
       "tag": "TODO",
       "text": "files (a rehearsal leaves no trace).\"\"\"",
       "file": "ast_todo_crawler.py:326"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYNC_LIMIT\", \"20\"))",
-      "file": "ast_todo_crawler.py:327"
     }
   ],
   "viper-state": [
