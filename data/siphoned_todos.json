@@ -826,11 +826,6 @@
       "file": "vendor/three/three.module.js:53223"
     },
     {
-      "tag": "BUG",
-      "text": "vis",
-      "file": "src/main.js:237"
-    },
-    {
       "tag": "HACK",
       "text": "",
       "file": "src/avatar/SkinMaterialSystem.js:24"
@@ -859,13 +854,18 @@
     },
     {
       "tag": "TODO",
+      "text": "management/todo_files/BDI_FSM_AGENT/",
+      "file": "AGENTS.md:76"
+    },
+    {
+      "tag": "TODO",
       "text": "management/task_watch.log` as usual. Include: the",
-      "file": "AGENTS.md:85"
+      "file": "AGENTS.md:105"
     },
     {
       "tag": "BUG",
       "text": "elsewhere.",
-      "file": "AGENTS.md:87"
+      "file": "AGENTS.md:107"
     },
     {
       "tag": "BUG",
@@ -10188,7 +10188,47 @@
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "never_twice.py:447"
+      "file": "never_twice.py:517"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver`, `viper_inventory`",
+      "file": "CELL_MAP.md:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "CELL_MAP.md:216"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver`",
+      "file": "CELL_MAP.md:247"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "CELL_MAP.md:588"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.tick` \u00b7 every 3600s \u00b7 tier 3 \u00b7 studying",
+      "file": "CELL_MAP.md:590"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver",
+      "file": "CELL_MAP.md:597"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.once` \u00b7 every 1800s \u00b7 tier 2 \u00b7 always (unmapped)",
+      "file": "CELL_MAP.md:599"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl`",
+      "file": "CELL_MAP.md:603"
     },
     {
       "tag": "BUG",
@@ -10979,46 +11019,6 @@
       "tag": "TODO",
       "text": "md(it):",
       "file": "ast_todo_crawler.py:285"
-    },
-    {
-      "tag": "TODO",
-      "text": "*.md (gits-as-todos), so the crawler composes with the brute",
-      "file": "ast_todo_crawler.py:286"
-    },
-    {
-      "tag": "TODO",
-      "text": "{it['id']}_{slug}.md\")",
-      "file": "ast_todo_crawler.py:289"
-    },
-    {
-      "tag": "TODO",
-      "text": "{it['id']} \u2014 {it['kind']}\\n\\n- **File**: {it['file']}\\n- **L",
-      "file": "ast_todo_crawler.py:290"
-    },
-    {
-      "tag": "TODO",
-      "text": "label():",
-      "file": "ast_todo_crawler.py:305"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate()`'s own queue",
-      "file": "ast_todo_crawler.py:309"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler\"],",
-      "file": "ast_todo_crawler.py:317"
-    },
-    {
-      "tag": "TODO",
-      "text": "list + todo_*.md. Dedup via the ledger; no-op if gh is absen",
-      "file": "ast_todo_crawler.py:325"
-    },
-    {
-      "tag": "TODO",
-      "text": "files (a rehearsal leaves no trace).\"\"\"",
-      "file": "ast_todo_crawler.py:326"
     }
   ],
   "viper-state": [
