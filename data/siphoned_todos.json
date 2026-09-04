@@ -536,6 +536,16 @@
     },
     {
       "tag": "TODO",
+      "text": "Implement this function.",
+      "file": "mined/mined_e3c83d10.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement this function.",
+      "file": "mined/mined_e3c83d10.py:31"
+    },
+    {
+      "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_be908c9a.py:2"
     },
@@ -646,32 +656,32 @@
     {
       "tag": "BUG",
       "text": "report\"),",
-      "file": "context_injector.py:201"
+      "file": "context_injector.py:202"
     },
     {
       "tag": "BUG",
       "text": "reports from text.",
-      "file": "context_injector.py:207"
+      "file": "context_injector.py:208"
     },
     {
       "tag": "BUG",
       "text": "report\", \"action\") else \"normal\"",
-      "file": "context_injector.py:216"
+      "file": "context_injector.py:217"
     },
     {
       "tag": "BUG",
       "text": "report \u2192 proposed_updates with diff_type='bugfix'",
-      "file": "context_injector.py:225"
+      "file": "context_injector.py:226"
     },
     {
       "tag": "BUG",
       "text": "report\" else \"improve\"",
-      "file": "context_injector.py:241"
+      "file": "context_injector.py:242"
     },
     {
       "tag": "TODO",
       "text": "add retry logic. Can we also add caching? \"",
-      "file": "context_injector.py:346"
+      "file": "context_injector.py:347"
     },
     {
       "tag": "BUG",
@@ -10188,7 +10198,7 @@
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "never_twice.py:517"
+      "file": "never_twice.py:541"
     },
     {
       "tag": "TODO",
