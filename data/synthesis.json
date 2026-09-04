@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -584,8 +584,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -663,7 +663,7 @@
       "tag": "BUG",
       "repo": "ArchivalMoe",
       "task": "report\"),",
-      "location": "context_injector.py:201",
+      "location": "context_injector.py:202",
       "domains": [
         "General"
       ]
@@ -673,7 +673,7 @@
       "tag": "BUG",
       "repo": "ArchivalMoe",
       "task": "reports from text.",
-      "location": "context_injector.py:207",
+      "location": "context_injector.py:208",
       "domains": [
         "General"
       ]
@@ -683,7 +683,7 @@
       "tag": "BUG",
       "repo": "ArchivalMoe",
       "task": "report\", \"action\") else \"normal\"",
-      "location": "context_injector.py:216",
+      "location": "context_injector.py:217",
       "domains": [
         "General"
       ]
@@ -693,7 +693,7 @@
       "tag": "BUG",
       "repo": "ArchivalMoe",
       "task": "report \u2192 proposed_updates with diff_type='bugfix'",
-      "location": "context_injector.py:225",
+      "location": "context_injector.py:226",
       "domains": [
         "General"
       ]
@@ -703,7 +703,7 @@
       "tag": "BUG",
       "repo": "ArchivalMoe",
       "task": "report\" else \"improve\"",
-      "location": "context_injector.py:241",
+      "location": "context_injector.py:242",
       "domains": [
         "General"
       ]
