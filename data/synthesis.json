@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -584,8 +584,18 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis_Unified",
+      "task": "2026-08-16).",
+      "location": "self_extend.py:77",
+      "domains": [
+        "General"
       ]
     },
     {
@@ -601,9 +611,79 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Aegis_Unified",
-      "task": "2026-08-16).",
-      "location": "self_extend.py:77",
+      "repo": "agent-squiggly",
+      "task": "Debug mode.",
+      "location": "mined/mined_694412aa.py:23",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_fccdff7e_003528.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "that would have caught the last bug",
+      "location": "mined/mined_1c038099.py:11",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_bc2df504.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_6f7ecec3.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_fccdff7e.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_8ccabab8_193103.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_22d42ee7_193136.py:2",
       "domains": [
         "General"
       ]
@@ -622,8 +702,38 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "that would have caught the last bug",
-      "location": "mined/mined_1c038099.py:11",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_1d94b082.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_22d42ee7.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_fccdff7e_001921.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_8ccabab8.py:2",
       "domains": [
         "General"
       ]
@@ -674,116 +784,6 @@
       "repo": "ArchivalMoe",
       "task": "reports from text.",
       "location": "context_injector.py:208",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\", \"action\") else \"normal\"",
-      "location": "context_injector.py:217",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report \u2192 proposed_updates with diff_type='bugfix'",
-      "location": "context_injector.py:226",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\" else \"improve\"",
-      "location": "context_injector.py:242",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "or missing error handler in {project}. Show the corrected co",
-      "location": "agents/update_agent.py:37",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "without ever opening a browser.",
-      "location": "TERMUX_SETUP.md:30",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "workarounds',",
-      "location": "streamer.js:18",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "",
-      "location": "vendor/three/three.module.js:19206",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "",
-      "location": "vendor/three/three.module.js:19223",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "shaders' ).getTranslatedShaderSource( shader ) );",
-      "location": "vendor/three/three.module.js:19471",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "configuration container",
-      "location": "vendor/three/three.module.js:28975",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "= {",
-      "location": "vendor/three/three.module.js:28976",
       "domains": [
         "General"
       ]
