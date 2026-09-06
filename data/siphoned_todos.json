@@ -585,6 +585,11 @@
       "file": "mined/mined_6f7ecec3.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_1da4ed23.py:2"
+    },
+    {
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_f5d23441.py:33"
@@ -662,6 +667,11 @@
     {
       "tag": "BUG",
       "text": "has cost more time here than any other.",
+      "file": "mined/mined_704aad25.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
       "file": "mined/mined_22d42ee7.py:2"
     },
     {
@@ -695,6 +705,11 @@
       "file": "mined/mined_41fe95fb.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_fa6f94b1.py:2"
+    },
+    {
       "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_be908c9a.py:2"
@@ -706,6 +721,13 @@
     }
   ],
   "Alice": [
+    {
+      "tag": "BUG",
+      "text": "Cube**: Red cube deployed to test Three.js rendering.",
+      "file": "CHANGELOG.md:13"
+    }
+  ],
+  "alice-companion": [
     {
       "tag": "BUG",
       "text": "Cube**: Red cube deployed to test Three.js rendering.",
@@ -1173,8 +1195,23 @@
   "Chrisalunlloyd2-sudo": [
     {
       "tag": "BUG",
+      "text": "mode. *(mined/mined_694412aa.py:23)*",
+      "file": "SYNTHESIS_PLAN.md:92"
+    },
+    {
+      "tag": "BUG",
       "text": "*(mined/mined_1c038099.py:11)*",
-      "file": "SYNTHESIS_PLAN.md:93"
+      "file": "SYNTHESIS_PLAN.md:94"
+    },
+    {
+      "tag": "BUG",
+      "text": "has something stan *(mined/mined_bc2df504.py:2)*",
+      "file": "SYNTHESIS_PLAN.md:95"
+    },
+    {
+      "tag": "BUG",
+      "text": "has something stan *(mined/mined_6f7ecec3.py:2)*",
+      "file": "SYNTHESIS_PLAN.md:96"
     },
     {
       "tag": "TODO",
