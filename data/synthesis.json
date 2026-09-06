@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -663,6 +663,16 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
+      "location": "mined/mined_1da4ed23.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
       "location": "mined/mined_fccdff7e.py:2",
       "domains": [
         "General"
@@ -713,6 +723,16 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
+      "location": "mined/mined_704aad25.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
       "location": "mined/mined_22d42ee7.py:2",
       "domains": [
         "General"
@@ -724,6 +744,16 @@
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_fccdff7e_001921.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_fa6f94b1.py:2",
       "domains": [
         "General"
       ]
@@ -751,39 +781,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "hunter. Here is a real function from {project}, file `{file}",
-      "location": "moa_orchestrator.py:36",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "reports from text.",
-      "location": "README.md:207",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\"),",
-      "location": "context_injector.py:202",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "reports from text.",
-      "location": "context_injector.py:208",
+      "repo": "alice-companion",
+      "task": "Cube**: Red cube deployed to test Three.js rendering.",
+      "location": "CHANGELOG.md:13",
       "domains": [
         "General"
       ]
