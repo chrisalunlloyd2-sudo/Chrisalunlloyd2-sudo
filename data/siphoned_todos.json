@@ -546,6 +546,11 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_b0a51eef_235608.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "Debug mode.",
       "file": "mined/mined_694412aa.py:23"
     },
@@ -581,6 +586,11 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_e786857a.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_6f7ecec3.py:2"
     },
@@ -613,6 +623,16 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_22d42ee7_193136.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the never_twice ledger, so a fixed bug has something stan",
+      "file": "mined/mined_b583a752.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_e786857a_235536.py:2"
     },
     {
       "tag": "TODO",
@@ -700,6 +720,16 @@
       "file": "mined/mined_5c2444a1.py:14"
     },
     {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_486ce86b.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement the logic to detect proxies",
+      "file": "mined/mined_486ce86b.py:34"
+    },
+    {
       "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_41fe95fb.py:2"
@@ -708,6 +738,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_fa6f94b1.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_b0a51eef.py:2"
     },
     {
       "tag": "TODO",
@@ -936,6 +971,43 @@
       "tag": "HACK",
       "text": "",
       "file": "src/avatar/SkinMaterialSystem.js:24"
+    }
+  ],
+  "AvatarAlive": [
+    {
+      "tag": "TODO",
+      "text": "markers + acceptance-test skeletons (like my harness, in-rep",
+      "file": "00_REQUEST/phases_48_97_roadmap.md:95"
+    },
+    {
+      "tag": "BUG",
+      "text": "view toggle (show bones).",
+      "file": "00_REQUEST/phase20_studio_skinnedmesh.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "in kernel source: writes at byte 8+idx*4 land in state_vecto",
+      "file": "00_REQUEST/phases_120_153_dag_truth_band.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "pages and leak paths; 404 returns HTML not JSON |",
+      "file": "00_REQUEST/phase14_hardening.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "flag (never enable Flask debug/reloader).",
+      "file": "00_REQUEST/phase14_hardening.md:81"
+    },
+    {
+      "tag": "BUG",
+      "text": "pinned (byte 1096) | 2026-09-08 | band |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:97"
+    },
+    {
+      "tag": "BUG",
+      "text": "silent empty reads faked telemetry (1/13 baseline was an art",
+      "file": "07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
     }
   ],
   "BDI_FSM_AGENT": [
@@ -7824,6 +7896,11 @@
   ],
   "mind-palace": [
     {
+      "tag": "TODO",
+      "text": "crystals that breathe, cyan public / pink private",
+      "file": "README.md:31"
+    },
+    {
       "tag": "BUG",
       "text": "'#ffaa00',",
       "file": "src/ui/gist_wall.js:25"
@@ -7882,8 +7959,68 @@
     },
     {
       "tag": "TODO",
+      "text": "management/todo_files/mindpalace/` (the hourly",
+      "file": "HYPOTHESES_50.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "density so LOW\u2192qwen",
+      "file": "HYPOTHESES_50.md:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "HYPOTHESES_50.md:120"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals (entity layer) so agents see GitHub work",
+      "file": "HYPOTHESES_50.md:160"
+    },
+    {
+      "tag": "TODO",
+      "text": "density,",
+      "file": "HYPOTHESES_50.md:164"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals",
+      "file": "NEXT_100_STEPS.md:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals; agents see repo issues in-world",
+      "file": "NEXT_100_STEPS.md:63"
+    },
+    {
+      "tag": "TODO",
+      "text": "density/last-push age \u2192 KG attribute + room glow intensity",
+      "file": "NEXT_100_STEPS.md:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals` (crystal",
+      "file": "DEV_SETUP.md:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/` \u2014 the Autonomous Finishin",
+      "file": "DEV_SETUP.md:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/` | `TASK_H01` |",
+      "file": "ARCHITECTURE.md:68"
+    },
+    {
+      "tag": "TODO",
       "text": "crystals, lab devices",
       "file": "ROADMAP.md:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/` (TASK files, one at a tim",
+      "file": "CONTRIBUTING.md:67"
     },
     {
       "tag": "BUG",
@@ -7893,22 +8030,42 @@
     {
       "tag": "TODO",
       "text": "",
-      "file": "README.md:11"
+      "file": "README.md:16"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 TODO/FIXME/HACK comments \u2192 hex crystals (height",
-      "file": "README.md:98"
+      "file": "README.md:104"
+    },
+    {
+      "tag": "BUG",
+      "text": "on its first run), selftest JSON, CME stress hunting",
+      "file": "README.md:142"
     },
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:130"
+      "file": "README.md:172"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:138"
+      "file": "README.md:180"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/` at once \u2014 see that",
+      "file": "AGENTS.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
+      "file": "AGENTS.md:85"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
+      "file": "AGENTS.md:89"
     },
     {
       "tag": "BUG",
@@ -7919,6 +8076,11 @@
       "tag": "BUG",
       "text": "#1)",
       "file": "CROSS_CORRELATED_ROADMAP.md:193"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals\", \"08_hall_lookback\", \"09_agents\",",
+      "file": "scripts/test_bot.py:30"
     }
   ],
   "MultiPage_E2E_20010": [
@@ -10215,122 +10377,122 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:205"
+      "file": "hive_daemon.py:229"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:209"
+      "file": "hive_daemon.py:233"
     },
     {
       "tag": "TODO",
       "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
-      "file": "hive_daemon.py:215"
+      "file": "hive_daemon.py:239"
     },
     {
       "tag": "TODO",
       "text": "driver._selftest now asserts all three terms against this nu",
-      "file": "hive_daemon.py:226"
+      "file": "hive_daemon.py:250"
     },
     {
       "tag": "TODO",
       "text": "driver\":    720.0,",
-      "file": "hive_daemon.py:227"
+      "file": "hive_daemon.py:251"
     },
     {
       "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:342"
+      "file": "hive_daemon.py:393"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:712"
+      "file": "hive_daemon.py:763"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1131"
+      "file": "hive_daemon.py:1182"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1132"
+      "file": "hive_daemon.py:1183"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1133"
+      "file": "hive_daemon.py:1184"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1136"
+      "file": "hive_daemon.py:1187"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      1800, 2),",
-      "file": "hive_daemon.py:1137"
+      "file": "hive_daemon.py:1188"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1149"
+      "file": "hive_daemon.py:1200"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1160"
+      "file": "hive_daemon.py:1211"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1326"
+      "file": "hive_daemon.py:1535"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:1411"
+      "file": "hive_daemon.py:1620"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1894"
+      "file": "hive_daemon.py:2103"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2097"
+      "file": "hive_daemon.py:2306"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2224"
+      "file": "hive_daemon.py:2443"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2268"
+      "file": "hive_daemon.py:2487"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2398"
+      "file": "hive_daemon.py:2617"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2407"
+      "file": "hive_daemon.py:2626"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:2900"
+      "file": "hive_daemon.py:3119"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:2970"
+      "file": "hive_daemon.py:3189"
     },
     {
       "tag": "TODO",
@@ -10365,42 +10527,42 @@
     {
       "tag": "TODO",
       "text": "= uids[:limit]",
-      "file": "email_harvester.py:180"
+      "file": "email_harvester.py:201"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "email_harvester.py:184"
+      "file": "email_harvester.py:205"
     },
     {
       "tag": "TODO",
       "text": "/ intent extraction from self-sent emails \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "email_harvester.py:281"
+      "file": "email_harvester.py:302"
     },
     {
       "tag": "TODO",
       "text": "RE   = re.compile(r'(?im)^\\s*(TODO|FIXME|HACK|NOTE|REMIND(?:",
-      "file": "email_harvester.py:288"
+      "file": "email_harvester.py:309"
     },
     {
       "tag": "TODO",
       "text": "RE.finditer(text):",
-      "file": "email_harvester.py:323"
+      "file": "email_harvester.py:344"
     },
     {
       "tag": "TODO",
       "text": "= uids[:limit]",
-      "file": "email_harvester.py:500"
+      "file": "email_harvester.py:521"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "email_harvester.py:507"
+      "file": "email_harvester.py:528"
     },
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "email_harvester.py:575"
+      "file": "email_harvester.py:596"
     },
     {
       "tag": "TODO",
@@ -10520,7 +10682,7 @@
     {
       "tag": "BUG",
       "text": "once made a cleanup script kill itself).",
-      "file": "aegis_resume.py:111"
+      "file": "aegis_resume.py:118"
     },
     {
       "tag": "TODO",
@@ -10614,113 +10776,143 @@
     },
     {
       "tag": "TODO",
+      "text": "driver genuinely needs all of it (it talks to GitHub).",
+      "file": "ast_todo_crawler.py:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "inside the identifier `todo_driver` and filed a work item wh",
+      "file": "ast_todo_crawler.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "findings were that -- todo_driver, todo-crawler, todo_ids,",
+      "file": "ast_todo_crawler.py:45"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, todo_text. The scan looked productive and was mostly noi",
+      "file": "ast_todo_crawler.py:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "family as _rule_match finding \"hi\" inside \"this\" in the hous",
+      "file": "ast_todo_crawler.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler's OWN earlier fix for prose that merely mentions the",
+      "file": "ast_todo_crawler.py:52"
+    },
+    {
+      "tag": "TODO",
       "text": "markers on purpose, detection regexes and demo samples conta",
-      "file": "ast_todo_crawler.py:55"
+      "file": "ast_todo_crawler.py:72"
     },
     {
       "tag": "FIXME",
       "text": "in a file 30 modules depend on outranks one nothing touches,",
-      "file": "ast_todo_crawler.py:204"
+      "file": "ast_todo_crawler.py:221"
     },
     {
       "tag": "TODO",
       "text": "crawler.py\":   # never self-flag detection patterns",
-      "file": "ast_todo_crawler.py:225"
+      "file": "ast_todo_crawler.py:242"
     },
     {
       "tag": "TODO",
       "text": "*.md writes are idempotent, so the retry costs nothing.\"\"\"",
-      "file": "ast_todo_crawler.py:269"
-    },
-    {
-      "tag": "TODO",
-      "text": "md(it):",
-      "file": "ast_todo_crawler.py:285"
-    },
-    {
-      "tag": "TODO",
-      "text": "*.md (gits-as-todos), so the crawler composes with the brute",
       "file": "ast_todo_crawler.py:286"
     },
     {
       "tag": "TODO",
+      "text": "md(it):",
+      "file": "ast_todo_crawler.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "*.md (gits-as-todos), so the crawler composes with the brute",
+      "file": "ast_todo_crawler.py:303"
+    },
+    {
+      "tag": "TODO",
       "text": "{it['id']}_{slug}.md\")",
-      "file": "ast_todo_crawler.py:289"
+      "file": "ast_todo_crawler.py:306"
     },
     {
       "tag": "TODO",
       "text": "{it['id']} \u2014 {it['kind']}\\n\\n- **File**: {it['file']}\\n- **L",
-      "file": "ast_todo_crawler.py:290"
+      "file": "ast_todo_crawler.py:307"
     },
     {
       "tag": "TODO",
       "text": "label():",
-      "file": "ast_todo_crawler.py:305"
+      "file": "ast_todo_crawler.py:322"
     },
     {
       "tag": "TODO",
       "text": "agent.delegate()`'s own queue",
-      "file": "ast_todo_crawler.py:309"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler\"],",
-      "file": "ast_todo_crawler.py:317"
-    },
-    {
-      "tag": "TODO",
-      "text": "list + todo_*.md. Dedup via the ledger; no-op if gh is absen",
-      "file": "ast_todo_crawler.py:325"
-    },
-    {
-      "tag": "TODO",
-      "text": "files (a rehearsal leaves no trace).\"\"\"",
       "file": "ast_todo_crawler.py:326"
     },
     {
       "tag": "TODO",
+      "text": "crawler\"],",
+      "file": "ast_todo_crawler.py:334"
+    },
+    {
+      "tag": "TODO",
+      "text": "list + todo_*.md. Dedup via the ledger; no-op if gh is absen",
+      "file": "ast_todo_crawler.py:342"
+    },
+    {
+      "tag": "TODO",
+      "text": "files (a rehearsal leaves no trace).\"\"\"",
+      "file": "ast_todo_crawler.py:343"
+    },
+    {
+      "tag": "TODO",
       "text": "SYNC_LIMIT\", \"20\"))",
-      "file": "ast_todo_crawler.py:327"
-    },
-    {
-      "tag": "TODO",
-      "text": "label()",
-      "file": "ast_todo_crawler.py:333"
-    },
-    {
-      "tag": "TODO",
-      "text": "md(it)",
-      "file": "ast_todo_crawler.py:340"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.\\n\\n- **File:** `{it['file']}`\\n- **Line:** {it['lin",
       "file": "ast_todo_crawler.py:344"
     },
     {
       "tag": "TODO",
+      "text": "label()",
+      "file": "ast_todo_crawler.py:350"
+    },
+    {
+      "tag": "TODO",
+      "text": "md(it)",
+      "file": "ast_todo_crawler.py:357"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler.\\n\\n- **File:** `{it['file']}`\\n- **Line:** {it['lin",
+      "file": "ast_todo_crawler.py:361"
+    },
+    {
+      "tag": "TODO",
       "text": "md\": len(posted), \"gh_available\": gh, \"items\": posted}",
-      "file": "ast_todo_crawler.py:365"
+      "file": "ast_todo_crawler.py:382"
     },
     {
       "tag": "TODO",
       "text": "list\"",
-      "file": "ast_todo_crawler.py:374"
+      "file": "ast_todo_crawler.py:391"
     },
     {
       "tag": "TODO",
       "text": "tighten this\\n\\n\"",
-      "file": "ast_todo_crawler.py:386"
+      "file": "ast_todo_crawler.py:403"
     },
     {
       "tag": "TODO",
       "text": "implement'\\n\"                       # marker inside a string",
-      "file": "ast_todo_crawler.py:390"
+      "file": "ast_todo_crawler.py:407"
     },
     {
       "tag": "BUG",
       "text": "2026-07-26: mid-sentence",
-      "file": "ast_todo_crawler.py:396"
+      "file": "ast_todo_crawler.py:413"
     },
     {
       "tag": "TODO",
@@ -10834,8 +11026,18 @@
     },
     {
       "tag": "BUG",
+      "text": "\"",
+      "file": "viper_beliefs.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "list and the blackboard.\", \"Chris\"),",
+      "file": "viper_beliefs.py:105"
+    },
+    {
+      "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
-      "file": "supervisor.py:81"
+      "file": "supervisor.py:99"
     },
     {
       "tag": "TODO",
@@ -10846,6 +11048,21 @@
       "tag": "TODO",
       "text": "crawl\": \"studying\", \"readme_intent\": \"studying\",",
       "file": "master_scheduler.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler matched TODO inside `todo_driver`. The same mistake ",
+      "file": "kg_lens.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver runs\", [\"todo\"]):",
+      "file": "kg_lens.py:200"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver'\")",
+      "file": "kg_lens.py:201"
     },
     {
       "tag": "BUG",
@@ -11025,17 +11242,17 @@
     {
       "tag": "BUG",
       "text": "was a \"",
-      "file": "issue_router.py:287"
+      "file": "issue_router.py:420"
     },
     {
       "tag": "BUG",
       "text": "has no test\"),",
-      "file": "issue_router.py:299"
+      "file": "issue_router.py:432"
     },
     {
       "tag": "BUG",
       "text": "it exists for\")",
-      "file": "issue_router.py:498"
+      "file": "issue_router.py:631"
     },
     {
       "tag": "TODO",
@@ -11081,61 +11298,6 @@
       "tag": "TODO",
       "text": "",
       "file": "repo_fleet_m2import.py:29"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "repo_fleet_m2import.py:76"
-    },
-    {
-      "tag": "TODO",
-      "text": "items, or a repo that only failed",
-      "file": "repo_fleet_m2import.py:87"
-    },
-    {
-      "tag": "TODO",
-      "text": "#8 in viper-scripts",
-      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "repoint Hermes base_url at the gateway (8800).",
-      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0008_repoint_Hermes_base_url_at_the_gateway_8800..md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py, not a replacement: that module",
-      "file": "gap_analyzer.py:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "regex",
-      "file": "gap_analyzer.py:10"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate() already uses for TODO/FIXME/XXX/HACK -- del",
-      "file": "gap_analyzer.py:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent's SLM crew) can pick them up exactly like any other re",
-      "file": "gap_analyzer.py:21"
     }
   ],
   "viper-state": [
