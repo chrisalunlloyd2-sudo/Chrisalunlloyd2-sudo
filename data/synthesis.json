@@ -1,12 +1,20 @@
 {
-  "total_repos": 59,
+  "total_repos": 60,
   "cross_links": [
+    {
+      "source": "Aegis_Agents",
+      "target": "AvatarAlive",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
     {
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -41,8 +49,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -91,8 +99,105 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "Chrisalunlloyd2-sudo",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "H2OIDE",
+      "domains": [
         "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "H2OMatrixCE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Agent/BDI",
+        "API/Web"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI",
+        "API/Web"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "mindpalace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI",
+        "API/Web"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "AvatarAlive",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -127,8 +232,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -177,8 +282,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -419,8 +524,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -612,6 +717,16 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_b0a51eef_235608.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "Debug mode.",
       "location": "mined/mined_694412aa.py:23",
       "domains": [
@@ -644,6 +759,16 @@
       "repo": "agent-squiggly",
       "task": "in the never_twice ledger, so a fixed bug has something stan",
       "location": "mined/mined_bc2df504.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_e786857a.py:2",
       "domains": [
         "General"
       ]
@@ -702,6 +827,26 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_b583a752.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_e786857a_235536.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "",
       "location": "mined/mined_601b4cd4.py:15",
       "domains": [
@@ -747,46 +892,6 @@
       "domains": [
         "General"
       ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_fa6f94b1.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_8ccabab8.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Alice",
-      "task": "Cube**: Red cube deployed to test Three.js rendering.",
-      "location": "CHANGELOG.md:13",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "alice-companion",
-      "task": "Cube**: Red cube deployed to test Three.js rendering.",
-      "location": "CHANGELOG.md:13",
-      "domains": [
-        "General"
-      ]
     }
   ],
   "unified_stack": {
@@ -796,6 +901,7 @@
     ],
     "Agent/BDI": [
       "Aegis_Agents",
+      "AvatarAlive",
       "Chrisalunlloyd2-sudo",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
@@ -803,12 +909,14 @@
       "SimsMerged"
     ],
     "API/Web": [
+      "AvatarAlive",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
       "openrouter_manager"
     ],
     "Telemetry": [
       "Aegis_Agents",
+      "AvatarAlive",
       "Chrisalunlloyd2-sudo",
       "H2OIDE",
       "H2OMatrixCE",

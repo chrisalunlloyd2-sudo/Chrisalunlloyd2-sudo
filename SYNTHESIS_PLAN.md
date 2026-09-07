@@ -5,31 +5,45 @@
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
-| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `AvatarAlive` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `H2OIDE` | Telemetry |
 | `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
 | `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI |
-| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
 | `Aegis_Agents` | `mindpalace` | Telemetry |
 | `Aegis_Agents` | `Nova` | Telemetry |
 | `Aegis_Agents` | `openrouter_manager` | Agent/BDI |
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
-| `Aegis_Agents` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `SimsMerged` | Telemetry, Agent/BDI |
+| `AvatarAlive` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
+| `AvatarAlive` | `H2OIDE` | Telemetry |
+| `AvatarAlive` | `H2OMatrixCE` | Telemetry |
+| `AvatarAlive` | `MasterLogs` | Telemetry |
+| `AvatarAlive` | `MatrixCE_GUI` | Agent/BDI, API/Web |
+| `AvatarAlive` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI, API/Web |
+| `AvatarAlive` | `mind-palace` | Telemetry |
+| `AvatarAlive` | `mindpalace` | Telemetry |
+| `AvatarAlive` | `Nova` | Telemetry |
+| `AvatarAlive` | `openrouter_manager` | Agent/BDI, API/Web |
+| `AvatarAlive` | `sims-java-neo-fx` | Telemetry |
+| `AvatarAlive` | `sims-javafx-neo` | Telemetry |
+| `AvatarAlive` | `SimsMerged` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI |
-| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `mindpalace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `SimsMerged` | Telemetry, Agent/BDI |
 | `H2OIDE` | `H2OMatrixCE` | Telemetry |
 | `H2OIDE` | `MasterLogs` | Telemetry |
 | `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
@@ -63,7 +77,7 @@
 | `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
-| `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
 | `mind-palace` | `mindpalace` | Telemetry |
 | `mind-palace` | `Nova` | Telemetry |
 | `mind-palace` | `sims-java-neo-fx` | Telemetry |
@@ -89,11 +103,11 @@
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b0a51eef_235608.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa.py:23)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e_003528.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099.py:11)*
 - 🔴 **[BUG]** `agent-squiggly` → in the never_twice ledger, so a fixed bug has something stan *(mined/mined_bc2df504.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_e786857a.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → in the never_twice ledger, so a fixed bug has something stan *(mined/mined_6f7ecec3.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_1da4ed23.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_8ccabab8_193103.py:2)*
