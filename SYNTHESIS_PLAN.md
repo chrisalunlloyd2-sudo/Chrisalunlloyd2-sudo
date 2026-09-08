@@ -5,7 +5,6 @@
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
-| `Aegis_Agents` | `AvatarAlive` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `H2OIDE` | Telemetry |
 | `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
@@ -19,19 +18,6 @@
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
 | `Aegis_Agents` | `SimsMerged` | Telemetry, Agent/BDI |
-| `AvatarAlive` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
-| `AvatarAlive` | `H2OIDE` | Telemetry |
-| `AvatarAlive` | `H2OMatrixCE` | Telemetry |
-| `AvatarAlive` | `MasterLogs` | Telemetry |
-| `AvatarAlive` | `MatrixCE_GUI` | Agent/BDI, API/Web |
-| `AvatarAlive` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI, API/Web |
-| `AvatarAlive` | `mind-palace` | Telemetry |
-| `AvatarAlive` | `mindpalace` | Telemetry |
-| `AvatarAlive` | `Nova` | Telemetry |
-| `AvatarAlive` | `openrouter_manager` | Agent/BDI, API/Web |
-| `AvatarAlive` | `sims-java-neo-fx` | Telemetry |
-| `AvatarAlive` | `sims-javafx-neo` | Telemetry |
-| `AvatarAlive` | `SimsMerged` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
@@ -68,13 +54,13 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
@@ -107,7 +93,7 @@
 - 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa.py:23)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e_003528.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099.py:11)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_d71df467.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → in the never_twice ledger, so a fixed bug has something stan *(mined/mined_bc2df504.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b05ca0df.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_e786857a.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → in the never_twice ledger, so a fixed bug has something stan *(mined/mined_6f7ecec3.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_1da4ed23.py:2)*
