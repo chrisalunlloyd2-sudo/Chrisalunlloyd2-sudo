@@ -723,6 +723,26 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
+      "location": "mined/mined_bfa5eb6c.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "",
+      "location": "mined/mined_bfa5eb6c.py:23",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
       "location": "mined/mined_8ccabab8_193103.py:2",
       "domains": [
         "General"
@@ -764,26 +784,6 @@
       "repo": "agent-squiggly",
       "task": "",
       "location": "mined/mined_601b4cd4.py:15",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "in the never_twice ledger, so a fixed bug has something stan",
-      "location": "mined/mined_1d94b082.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_704aad25.py:2",
       "domains": [
         "General"
       ]

@@ -91,7 +91,7 @@
 <title>MATRIX_GEN8_HOME</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1490,-953.35C1490,-953.35 1332,-953.35 1332,-953.35 1326,-953.35 1320,-947.35 1320,-941.35 1320,-941.35 1320,-927.35 1320,-927.35 1320,-921.35 1326,-915.35 1332,-915.35 1332,-915.35 1490,-915.35 1490,-915.35 1496,-915.35 1502,-921.35 1502,-927.35 1502,-927.35 1502,-941.35 1502,-941.35 1502,-947.35 1496,-953.35 1490,-953.35"/>
 <text text-anchor="middle" x="1411" y="-938.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MATRIX_GEN8_HOME</text>
-<text text-anchor="middle" x="1411" y="-923.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Telemetry]</text>
+<text text-anchor="middle" x="1411" y="-923.15" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Agent/BDI]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MATRIX_GEN8_HOME -->
 <g id="edge6" class="edge">
