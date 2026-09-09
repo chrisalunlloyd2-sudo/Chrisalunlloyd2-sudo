@@ -625,6 +625,16 @@
       "file": "mined/mined_fccdff7e.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_bfa5eb6c.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_bfa5eb6c.py:23"
+    },
+    {
       "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_7be9d777.py:2"
@@ -703,6 +713,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_704aad25.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_2e0cdc79.py:2"
     },
     {
       "tag": "BUG",
@@ -1010,6 +1025,21 @@
       "file": "06_PROOF/phase31_proof.md:22"
     },
     {
+      "tag": "BUG",
+      "text": "found+fixed during mirror run: decay at dt=0.125 is \u00d70.5 (0.",
+      "file": "06_PROOF/phase99_proof.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "found + fixed at root class",
+      "file": "06_PROOF/phase102_proof.md:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "found and fixed during acceptance",
+      "file": "06_PROOF/phase98_proof.md:18"
+    },
+    {
       "tag": "TODO",
       "text": "markers + acceptance-test skeletons (like my harness, in-rep",
       "file": "00_REQUEST/phases_48_97_roadmap.md:95"
@@ -1036,8 +1066,18 @@
     },
     {
       "tag": "BUG",
+      "text": "found by real output during gate build",
+      "file": "todos/p35_goal_driven_autonomy_task.md:26"
+    },
+    {
+      "tag": "BUG",
       "text": "pinned (byte 1096) | 2026-09-08 | band |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:97"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixed at root class |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:144"
     },
     {
       "tag": "BUG",
@@ -1308,22 +1348,17 @@
     {
       "tag": "BUG",
       "text": "mode. *(mined/mined_694412aa.py:23)*",
-      "file": "SYNTHESIS_PLAN.md:107"
+      "file": "SYNTHESIS_PLAN.md:93"
     },
     {
       "tag": "BUG",
       "text": "*(mined/mined_1c038099.py:11)*",
-      "file": "SYNTHESIS_PLAN.md:109"
+      "file": "SYNTHESIS_PLAN.md:95"
     },
     {
       "tag": "BUG",
       "text": "has something stan *(mined/mined_bc2df504.py:2)*",
-      "file": "SYNTHESIS_PLAN.md:110"
-    },
-    {
-      "tag": "BUG",
-      "text": "has something stan *(mined/mined_6f7ecec3.py:2)*",
-      "file": "SYNTHESIS_PLAN.md:112"
+      "file": "SYNTHESIS_PLAN.md:97"
     },
     {
       "tag": "TODO",
@@ -8050,7 +8085,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` \u2014 the Autonomous Finishin",
-      "file": "DEV_SETUP.md:94"
+      "file": "DEV_SETUP.md:106"
     },
     {
       "tag": "TODO",
@@ -8075,7 +8110,22 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` (TASK files, one at a tim",
-      "file": "CONTRIBUTING.md:71"
+      "file": "CONTRIBUTING.md:72"
+    },
+    {
+      "tag": "BUG",
+      "text": "template. Three accepted",
+      "file": "CONTRIBUTOR_LADDER.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports from the [smoke pass](docs/TEST_PLAN.md) and your na",
+      "file": "CONTRIBUTORS.md:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports \u2192 testers row (name yourself in the issue)",
+      "file": "CONTRIBUTORS.md:25"
     },
     {
       "tag": "BUG",
@@ -8090,37 +8140,37 @@
     {
       "tag": "TODO",
       "text": "",
-      "file": "README.md:18"
+      "file": "README.md:23"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 TODO/FIXME/HACK comments \u2192 hex crystals (height",
-      "file": "README.md:107"
+      "file": "README.md:112"
     },
     {
       "tag": "BUG",
       "text": "on its first run), selftest JSON, CME stress hunting",
-      "file": "README.md:145"
+      "file": "README.md:150"
     },
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:223"
+      "file": "README.md:228"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:231"
+      "file": "README.md:236"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:546"
+      "file": "README.md:576"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:563"
+      "file": "README.md:598"
     },
     {
       "tag": "TODO",
@@ -8139,6 +8189,21 @@
     },
     {
       "tag": "BUG",
+      "text": "reports carry console tails and",
+      "file": "CONTRIBUTION_NORMS.md:11"
+    },
+    {
+      "tag": "BUG",
+      "text": "gets written. New code names things the way the module",
+      "file": "CONTRIBUTION_NORMS.md:43"
+    },
+    {
+      "tag": "BUG",
+      "text": "report with imperfect prose is",
+      "file": "CONTRIBUTION_NORMS.md:53"
+    },
+    {
+      "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
       "file": "CROSS_CORRELATED_ROADMAP.md:151"
     },
@@ -8154,18 +8219,23 @@
     },
     {
       "tag": "BUG",
-      "text": "template](../.github/ISSUE_TEMPLATE/bug_report.md)",
-      "file": "docs/TEST_PLAN.md:5"
+      "text": "if >0)\")",
+      "file": "scripts/feedback_digest.py:84"
     },
     {
       "tag": "BUG",
-      "text": "class) |",
-      "file": "docs/TEST_PLAN.md:21"
+      "text": "template](../.github/ISSUE_TEMPLATE/bug_report.md)",
+      "file": "docs/TEST_PLAN.md:5"
     },
     {
       "tag": "TODO",
       "text": "crystals` and `12_door_prompt` capture dark \u2014",
       "file": "docs/TEST_PLAN.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "report with the smoke pass beats ten likes.",
+      "file": "docs/CONCEPT_POST.md:45"
     },
     {
       "tag": "BUG",
@@ -8181,6 +8251,11 @@
       "tag": "TODO",
       "text": "crystals; breathing crystals (3.4s), quorum flares (APPROVED",
       "file": "docs/DESIGN.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "| [bug template](ISSUE_TEMPLATE/bug_report.md) |",
+      "file": ".github/SUPPORT.md:14"
     },
     {
       "tag": "BUG",
@@ -10522,87 +10597,92 @@
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1182"
+      "file": "hive_daemon.py:1208"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1183"
+      "file": "hive_daemon.py:1209"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1184"
+      "file": "hive_daemon.py:1210"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1187"
+      "file": "hive_daemon.py:1213"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      1800, 2),",
-      "file": "hive_daemon.py:1188"
+      "file": "hive_daemon.py:1214"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1200"
+      "file": "hive_daemon.py:1226"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1211"
+      "file": "hive_daemon.py:1237"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1547"
+      "file": "hive_daemon.py:1573"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:1632"
+      "file": "hive_daemon.py:1658"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:2115"
+      "file": "hive_daemon.py:2141"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2318"
+      "file": "hive_daemon.py:2344"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2455"
+      "file": "hive_daemon.py:2481"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2499"
+      "file": "hive_daemon.py:2525"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2629"
+      "file": "hive_daemon.py:2655"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2638"
+      "file": "hive_daemon.py:2664"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl (t3, hourly) and email_todo",
+      "file": "hive_daemon.py:2854"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3131"
+      "file": "hive_daemon.py:3210"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3201"
+      "file": "hive_daemon.py:3280"
     },
     {
       "tag": "TODO",
@@ -11220,9 +11300,24 @@
       "file": "viper_dit.py:264"
     },
     {
+      "tag": "TODO",
+      "text": "grand_unifier.py \u2014 ONE QUEUE, assembled from every source th",
+      "file": "todo_grand_unifier.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "list assembled from blackboard, ledgers, hive, and this",
+      "file": "todo_grand_unifier.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier: %d items, %d corroborated by 2+ sources%s\" % ",
+      "file": "todo_grand_unifier.py:185"
+    },
+    {
       "tag": "BUG",
       "text": "already fixed in",
-      "file": "viper_moe_server.py:337"
+      "file": "viper_moe_server.py:364"
     },
     {
       "tag": "BUG",
@@ -11233,6 +11328,16 @@
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
       "file": "viper_call.py:168"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl (hourly)",
+      "file": "burn_in.py:150"
+    },
+    {
+      "tag": "TODO",
+      "text": "(hourly) had each run TWICE in ten hours: never failing, so",
+      "file": "burn_in.py:151"
     },
     {
       "tag": "TODO",
@@ -11351,58 +11456,28 @@
     },
     {
       "tag": "BUG",
+      "text": "aegis declares domains (\"any\",) and needs (), so once it was",
+      "file": "issue_router.py:405"
+    },
+    {
+      "tag": "BUG",
       "text": "was a \"",
-      "file": "issue_router.py:420"
+      "file": "issue_router.py:500"
     },
     {
       "tag": "BUG",
       "text": "has no test\"),",
-      "file": "issue_router.py:432"
+      "file": "issue_router.py:512"
     },
     {
       "tag": "BUG",
       "text": "it exists for\")",
-      "file": "issue_router.py:631"
+      "file": "issue_router.py:730"
     },
     {
       "tag": "TODO",
       "text": "agent): no-LLM self-test so quicktest can verify this module",
       "file": "correctness_audit.py:118"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_project.py:182"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent + contrib_engine at MORE than one repo",
-      "file": "repo_fleet.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler, todo_agent, contrib_engine) already reads its targe",
-      "file": "repo_fleet.py:6"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py/todo_agent.py/contrib_engine.py live; VIPER_CRAWL",
-      "file": "repo_fleet.py:167"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py\", \"sync\"], root, gh_repo, runner=runner)",
-      "file": "repo_fleet.py:203"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.py\", \"delegate\", \"1\"], root, gh_repo, runner=runner)",
-      "file": "repo_fleet.py:204"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler/todo_agent/contrib_engine chain already gated on thi",
-      "file": "repo_fleet_m2import.py:16"
     }
   ],
   "viper-state": [
