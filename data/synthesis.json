@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -91,8 +91,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -127,8 +127,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -353,16 +353,16 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -713,6 +713,16 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
+      "location": "mined/mined_c2933181.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
       "location": "mined/mined_fccdff7e.py:2",
       "domains": [
         "General"
@@ -743,6 +753,16 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
+      "location": "mined/mined_c3598dfd.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
       "location": "mined/mined_8ccabab8_193103.py:2",
       "domains": [
         "General"
@@ -764,26 +784,6 @@
       "repo": "agent-squiggly",
       "task": "in the never_twice ledger, so a fixed bug has something stan",
       "location": "mined/mined_b583a752.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_e786857a_235536.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "",
-      "location": "mined/mined_601b4cd4.py:15",
       "domains": [
         "General"
       ]
