@@ -610,6 +610,11 @@
       "file": "mined/mined_1da4ed23.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_c2933181.py:2"
+    },
+    {
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_f5d23441.py:33"
@@ -633,6 +638,11 @@
       "tag": "BUG",
       "text": "",
       "file": "mined/mined_bfa5eb6c.py:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_c3598dfd.py:2"
     },
     {
       "tag": "TODO",
@@ -3539,43 +3549,48 @@
     },
     {
       "tag": "TODO",
+      "text": "id))))",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:457"
+    },
+    {
+      "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:449"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:468"
     },
     {
       "tag": "TODO",
       "text": "id, rec in d.items():",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:479"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:498"
     },
     {
       "tag": "TODO",
       "text": "id, type(e).__name__, str(e)[:100]))",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:489"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:508"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:501"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:520"
     },
     {
       "tag": "TODO",
       "text": "id, party, why=\"\"):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:507"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:526"
     },
     {
       "tag": "TODO",
       "text": "id, owner=party)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:509"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:528"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:511"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:530"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:518"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:537"
     },
     {
       "tag": "BUG",
@@ -10592,97 +10607,97 @@
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:763"
+      "file": "hive_daemon.py:797"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1208"
+      "file": "hive_daemon.py:1299"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1209"
+      "file": "hive_daemon.py:1300"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1210"
+      "file": "hive_daemon.py:1301"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1213"
+      "file": "hive_daemon.py:1304"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      1800, 2),",
-      "file": "hive_daemon.py:1214"
+      "file": "hive_daemon.py:1305"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1226"
+      "file": "hive_daemon.py:1317"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1237"
+      "file": "hive_daemon.py:1328"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1573"
+      "file": "hive_daemon.py:1664"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:1658"
+      "file": "hive_daemon.py:1749"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:2141"
+      "file": "hive_daemon.py:2268"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2344"
+      "file": "hive_daemon.py:2471"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2481"
+      "file": "hive_daemon.py:2608"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2525"
+      "file": "hive_daemon.py:2652"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2655"
+      "file": "hive_daemon.py:2800"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2664"
+      "file": "hive_daemon.py:2809"
     },
     {
       "tag": "TODO",
       "text": "crawl (t3, hourly) and email_todo",
-      "file": "hive_daemon.py:2854"
+      "file": "hive_daemon.py:2999"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3210"
+      "file": "hive_daemon.py:3355"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3280"
+      "file": "hive_daemon.py:3425"
     },
     {
       "tag": "TODO",
@@ -11227,7 +11242,12 @@
     {
       "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
-      "file": "supervisor.py:99"
+      "file": "supervisor.py:112"
+    },
+    {
+      "tag": "BUG",
+      "text": "than the one it",
+      "file": "supervisor.py:566"
     },
     {
       "tag": "TODO",
@@ -11317,7 +11337,17 @@
     {
       "tag": "BUG",
       "text": "already fixed in",
-      "file": "viper_moe_server.py:364"
+      "file": "viper_moe_server.py:407"
+    },
+    {
+      "tag": "BUG",
+      "text": "and git",
+      "file": "curriculum.py:7"
+    },
+    {
+      "tag": "BUG",
+      "text": "that made the house answer five",
+      "file": "curriculum.py:230"
     },
     {
       "tag": "BUG",
@@ -11332,12 +11362,12 @@
     {
       "tag": "TODO",
       "text": "crawl (hourly)",
-      "file": "burn_in.py:150"
+      "file": "burn_in.py:158"
     },
     {
       "tag": "TODO",
       "text": "(hourly) had each run TWICE in ten hours: never failing, so",
-      "file": "burn_in.py:151"
+      "file": "burn_in.py:159"
     },
     {
       "tag": "TODO",
@@ -11373,6 +11403,11 @@
       "tag": "BUG",
       "text": "just fixed in contrib_engine.py --",
       "file": "race_scanner.py:161"
+    },
+    {
+      "tag": "BUG",
+      "text": "kept coming",
+      "file": "quorum_cell.py:208"
     },
     {
       "tag": "TODO",
@@ -11458,26 +11493,6 @@
       "tag": "BUG",
       "text": "aegis declares domains (\"any\",) and needs (), so once it was",
       "file": "issue_router.py:405"
-    },
-    {
-      "tag": "BUG",
-      "text": "was a \"",
-      "file": "issue_router.py:500"
-    },
-    {
-      "tag": "BUG",
-      "text": "has no test\"),",
-      "file": "issue_router.py:512"
-    },
-    {
-      "tag": "BUG",
-      "text": "it exists for\")",
-      "file": "issue_router.py:730"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "correctness_audit.py:118"
     }
   ],
   "viper-state": [
