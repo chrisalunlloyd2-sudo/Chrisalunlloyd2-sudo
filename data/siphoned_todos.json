@@ -1635,7 +1635,7 @@
     {
       "tag": "BUG",
       "text": "has something stan *(mined/mined_bc2df504.py:2)*",
-      "file": "SYNTHESIS_PLAN.md:97"
+      "file": "SYNTHESIS_PLAN.md:98"
     },
     {
       "tag": "TODO",
@@ -11467,6 +11467,11 @@
       "file": "run_tests.py:135"
     },
     {
+      "tag": "BUG",
+      "text": "this check exists for\")",
+      "file": "test_lora_gate.py:117"
+    },
+    {
       "tag": "TODO",
       "text": "driver",
       "file": "aegis_gist.py:109"
@@ -11770,11 +11775,6 @@
       "tag": "BUG",
       "text": "the test caught)",
       "file": "code_assist.py:113"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "memory_withdraw.py:160"
     }
   ],
   "viper-state": [
@@ -11787,8 +11787,73 @@
   "ViperCli": [
     {
       "tag": "BUG",
+      "text": "was found by a test that submitted a throwaway `def X(): ret",
+      "file": "docs/DECISIONS.md:372"
+    },
+    {
+      "tag": "BUG",
+      "text": "species` swaps `SCRIPTS`,",
+      "file": "docs/DECISIONS.md:380"
+    },
+    {
+      "tag": "BUG",
+      "text": "the tests found.",
+      "file": "docs/DECISIONS.md:386"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing the word coverage. Each entry keeps its `source`,",
+      "file": "docs/DECISIONS.md:577"
+    },
+    {
+      "tag": "BUG",
+      "text": "in intake's plan builder.",
+      "file": "docs/DECISIONS.md:783"
+    },
+    {
+      "tag": "BUG",
+      "text": "whose only symptom is a hang.** *\"if not then back to option",
+      "file": "docs/DECISIONS.md:817"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "src/vipercli_core.py:632"
+    },
+    {
+      "tag": "BUG",
+      "text": "cannot come back.",
+      "file": "src/shapes.py:425"
+    },
+    {
+      "tag": "BUG",
+      "text": "the repo NAME matching an occupant must not be",
+      "file": "src/shapes.py:444"
+    },
+    {
+      "tag": "BUG",
+      "text": "in intake's plan builder.",
+      "file": "src/ledgers.py:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "THIS MODULE HIT: an unclosed paren followed by a",
+      "file": "src/triage.py:344"
+    },
+    {
+      "tag": "BUG",
       "text": "on a dense panel, and a readout that",
-      "file": "src/memory_provider.py:200"
+      "file": "src/memory_provider.py:292"
+    },
+    {
+      "tag": "BUG",
+      "text": "were still there, a",
+      "file": "src/memory_provider.py:551"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing the word coverage. Two of these three would have bee",
+      "file": "src/tool_registry.py:25"
     }
   ],
   "ViperNote": [
