@@ -622,6 +622,16 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_1ae8816d.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "Debug mode.",
       "location": "mined/mined_694412aa.py:23",
       "domains": [
@@ -682,8 +692,48 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan aegis_gist` -- the boolean for this species ",
+      "location": "mined/mined_69d7a56a.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py module to classify the gist as a new species, and",
+      "location": "mined/mined_69d7a56a.py:20",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species module. The self-test for the bug_species module sho",
+      "location": "mined/mined_69d7a56a.py:21",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_cb25b931.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_91e98059.py:2",
       "domains": [
         "General"
       ]
@@ -734,56 +784,6 @@
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_c2933181.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "location": "mined/mined_8d8e4ec8.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_fccdff7e.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_bfa5eb6c.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "",
-      "location": "mined/mined_bfa5eb6c.py:23",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan aegis_survey` -- the boolean for this specie",
-      "location": "mined/mined_75f04560.py:2",
       "domains": [
         "General"
       ]

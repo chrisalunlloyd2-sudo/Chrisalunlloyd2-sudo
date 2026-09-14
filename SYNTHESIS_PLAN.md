@@ -90,10 +90,10 @@
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b0a51eef_235608.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_1ae8816d.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa.py:23)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e_003528.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099.py:11)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_d71df467.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b611889d.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → in the never_twice ledger, so a fixed bug has something stan *(mined/mined_bc2df504.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_cb25b931.py:2)*
