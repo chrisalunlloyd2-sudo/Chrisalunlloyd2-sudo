@@ -646,8 +646,48 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan auto_pusher` -- the boolean for this species",
+      "file": "mined/mined_e1e3ec17.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_e1e3ec17.py:16"
+    },
+    {
+      "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_6f7ecec3.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_04355e54.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "Sighting and Investigation System.",
+      "file": "mined/mined_04355e54.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "collector's chaos,",
+      "file": "mined/mined_04355e54.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "Sighting and Investigation System,",
+      "file": "mined/mined_04355e54.py:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "situation. But in all",
+      "file": "mined/mined_04355e54.py:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.",
+      "file": "mined/mined_04355e54.py:37"
     },
     {
       "tag": "BUG",
@@ -713,6 +753,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_c3598dfd.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_3dc6f2c6.py:2"
     },
     {
       "tag": "TODO",
@@ -821,6 +866,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan block_promoter` -- the boolean for this spec",
+      "file": "mined/mined_df56918d.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_c981cbb1_175516.py:2"
     },
@@ -833,6 +883,56 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_22d42ee7.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_eb474e6f.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_d577b3ba.py:2"
+    },
+    {
+      "tag": "FIXME",
+      "text": "This function should be named `unknown_input_defaults_to_ans",
+      "file": "mined/mined_d577b3ba.py:11"
+    },
+    {
+      "tag": "FIXME",
+      "text": "There seems to be a typo in the comment. It should be `unkno",
+      "file": "mined/mined_d577b3ba.py:12"
+    },
+    {
+      "tag": "FIXME",
+      "text": "This function should be named `unknown_verb_error` to match ",
+      "file": "mined/mined_d577b3ba.py:20"
+    },
+    {
+      "tag": "FIXME",
+      "text": "This function should be a part of the `bug_species` module.",
+      "file": "mined/mined_d577b3ba.py:21"
+    },
+    {
+      "tag": "FIXME",
+      "text": "The function should be named `batch_layers_self_test` to mat",
+      "file": "mined/mined_d577b3ba.py:29"
+    },
+    {
+      "tag": "FIXME",
+      "text": "This function should check if the `bug_species` module's sel",
+      "file": "mined/mined_d577b3ba.py:30"
+    },
+    {
+      "tag": "FIXME",
+      "text": "The function should be named `batch_layers_fix_bugs` to matc",
+      "file": "mined/mined_d577b3ba.py:38"
+    },
+    {
+      "tag": "FIXME",
+      "text": "This function should fix any bugs that have been found in th",
+      "file": "mined/mined_d577b3ba.py:39"
     },
     {
       "tag": "BUG",
@@ -886,6 +986,16 @@
     },
     {
       "tag": "TODO",
+      "text": "Implement the selftest method.",
+      "file": "mined/mined_77518b5f.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add more tests here.",
+      "file": "mined/mined_77518b5f.py:23"
+    },
+    {
+      "tag": "TODO",
       "text": "Add logic to run test case",
       "file": "mined/mined_5c2444a1.py:14"
     },
@@ -893,6 +1003,16 @@
       "tag": "TODO",
       "text": "Implement the function to find refusals in the block_mend mo",
       "file": "mined/mined_08dab578_090905.py:30"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan auto_pusher` -- the boolean for this species",
+      "file": "mined/mined_9df1f9a5.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_2061c662.py:24"
     },
     {
       "tag": "BUG",
@@ -928,6 +1048,11 @@
       "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_be908c9a.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_ca683322.py:2"
     },
     {
       "tag": "BUG",
@@ -1256,6 +1381,11 @@
     },
     {
       "tag": "BUG",
+      "text": "fixed (rotor-state key), m4 = gate mis-spec re-specified (6t",
+      "file": "06_PROOF/phase138_proof.md:24"
+    },
+    {
+      "tag": "BUG",
       "text": "(planOne returned denied top) - documented per AB6 precedent",
       "file": "06_PROOF/phase200_proof.md:20"
     },
@@ -1410,6 +1540,36 @@
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:264"
     },
     {
+      "tag": "TODO",
+      "text": "verified free on origin/master after P137 seal | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:267"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at 407e40d | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:269"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:271"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at a1d178f | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:273"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master f88ddf9 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:280"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master e72d6ab | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:284"
+    },
+    {
       "tag": "BUG",
       "text": "silent empty reads faked telemetry (1/13 baseline was an art",
       "file": "07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
@@ -1497,6 +1657,11 @@
       "tag": "BUG",
       "text": "in one day -- the :8765 keyword matcher",
       "file": "bdi_fsm/langdetect.py:71"
+    },
+    {
+      "tag": "BUG",
+      "text": "2026-09-14)",
+      "file": "bdi_fsm/bdi_loop.py:141"
     },
     {
       "tag": "FIXME",
@@ -1895,17 +2060,17 @@
     {
       "tag": "BUG",
       "text": "mode. *(mined/mined_694412aa.py:23)*",
-      "file": "SYNTHESIS_PLAN.md:93"
+      "file": "SYNTHESIS_PLAN.md:94"
     },
     {
       "tag": "BUG",
       "text": "*(mined/mined_1c038099.py:11)*",
-      "file": "SYNTHESIS_PLAN.md:95"
+      "file": "SYNTHESIS_PLAN.md:96"
     },
     {
       "tag": "BUG",
       "text": "has something stan *(mined/mined_bc2df504.py:2)*",
-      "file": "SYNTHESIS_PLAN.md:98"
+      "file": "SYNTHESIS_PLAN.md:99"
     },
     {
       "tag": "TODO",
@@ -9646,17 +9811,17 @@
     {
       "tag": "TODO",
       "text": "crystals",
-      "file": "NEXT_100_STEPS.md:50"
+      "file": "NEXT_100_STEPS.md:53"
     },
     {
       "tag": "TODO",
       "text": "crystals; agents see repo issues in-world",
-      "file": "NEXT_100_STEPS.md:63"
+      "file": "NEXT_100_STEPS.md:66"
     },
     {
       "tag": "TODO",
       "text": "density/last-push age \u2192 KG attribute + room glow intensity",
-      "file": "NEXT_100_STEPS.md:65"
+      "file": "NEXT_100_STEPS.md:68"
     },
     {
       "tag": "TODO",
@@ -13128,6 +13293,21 @@
       "file": "docs/DECISIONS.md:1154"
     },
     {
+      "tag": "TODO",
+      "text": "crawl.DOCS` (which files hold a project's",
+      "file": "docs/DECISIONS.md:1184"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md` (markdown unwrapping, already fixed there",
+      "file": "docs/DECISIONS.md:1185"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own priority-1",
+      "file": "docs/MASTERPLAN.md:42"
+    },
+    {
       "tag": "BUG",
       "text": "",
       "file": "src/vipercli_core.py:632"
@@ -13144,6 +13324,16 @@
     },
     {
       "tag": "BUG",
+      "text": "\"never",
+      "file": "src/changelog.py:61"
+    },
+    {
+      "tag": "BUG",
+      "text": "this",
+      "file": "src/changelog.py:177"
+    },
+    {
+      "tag": "BUG",
       "text": "that cried tampering) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
       "file": "src/taskgen.py:190"
     },
@@ -13155,47 +13345,72 @@
     {
       "tag": "TODO",
       "text": "driver's own shape \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "src/taskgen.py:540"
+      "file": "src/taskgen.py:625"
     },
     {
       "tag": "TODO",
       "text": "driver.GH_REPOS -- filing there means todo_driver's",
-      "file": "src/taskgen.py:546"
+      "file": "src/taskgen.py:631"
     },
     {
       "tag": "TODO",
       "text": "driver does not scan, so those",
-      "file": "src/taskgen.py:548"
+      "file": "src/taskgen.py:633"
     },
     {
       "tag": "TODO",
       "text": "driver.gh_issues()'s OWN regex, matched exactly.",
-      "file": "src/taskgen.py:554"
+      "file": "src/taskgen.py:639"
     },
     {
       "tag": "TODO",
       "text": "driver's own parser cannot read, which would be worse than n",
-      "file": "src/taskgen.py:558"
+      "file": "src/taskgen.py:643"
     },
     {
       "tag": "TODO",
       "text": "driver's existing pipeline);",
-      "file": "src/taskgen.py:597"
+      "file": "src/taskgen.py:682"
     },
     {
       "tag": "TODO",
       "text": "DRIVER'S OWN REGEX. Filing 341",
-      "file": "src/taskgen.py:749"
+      "file": "src/taskgen.py:865"
     },
     {
       "tag": "TODO",
       "text": "driver's regex expects one: %r\"",
-      "file": "src/taskgen.py:759"
+      "file": "src/taskgen.py:875"
     },
     {
       "tag": "BUG",
       "text": "in intake's plan builder.",
       "file": "src/ledgers.py:103"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.DOCS (README/TASKS/ROADMAP/TODO/BLUEPRINT)",
+      "file": "src/compound.py:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md -- already fixed the bug where",
+      "file": "src/compound.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "src/compound.py:117"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md(text)",
+      "file": "src/compound.py:118"
+    },
+    {
+      "tag": "BUG",
+      "text": "was found and fixed on 2026-09-11.**\\n\"",
+      "file": "src/compound.py:470"
     },
     {
       "tag": "BUG",
@@ -13210,7 +13425,7 @@
     {
       "tag": "BUG",
       "text": "were still there, a",
-      "file": "src/memory_provider.py:551"
+      "file": "src/memory_provider.py:587"
     },
     {
       "tag": "BUG",
