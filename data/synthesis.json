@@ -612,6 +612,26 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan cell_tools` -- the boolean for this species ",
+      "location": "mined/mined_e704a03c.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan cell_tools` -- the boolean for this species ",
+      "location": "mined/mined_e704a03c.py:14",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_b0a51eef_235608.py:2",
       "domains": [
@@ -732,58 +752,38 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan cell_report` -- the boolean for this species",
+      "location": "mined/mined_9440edeb.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py module.",
+      "location": "mined/mined_9440edeb.py:21",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py module's self-test must still pass and the boolea",
+      "location": "mined/mined_9440edeb.py:22",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_91e98059.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_b05ca0df.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_e786857a.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan auto_pusher` -- the boolean for this species",
-      "location": "mined/mined_e1e3ec17.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_e1e3ec17.py:16",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "in the never_twice ledger, so a fixed bug has something stan",
-      "location": "mined/mined_6f7ecec3.py:2",
       "domains": [
         "General"
       ]
