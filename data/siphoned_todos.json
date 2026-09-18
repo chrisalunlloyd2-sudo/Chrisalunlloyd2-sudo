@@ -576,6 +576,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_7dc3e89c.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_7dc3e89c.py:16"
+    },
+    {
+      "tag": "BUG",
       "text": "Debug mode.",
       "file": "mined/mined_694412aa.py:23"
     },
@@ -593,6 +603,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_d71df467.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_beefdba0.py:2"
     },
     {
       "tag": "BUG",
@@ -681,6 +696,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
+      "file": "mined/mined_03b40667.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_03b40667.py:19"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_b05ca0df.py:2"
     },
@@ -726,6 +751,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_65a09fae.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_65a09fae.py:22"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
       "file": "mined/mined_04355e54.py:2"
     },
@@ -756,6 +791,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_d918c26f.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_f3ae7dfd_212205.py:2"
     },
@@ -778,6 +818,11 @@
       "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_b583a752_205936.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_231d7da1.py:2"
     },
     {
       "tag": "BUG",
@@ -816,6 +861,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
+      "file": "mined/mined_d3279b3b.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_d3279b3b.py:16"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_bfa5eb6c.py:2"
     },
@@ -846,6 +901,21 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
+      "file": "mined/mined_c23884f6.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "is that the same verb is",
+      "file": "mined/mined_c23884f6.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan lexicon_compiler`",
+      "file": "mined/mined_c23884f6.py:21"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan aegis_survey` -- the boolean for this specie",
       "file": "mined/mined_75f04560.py:2"
     },
@@ -865,9 +935,19 @@
       "file": "mined/mined_1c038099_204612.py:11"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_ee4a5928.py:2"
+    },
+    {
       "tag": "TODO",
       "text": "Add the implementation of the smoke test.",
       "file": "mined/mined_c951b82c.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_survey` -- the boolean for this specie",
+      "file": "mined/mined_a99ba3c2.py:2"
     },
     {
       "tag": "BUG",
@@ -878,6 +958,21 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_c3598dfd.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hive_daemon` -- the boolean for this species",
+      "file": "mined/mined_f6e3a1c6.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "REPORTS TO BIOLOGICAL HIVE",
+      "file": "mined/mined_f6e3a1c6.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_f6e3a1c6.py:16"
     },
     {
       "tag": "BUG",
@@ -921,6 +1016,21 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan aegis_survey` -- the boolean for this specie",
+      "file": "mined/mined_0f06dff8.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py module.\"",
+      "file": "mined/mined_0f06dff8.py:21"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_survey` -- the boolean for this specie",
+      "file": "mined/mined_0f06dff8.py:29"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_22d42ee7_193136.py:2"
     },
@@ -951,8 +1061,38 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_5eab4c83.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
+      "file": "mined/mined_0bbe76bf.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_e786857a_235536.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan gap_finder` -- the boolean for this species ",
+      "file": "mined/mined_79076cfd.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_ce206c0b.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_ce206c0b.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` module, but nothing seems to be causing the",
+      "file": "mined/mined_ce206c0b.py:18"
     },
     {
       "tag": "BUG",
@@ -1041,6 +1181,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan aegis_survey` -- the boolean for this specie",
+      "file": "mined/mined_48d3e1c1.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement your code here",
+      "file": "mined/mined_48d3e1c1.py:35"
+    },
+    {
+      "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_1d94b082.py:2"
     },
@@ -1053,6 +1203,26 @@
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_cc22f550.py:33"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "file": "mined/mined_c076e29b.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "that has been identified, and the correction is required. Th",
+      "file": "mined/mined_c076e29b.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "file": "mined/mined_c076e29b.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_a83dc6df.py:2"
     },
     {
       "tag": "BUG",
@@ -1116,6 +1286,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_678b1c96.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_c981cbb1_175516.py:2"
     },
@@ -1143,6 +1318,21 @@
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
       "file": "mined/mined_01d055db.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_62323a41.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the agent's handling of agent and book information.",
+      "file": "mined/mined_62323a41.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book`",
+      "file": "mined/mined_62323a41.py:23"
     },
     {
       "tag": "BUG",
@@ -1206,6 +1396,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_71047535.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan email_command` -- the boolean for this speci",
       "file": "mined/mined_2fe6594e.py:2"
     },
@@ -1223,6 +1418,16 @@
       "tag": "BUG",
       "text": "",
       "file": "mined/mined_601b4cd4_202255.py:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_9c43543d.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species module and the curriculum module.",
+      "file": "mined/mined_9c43543d.py:18"
     },
     {
       "tag": "BUG",
@@ -1271,198 +1476,18 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan gap_finder` -- the boolean for this species ",
+      "file": "mined/mined_132dd18a.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "REPORT.",
+      "file": "mined/mined_132dd18a.py:12"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_718b831c.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_fccdff7e_001921.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_c3598dfd_211933.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "file": "mined/mined_be05cbc0.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement",
-      "file": "mined/mined_d3d8d2e9.py:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_9b5b8be4.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Grand Unifier is a Python script that reads from multiple so",
-      "file": "mined/mined_9b5b8be4.py:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement this function.",
-      "file": "mined/mined_e3c83d10.py:25"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement this function.",
-      "file": "mined/mined_e3c83d10.py:31"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_08edb141.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the selftest method.",
-      "file": "mined/mined_77518b5f.py:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add more tests here.",
-      "file": "mined/mined_77518b5f.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_e49b7420.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` command",
-      "file": "mined/mined_e49b7420.py:17"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add logic to run test case",
-      "file": "mined/mined_5c2444a1.py:14"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the function to find refusals in the block_mend mo",
-      "file": "mined/mined_08dab578_090905.py:30"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan auto_pusher` -- the boolean for this species",
-      "file": "mined/mined_9df1f9a5.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement your rendering logic here",
-      "file": "mined/mined_144108ab_203423.py:44"
-    },
-    {
-      "tag": "TODO",
-      "text": "Save rendered data to in-hexeract.json file",
-      "file": "mined/mined_144108ab_203423.py:47"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "mined/mined_2061c662.py:24"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_285541fd.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_486ce86b.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the logic to detect proxies",
-      "file": "mined/mined_486ce86b.py:34"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_41fe95fb.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan docs_ingest` -- the boolean for this species",
-      "file": "mined/mined_4aa464a5.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan docs_ingest` -- the boolean for this species",
-      "file": "mined/mined_4aa464a5.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_fa6f94b1.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e98c6eef.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_f19e4ec2.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_b0a51eef.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_be908c9a.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement this function.",
-      "file": "mined/mined_e3c83d10_203753.py:25"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement this function.",
-      "file": "mined/mined_e3c83d10_203753.py:31"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_ca683322.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_da038b63.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_8ccabab8.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_report` -- the boolean for this species",
-      "file": "mined/mined_4370e286.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the cell's response is an error w",
-      "file": "mined/mined_4370e286.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_c1002c5a.py:2"
     }
   ],
   "Alice": [
@@ -1791,6 +1816,11 @@
     },
     {
       "tag": "BUG",
+      "text": "free,",
+      "file": "06_PROOF/phase147_proof.md:11"
+    },
+    {
+      "tag": "BUG",
       "text": "pinned (byte 1096)",
       "file": "06_PROOF/phase128_proof.md:1"
     },
@@ -1885,6 +1915,11 @@
       "file": "todos/p128_stream_validation_task.md:1"
     },
     {
+      "tag": "TODO",
+      "text": "SEALED.",
+      "file": "todos/p148_test_dag_task.md:18"
+    },
+    {
       "tag": "BUG",
       "text": "found by real output during gate build",
       "file": "todos/p35_goal_driven_autonomy_task.md:26"
@@ -1963,6 +1998,21 @@
       "tag": "TODO",
       "text": "verified free on origin/master e72d6ab | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:284"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 9777b80 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:292"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 81eab71 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:294"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 940d06b | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:298"
     },
     {
       "tag": "BUG",
@@ -2056,7 +2106,7 @@
     {
       "tag": "BUG",
       "text": "2026-09-14)",
-      "file": "bdi_fsm/bdi_loop.py:141"
+      "file": "bdi_fsm/bdi_loop.py:156"
     },
     {
       "tag": "FIXME",
@@ -3611,6 +3661,91 @@
   "kai-proxy-guard": [
     {
       "tag": "TODO",
+      "text": "V2.md** \u2014 actionable TODO list for the hardening pass.",
+      "file": "V2_RELEASE_NOTES.md:36"
+    },
+    {
+      "tag": "BUG",
+      "text": "LOOP STARTING\")` debug output.",
+      "file": "V2_RELEASE_NOTES.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "prints from all .py files          | In Prog  | #2     |",
+      "file": ".V2_ROADMAP.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "| Done     | #1     |",
+      "file": ".V2_ROADMAP.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix                                      |",
+      "file": ".V2_HARDENING_CONTRACTS.md:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "markers found in production code. |",
+      "file": ".V2_HARDENING_CONTRACTS.md:42"
+    },
+    {
+      "tag": "BUG",
+      "text": "marker grep, reference issue #.",
+      "file": ".V2_HARDENING_CONTRACTS.md:74"
+    },
+    {
+      "tag": "BUG",
+      "text": "print statements",
+      "file": ".V2_HARDENING_CONTRACTS.md:78"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".ISSUE_TRACKER_V2.md:8"
+    },
+    {
+      "tag": "BUG",
+      "text": "print in production code",
+      "file": ".ISSUE_TRACKER_V2.md:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "LOOP STARTING\")` found in `main_loop()` \u2014 should be removed.",
+      "file": ".ISSUE_TRACKER_V2.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "print. \u2705 Done. Added pre-commit grep check in contracts.",
+      "file": ".ISSUE_TRACKER_V2.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".ISSUE_TRACKER_V2.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".ISSUE_TRACKER_V2.md:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": ".TODO_V2.md:1"
+    },
+    {
+      "tag": "BUG",
+      "text": "print from triton_broker.py",
+      "file": ".TODO_V2.md:5"
+    },
+    {
+      "tag": "BUG",
+      "text": "print grep pre-push hook",
+      "file": ".TODO_V2.md:34"
+    },
+    {
+      "tag": "TODO",
       "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
       "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:16"
     },
@@ -3638,6 +3773,11 @@
       "tag": "TODO",
       "text": "LIST",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SINGULARITY_LOG.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "running={_running}\")",
+      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/triton_broker.py:144"
     },
     {
       "tag": "TODO",
@@ -4518,96 +4658,6 @@
       "tag": "TODO",
       "text": "list will be used to track and implement system state manage",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4001"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4002"
-    },
-    {
-      "tag": "TODO",
-      "text": "list and prioritizing tasks, we can ensure the successful co",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4033"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4061"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure seamless tracking and implementation of tasks",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4065"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4067"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4103"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4104"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4105"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4106"
-    },
-    {
-      "tag": "TODO",
-      "text": "list and prioritizing tasks, we can ensure the successful co",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4137"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4193"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4247"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4273"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure seamless tracking and implementation of tasks",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4277"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4279"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4315"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4316"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4317"
     }
   ],
   "karoo_gp": [
@@ -13396,12 +13446,12 @@
     {
       "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
-      "file": "supervisor.py:112"
+      "file": "supervisor.py:113"
     },
     {
       "tag": "BUG",
       "text": "than the one it",
-      "file": "supervisor.py:566"
+      "file": "supervisor.py:573"
     },
     {
       "tag": "TODO",
@@ -13626,6 +13676,11 @@
       "tag": "TODO",
       "text": "driver.py`, `aegis_daily_report.py`, the contracts board \u2014 w",
       "file": "PLAN.md:169"
+    },
+    {
+      "tag": "TODO",
+      "text": "create requirements.txt)",
+      "file": "PHASES_COMPLETE.md:226"
     },
     {
       "tag": "BUG",
@@ -13910,17 +13965,17 @@
     {
       "tag": "BUG",
       "text": "THIS MODULE HIT: an unclosed paren followed by a",
-      "file": "src/triage.py:344"
+      "file": "src/triage.py:345"
     },
     {
       "tag": "BUG",
       "text": "on a dense panel, and a readout that",
-      "file": "src/memory_provider.py:292"
+      "file": "src/memory_provider.py:301"
     },
     {
       "tag": "BUG",
       "text": "were still there, a",
-      "file": "src/memory_provider.py:587"
+      "file": "src/memory_provider.py:596"
     },
     {
       "tag": "BUG",
