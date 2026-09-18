@@ -54,13 +54,13 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI, Telemetry |
@@ -93,7 +93,7 @@
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_tools` -- the boolean for this species  *(mined/mined_e704a03c.py:14)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b0a51eef_235608.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_1ae8816d.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan email_todo` -- the boolean for this species  *(mined/mined_7dc3e89c.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_7dc3e89c.py:16)*
 - 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa.py:23)*
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e_003528.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099.py:11)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_d71df467.py:2)*

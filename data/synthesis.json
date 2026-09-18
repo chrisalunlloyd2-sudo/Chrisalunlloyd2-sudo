@@ -353,16 +353,16 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -397,8 +397,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -652,6 +652,26 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan email_todo` -- the boolean for this species ",
+      "location": "mined/mined_7dc3e89c.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_7dc3e89c.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "Debug mode.",
       "location": "mined/mined_694412aa.py:23",
       "domains": [
@@ -684,6 +704,16 @@
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_d71df467.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan email_todo` -- the boolean for this species ",
+      "location": "mined/mined_beefdba0.py:2",
       "domains": [
         "General"
       ]
@@ -754,36 +784,6 @@
       "repo": "agent-squiggly",
       "task": "species.py scan cell_report` -- the boolean for this species",
       "location": "mined/mined_9440edeb.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py module.",
-      "location": "mined/mined_9440edeb.py:21",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py module's self-test must still pass and the boolea",
-      "location": "mined/mined_9440edeb.py:22",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_91e98059.py:2",
       "domains": [
         "General"
       ]
