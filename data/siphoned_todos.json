@@ -1806,6 +1806,11 @@
     },
     {
       "tag": "BUG",
+      "text": "fixed at root class: navigate() called self.fsm.tick() bare ",
+      "file": "06_PROOF/phase157_proof.md:18"
+    },
+    {
+      "tag": "BUG",
       "text": "(planOne returned denied top) - documented per AB6 precedent",
       "file": "06_PROOF/phase200_proof.md:20"
     },
@@ -1940,79 +1945,84 @@
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:111"
     },
     {
+      "tag": "TODO",
+      "text": "verified free on origin/master ba65a95 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:132"
+    },
+    {
       "tag": "BUG",
       "text": "fixed at root class |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:157"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:159"
     },
     {
       "tag": "BUG",
       "text": "/api/bind/attach referenced b.frame_path instead of b.hook.f",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:221"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:223"
     },
     {
       "tag": "TODO",
       "text": "| ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:245"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:247"
     },
     {
       "tag": "BUG",
       "text": "caught by gates + fixed (documented); driver f8ef520b upgrad",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:250"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:252"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P136 push | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:263"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:265"
     },
     {
       "tag": "BUG",
       "text": "G11 fixed pre-seal (engine byte-untouched); proof 06_PROOF/p",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:264"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:266"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P137 seal | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:267"
-    },
-    {
-      "tag": "TODO",
-      "text": "verified free on origin/master at 407e40d | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:269"
     },
     {
       "tag": "TODO",
-      "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
+      "text": "verified free on origin/master at 407e40d | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:271"
     },
     {
       "tag": "TODO",
-      "text": "verified free on origin/master at a1d178f | ADD-only |",
+      "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:273"
     },
     {
       "tag": "TODO",
+      "text": "verified free on origin/master at a1d178f | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:275"
+    },
+    {
+      "tag": "TODO",
       "text": "verified free on origin/master f88ddf9 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:280"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:282"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master e72d6ab | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:284"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:286"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 9777b80 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:292"
-    },
-    {
-      "tag": "TODO",
-      "text": "verified free on origin/master 81eab71 | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:294"
     },
     {
       "tag": "TODO",
+      "text": "verified free on origin/master 81eab71 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:296"
+    },
+    {
+      "tag": "TODO",
       "text": "verified free on origin/master 940d06b | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:298"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:300"
     },
     {
       "tag": "BUG",
@@ -2505,11 +2515,6 @@
     {
       "tag": "BUG",
       "text": "mode. *(mined/mined_694412aa.py:23)*",
-      "file": "SYNTHESIS_PLAN.md:96"
-    },
-    {
-      "tag": "BUG",
-      "text": "*(mined/mined_1c038099.py:11)*",
       "file": "SYNTHESIS_PLAN.md:98"
     },
     {
@@ -10279,6 +10284,36 @@
       "file": "ARCHITECTURE.md:68"
     },
     {
+      "tag": "TODO",
+      "text": ">cron pipeline) (922f851)",
+      "file": "CHANGELOG.md:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "issues (fc80470)",
+      "file": "CHANGELOG.md:36"
+    },
+    {
+      "tag": "BUG",
+      "text": "line gains frustum-culled count. Also: M toggles minimap ove",
+      "file": "CHANGELOG.md:150"
+    },
+    {
+      "tag": "BUG",
+      "text": "check) \u2014 digest verified 12 issues/1 discussion/6 funnel/0 u",
+      "file": "CHANGELOG.md:158"
+    },
+    {
+      "tag": "BUG",
+      "text": "template gains Expected-behavior field + structured repro (s",
+      "file": "CHANGELOG.md:164"
+    },
+    {
+      "tag": "BUG",
+      "text": "(evidence-first checklist), feature (module+budget gates), d",
+      "file": "CHANGELOG.md:181"
+    },
+    {
       "tag": "BUG",
       "text": "| commit bae3794 |",
       "file": "FEATURE_BACKLOG.md:36"
@@ -12796,92 +12831,92 @@
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1335"
+      "file": "hive_daemon.py:1349"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1336"
+      "file": "hive_daemon.py:1350"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1337"
+      "file": "hive_daemon.py:1366"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1340"
+      "file": "hive_daemon.py:1369"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      1800, 2),",
-      "file": "hive_daemon.py:1341"
+      "file": "hive_daemon.py:1370"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1353"
+      "file": "hive_daemon.py:1382"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1364"
+      "file": "hive_daemon.py:1393"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1700"
+      "file": "hive_daemon.py:1729"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:1785"
+      "file": "hive_daemon.py:1814"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:2304"
+      "file": "hive_daemon.py:2369"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2507"
+      "file": "hive_daemon.py:2572"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2644"
+      "file": "hive_daemon.py:2709"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2688"
+      "file": "hive_daemon.py:2753"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2836"
+      "file": "hive_daemon.py:2901"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2845"
+      "file": "hive_daemon.py:2910"
     },
     {
       "tag": "TODO",
       "text": "crawl (t3, hourly) and email_todo",
-      "file": "hive_daemon.py:3035"
+      "file": "hive_daemon.py:3100"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3391"
+      "file": "hive_daemon.py:3456"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3461"
+      "file": "hive_daemon.py:3526"
     },
     {
       "tag": "TODO",
@@ -13451,7 +13486,7 @@
     {
       "tag": "BUG",
       "text": "than the one it",
-      "file": "supervisor.py:573"
+      "file": "supervisor.py:578"
     },
     {
       "tag": "TODO",
@@ -13673,6 +13708,11 @@
   ],
   "ViperCli": [
     {
+      "tag": "BUG",
+      "text": "symbols: use `pyinstaller --onefile --strip`",
+      "file": "BUILD.md:180"
+    },
+    {
       "tag": "TODO",
       "text": "driver.py`, `aegis_daily_report.py`, the contracts board \u2014 w",
       "file": "PLAN.md:169"
@@ -13681,6 +13721,21 @@
       "tag": "TODO",
       "text": "create requirements.txt)",
       "file": "PHASES_COMPLETE.md:226"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols",
+      "file": "HARDENING_REPORT.md:149"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes, hardening, performance \u2014 backward-compatible",
+      "file": "VERSIONING.md:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix",
+      "file": "STANDARDS.md:85"
     },
     {
       "tag": "BUG",
@@ -13986,6 +14041,21 @@
       "tag": "BUG",
       "text": "lived here first: the fixture put \"term_a\"/\"term_b\" in",
       "file": "src/allele.py:238"
+    },
+    {
+      "tag": "BUG",
+      "text": "Report\"",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "or unexpected behavior\"",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:5"
     }
   ],
   "ViperNote": [
