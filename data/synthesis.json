@@ -301,6 +301,13 @@
       ]
     },
     {
+      "source": "Kernel_Pedagogy",
+      "target": "mindpalace",
+      "domains": [
+        "Orchestration"
+      ]
+    },
+    {
       "source": "MasterLogs",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
@@ -792,7 +799,8 @@
   "unified_stack": {
     "Database": [],
     "Orchestration": [
-      "Kernel_Pedagogy"
+      "Kernel_Pedagogy",
+      "mindpalace"
     ],
     "Agent/BDI": [
       "Aegis_Agents",

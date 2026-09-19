@@ -47,6 +47,7 @@
 | `H2OMatrixCE` | `sims-java-neo-fx` | Telemetry |
 | `H2OMatrixCE` | `sims-javafx-neo` | Telemetry |
 | `H2OMatrixCE` | `SimsMerged` | Telemetry |
+| `Kernel_Pedagogy` | `mindpalace` | Orchestration |
 | `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
 | `MasterLogs` | `mind-palace` | Telemetry |
 | `MasterLogs` | `mindpalace` | Telemetry |
