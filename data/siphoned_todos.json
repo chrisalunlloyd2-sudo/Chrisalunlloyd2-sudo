@@ -1494,7 +1494,7 @@
     {
       "tag": "BUG",
       "text": "Cube**: Red cube deployed to test Three.js rendering.",
-      "file": "CHANGELOG.md:13"
+      "file": "CHANGELOG.md:25"
     }
   ],
   "alice-companion": [
@@ -1826,6 +1826,11 @@
     },
     {
       "tag": "BUG",
+      "text": "FIXED at root class (P106 route-probe class)",
+      "file": "06_PROOF/phase165_proof.md:12"
+    },
+    {
+      "tag": "BUG",
       "text": "pinned (byte 1096)",
       "file": "06_PROOF/phase128_proof.md:1"
     },
@@ -1833,6 +1838,11 @@
       "tag": "BUG",
       "text": "(mine): sys.path.insert called with 3 args in the mirror",
       "file": "06_PROOF/phase130_proof.md:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "ledger)",
+      "file": "06_PROOF/phase172_proof.md:16"
     },
     {
       "tag": "TODO",
@@ -1871,6 +1881,16 @@
     },
     {
       "tag": "BUG",
+      "text": "fixed at root class (found by gates)",
+      "file": "06_PROOF/phase174_proof.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED at root class: focus() observed rotor feedback via Rot",
+      "file": "06_PROOF/phase166_proof.md:8"
+    },
+    {
+      "tag": "BUG",
       "text": "(root-class, both engines): blendshape bus damped PER COMMAN",
       "file": "06_PROOF/phase127_proof.md:10"
     },
@@ -1883,6 +1903,11 @@
       "tag": "BUG",
       "text": "(gate r1): engine _conn() missed sqlite3.Row row_factory",
       "file": "06_PROOF/phase129_proof.md:30"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED at root class: focus() observed rotor feedback via Rot",
+      "file": "06_PROOF/phase167_proof.md:8"
     },
     {
       "tag": "BUG",
@@ -2023,6 +2048,21 @@
       "tag": "TODO",
       "text": "verified free on origin/master 940d06b | ADD-only |",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:300"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED: status route called users() dict-call -> 500, fixed t",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:333"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED at root class: rotor feedback observed via to_key() CO",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:335"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED: tau_dot divisor was window span not pair-midpoint spa",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:351"
     },
     {
       "tag": "BUG",
@@ -2515,7 +2555,7 @@
     {
       "tag": "BUG",
       "text": "mode. *(mined/mined_694412aa.py:23)*",
-      "file": "SYNTHESIS_PLAN.md:98"
+      "file": "SYNTHESIS_PLAN.md:99"
     },
     {
       "tag": "TODO",
@@ -3750,6 +3790,21 @@
       "file": ".TODO_V2.md:34"
     },
     {
+      "tag": "BUG",
+      "text": "| error, debug, trace, diagnose, fail, crash, inspect, bug |",
+      "file": "heartbeat_server/README.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "trace\", \"debug\"),",
+      "file": "heartbeat_server/test_meaning_detection.py:95"
+    },
+    {
+      "tag": "BUG",
+      "text": "fail diagnose\", \"debug\"),",
+      "file": "heartbeat_server/test_meaning_detection.py:96"
+    },
+    {
       "tag": "TODO",
       "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
       "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:16"
@@ -4648,21 +4703,6 @@
       "tag": "TODO",
       "text": "List",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3963"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3999"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4000"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:4001"
     }
   ],
   "karoo_gp": [
@@ -12786,137 +12826,117 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:229"
+      "file": "hive_daemon.py:185"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:233"
+      "file": "hive_daemon.py:189"
     },
     {
       "tag": "TODO",
       "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
-      "file": "hive_daemon.py:239"
+      "file": "hive_daemon.py:195"
     },
     {
       "tag": "TODO",
       "text": "driver._selftest now asserts all three terms against this nu",
-      "file": "hive_daemon.py:250"
+      "file": "hive_daemon.py:206"
     },
     {
       "tag": "TODO",
       "text": "driver\":    720.0,",
-      "file": "hive_daemon.py:251"
+      "file": "hive_daemon.py:207"
     },
     {
       "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:393"
+      "file": "hive_daemon.py:322"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:807"
-    },
-    {
-      "tag": "BUG",
-      "text": "(a hardcoded repo root).",
-      "file": "hive_daemon.py:952"
-    },
-    {
-      "tag": "BUG",
-      "text": "species\":    (\"bug_species\",     \"tick\",     3600,  3),",
-      "file": "hive_daemon.py:957"
+      "file": "hive_daemon.py:656"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1349"
+      "file": "hive_daemon.py:1050"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1350"
+      "file": "hive_daemon.py:1051"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1366"
+      "file": "hive_daemon.py:1052"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1369"
+      "file": "hive_daemon.py:1055"
     },
     {
       "tag": "TODO",
-      "text": "driver\":    (\"todo_driver\",     \"once\",      1800, 2),",
-      "file": "hive_daemon.py:1370"
+      "text": "driver\":    (\"todo_driver\",     \"once\",      300, 2),",
+      "file": "hive_daemon.py:1056"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1382"
+      "file": "hive_daemon.py:1068"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1393"
+      "file": "hive_daemon.py:1079"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1729"
-    },
-    {
-      "tag": "BUG",
-      "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:1814"
+      "file": "hive_daemon.py:1230"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:2369"
+      "file": "hive_daemon.py:1699"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2572"
+      "file": "hive_daemon.py:1857"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2709"
+      "file": "hive_daemon.py:1984"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2753"
+      "file": "hive_daemon.py:2028"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2901"
+      "file": "hive_daemon.py:2158"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2910"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl (t3, hourly) and email_todo",
-      "file": "hive_daemon.py:3100"
+      "file": "hive_daemon.py:2167"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3456"
+      "file": "hive_daemon.py:2650"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3526"
+      "file": "hive_daemon.py:2720"
     },
     {
       "tag": "TODO",
@@ -13576,7 +13596,7 @@
     {
       "tag": "BUG",
       "text": "already fixed in",
-      "file": "viper_moe_server.py:407"
+      "file": "viper_moe_server.py:412"
     },
     {
       "tag": "BUG",
@@ -13697,6 +13717,26 @@
       "tag": "TODO",
       "text": "",
       "file": "todo_0004_implement_n.md:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "the test caught)",
+      "file": "code_assist.py:113"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent): no-LLM self-test so quicktest can verify this module",
+      "file": "memory_withdraw.py:160"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent.delegate()'s crew asks) should submit with priority=\"h",
+      "file": "conveyor.py:64"
+    },
+    {
+      "tag": "BUG",
+      "text": "this routing decision:\\nQuery: {query}\\nChosen agent: {agent",
+      "file": "db-init-prompts.py:96"
     }
   ],
   "viper-state": [
@@ -13746,6 +13786,16 @@
       "tag": "TODO",
       "text": "loop next to `todo_driver.py` and",
       "file": "README.md:466"
+    },
+    {
+      "tag": "TODO",
+      "text": "list for vipercli -> the unified",
+      "file": "termux_bot/autonomous.py:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "list ----------",
+      "file": "termux_bot/autonomous.py:111"
     },
     {
       "tag": "BUG",
@@ -13935,7 +13985,7 @@
     {
       "tag": "BUG",
       "text": "this",
-      "file": "src/changelog.py:177"
+      "file": "src/changelog.py:182"
     },
     {
       "tag": "BUG",
