@@ -846,6 +846,11 @@
     },
     {
       "tag": "TODO",
+      "text": "Replace this with actual checks",
+      "file": "mined/mined_e02f9e2d.py:28"
+    },
+    {
+      "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_8997219d.py:2"
     },
@@ -1093,6 +1098,21 @@
       "tag": "BUG",
       "text": "species.py` module, but nothing seems to be causing the",
       "file": "mined/mined_ce206c0b.py:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add real code checks here",
+      "file": "mined/mined_870e9fa1.py:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add real self-testing code here",
+      "file": "mined/mined_870e9fa1.py:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add code to execute and check the output",
+      "file": "mined/mined_870e9fa1.py:44"
     },
     {
       "tag": "BUG",
@@ -1468,33 +1488,13 @@
       "tag": "BUG",
       "text": "species.unknown_input_defaults_to_answer() == False",
       "file": "mined/mined_6fea9d48.py:25"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.code_lineage() == True",
-      "file": "mined/mined_6fea9d48.py:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan gap_finder` -- the boolean for this species ",
-      "file": "mined/mined_132dd18a.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "REPORT.",
-      "file": "mined/mined_132dd18a.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_718b831c.py:2"
     }
   ],
   "Alice": [
     {
       "tag": "BUG",
       "text": "Cube**: Red cube deployed to test Three.js rendering.",
-      "file": "CHANGELOG.md:25"
+      "file": "CHANGELOG.md:31"
     }
   ],
   "alice-companion": [
@@ -1805,6 +1805,21 @@
       "file": "06_PROOF/phase138_proof.md:24"
     },
     {
+      "tag": "TODO",
+      "text": "file, git-tracked engine, and matching hashes. Operationaliz",
+      "file": "06_PROOF/phase212_proof.md:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "14.0, bad_row 8.0;",
+      "file": "06_PROOF/phase212_proof.md:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "14.0; G7 untracked_engine 22.0; G8 determinism; G9 dedup",
+      "file": "06_PROOF/phase212_proof.md:23"
+    },
+    {
       "tag": "BUG",
       "text": "fixed at root class: navigate() called self.fsm.tick() bare ",
       "file": "06_PROOF/phase157_proof.md:18"
@@ -1818,6 +1833,11 @@
       "tag": "BUG",
       "text": "(cmd double-escape \\\\d) found by gates K1/K2/K6, fixed escap",
       "file": "06_PROOF/phase202_proof.md:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "verify_release indexed the 2-entry pair by bit POSITION inst",
+      "file": "06_PROOF/phase192_proof.md:20"
     },
     {
       "tag": "BUG",
@@ -1891,6 +1911,11 @@
     },
     {
       "tag": "BUG",
+      "text": "fixed (root class)",
+      "file": "06_PROOF/phase181_proof.md:26"
+    },
+    {
+      "tag": "BUG",
       "text": "(root-class, both engines): blendshape bus damped PER COMMAN",
       "file": "06_PROOF/phase127_proof.md:10"
     },
@@ -1911,6 +1936,16 @@
     },
     {
       "tag": "BUG",
+      "text": "caught live by",
+      "file": "06_PROOF/phase187_proof.md:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "minted (P165). Findings after repair: 0.",
+      "file": "06_PROOF/phase217_proof.md:9"
+    },
+    {
+      "tag": "BUG",
       "text": "class \u2014",
       "file": "06_PROOF/phase135_proof.md:61"
     },
@@ -1918,6 +1953,11 @@
       "tag": "TODO",
       "text": "markers + acceptance-test skeletons (like my harness, in-rep",
       "file": "00_REQUEST/phases_48_97_roadmap.md:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "backfill todos ADD-ONLY never-overwrite; ledger append ADD-O",
+      "file": "00_REQUEST/phases_138_199_grand_unification_band.md:145"
     },
     {
       "tag": "BUG",
@@ -1940,9 +1980,19 @@
       "file": "00_REQUEST/phase14_hardening.md:81"
     },
     {
+      "tag": "TODO",
+      "text": "14, bad_row 8. Zero findings on a clean fixture repo.",
+      "file": "00_REQUEST/phase212_doc_integrity_auditor.md:15"
+    },
+    {
       "tag": "BUG",
       "text": "pinned (byte 1096)",
       "file": "todos/p128_stream_validation_task.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "(this commit)",
+      "file": "todos/p213_upgrade_planner_task.md:22"
     },
     {
       "tag": "TODO",
@@ -2066,6 +2116,36 @@
     },
     {
       "tag": "BUG",
+      "text": "FIXED: post_task checked task_id_already_used BEFORE the con",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:370"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught live by q6/q7/q8 on first run), sha256 never-compile-",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:381"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught live by q6/q7/q8, sha256 never-compile-same-graph-twi",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:382"
+    },
+    {
+      "tag": "TODO",
+      "text": "on origin 9b1e34f) | ADD-only | kernel-sandbox |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:401"
+    },
+    {
+      "tag": "TODO",
+      "text": "14, bad_row 8}; sha256(ledger) never-audit-same-ledger-twice",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:409"
+    },
+    {
+      "tag": "TODO",
+      "text": "backfill todos ADD-ONLY never-overwrite; ledger append ADD-O",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:423"
+    },
+    {
+      "tag": "BUG",
       "text": "silent empty reads faked telemetry (1/13 baseline was an art",
       "file": "07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
     },
@@ -2095,6 +2175,36 @@
       "file": "src/phase135_acceptance.py:120"
     },
     {
+      "tag": "TODO",
+      "text": "file,",
+      "file": "src/doc_integrity.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "names = sorted(os.listdir(todos_dir)) if os.path.isdir(todos",
+      "file": "src/doc_integrity.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "task file must exist",
+      "file": "src/doc_integrity.py:128"
+    },
+    {
+      "tag": "TODO",
+      "text": "ok = any(x.lower().startswith('p%d' % n) and x.endswith('.md",
+      "file": "src/doc_integrity.py:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "names)",
+      "file": "src/doc_integrity.py:130"
+    },
+    {
+      "tag": "TODO",
+      "text": "ok:",
+      "file": "src/doc_integrity.py:131"
+    },
+    {
       "tag": "BUG",
       "text": "tool\"",
       "file": "src/phase20_acceptance.py:99"
@@ -2108,6 +2218,91 @@
       "tag": "BUG",
       "text": "class.\"\"\"",
       "file": "src/phase133_acceptance.py:164"
+    },
+    {
+      "tag": "BUG",
+      "text": "left literal backslash-n sequences inside",
+      "file": "src/doc_drift.py:99"
+    },
+    {
+      "tag": "BUG",
+      "text": "live on first run; the reach",
+      "file": "src/render_graph.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "repair: todos/pN_doc_repair_backfill_task.md created ADD-ONL",
+      "file": "src/doc_repair.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "is never overwritten (delete-gate doctrine).",
+      "file": "src/doc_repair.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "exists, engine tracked,",
+      "file": "src/doc_repair.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "REL = 'todos/p%d_doc_repair_backfill_task.md'",
+      "file": "src/doc_repair.py:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "created': [],",
+      "file": "src/doc_repair.py:150"
+    },
+    {
+      "tag": "TODO",
+      "text": "created, proof_backfills = [], [], [], []",
+      "file": "src/doc_repair.py:174"
+    },
+    {
+      "tag": "TODO",
+      "text": "REL % n)",
+      "file": "src/doc_repair.py:207"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "src/doc_repair.py:209"
+    },
+    {
+      "tag": "TODO",
+      "text": "created.append({'phase': 'P%d' % n,",
+      "file": "src/doc_repair.py:210"
+    },
+    {
+      "tag": "TODO",
+      "text": "REL % n,",
+      "file": "src/doc_repair.py:211"
+    },
+    {
+      "tag": "TODO",
+      "text": "created:",
+      "file": "src/doc_repair.py:224"
+    },
+    {
+      "tag": "TODO",
+      "text": "created),",
+      "file": "src/doc_repair.py:259"
+    },
+    {
+      "tag": "TODO",
+      "text": "created': [",
+      "file": "src/doc_repair.py:263"
+    },
+    {
+      "tag": "TODO",
+      "text": "created],",
+      "file": "src/doc_repair.py:264"
+    },
+    {
+      "tag": "TODO",
+      "text": "created\"]) == 1 and r[\"todo_created\"][0][\"phase\"] == \"P301\"",
+      "file": "src/phase217_acceptance.py:71"
     }
   ],
   "batch_powershell": [
@@ -2616,6 +2811,13 @@
       "tag": "TODO",
       "text": "mirror\",\"file\":\"TASKS.md:1\"}]",
       "file": "scripts/generate_hex_grid.py:157"
+    }
+  ],
+  "code_rpg_engine": [
+    {
+      "tag": "BUG",
+      "text": "caught by gate: boundary-hit probability inversion made E1_N",
+      "file": "docs/WONDERLAND_DATASCIENCE_ROADMAP.md:56"
     }
   ],
   "curator_system": [
@@ -7087,7 +7289,7 @@
     {
       "tag": "TODO",
       "text": "stale\": sc_todo_stale,",
-      "file": "error_cascade.py:235"
+      "file": "error_cascade.py:291"
     },
     {
       "tag": "TODO",
@@ -13978,6 +14180,11 @@
       "file": "src/gguf_kernel.py:3611"
     },
     {
+      "tag": "TODO",
+      "text": "implement\\n'",
+      "file": "src/ast_generator.py:111"
+    },
+    {
       "tag": "BUG",
       "text": "\"never",
       "file": "src/changelog.py:61"
@@ -13990,52 +14197,52 @@
     {
       "tag": "BUG",
       "text": "that cried tampering) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "src/taskgen.py:194"
+      "file": "src/taskgen.py:203"
     },
     {
       "tag": "BUG",
       "text": "WAS REAL. `change_ledger.record()`",
-      "file": "src/taskgen.py:205"
+      "file": "src/taskgen.py:214"
     },
     {
       "tag": "TODO",
       "text": "driver's own shape \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "src/taskgen.py:631"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver.GH_REPOS -- filing there means todo_driver's",
-      "file": "src/taskgen.py:637"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver does not scan, so those",
-      "file": "src/taskgen.py:639"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
       "file": "src/taskgen.py:645"
     },
     {
       "tag": "TODO",
+      "text": "driver.GH_REPOS -- filing there means todo_driver's",
+      "file": "src/taskgen.py:651"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver does not scan, so those",
+      "file": "src/taskgen.py:653"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
+      "file": "src/taskgen.py:659"
+    },
+    {
+      "tag": "TODO",
       "text": "driver's own parser cannot read, which would be worse than n",
-      "file": "src/taskgen.py:649"
+      "file": "src/taskgen.py:663"
     },
     {
       "tag": "TODO",
       "text": "driver's existing pipeline);",
-      "file": "src/taskgen.py:688"
+      "file": "src/taskgen.py:702"
     },
     {
       "tag": "TODO",
       "text": "DRIVER'S OWN REGEX. Filing 341",
-      "file": "src/taskgen.py:872"
+      "file": "src/taskgen.py:886"
     },
     {
       "tag": "TODO",
       "text": "driver's regex expects one: %r\"",
-      "file": "src/taskgen.py:882"
+      "file": "src/taskgen.py:896"
     },
     {
       "tag": "BUG",
