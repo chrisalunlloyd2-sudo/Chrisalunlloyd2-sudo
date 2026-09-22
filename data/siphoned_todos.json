@@ -651,6 +651,21 @@
     },
     {
       "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_a07c3be4.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py -- ONE QUEUE, assembled from every source t",
+      "file": "mined/mined_a07c3be4.py:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "list assembled from blackboard, ledgers, hive, and this",
+      "file": "mined/mined_a07c3be4.py:14"
+    },
+    {
+      "tag": "TODO",
       "text": "Implement the selftest method.",
       "file": "mined/mined_77518b5f_212022.py:15"
     },
@@ -708,6 +723,51 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_b05ca0df.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_095cade7_181009.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py",
+      "file": "mined/mined_095cade7_181009.py:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py is a single queue assembled from every sour",
+      "file": "mined/mined_095cade7_181009.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "list assembled from blackboard, ledgers, hive, and this cata",
+      "file": "mined/mined_095cade7_181009.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue = queue.Queue()",
+      "file": "mined/mined_095cade7_181009.py:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.put(blackboard.load_source())",
+      "file": "mined/mined_095cade7_181009.py:35"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.put(ledgers.load_source())",
+      "file": "mined/mined_095cade7_181009.py:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.empty():",
+      "file": "mined/mined_095cade7_181009.py:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.get()",
+      "file": "mined/mined_095cade7_181009.py:42"
     },
     {
       "tag": "BUG",
@@ -846,6 +906,26 @@
     },
     {
       "tag": "TODO",
+      "text": "Implement this function",
+      "file": "mined/mined_eb02bcdb.py:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement this function",
+      "file": "mined/mined_eb02bcdb.py:34"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement this function",
+      "file": "mined/mined_eb02bcdb.py:39"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement this function",
+      "file": "mined/mined_eb02bcdb.py:44"
+    },
+    {
+      "tag": "TODO",
       "text": "Replace this with actual checks",
       "file": "mined/mined_e02f9e2d.py:28"
     },
@@ -903,6 +983,26 @@
       "tag": "TODO",
       "text": "Add more tests here.",
       "file": "mined/mined_77518b5f_212657.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement the real check",
+      "file": "mined/mined_2d2d5dff.py:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement the real check",
+      "file": "mined/mined_2d2d5dff.py:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement the real check",
+      "file": "mined/mined_2d2d5dff.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "implement the real check",
+      "file": "mined/mined_2d2d5dff.py:48"
     },
     {
       "tag": "BUG",
@@ -1035,6 +1135,11 @@
       "file": "mined/mined_0f06dff8.py:29"
     },
     {
+      "tag": "TODO",
+      "text": "Implement all entries logic",
+      "file": "mined/mined_519610f2.py:11"
+    },
+    {
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_22d42ee7_193136.py:2"
@@ -1050,9 +1155,59 @@
       "file": "mined/mined_f5d23441_205707.py:33"
     },
     {
+      "tag": "TODO",
+      "text": "Implement the logic to get the embedding from the source cod",
+      "file": "mined/mined_096d2ed1.py:35"
+    },
+    {
       "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_b583a752.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_095cade7.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py",
+      "file": "mined/mined_095cade7.py:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py is a single queue assembled from every sour",
+      "file": "mined/mined_095cade7.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "list assembled from blackboard, ledgers, hive, and this cata",
+      "file": "mined/mined_095cade7.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue = queue.Queue()",
+      "file": "mined/mined_095cade7.py:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.put(blackboard.load_source())",
+      "file": "mined/mined_095cade7.py:35"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.put(ledgers.load_source())",
+      "file": "mined/mined_095cade7.py:36"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.empty():",
+      "file": "mined/mined_095cade7.py:41"
+    },
+    {
+      "tag": "TODO",
+      "text": "queue.get()",
+      "file": "mined/mined_095cade7.py:42"
     },
     {
       "tag": "BUG",
@@ -1315,6 +1470,11 @@
       "file": "mined/mined_c981cbb1_175516.py:2"
     },
     {
+      "tag": "TODO",
+      "text": "Implement the generation process here",
+      "file": "mined/mined_6d90260e.py:50"
+    },
+    {
       "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_6f7ecec3_204212.py:2"
@@ -1328,166 +1488,6 @@
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
       "file": "mined/mined_8f34f39c.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_22d42ee7.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_62323a41.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the agent's handling of agent and book information.",
-      "file": "mined/mined_62323a41.py:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book`",
-      "file": "mined/mined_62323a41.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan batch_layers` -- the boolean for this specie",
-      "file": "mined/mined_eb474e6f.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan block_repair` -- the boolean for this specie",
-      "file": "mined/mined_7f686e60.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_7f686e60.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan batch_layers` -- the boolean for this specie",
-      "file": "mined/mined_d577b3ba.py:2"
-    },
-    {
-      "tag": "FIXME",
-      "text": "This function should be named `unknown_input_defaults_to_ans",
-      "file": "mined/mined_d577b3ba.py:11"
-    },
-    {
-      "tag": "FIXME",
-      "text": "There seems to be a typo in the comment. It should be `unkno",
-      "file": "mined/mined_d577b3ba.py:12"
-    },
-    {
-      "tag": "FIXME",
-      "text": "This function should be named `unknown_verb_error` to match ",
-      "file": "mined/mined_d577b3ba.py:20"
-    },
-    {
-      "tag": "FIXME",
-      "text": "This function should be a part of the `bug_species` module.",
-      "file": "mined/mined_d577b3ba.py:21"
-    },
-    {
-      "tag": "FIXME",
-      "text": "The function should be named `batch_layers_self_test` to mat",
-      "file": "mined/mined_d577b3ba.py:29"
-    },
-    {
-      "tag": "FIXME",
-      "text": "This function should check if the `bug_species` module's sel",
-      "file": "mined/mined_d577b3ba.py:30"
-    },
-    {
-      "tag": "FIXME",
-      "text": "The function should be named `batch_layers_fix_bugs` to matc",
-      "file": "mined/mined_d577b3ba.py:38"
-    },
-    {
-      "tag": "FIXME",
-      "text": "This function should fix any bugs that have been found in th",
-      "file": "mined/mined_d577b3ba.py:39"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_71047535.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_command` -- the boolean for this speci",
-      "file": "mined/mined_2fe6594e.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_command` \u2014 the boolean for this specie",
-      "file": "mined/mined_2fe6594e.py:20"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add the implementation of the smoke test.",
-      "file": "mined/mined_c951b82c_212408.py:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "mined/mined_601b4cd4_202255.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "file": "mined/mined_9c43543d.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module and the curriculum module.",
-      "file": "mined/mined_9c43543d.py:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan block_repair` -- the boolean for this specie",
-      "file": "mined/mined_2e11c1ea.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hourly_notice` -- the boolean for this speci",
-      "file": "mined/mined_c981cbb1.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_c3598dfd_210118.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_b7b4928b.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_6fea9d48.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "mined/mined_6fea9d48.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species():",
-      "file": "mined/mined_6fea9d48.py:24"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.unknown_input_defaults_to_answer() == False",
-      "file": "mined/mined_6fea9d48.py:25"
     }
   ],
   "Alice": [
@@ -2817,7 +2817,7 @@
     {
       "tag": "BUG",
       "text": "caught by gate: boundary-hit probability inversion made E1_N",
-      "file": "docs/WONDERLAND_DATASCIENCE_ROADMAP.md:56"
+      "file": "docs/WONDERLAND_DATASCIENCE_ROADMAP.md:57"
     }
   ],
   "curator_system": [
@@ -10497,7 +10497,7 @@
     },
     {
       "tag": "TODO",
-      "text": "crystals",
+      "text": "crystals (a5cecea; selftest 48/0; live loop: scout\u2192quorum\u2192cr",
       "file": "NEXT_100_STEPS.md:53"
     },
     {
