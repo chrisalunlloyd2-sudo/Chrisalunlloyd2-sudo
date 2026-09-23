@@ -1050,6 +1050,16 @@
       "file": "mined/mined_c951b82c.py:18"
     },
     {
+      "tag": "TODO",
+      "text": "Implement the actual update process",
+      "file": "mined/mined_09113f2d.py:58"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement the actual",
+      "file": "mined/mined_09113f2d.py:65"
+    },
+    {
       "tag": "BUG",
       "text": "species.py scan aegis_survey` -- the boolean for this specie",
       "file": "mined/mined_a99ba3c2.py:2"
@@ -1138,6 +1148,26 @@
       "tag": "TODO",
       "text": "Implement all entries logic",
       "file": "mined/mined_519610f2.py:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "Define orphan_finder function with appropriate docstring",
+      "file": "mined/mined_e6946205.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add exception handling and logging",
+      "file": "mined/mined_e6946205.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a check to see if the referent still exists",
+      "file": "mined/mined_e6946205.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a separate function to clean up orphans",
+      "file": "mined/mined_e6946205.py:26"
     },
     {
       "tag": "BUG",
@@ -1458,36 +1488,6 @@
       "tag": "BUG",
       "text": "species.py scan agent_book` -- the boolean for this species ",
       "file": "mined/mined_169abea4_210209.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "file": "mined/mined_678b1c96.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hourly_notice` -- the boolean for this speci",
-      "file": "mined/mined_c981cbb1_175516.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the generation process here",
-      "file": "mined/mined_6d90260e.py:50"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the never_twice ledger, so a fixed bug has something stan",
-      "file": "mined/mined_6f7ecec3_204212.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_2e0cdc79.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_8f34f39c.py:2"
     }
   ],
   "Alice": [
@@ -2816,6 +2816,16 @@
   "code_rpg_engine": [
     {
       "tag": "BUG",
+      "text": "wrote it once, in passing, for free.",
+      "file": "docs/GHOST_IN_THE_MACHINE.md:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "class). Ghosts get journaled, hashed, and fed back",
+      "file": "docs/GHOST_IN_THE_MACHINE.md:25"
+    },
+    {
+      "tag": "BUG",
       "text": "caught by gate: boundary-hit probability inversion made E1_N",
       "file": "docs/WONDERLAND_DATASCIENCE_ROADMAP.md:57"
     }
@@ -3869,6 +3879,13 @@
       "tag": "TODO",
       "text": "",
       "file": "todo_0001_LIST.md:27"
+    }
+  ],
+  "Hermes": [
+    {
+      "tag": "TODO",
+      "text": "scan** \u2014 count open TODO/FIXME per repo \u2192 blackboard",
+      "file": "rules/KERNEL-FLEET-REPLICATE.md:80"
     }
   ],
   "home": [
@@ -12951,6 +12968,11 @@
       "file": "hexeract.py:326"
     },
     {
+      "tag": "BUG",
+      "text": "in `hive_daemon.serve()` that had been killing the whole",
+      "file": "MODEL_ROUTING.md:33"
+    },
+    {
       "tag": "TODO",
       "text": "crawl\", \"todo_agent\"],",
       "file": "module_btree_adapter.py:146"
@@ -13028,117 +13050,127 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:185"
+      "file": "hive_daemon.py:201"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:189"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
-      "file": "hive_daemon.py:195"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver._selftest now asserts all three terms against this nu",
       "file": "hive_daemon.py:206"
     },
     {
       "tag": "TODO",
+      "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
+      "file": "hive_daemon.py:212"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver._selftest now asserts all three terms against this nu",
+      "file": "hive_daemon.py:223"
+    },
+    {
+      "tag": "TODO",
       "text": "driver\":    720.0,",
-      "file": "hive_daemon.py:207"
+      "file": "hive_daemon.py:224"
     },
     {
       "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:322"
+      "file": "hive_daemon.py:343"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:656"
+      "file": "hive_daemon.py:713"
+    },
+    {
+      "tag": "TODO",
+      "text": "items (unbuilt) never signal.",
+      "file": "hive_daemon.py:867"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1050"
+      "file": "hive_daemon.py:1113"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1051"
+      "file": "hive_daemon.py:1114"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1052"
+      "file": "hive_daemon.py:1115"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1055"
+      "file": "hive_daemon.py:1118"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      300, 2),",
-      "file": "hive_daemon.py:1056"
+      "file": "hive_daemon.py:1119"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1068"
+      "file": "hive_daemon.py:1131"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1079"
+      "file": "hive_daemon.py:1142"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1230"
+      "file": "hive_daemon.py:1299"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1699"
+      "file": "hive_daemon.py:1783"
+    },
+    {
+      "tag": "BUG",
+      "text": "six months later, which is the whole argument",
+      "file": "hive_daemon.py:2016"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:1857"
+      "file": "hive_daemon.py:2174"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:1984"
+      "file": "hive_daemon.py:2301"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2028"
+      "file": "hive_daemon.py:2345"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2158"
+      "file": "hive_daemon.py:2475"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2167"
+      "file": "hive_daemon.py:2484"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:2650"
+      "file": "hive_daemon.py:3009"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:2720"
+      "file": "hive_daemon.py:3079"
     },
     {
       "tag": "TODO",
@@ -13623,22 +13655,37 @@
     {
       "tag": "TODO",
       "text": "driver",
-      "file": "aegis_gist.py:109"
+      "file": "aegis_gist.py:165"
     },
     {
       "tag": "TODO",
       "text": "driver.todo_wins(20)",
-      "file": "aegis_gist.py:110"
+      "file": "aegis_gist.py:166"
     },
     {
       "tag": "TODO",
       "text": "WINS  (mining pair: AEGIS generator vs rotor refiner)\")",
-      "file": "aegis_gist.py:112"
+      "file": "aegis_gist.py:168"
     },
     {
       "tag": "TODO",
       "text": "wins unavailable: {str(e)[:120]})\")",
-      "file": "aegis_gist.py:126"
+      "file": "aegis_gist.py:182"
+    },
+    {
+      "tag": "TODO",
+      "text": "the plan asks for something that is not built yet (a fact, n",
+      "file": "verify_hive.py:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "is deliberately not FAIL: \"stream.py does not exist\" is wher",
+      "file": "verify_hive.py:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "(visible) not FAIL.",
+      "file": "verify_hive.py:636"
     },
     {
       "tag": "TODO",
@@ -13703,12 +13750,12 @@
     {
       "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
-      "file": "supervisor.py:113"
+      "file": "supervisor.py:119"
     },
     {
       "tag": "BUG",
       "text": "than the one it",
-      "file": "supervisor.py:578"
+      "file": "supervisor.py:624"
     },
     {
       "tag": "TODO",
@@ -13719,6 +13766,16 @@
       "tag": "TODO",
       "text": "crawl\": \"studying\", \"readme_intent\": \"studying\",",
       "file": "master_scheduler.py:88"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixed here: the original 2-slot",
+      "file": "viper_guards.py:97"
+    },
+    {
+      "tag": "BUG",
+      "text": "this fixed 2026-09-22)\")",
+      "file": "viper_guards.py:205"
     },
     {
       "tag": "TODO",
@@ -13899,46 +13956,6 @@
       "tag": "TODO",
       "text": "#4 in viper-scripts",
       "file": "todo_0004_implement_n.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement\\n}}\",",
-      "file": "todo_0004_implement_n.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0004_implement_n.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0004_implement_n.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0004_implement_n.md:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "the test caught)",
-      "file": "code_assist.py:113"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "memory_withdraw.py:160"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate()'s crew asks) should submit with priority=\"h",
-      "file": "conveyor.py:64"
-    },
-    {
-      "tag": "BUG",
-      "text": "this routing decision:\\nQuery: {query}\\nChosen agent: {agent",
-      "file": "db-init-prompts.py:96"
     }
   ],
   "viper-state": [
