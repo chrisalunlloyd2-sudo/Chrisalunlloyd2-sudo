@@ -14,7 +14,6 @@
 | `Aegis_Agents` | `mind-palace` | Telemetry |
 | `Aegis_Agents` | `mindpalace` | Telemetry |
 | `Aegis_Agents` | `Nova` | Telemetry |
-| `Aegis_Agents` | `openrouter_manager` | Agent/BDI |
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
 | `Aegis_Agents` | `SimsMerged` | Telemetry, Agent/BDI |
@@ -26,7 +25,6 @@
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `mindpalace` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `SimsMerged` | Telemetry, Agent/BDI |
@@ -56,12 +54,12 @@
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
 | `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `openrouter_manager` | API/Web |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
@@ -77,7 +75,6 @@
 | `Nova` | `sims-java-neo-fx` | Telemetry |
 | `Nova` | `sims-javafx-neo` | Telemetry |
 | `Nova` | `SimsMerged` | Telemetry |
-| `openrouter_manager` | `SimsMerged` | Agent/BDI |
 | `sims-java-neo-fx` | `sims-javafx-neo` | Telemetry |
 | `sims-java-neo-fx` | `SimsMerged` | Telemetry |
 | `sims-javafx-neo` | `SimsMerged` | Telemetry |
@@ -90,11 +87,11 @@
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_tools` -- the boolean for this species  *(mined/mined_e704a03c.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_tools` -- the boolean for this species  *(mined/mined_e704a03c.py:14)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b0a51eef_235608.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_1ae8816d.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan email_todo` -- the boolean for this species  *(mined/mined_7dc3e89c.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_7dc3e89c.py:16)*
-- 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa.py:23)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_fccdff7e_003528.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan hive_daemon` -- the boolean for this species *(mined/mined_84c50471.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → that would have caught the last bug *(mined/mined_1c038099_204612.py:11)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_c2933181.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan batch_layers` -- the boolean for this specie *(mined/mined_69a5e837.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan aegis_gist` -- the boolean for this species  *(mined/mined_19eaeb46.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_19eaeb46.py:17)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan conveyor` -- the boolean for this species mu *(mined/mined_285541fd.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → any *(mined/mined_65f8e296_212142.py:15)*
