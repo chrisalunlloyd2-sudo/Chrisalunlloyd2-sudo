@@ -663,671 +663,671 @@
   <text x="200.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="200.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hive_daemon` -- the boolean for this species (mined/mined_84c50471.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,854.4 258.5,877.8 231.5,877.8 218.0,854.4 231.5,831.0 258.5,831.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="846.4228634059947" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan agent_book` -- the boolean for this species  (mined/mined_81bf9082_113218.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,854.4 258.5,877.8 231.5,877.8 218.0,854.4 231.5,831.0 258.5,831.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="846.4228634059947" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">Add the i..</text>
+  <text x="245.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Add the implementation of the smoke test. (mined/mined_c951b82c.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cell_report` -- the boolean for this species (mined/mined_9440edeb_232550.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,880.4 303.5,903.8 276.5,903.8 263.0,880.4 276.5,857.0 303.5,857.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="872.4036255195278" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="883.4036255195278" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">that woul..</text>
+  <text x="290.0" y="893.4036255195278" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: that would have caught the last bug (mined/mined_1c038099_204612.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py module. (mined/mined_9440edeb_232550.py:21)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,854.4 348.5,877.8 321.5,877.8 308.0,854.4 321.5,831.0 348.5,831.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="846.4228634059947" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="857.4228634059947" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="335.0" y="867.4228634059947" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_c2933181.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py module's self-test must still pass and the boolea (mined/mined_9440edeb_232550.py:22)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,906.4 78.5,929.8 51.5,929.8 38.0,906.4 51.5,883.0 78.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan batch_layers` -- the boolean for this specie (mined/mined_69a5e837.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b611889d_223338.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,932.4 123.5,955.7 96.5,955.7 83.0,932.4 96.5,909.0 123.5,909.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="924.3651497465942" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">Add the i..</text>
+  <text x="110.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">Add error..</text>
   
-  <title>[agent-squiggly] TODO: Add the implementation of the smoke test. (mined/mined_c951b82c_212408.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Add error handling for failed requests, and a feature for fe (mined/mined_6c914247_010929.py:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,906.4 168.5,929.8 141.5,929.8 128.0,906.4 141.5,883.0 168.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="155.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_19eaeb46.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan hive_daemon` -- the boolean for this species (mined/mined_84c50471_083118.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,932.4 213.5,955.7 186.5,955.7 173.0,932.4 186.5,909.0 213.5,909.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="924.3651497465942" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="200.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_19eaeb46.py:17)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py scan hive_daemon` -- the boolean for this species (mined/mined_84c50471.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,906.4 258.5,929.8 231.5,929.8 218.0,906.4 231.5,883.0 258.5,883.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="898.384387633061" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="245.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">Add the i..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan conveyor` -- the boolean for this species mu (mined/mined_285541fd.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,932.4 303.5,955.7 276.5,955.7 263.0,932.4 276.5,909.0 303.5,909.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="924.3651497465942" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] TODO: Add the implementation of the smoke test. (mined/mined_c951b82c.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,932.4 303.5,955.7 276.5,955.7 263.0,932.4 276.5,909.0 303.5,909.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="924.3651497465942" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="935.3651497465942" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="290.0" y="945.3651497465942" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:29)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,906.4 348.5,929.8 321.5,929.8 308.0,906.4 321.5,883.0 348.5,883.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="898.384387633061" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_a9d8f919.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,906.4 348.5,929.8 321.5,929.8 308.0,906.4 321.5,883.0 348.5,883.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="898.384387633061" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="909.384387633061" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="335.0" y="919.384387633061" fill="#8b949e" font-size="6.5" text-anchor="middle">that woul..</text>
   
-  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:34)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: that would have caught the last bug (mined/mined_1c038099_204612.py:11)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,958.3 78.5,981.7 51.5,981.7 38.0,958.3 51.5,935.0 78.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="65.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:39)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_095cade7_180427.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,984.3 123.5,1007.7 96.5,1007.7 83.0,984.3 96.5,960.9 123.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="110.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:44)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,958.3 168.5,981.7 141.5,981.7 128.0,958.3 141.5,935.0 168.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: grand_unifier.py (mined/mined_095cade7_180427.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,958.3 168.5,981.7 141.5,981.7 128.0,958.3 141.5,935.0 168.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">any</text>
+  <text x="155.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] BUG: any (mined/mined_65f8e296_212142.py:15)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,984.3 213.5,1007.7 186.5,1007.7 173.0,984.3 186.5,960.9 213.5,960.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="976.3266739736605" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: grand_unifier.py is a single queue assembled from every sour (mined/mined_095cade7_180427.py:14)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,984.3 213.5,1007.7 186.5,1007.7 173.0,984.3 186.5,960.9 213.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="200.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">list asse..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_1dee4b19.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,958.3 258.5,981.7 231.5,981.7 218.0,958.3 231.5,935.0 258.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: list assembled from blackboard, ledgers, hive, and this cata (mined/mined_095cade7_180427.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,958.3 258.5,981.7 231.5,981.7 218.0,958.3 231.5,935.0 258.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">species):</text>
+  <text x="245.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">queue = q..</text>
   
-  <title>[agent-squiggly] BUG: species): (mined/mined_1dee4b19.py:11)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,984.3 303.5,1007.7 276.5,1007.7 263.0,984.3 276.5,960.9 303.5,960.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="290.0" y="976.3266739736605" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: queue = queue.Queue() (mined/mined_095cade7_180427.py:32)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,984.3 303.5,1007.7 276.5,1007.7 263.0,984.3 276.5,960.9 303.5,960.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="290.0" y="976.3266739736605" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="290.0" y="987.3266739736605" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">species (..</text>
+  <text x="290.0" y="997.3266739736605" fill="#8b949e" font-size="6.5" text-anchor="middle">queue.put..</text>
   
-  <title>[agent-squiggly] BUG: species (dict): The dictionary representing the bug species. (mined/mined_1dee4b19.py:18)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,958.3 348.5,981.7 321.5,981.7 308.0,958.3 321.5,935.0 348.5,935.0" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="335.0" y="950.3459118601273" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: queue.put(blackboard.load_source()) (mined/mined_095cade7_180427.py:35)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,958.3 348.5,981.7 321.5,981.7 308.0,958.3 321.5,935.0 348.5,935.0" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="950.3459118601273" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="961.3459118601273" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="335.0" y="971.3459118601273" fill="#8b949e" font-size="6.5" text-anchor="middle">queue.put..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b0a51eef_235608.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1010.3 78.5,1033.7 51.5,1033.7 38.0,1010.3 51.5,986.9 78.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="65.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: queue.put(ledgers.load_source()) (mined/mined_095cade7_180427.py:36)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1010.3 78.5,1033.7 51.5,1033.7 38.0,1010.3 51.5,986.9 78.5,986.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="65.0" y="1002.3074360871937" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">queue.emp..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan block_promoter` -- the boolean for this spec (mined/mined_df56918d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: queue.empty(): (mined/mined_095cade7_180427.py:41)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1036.3 123.5,1059.7 96.5,1059.7 83.0,1036.3 96.5,1012.9 123.5,1012.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="110.0" y="1028.2881982007268" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="110.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">queue.get()</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_9b5b8be4.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1010.3 168.5,1033.7 141.5,1033.7 128.0,1010.3 141.5,986.9 168.5,986.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1002.3074360871937" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] TODO: queue.get() (mined/mined_095cade7_180427.py:42)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1010.3 168.5,1033.7 141.5,1033.7 128.0,1010.3 141.5,986.9 168.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">Grand Uni..</text>
+  <text x="155.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] TODO: Grand Unifier is a Python script that reads from multiple so (mined/mined_9b5b8be4.py:12)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_c2933181.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1036.3 213.5,1059.7 186.5,1059.7 173.0,1036.3 186.5,1012.9 213.5,1012.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1028.2881982007268" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="200.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_be05cbc0.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan batch_layers` -- the boolean for this specie (mined/mined_69a5e837.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1010.3 258.5,1033.7 231.5,1033.7 218.0,1010.3 231.5,986.9 258.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_fa6f94b1_204905.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan conveyor` -- the boolean for this species mu (mined/mined_03e36ed1_135407.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1036.3 303.5,1059.7 276.5,1059.7 263.0,1036.3 276.5,1012.9 303.5,1012.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1028.2881982007268" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1039.2881982007268" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="290.0" y="1049.2881982007268" fill="#8b949e" font-size="6.5" text-anchor="middle">species m..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_9c43543d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species module to classify bugs and species. (mined/mined_03e36ed1_135407.py:14)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1010.3 348.5,1033.7 321.5,1033.7 308.0,1010.3 321.5,986.9 348.5,986.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1002.3074360871937" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1013.3074360871937" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="335.0" y="1023.3074360871937" fill="#8b949e" font-size="6.5" text-anchor="middle">species m..</text>
   
-  <title>[agent-squiggly] BUG: species module and the curriculum module. (mined/mined_9c43543d.py:18)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1062.3 78.5,1085.7 51.5,1085.7 38.0,1062.3 51.5,1038.9 78.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="65.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species module to classify bugs and species. (mined/mined_03e36ed1_135407.py:19)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1062.3 78.5,1085.7 51.5,1085.7 38.0,1062.3 51.5,1038.9 78.5,1038.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="65.0" y="1054.2689603142599" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">Add the i..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan lexicon_compiler` -- the boolean for this sp (mined/mined_8d8e4ec8.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Add the implementation of the smoke test. (mined/mined_c951b82c_212408.py:18)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1088.2 123.5,1111.6 96.5,1111.6 83.0,1088.2 96.5,1064.9 123.5,1064.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1080.249722427793" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="110.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b05ca0df.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_9c43543d_021714.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1062.3 168.5,1085.7 141.5,1085.7 128.0,1062.3 141.5,1038.9 168.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="155.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">species m..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan block_repair` -- the boolean for this specie (mined/mined_5a68a69d.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1088.2 213.5,1111.6 186.5,1111.6 173.0,1088.2 186.5,1064.9 213.5,1064.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="1080.249722427793" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species module and the curriculum module. (mined/mined_9c43543d_021714.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1088.2 213.5,1111.6 186.5,1111.6 173.0,1088.2 186.5,1064.9 213.5,1064.9" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="1080.249722427793" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="200.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">Add error..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan clock_cycle` -- the boolean for this species (mined/mined_fcd969eb.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Add error handling for failed requests, and a feature for fe (mined/mined_6c914247.py:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1062.3 258.5,1085.7 231.5,1085.7 218.0,1062.3 231.5,1038.9 258.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">in the ne..</text>
+  <text x="245.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: in the never_twice ledger, so a fixed bug has something stan (mined/mined_af3e1549.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_ce206c0b_154948.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1088.2 303.5,1111.6 276.5,1111.6 263.0,1088.2 276.5,1064.9 303.5,1064.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1080.249722427793" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1091.249722427793" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle">in the</text>
+  <text x="290.0" y="1101.249722427793" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[agent-squiggly] BUG: in the (mined/mined_af3e1549.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG:  (mined/mined_ce206c0b_154948.py:17)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1062.3 348.5,1085.7 321.5,1085.7 308.0,1062.3 321.5,1038.9 348.5,1038.9" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1054.2689603142599" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1065.2689603142599" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">has somet..</text>
+  <text x="335.0" y="1075.2689603142599" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has something standing guard over it. (mined/mined_af3e1549.py:12)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py` module, but nothing seems to be causing the (mined/mined_ce206c0b_154948.py:18)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1114.2 78.5,1137.6 51.5,1137.6 38.0,1114.2 51.5,1090.8 78.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">is not ye..</text>
+  <text x="65.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: is not yet known fixed. Each test encodes the (mined/mined_af3e1549.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan email_command` -- the boolean for this speci (mined/mined_a4ffd108_230326.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1140.2 123.5,1163.6 96.5,1163.6 83.0,1140.2 96.5,1116.8 123.5,1116.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1132.2112466548592" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="110.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_71fb089e.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_19eaeb46.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1114.2 168.5,1137.6 141.5,1137.6 128.0,1114.2 141.5,1090.8 168.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="155.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
   
-  <title>[agent-squiggly] BUG:  (mined/mined_71fb089e.py:17)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_19eaeb46.py:17)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1140.2 213.5,1163.6 186.5,1163.6 173.0,1140.2 186.5,1116.8 213.5,1116.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1132.2112466548592" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="200.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_22d42ee7.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_37b6dadf.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1114.2 258.5,1137.6 231.5,1137.6 218.0,1114.2 231.5,1090.8 258.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="245.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cue_node` -- the boolean for this species mu (mined/mined_01d055db.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1140.2 303.5,1163.6 276.5,1163.6 263.0,1140.2 276.5,1116.8 303.5,1116.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1132.2112466548592" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan conveyor` -- the boolean for this species mu (mined/mined_285541fd.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1140.2 303.5,1163.6 276.5,1163.6 263.0,1140.2 276.5,1116.8 303.5,1116.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1132.2112466548592" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1143.2112466548592" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">Add your ..</text>
+  <text x="290.0" y="1153.2112466548592" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Add your actual implementation here (mined/mined_cc22f550.py:33)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cue_node` -- the boolean for this species mu (mined/mined_01d055db_232609.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1114.2 348.5,1137.6 321.5,1137.6 308.0,1114.2 321.5,1090.8 348.5,1090.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1106.2304845413262" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1117.2304845413262" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="335.0" y="1127.2304845413262" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan batch_layers` -- the boolean for this specie (mined/mined_eb474e6f.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cell_report` -- the boolean for this species (mined/mined_4370e286_124215.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1166.2 78.5,1189.6 51.5,1189.6 38.0,1166.2 51.5,1142.8 78.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="65.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_86f56931.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1192.2 123.5,1215.6 96.5,1215.6 83.0,1192.2 96.5,1168.8 123.5,1168.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="1184.1727708819255" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py` to ensure that the cell's response is an error w (mined/mined_4370e286_124215.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1192.2 123.5,1215.6 96.5,1215.6 83.0,1192.2 96.5,1168.8 123.5,1168.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="110.0" y="1184.1727708819255" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="110.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_86f56931.py:16)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1166.2 168.5,1189.6 141.5,1189.6 128.0,1166.2 141.5,1142.8 168.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:29)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1166.2 168.5,1189.6 141.5,1189.6 128.0,1166.2 141.5,1142.8 168.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="155.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cell_report` -- the boolean for this species (mined/mined_5610afff.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1192.2 213.5,1215.6 186.5,1215.6 173.0,1192.2 186.5,1168.8 213.5,1168.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="1184.1727708819255" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:34)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1192.2 213.5,1215.6 186.5,1215.6 173.0,1192.2 186.5,1168.8 213.5,1168.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="1184.1727708819255" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="200.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG: species.py module for its functionality. (mined/mined_5610afff.py:23)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1166.2 258.5,1189.6 231.5,1189.6 218.0,1166.2 231.5,1142.8 258.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:39)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1166.2 258.5,1189.6 231.5,1189.6 218.0,1166.2 231.5,1142.8 258.5,1142.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="1158.1920087683925" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b611889d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Implement this function (mined/mined_eb02bcdb.py:44)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1192.2 303.5,1215.6 276.5,1215.6 263.0,1192.2 276.5,1168.8 303.5,1168.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1184.1727708819255" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1195.1727708819255" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="290.0" y="1205.1727708819255" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_conductor` -- the boolean for this spe (mined/mined_d3279b3b.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_3aea1f27_121519.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1166.2 348.5,1189.6 321.5,1189.6 308.0,1166.2 321.5,1142.8 348.5,1142.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1158.1920087683925" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1169.1920087683925" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="335.0" y="1179.1920087683925" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_d3279b3b.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_3aea1f27_121519.py:18)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1218.2 78.5,1241.5 51.5,1241.5 38.0,1218.2 51.5,1194.8 78.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">in the ne..</text>
+  <text x="65.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: in the never_twice ledger, so a fixed bug has something stan (mined/mined_f3ae7dfd_212205.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan auto_pusher` -- the boolean for this species (mined/mined_e1e3ec17_111155.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1244.1 123.5,1267.5 96.5,1267.5 83.0,1244.1 96.5,1220.8 123.5,1220.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1236.1342951089919" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="110.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_da038b63.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_e1e3ec17_111155.py:16)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1218.2 168.5,1241.5 141.5,1241.5 128.0,1218.2 141.5,1194.8 168.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="155.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">any</text>
   
-  <title>[agent-squiggly] BUG: species.py scan auto_pusher` -- the boolean for this species (mined/mined_e1e3ec17.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: any (mined/mined_65f8e296_212142.py:15)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1244.1 213.5,1267.5 186.5,1267.5 173.0,1244.1 186.5,1220.8 213.5,1220.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1236.1342951089919" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="200.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_e1e3ec17.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_1dee4b19.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1218.2 258.5,1241.5 231.5,1241.5 218.0,1218.2 231.5,1194.8 258.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">species):</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_1da4ed23.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1244.1 303.5,1267.5 276.5,1267.5 263.0,1244.1 276.5,1220.8 303.5,1220.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1236.1342951089919" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species): (mined/mined_1dee4b19.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1244.1 303.5,1267.5 276.5,1267.5 263.0,1244.1 276.5,1220.8 303.5,1220.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1236.1342951089919" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1247.1342951089919" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="290.0" y="1257.1342951089919" fill="#8b949e" font-size="6.5" text-anchor="middle">species (..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate headers for your environment (mined/mined_2d158334.py:20)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1218.2 348.5,1241.5 321.5,1241.5 308.0,1218.2 321.5,1194.8 348.5,1194.8" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1210.1535329954588" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species (dict): The dictionary representing the bug species. (mined/mined_1dee4b19.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1218.2 348.5,1241.5 321.5,1241.5 308.0,1218.2 321.5,1194.8 348.5,1194.8" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1210.1535329954588" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1221.1535329954588" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="335.0" y="1231.1535329954588" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334.py:48)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b0a51eef_235608.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1270.1 78.5,1293.5 51.5,1293.5 38.0,1270.1 51.5,1246.7 78.5,1246.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1262.1150572225251" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="65.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">Add your ..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334.py:66)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Add your actual implementation here (mined/mined_f5d23441_083037.py:33)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1296.1 123.5,1319.5 96.5,1319.5 83.0,1296.1 96.5,1272.7 123.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">in the ne..</text>
+  <text x="110.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: in the never_twice ledger, so a fixed bug has something stan (mined/mined_6f7ecec3.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan conveyor` -- the boolean for this species mu (mined/mined_6d41c711.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1270.1 168.5,1293.5 141.5,1293.5 128.0,1270.1 141.5,1246.7 168.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="155.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG:  (mined/mined_601b4cd4.py:15)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan aegis_survey` -- the boolean for this specie (mined/mined_a99ba3c2_131759.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1296.1 213.5,1319.5 186.5,1319.5 173.0,1296.1 186.5,1272.7 213.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="200.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_69d7a56a.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan agent_book` -- the boolean for this species  (mined/mined_264521cf_124830.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1270.1 258.5,1293.5 231.5,1293.5 218.0,1270.1 231.5,1246.7 258.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="245.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">REPORTS &amp;..</text>
   
-  <title>[agent-squiggly] BUG: species.py module to classify the gist as a new species, and (mined/mined_69d7a56a.py:20)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: REPORTS &amp; AGENT REPORT. (mined/mined_264521cf_124830.py:12)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1296.1 303.5,1319.5 276.5,1319.5 263.0,1296.1 276.5,1272.7 303.5,1272.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1288.0958193360582" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1299.0958193360582" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">species m..</text>
+  <text x="290.0" y="1309.0958193360582" fill="#8b949e" font-size="6.5" text-anchor="middle">reports a..</text>
   
-  <title>[agent-squiggly] BUG: species module. The self-test for the bug_species module sho (mined/mined_69d7a56a.py:21)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: reports and agent reports. It uses bug_species.py to classif (mined/mined_264521cf_124830.py:14)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1270.1 348.5,1293.5 321.5,1293.5 308.0,1270.1 321.5,1246.7 348.5,1246.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1262.1150572225251" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1273.1150572225251" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="335.0" y="1283.1150572225251" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan email_todo` -- the boolean for this species  (mined/mined_beefdba0.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py module's output. (mined/mined_264521cf_124830.py:18)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1322.1 78.5,1345.5 51.5,1345.5 38.0,1322.1 51.5,1298.7 78.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="65.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cell_tools` -- the boolean for this species  (mined/mined_459fc9f3.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1348.1 123.5,1371.4 96.5,1371.4 83.0,1348.1 96.5,1324.7 123.5,1324.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="1340.0573435631245" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py scan block_promoter` -- the boolean for this spec (mined/mined_df56918d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1348.1 123.5,1371.4 96.5,1371.4 83.0,1348.1 96.5,1324.7 123.5,1324.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="110.0" y="1340.0573435631245" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="110.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_conductor` -- the boolean for this spe (mined/mined_55c9b4d8.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1322.1 168.5,1345.5 141.5,1345.5 128.0,1322.1 141.5,1298.7 168.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Implement all entries logic (mined/mined_519610f2_114821.py:11)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1322.1 168.5,1345.5 141.5,1345.5 128.0,1322.1 141.5,1298.7 168.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
+  <text x="155.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] BUG:  (mined/mined_2061c662.py:24)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1348.1 213.5,1371.4 186.5,1371.4 173.0,1348.1 186.5,1324.7 213.5,1324.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="1340.0573435631245" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: Implement your rendering logic here (mined/mined_144108ab_215919.py:44)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1348.1 213.5,1371.4 186.5,1371.4 173.0,1348.1 186.5,1324.7 213.5,1324.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="1340.0573435631245" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="200.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">Save rend..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cell_tools` -- the boolean for this species  (mined/mined_08edb141.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Save rendered data to in-hexeract.json file (mined/mined_144108ab_215919.py:47)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1322.1 258.5,1345.5 231.5,1345.5 218.0,1322.1 231.5,1298.7 258.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_d71df467.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1348.1 303.5,1371.4 276.5,1371.4 263.0,1348.1 276.5,1324.7 303.5,1324.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1340.0573435631245" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_c076e29b_001517.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1348.1 303.5,1371.4 276.5,1371.4 263.0,1348.1 276.5,1324.7 303.5,1324.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1340.0573435631245" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1351.0573435631245" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="290.0" y="1361.0573435631245" fill="#8b949e" font-size="6.5" text-anchor="middle">that has ..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_2b9a10d6.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1322.1 348.5,1345.5 321.5,1345.5 308.0,1322.1 321.5,1298.7 348.5,1298.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1314.0765814495915" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: that has been identified, and the correction is required. Th (mined/mined_c076e29b_001517.py:14)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1322.1 348.5,1345.5 321.5,1345.5 308.0,1322.1 321.5,1298.7 348.5,1298.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1314.0765814495915" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1325.0765814495915" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">list asse..</text>
+  <text x="335.0" y="1335.0765814495915" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: list assembled.") (mined/mined_2b9a10d6.py:26)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_c076e29b_001517.py:16)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1374.0 78.5,1397.4 51.5,1397.4 38.0,1374.0 51.5,1350.7 78.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
   <text x="65.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="65.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate headers for your environment (mined/mined_2d158334_121507.py:20)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1400.0 123.5,1423.4 96.5,1423.4 83.0,1400.0 96.5,1376.6 123.5,1376.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="110.0" y="1392.0188677901908" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] TODO: Implement main function (mined/mined_ed5d9be6.py:15)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1400.0 123.5,1423.4 96.5,1423.4 83.0,1400.0 96.5,1376.6 123.5,1376.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="110.0" y="1392.0188677901908" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="110.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334_121507.py:48)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1374.0 168.5,1397.4 141.5,1397.4 128.0,1374.0 141.5,1350.7 168.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_033fd495_210959.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1374.0 168.5,1397.4 141.5,1397.4 128.0,1374.0 141.5,1350.7 168.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">Replace w..</text>
+  <text x="155.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] TODO: Replace with the appropriate function for your environment (mined/mined_2d158334_121507.py:66)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_fccdff7e_085617.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1400.0 213.5,1423.4 186.5,1423.4 173.0,1400.0 186.5,1376.6 213.5,1376.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1392.0188677901908" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="200.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan email_command` -- the boolean for this speci (mined/mined_4fb22b6f.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1374.0 258.5,1397.4 231.5,1397.4 218.0,1374.0 231.5,1350.7 258.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="245.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_be05cbc0_162907.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1374.0 258.5,1397.4 231.5,1397.4 218.0,1374.0 231.5,1350.7 258.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="245.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="245.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_c3598dfd.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO:  (mined/mined_77ad3a9c_215127.py:22)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1400.0 303.5,1423.4 276.5,1423.4 263.0,1400.0 276.5,1376.6 303.5,1376.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1392.0188677901908" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1403.0188677901908" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="290.0" y="1413.0188677901908" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cue_node` -- the boolean for this species mu (mined/mined_e49b7420.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1374.0 348.5,1397.4 321.5,1397.4 308.0,1374.0 321.5,1350.7 348.5,1350.7" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="335.0" y="1366.0381056766578" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py scan aegis_survey` -- the boolean for this specie (mined/mined_a99ba3c2_115732.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1374.0 348.5,1397.4 321.5,1397.4 308.0,1374.0 321.5,1350.7 348.5,1350.7" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="335.0" y="1366.0381056766578" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="335.0" y="1377.0381056766578" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="335.0" y="1387.0381056766578" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan cue_node` command (mined/mined_e49b7420.py:17)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1426.0 78.5,1449.4 51.5,1449.4 38.0,1426.0 51.5,1402.6 78.5,1402.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="65.0" y="1417.999629903724" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_9b5b8be4.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1426.0 78.5,1449.4 51.5,1449.4 38.0,1426.0 51.5,1402.6 78.5,1402.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="65.0" y="1417.999629903724" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">Grand Uni..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan block_promoter` -- the boolean for this spec (mined/mined_d24da56c.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Grand Unifier is a Python script that reads from multiple so (mined/mined_9b5b8be4.py:12)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1452.0 123.5,1475.4 96.5,1475.4 83.0,1452.0 96.5,1428.6 123.5,1428.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1443.9803920172571" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="110.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hourly_notice` -- the boolean for this speci (mined/mined_231d7da1.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_718b831c_221438.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1426.0 168.5,1449.4 141.5,1449.4 128.0,1426.0 141.5,1402.6 168.5,1402.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1417.999629903724" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="155.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_e786857a.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_be05cbc0.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="227.0,1452.0 213.5,1475.4 186.5,1475.4 173.0,1452.0 186.5,1428.6 213.5,1428.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="200.0" y="1443.9803920172571" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="200.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan auto_pusher` -- the boolean for this species (mined/mined_9df1f9a5.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_fa6f94b1_204905.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1426.0 258.5,1449.4 231.5,1449.4 218.0,1426.0 231.5,1402.6 258.5,1402.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1417.999629903724" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="245.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hive_daemon` -- the boolean for this species (mined/mined_f6e3a1c6.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cue_node` -- the boolean for this species mu (mined/mined_5eab4c83_103706.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1452.0 303.5,1475.4 276.5,1475.4 263.0,1452.0 276.5,1428.6 303.5,1428.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1443.9803920172571" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1454.9803920172571" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle">REPORTS T..</text>
+  <text x="290.0" y="1464.9803920172571" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[agent-squiggly] BUG: REPORTS TO BIOLOGICAL HIVE (mined/mined_f6e3a1c6.py:12)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG:  (mined/mined_2061c662_125709.py:24)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1426.0 348.5,1449.4 321.5,1449.4 308.0,1426.0 321.5,1402.6 348.5,1402.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1417.999629903724" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1428.999629903724" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="335.0" y="1438.999629903724" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_f6e3a1c6.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_9c43543d.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1478.0 78.5,1501.3 51.5,1501.3 38.0,1478.0 51.5,1454.6 78.5,1454.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1469.9611541307904" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">species m..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan gap_finder` -- the boolean for this species  (mined/mined_132dd18a.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="137.0,1503.9 123.5,1527.3 96.5,1527.3 83.0,1503.9 96.5,1480.6 123.5,1480.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="110.0" y="1495.9419162443235" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species module and the curriculum module. (mined/mined_9c43543d.py:18)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="137.0,1503.9 123.5,1527.3 96.5,1527.3 83.0,1503.9 96.5,1480.6 123.5,1480.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="110.0" y="1495.9419162443235" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="110.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">REPORT.</text>
+  <text x="110.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">implement..</text>
   
-  <title>[agent-squiggly] BUG: REPORT. (mined/mined_132dd18a.py:12)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1478.0 168.5,1501.3 141.5,1501.3 128.0,1478.0 141.5,1454.6 168.5,1454.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="155.0" y="1469.9611541307904" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: implement the generation of tasks based on the current state (mined/mined_b51bbade_145806.py:37)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1478.0 168.5,1501.3 141.5,1501.3 128.0,1478.0 141.5,1454.6 168.5,1454.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="155.0" y="1469.9611541307904" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="155.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="155.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">implement..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan hero_curriculum` -- the boolean for this spe (mined/mined_678b1c96.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1503.9 213.5,1527.3 186.5,1527.3 173.0,1503.9 186.5,1480.6 213.5,1480.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="200.0" y="1495.9419162443235" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] TODO: implement the route tasks to the appropriate location (mined/mined_b51bbade_145806.py:44)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1503.9 213.5,1527.3 186.5,1527.3 173.0,1503.9 186.5,1480.6 213.5,1480.6" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="200.0" y="1495.9419162443235" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="200.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">any</text>
+  <text x="200.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">implement..</text>
   
-  <title>[agent-squiggly] BUG: any (mined/mined_65f8e296.py:15)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: implement the put tasks on the board (mined/mined_b51bbade_145806.py:51)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1478.0 258.5,1501.3 231.5,1501.3 218.0,1478.0 231.5,1454.6 258.5,1454.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1469.9611541307904" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="245.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan code_lineage` -- the boolean for this specie (mined/mined_8f34f39c.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan lexicon_compiler` -- the boolean for this sp (mined/mined_18687658_130308.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1503.9 303.5,1527.3 276.5,1527.3 263.0,1503.9 276.5,1480.6 303.5,1480.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1495.9419162443235" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1506.9419162443235" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="290.0" y="1516.9419162443235" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan docs_ingest` -- the boolean for this species (mined/mined_85e4b932.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: 10 times now I'm detecting a pattern in your (mined/mined_18687658_130308.py:16)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="362.0,1478.0 348.5,1501.3 321.5,1501.3 308.0,1478.0 321.5,1454.6 348.5,1454.6" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="335.0" y="1469.9611541307904" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1480.9611541307904" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="335.0" y="1490.9611541307904" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_85e4b932.py:16)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="92.0,1529.9 78.5,1553.3 51.5,1553.3 38.0,1529.9 51.5,1506.5 78.5,1506.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
-  <text x="65.0" y="1521.9226783578567" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
+  <title>[agent-squiggly] BUG: species.py scan lexicon_compiler` -- the boolean for this sp (mined/mined_8d8e4ec8.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="92.0,1529.9 78.5,1553.3 51.5,1553.3 38.0,1529.9 51.5,1506.5 78.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
+  <text x="65.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
   <text x="65.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">occurrenc..</text>
+  <text x="65.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">Add code ..</text>
   
-  <title>[agent-squiggly] BUG: occurrences. (mined/mined_85e4b932.py:30)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] TODO: Add code to create the note (mined/mined_bd812198_010658.py:33)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1555.9 123.5,1579.3 96.5,1579.3 83.0,1555.9 96.5,1532.5 123.5,1532.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1547.9034404713898" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="110.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_486ce86b.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1529.9 168.5,1553.3 141.5,1553.3 128.0,1529.9 141.5,1506.5 168.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b05ca0df.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1529.9 168.5,1553.3 141.5,1553.3 128.0,1529.9 141.5,1506.5 168.5,1506.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1521.9226783578567" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="155.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Implement the logic to detect proxies (mined/mined_486ce86b.py:34)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1555.9 213.5,1579.3 186.5,1579.3 173.0,1555.9 186.5,1532.5 213.5,1532.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="1547.9034404713898" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan cell_report` -- the boolean for this species (mined/mined_5610afff_013150.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1555.9 213.5,1579.3 186.5,1579.3 173.0,1555.9 186.5,1532.5 213.5,1532.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1547.9034404713898" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="200.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_c9112677.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1529.9 258.5,1553.3 231.5,1553.3 218.0,1529.9 231.5,1506.5 258.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py module for its functionality. (mined/mined_5610afff_013150.py:23)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1529.9 258.5,1553.3 231.5,1553.3 218.0,1529.9 231.5,1506.5 258.5,1506.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1521.9226783578567" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="245.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py -- ONE QUEUE, assembled from every source t (mined/mined_c9112677.py:12)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1555.9 303.5,1579.3 276.5,1579.3 263.0,1555.9 276.5,1532.5 303.5,1532.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1547.9034404713898" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan block_repair` -- the boolean for this specie (mined/mined_5a68a69d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1555.9 303.5,1579.3 276.5,1579.3 263.0,1555.9 276.5,1532.5 303.5,1532.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1547.9034404713898" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1558.9034404713898" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">list asse..</text>
+  <text x="290.0" y="1568.9034404713898" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: list assembled from blackboard, ledgers, hive, and this (mined/mined_c9112677.py:14)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1529.9 348.5,1553.3 321.5,1553.3 308.0,1529.9 321.5,1506.5 348.5,1506.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1521.9226783578567" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan clock_cycle` -- the boolean for this species (mined/mined_fcd969eb.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1529.9 348.5,1553.3 321.5,1553.3 308.0,1529.9 321.5,1506.5 348.5,1506.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1521.9226783578567" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1532.9226783578567" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="335.0" y="1542.9226783578567" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Implement the logic to handle this situation. (mined/mined_c9112677.py:23)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan hive_daemon` -- the boolean for this species (mined/mined_78a28b73.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1581.9 78.5,1605.3 51.5,1605.3 38.0,1581.9 51.5,1558.5 78.5,1558.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1573.884202584923" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="65.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">in the ne..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan gap_finder` -- the boolean for this species  (mined/mined_79076cfd.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: in the never_twice ledger, so a fixed bug has something stan (mined/mined_af3e1549.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1607.9 123.5,1631.2 96.5,1631.2 83.0,1607.9 96.5,1584.5 123.5,1584.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1599.864964698456" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
+  <text x="110.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">in the</text>
   
-  <title>[agent-squiggly] BUG: species.py scan email_todo` -- the boolean for this species  (mined/mined_7dc3e89c.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: in the (mined/mined_af3e1549.py:11)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="182.0,1581.9 168.5,1605.3 141.5,1605.3 128.0,1581.9 141.5,1558.5 168.5,1558.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="155.0" y="1573.884202584923" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
+  <text x="155.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">has somet..</text>
   
-  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_7dc3e89c.py:16)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1607.9 213.5,1631.2 186.5,1631.2 173.0,1607.9 186.5,1584.5 213.5,1584.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="1599.864964698456" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: has something standing guard over it. (mined/mined_af3e1549.py:12)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1607.9 213.5,1631.2 186.5,1631.2 173.0,1607.9 186.5,1584.5 213.5,1584.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1599.864964698456" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="200.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">is not ye..</text>
   
-  <title>[agent-squiggly] TODO: Implement the actual update process (mined/mined_09113f2d.py:58)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="272.0,1581.9 258.5,1605.3 231.5,1605.3 218.0,1581.9 231.5,1558.5 258.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="245.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: is not yet known fixed. Each test encodes the (mined/mined_af3e1549.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="272.0,1581.9 258.5,1605.3 231.5,1605.3 218.0,1581.9 231.5,1558.5 258.5,1558.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="245.0" y="1573.884202584923" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="245.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Implement the actual (mined/mined_09113f2d.py:65)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="317.0,1607.9 303.5,1631.2 276.5,1631.2 263.0,1607.9 276.5,1584.5 303.5,1584.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="290.0" y="1599.864964698456" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan aegis_gist` -- the boolean for this species  (mined/mined_71fb089e.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="317.0,1607.9 303.5,1631.2 276.5,1631.2 263.0,1607.9 276.5,1584.5 303.5,1584.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="290.0" y="1599.864964698456" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1610.864964698456" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="290.0" y="1620.864964698456" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[agent-squiggly] TODO: Implement your rendering logic here (mined/mined_144108ab.py:44)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1581.9 348.5,1605.3 321.5,1605.3 308.0,1581.9 321.5,1558.5 348.5,1558.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1573.884202584923" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG:  (mined/mined_71fb089e.py:17)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1581.9 348.5,1605.3 321.5,1605.3 308.0,1581.9 321.5,1558.5 348.5,1558.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1573.884202584923" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1584.884202584923" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">Save rend..</text>
+  <text x="335.0" y="1594.884202584923" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
   
-  <title>[agent-squiggly] TODO: Save rendered data to in-hexeract.json file (mined/mined_144108ab.py:47)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_22d42ee7.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1633.8 78.5,1657.2 51.5,1657.2 38.0,1633.8 51.5,1610.5 78.5,1610.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1625.8457268119894" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="65.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan aegis_survey` -- the boolean for this specie (mined/mined_a99ba3c2.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cue_node` -- the boolean for this species mu (mined/mined_01d055db.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1659.8 123.5,1683.2 96.5,1683.2 83.0,1659.8 96.5,1636.4 123.5,1636.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1651.8264889255224" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="110.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="110.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_91e98059.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1633.8 168.5,1657.2 141.5,1657.2 128.0,1633.8 141.5,1610.5 168.5,1610.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1625.8457268119894" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_ce206c0b_102803.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1633.8 168.5,1657.2 141.5,1657.2 128.0,1633.8 141.5,1610.5 168.5,1610.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1625.8457268119894" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">Implement..</text>
+  <text x="155.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle"></text>
   
-  <title>[agent-squiggly] TODO: Implement your rendering logic here (mined/mined_144108ab_203423.py:44)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="227.0,1659.8 213.5,1683.2 186.5,1683.2 173.0,1659.8 186.5,1636.4 213.5,1636.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="200.0" y="1651.8264889255224" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG:  (mined/mined_ce206c0b_102803.py:17)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="227.0,1659.8 213.5,1683.2 186.5,1683.2 173.0,1659.8 186.5,1636.4 213.5,1636.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="200.0" y="1651.8264889255224" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="200.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="200.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">Save rend..</text>
+  <text x="200.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: Save rendered data to in-hexeract.json file (mined/mined_144108ab_203423.py:47)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py` module, but nothing seems to be causing the (mined/mined_ce206c0b_102803.py:18)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="272.0,1633.8 258.5,1657.2 231.5,1657.2 218.0,1633.8 231.5,1610.5 258.5,1610.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="245.0" y="1625.8457268119894" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="245.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="245.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="245.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_b0a51eef.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_c6fffc01.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="317.0,1659.8 303.5,1683.2 276.5,1683.2 263.0,1659.8 276.5,1636.4 303.5,1636.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="290.0" y="1651.8264889255224" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="290.0" y="1662.8264889255224" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="290.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="290.0" y="1672.8264889255224" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_fccdff7e.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="362.0,1633.8 348.5,1657.2 321.5,1657.2 308.0,1633.8 321.5,1610.5 348.5,1610.5" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="335.0" y="1625.8457268119894" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py scan epmo_cadence` -- the boolean for this specie (mined/mined_00fe2a86.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="362.0,1633.8 348.5,1657.2 321.5,1657.2 308.0,1633.8 321.5,1610.5 348.5,1610.5" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="335.0" y="1625.8457268119894" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="335.0" y="1636.8457268119894" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="335.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="335.0" y="1646.8457268119894" fill="#8b949e" font-size="6.5" text-anchor="middle">10 times ..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_8997219d.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: 10 times now im detecting a pattern in your (mined/mined_00fe2a86.py:16)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="92.0,1685.8 78.5,1709.2 51.5,1709.2 38.0,1685.8 51.5,1662.4 78.5,1662.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="65.0" y="1677.8072510390557" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="65.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="65.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">has cost ..</text>
+  <text x="65.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: has cost more time here than any other. (mined/mined_c3598dfd_211933.py:2)</title></g><g class="hex-cell" tabindex="0">
+  <title>[agent-squiggly] BUG: species.py scan cell_report` -- the boolean for this species (mined/mined_4370e286_135306.py:2)</title></g><g class="hex-cell" tabindex="0">
   <polygon points="137.0,1711.8 123.5,1735.2 96.5,1735.2 83.0,1711.8 96.5,1688.4 123.5,1688.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
   <text x="110.0" y="1703.7880131525887" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="110.0" y="1714.7880131525887" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
   <text x="110.0" y="1724.7880131525887" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] BUG: species.py scan graduation` -- the boolean for this species  (mined/mined_71047535.py:2)</title></g><g class="hex-cell" tabindex="0">
-  <polygon points="182.0,1685.8 168.5,1709.2 141.5,1709.2 128.0,1685.8 141.5,1662.4 168.5,1662.4" fill="#162032" stroke="#58a6ff" stroke-width="1.5" />
-  <text x="155.0" y="1677.8072510390557" fill="#58a6ff" font-weight="bold" font-size="9" text-anchor="middle">TODO</text>
+  <title>[agent-squiggly] BUG: species.py` to ensure that the cell's response is an error w (mined/mined_4370e286_135306.py:16)</title></g><g class="hex-cell" tabindex="0">
+  <polygon points="182.0,1685.8 168.5,1709.2 141.5,1709.2 128.0,1685.8 141.5,1662.4 168.5,1662.4" fill="#3b1219" stroke="#ff7b72" stroke-width="1.5" />
+  <text x="155.0" y="1677.8072510390557" fill="#ff7b72" font-weight="bold" font-size="9" text-anchor="middle">BUG</text>
   <text x="155.0" y="1688.8072510390557" fill="#c9d1d9" font-size="7.5" text-anchor="middle">agent-sq..</text>
-  <text x="155.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">grand_uni..</text>
+  <text x="155.0" y="1698.8072510390557" fill="#8b949e" font-size="6.5" text-anchor="middle">species.p..</text>
   
-  <title>[agent-squiggly] TODO: grand_unifier.py in C:\\Viper\\scripts. Its job: One todo li (mined/mined_be908c9a.py:2)</title></g>
+  <title>[agent-squiggly] BUG: species.py scan conveyor` -- the boolean for this species mu (mined/mined_03e36ed1_232853.py:2)</title></g>
   <text x="24" y="1778" class="meta">● TODO ● FIXME ● HACK ● BUG   |   ● OCCUPIED = agent selected a contract (green, last 7d)   |   full list: data/siphoned_todos.json</text></svg>
