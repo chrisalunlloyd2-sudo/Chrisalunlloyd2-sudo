@@ -53,7 +53,7 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
 | `MatrixCE_GUI` | `openrouter_manager` | API/Web |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
@@ -88,10 +88,10 @@
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan agent_book` -- the boolean for this species  *(mined/mined_81bf9082_113218.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan block_promoter` -- the boolean for this spec *(mined/mined_df56918d_142322.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_report` -- the boolean for this species *(mined/mined_9440edeb_232550.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py module. *(mined/mined_9440edeb_232550.py:21)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py module's self-test must still pass and the boolea *(mined/mined_9440edeb_232550.py:22)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b611889d_223338.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan hive_daemon` -- the boolean for this species *(mined/mined_84c50471_083118.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan hive_daemon` -- the boolean for this species *(mined/mined_84c50471.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan aegis_gist` -- the boolean for this species  *(mined/mined_a9d8f919.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan lexicon_compiler` -- the boolean for this sp *(mined/mined_6d89187c_084750.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan hero_curriculum` -- the boolean for this spe *(mined/mined_9c43543d_094012.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species module and the curriculum module. *(mined/mined_9c43543d_094012.py:18)*

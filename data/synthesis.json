@@ -346,8 +346,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -568,8 +568,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -598,6 +598,16 @@
       "repo": "agent-squiggly",
       "task": "species.py scan agent_book` -- the boolean for this species ",
       "location": "mined/mined_81bf9082_113218.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan block_promoter` -- the boolean for this spec",
+      "location": "mined/mined_df56918d_142322.py:2",
       "domains": [
         "General"
       ]
@@ -636,6 +646,36 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan lexicon_compiler` -- the boolean for this sp",
+      "location": "mined/mined_6d89187c_084750.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "location": "mined/mined_9c43543d_094012.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species module and the curriculum module.",
+      "location": "mined/mined_9c43543d_094012.py:18",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
       "location": "mined/mined_b611889d_223338.py:2",
       "domains": [
@@ -648,6 +688,26 @@
       "repo": "agent-squiggly",
       "task": "species.py scan hive_daemon` -- the boolean for this species",
       "location": "mined/mined_84c50471_083118.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan aegis_survey` -- the boolean for this specie",
+      "location": "mined/mined_a99ba3c2_080804.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_b0a51eef_073028.py:2",
       "domains": [
         "General"
       ]
@@ -708,66 +768,6 @@
       "repo": "agent-squiggly",
       "task": "species.py scan conveyor` -- the boolean for this species mu",
       "location": "mined/mined_03e36ed1_135407.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species module to classify bugs and species.",
-      "location": "mined/mined_03e36ed1_135407.py:14",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species module to classify bugs and species.",
-      "location": "mined/mined_03e36ed1_135407.py:19",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "location": "mined/mined_9c43543d_021714.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species module and the curriculum module.",
-      "location": "mined/mined_9c43543d_021714.py:18",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan graduation` -- the boolean for this species ",
-      "location": "mined/mined_ce206c0b_154948.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "",
-      "location": "mined/mined_ce206c0b_154948.py:17",
       "domains": [
         "General"
       ]
