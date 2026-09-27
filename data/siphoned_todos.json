@@ -851,6 +851,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_65a09fae_031127.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_65a09fae_031127.py:22"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan gap_finder` -- the boolean for this species ",
       "file": "mined/mined_bea7d6dd_070135.py:2"
     },
@@ -981,6 +991,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_71047535_031141.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
       "file": "mined/mined_6d41c711.py:2"
     },
@@ -1051,6 +1066,11 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_f19e4ec2_084419.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
       "file": "mined/mined_a83dc6df_124008.py:2"
     },
@@ -1091,6 +1111,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan block_repair` -- the boolean for this specie",
+      "file": "mined/mined_2e11c1ea_030915.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
       "file": "mined/mined_01b0fd35_123954.py:2"
     },
@@ -1098,6 +1123,11 @@
       "tag": "TODO",
       "text": "",
       "file": "mined/mined_77ad3a9c_215127.py:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_ca683322_110433.py:2"
     },
     {
       "tag": "BUG",
@@ -1170,6 +1200,16 @@
       "file": "mined/mined_9c43543d.py:18"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_e5081b8d_031159.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py module. The boolean for this species must",
+      "file": "mined/mined_e5081b8d_031159.py:19"
+    },
+    {
       "tag": "TODO",
       "text": "implement the generation of tasks based on the current state",
       "file": "mined/mined_b51bbade_145806.py:37"
@@ -1213,6 +1253,16 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_b05ca0df.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_02fc6923_032758.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` to ensure that the boolean for this species is F",
+      "file": "mined/mined_02fc6923_032758.py:22"
     },
     {
       "tag": "BUG",
@@ -1438,56 +1488,6 @@
       "tag": "BUG",
       "text": "species.py scan gap_finder` -- the boolean for this species ",
       "file": "mined/mined_79076cfd_120335.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan clock_cycle` -- the boolean for this species",
-      "file": "mined/mined_162a7711_123941.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan clock_cycle` -- the boolean for this species",
-      "file": "mined/mined_162a7711_123941.py:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_beefdba0_160831.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_a07c3be4_160952.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py -- ONE QUEUE, assembled from every source t",
-      "file": "mined/mined_a07c3be4_160952.py:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "list assembled from blackboard, ledgers, hive, and this",
-      "file": "mined/mined_a07c3be4_160952.py:14"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the function",
-      "file": "mined/mined_d5e057e5.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_9c59526b_233251.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan clock_cycle` -- the boolean for this species",
-      "file": "mined/mined_fcd969eb_074147.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_a83dc6df_043959.py:2"
     }
   ],
   "Alice": [
@@ -2808,11 +2808,6 @@
       "tag": "BUG",
       "text": "class). Ghosts get journaled, hashed, and fed back",
       "file": "docs/GHOST_IN_THE_MACHINE.md:25"
-    },
-    {
-      "tag": "BUG",
-      "text": "caught by gate: boundary-hit probability inversion made E1_N",
-      "file": "docs/WONDERLAND_DATASCIENCE_ROADMAP.md:57"
     }
   ],
   "curator_system": [
@@ -3864,23 +3859,6 @@
       "tag": "BUG",
       "text": "fix/feature is a hypothesis based on observed data flow anom",
       "file": "SINGULARITY_ROADMAP.md:15"
-    }
-  ],
-  "Hermes": [
-    {
-      "tag": "TODO",
-      "text": "real Amazon",
-      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:44"
-    },
-    {
-      "tag": "TODO",
-      "text": "real Amazon affiliate link\"; placeholder:true auto-set.",
-      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "scan** \u2014 count open TODO/FIXME per repo \u2192 blackboard",
-      "file": "rules/KERNEL-FLEET-REPLICATE.md:80"
     }
   ],
   "home": [
@@ -13038,6 +13016,16 @@
       "file": "seed_lessons_foundry.py:21"
     },
     {
+      "tag": "TODO",
+      "text": "actual correlation from code_lineage",
+      "file": "hessian_pack.py:130"
+    },
+    {
+      "tag": "TODO",
+      "text": "query KG for coupled_nodes",
+      "file": "hessian_pack.py:231"
+    },
+    {
       "tag": "BUG",
       "text": "once made a cleanup script kill itself).",
       "file": "aegis_resume.py:118"
@@ -13051,6 +13039,11 @@
       "tag": "TODO",
       "text": "crawl as tc",
       "file": "test_todo_crawl.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "species. bug_species judges code that PARSES. These",
+      "file": "anti_fuzz.py:8"
     },
     {
       "tag": "TODO",
@@ -13095,12 +13088,12 @@
     {
       "tag": "BUG",
       "text": "wearing a feature's clothes. `up` and",
-      "file": "supervisor.py:119"
+      "file": "supervisor.py:120"
     },
     {
       "tag": "BUG",
       "text": "than the one it",
-      "file": "supervisor.py:757"
+      "file": "supervisor.py:817"
     },
     {
       "tag": "BUG",
@@ -13640,127 +13633,127 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:203"
+      "file": "hive_daemon.py:202"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:208"
+      "file": "hive_daemon.py:207"
     },
     {
       "tag": "TODO",
       "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
-      "file": "hive_daemon.py:214"
+      "file": "hive_daemon.py:213"
     },
     {
       "tag": "TODO",
       "text": "driver._selftest now asserts all three terms against this nu",
-      "file": "hive_daemon.py:225"
+      "file": "hive_daemon.py:224"
     },
     {
       "tag": "TODO",
       "text": "driver\":    720.0,",
-      "file": "hive_daemon.py:226"
+      "file": "hive_daemon.py:225"
     },
     {
       "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:352"
+      "file": "hive_daemon.py:351"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:722"
+      "file": "hive_daemon.py:721"
     },
     {
       "tag": "TODO",
       "text": "items (unbuilt) never signal.",
-      "file": "hive_daemon.py:876"
+      "file": "hive_daemon.py:875"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1122"
+      "file": "hive_daemon.py:1134"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1123"
+      "file": "hive_daemon.py:1135"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1124"
+      "file": "hive_daemon.py:1136"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1127"
+      "file": "hive_daemon.py:1139"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      300, 2),",
-      "file": "hive_daemon.py:1128"
-    },
-    {
-      "tag": "TODO",
-      "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
       "file": "hive_daemon.py:1140"
     },
     {
       "tag": "TODO",
+      "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
+      "file": "hive_daemon.py:1152"
+    },
+    {
+      "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1151"
+      "file": "hive_daemon.py:1163"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1325"
+      "file": "hive_daemon.py:1337"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1809"
+      "file": "hive_daemon.py:1821"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:2042"
+      "file": "hive_daemon.py:2054"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2200"
+      "file": "hive_daemon.py:2212"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2327"
+      "file": "hive_daemon.py:2339"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2371"
+      "file": "hive_daemon.py:2383"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2501"
+      "file": "hive_daemon.py:2513"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2510"
+      "file": "hive_daemon.py:2522"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3035"
+      "file": "hive_daemon.py:3047"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3105"
+      "file": "hive_daemon.py:3117"
     },
     {
       "tag": "BUG",
@@ -13976,21 +13969,6 @@
       "tag": "BUG",
       "text": "\"):",
       "file": "bug_species.py:1040"
-    },
-    {
-      "tag": "BUG",
-      "text": "species: the %s boolean for \"",
-      "file": "bug_species.py:1059"
-    },
-    {
-      "tag": "BUG",
-      "text": "contracts",
-      "file": "bug_species.py:1075"
-    },
-    {
-      "tag": "BUG",
-      "text": "coverage_curated",
-      "file": "bug_species.py:1116"
     }
   ],
   "viper-state": [
@@ -14134,57 +14112,57 @@
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2453"
+      "file": "src/gguf_kernel.py:2465"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2457"
+      "file": "src/gguf_kernel.py:2469"
     },
     {
       "tag": "BUG",
       "text": "in rope_frequencies.",
-      "file": "src/gguf_kernel.py:2530"
+      "file": "src/gguf_kernel.py:2542"
     },
     {
       "tag": "BUG",
       "text": "CAN FAKE: a rotation is norm-preserving.",
-      "file": "src/gguf_kernel.py:2546"
+      "file": "src/gguf_kernel.py:2558"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would show up",
-      "file": "src/gguf_kernel.py:2561"
+      "file": "src/gguf_kernel.py:2573"
     },
     {
       "tag": "BUG",
       "text": "that",
-      "file": "src/gguf_kernel.py:2723"
+      "file": "src/gguf_kernel.py:2735"
     },
     {
       "tag": "BUG",
       "text": "ALREADY FOUND ONCE. Profiled",
-      "file": "src/gguf_kernel.py:2944"
+      "file": "src/gguf_kernel.py:2956"
     },
     {
       "tag": "BUG",
       "text": "(a per-call weight copy) reintroduced\" % step_s)",
-      "file": "src/gguf_kernel.py:2969"
+      "file": "src/gguf_kernel.py:2981"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "src/gguf_kernel.py:3169"
+      "file": "src/gguf_kernel.py:3181"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would",
-      "file": "src/gguf_kernel.py:3254"
+      "file": "src/gguf_kernel.py:3266"
     },
     {
       "tag": "BUG",
       "text": "found by running",
-      "file": "src/gguf_kernel.py:3611"
+      "file": "src/gguf_kernel.py:3623"
     },
     {
       "tag": "BUG",
