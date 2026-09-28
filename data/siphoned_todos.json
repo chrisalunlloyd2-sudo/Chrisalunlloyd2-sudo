@@ -556,6 +556,21 @@
     },
     {
       "tag": "BUG",
+      "text": "any",
+      "file": "mined/mined_65f8e296_050421.py:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_survey` -- the boolean for this specie",
+      "file": "mined/mined_48d3e1c1_201437.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement your code here",
+      "file": "mined/mined_48d3e1c1_201437.py:35"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan agent_book` -- the boolean for this species ",
       "file": "mined/mined_81bf9082_113218.py:2"
     },
@@ -596,6 +611,26 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan gap_finder` -- the boolean for this species ",
+      "file": "mined/mined_bea7d6dd_115153.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "where the",
+      "file": "mined/mined_bea7d6dd_115153.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "species and schema. I've fixed it and I believe my",
+      "file": "mined/mined_bea7d6dd_115153.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "species and",
+      "file": "mined/mined_bea7d6dd_115153.py:21"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_b611889d_223338.py:2"
     },
@@ -603,6 +638,16 @@
       "tag": "TODO",
       "text": "Add error handling for failed requests, and a feature for fe",
       "file": "mined/mined_6c914247_010929.py:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_2061c662_120033.py:24"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
+      "file": "mined/mined_8d8e4ec8_201204.py:2"
     },
     {
       "tag": "BUG",
@@ -633,6 +678,11 @@
       "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
       "file": "mined/mined_a9d8f919.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_eb474e6f_113722.py:2"
     },
     {
       "tag": "BUG",
@@ -711,8 +761,18 @@
     },
     {
       "tag": "TODO",
+      "text": "Add code to create the note",
+      "file": "mined/mined_bd812198_225928.py:33"
+    },
+    {
+      "tag": "TODO",
       "text": "Add the implementation of the smoke test.",
       "file": "mined/mined_c951b82c_212408.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_2151ef71_132636.py:2"
     },
     {
       "tag": "BUG",
@@ -723,6 +783,11 @@
       "tag": "BUG",
       "text": "species module and the curriculum module.",
       "file": "mined/mined_9c43543d_021714.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_678b1c96_113930.py:2"
     },
     {
       "tag": "BUG",
@@ -756,6 +821,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan code_lineage` -- the boolean for this specie",
+      "file": "mined/mined_01b0fd35_111018.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
       "file": "mined/mined_ce206c0b_154948.py:2"
     },
@@ -771,8 +841,23 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_71047535_125654.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan email_command` -- the boolean for this speci",
       "file": "mined/mined_a4ffd108_230326.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_a403218c_113838.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "SPECIES and SCHEMA module, and it must pass the self-test.",
+      "file": "mined/mined_a403218c_113838.py:18"
     },
     {
       "tag": "BUG",
@@ -851,6 +936,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_c6fffc01_180907.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan email_todo` -- the boolean for this species ",
       "file": "mined/mined_65a09fae_031127.py:2"
     },
@@ -878,6 +968,26 @@
       "tag": "BUG",
       "text": "species and",
       "file": "mined/mined_bea7d6dd_070135.py:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_41fe95fb_235655.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_c981cbb1_175927.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan cell_tools` -- the boolean for this species ",
+      "file": "mined/mined_e704a03c_093711.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan cell_tools` -- the boolean for this species ",
+      "file": "mined/mined_e704a03c_093711.py:14"
     },
     {
       "tag": "TODO",
@@ -941,6 +1051,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan email_command` -- the boolean for this speci",
+      "file": "mined/mined_4fb22b6f_044536.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan epmo_cadence` -- the boolean for this specie",
       "file": "mined/mined_c076e29b_071756.py:2"
     },
@@ -953,6 +1068,11 @@
       "tag": "BUG",
       "text": "species.py scan epmo_cadence` -- the boolean for this specie",
       "file": "mined/mined_c076e29b_071756.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_f19e4ec2_113331.py:2"
     },
     {
       "tag": "BUG",
@@ -985,6 +1105,36 @@
       "file": "mined/mined_b05ca0df_071502.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan auto_pusher` -- the boolean for this species",
+      "file": "mined/mined_9df1f9a5_125549.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_0fa66ea1_085040.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "list operations, including fetching and processing todo data",
+      "file": "mined/mined_0fa66ea1_085040.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "list(self): Retrieves a list of all todo items from the data",
+      "file": "mined/mined_0fa66ea1_085040.py:19"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure it's organized and organized.",
+      "file": "mined/mined_0fa66ea1_085040.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.",
+      "file": "mined/mined_0fa66ea1_085040.py:21"
+    },
+    {
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_f5d23441_083037.py:33"
@@ -996,6 +1146,11 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_f19e4ec2_230944.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
       "file": "mined/mined_6d41c711.py:2"
     },
@@ -1003,6 +1158,16 @@
       "tag": "BUG",
       "text": "species.py scan aegis_survey` -- the boolean for this specie",
       "file": "mined/mined_a99ba3c2_131759.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_81bf9082_125646.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "file": "mined/mined_c1002c5a_175911.py:2"
     },
     {
       "tag": "BUG",
@@ -1071,8 +1236,53 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan code_lineage` -- the boolean for this specie",
+      "file": "mined/mined_7898d7f0_213013.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan code_lineage`",
+      "file": "mined/mined_7898d7f0_213013.py:23"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
       "file": "mined/mined_a83dc6df_124008.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hive_daemon` -- the boolean for this species",
+      "file": "mined/mined_d4477b34_211418.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "report from the hive. The daemon",
+      "file": "mined/mined_d4477b34_211418.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "report and store it persistently.",
+      "file": "mined/mined_d4477b34_211418.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species in bug_species.py should pass.\"",
+      "file": "mined/mined_d4477b34_211418.py:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "report and store it persistently, and will continue",
+      "file": "mined/mined_d4477b34_211418.py:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "species in",
+      "file": "mined/mined_d4477b34_211418.py:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py will also pass.\"",
+      "file": "mined/mined_d4477b34_211418.py:24"
     },
     {
       "tag": "BUG",
@@ -1096,6 +1306,21 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_62323a41_231253.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the agent's handling of agent and book information.",
+      "file": "mined/mined_62323a41_231253.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book`",
+      "file": "mined/mined_62323a41_231253.py:23"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
       "file": "mined/mined_033fd495_210959.py:2"
     },
@@ -1111,6 +1336,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_be05cbc0_093258.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan block_repair` -- the boolean for this specie",
       "file": "mined/mined_2e11c1ea_030915.py:2"
     },
@@ -1121,8 +1351,28 @@
     },
     {
       "tag": "TODO",
+      "text": "Implement the actual update process",
+      "file": "mined/mined_09113f2d_211945.py:58"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement the actual",
+      "file": "mined/mined_09113f2d_211945.py:65"
+    },
+    {
+      "tag": "TODO",
       "text": "",
       "file": "mined/mined_77ad3a9c_215127.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_7be9d777_131429.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_81bf9082_093751.py:2"
     },
     {
       "tag": "BUG",
@@ -1133,6 +1383,16 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_cb25b931_043700.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_b611889d_125351.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_231d7da1_000913.py:2"
     },
     {
       "tag": "BUG",
@@ -1156,6 +1416,11 @@
     },
     {
       "tag": "BUG",
+      "text": "that would have caught the last bug",
+      "file": "mined/mined_1c038099_035934.py:11"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
       "file": "mined/mined_71047535_142440.py:2"
     },
@@ -1173,6 +1438,16 @@
       "tag": "BUG",
       "text": "species.py scan hero_curriculum` -- the boolean for this spe",
       "file": "mined/mined_be05cbc0.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan gap_finder` -- the boolean for this species ",
+      "file": "mined/mined_132dd18a_000847.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "REPORT.",
+      "file": "mined/mined_132dd18a_000847.py:12"
     },
     {
       "tag": "BUG",
@@ -1213,281 +1488,6 @@
       "tag": "TODO",
       "text": "implement the generation of tasks based on the current state",
       "file": "mined/mined_b51bbade_145806.py:37"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the route tasks to the appropriate location",
-      "file": "mined/mined_b51bbade_145806.py:44"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the put tasks on the board",
-      "file": "mined/mined_b51bbade_145806.py:51"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "file": "mined/mined_18687658_130308.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now I'm detecting a pattern in your",
-      "file": "mined/mined_18687658_130308.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "file": "mined/mined_2f44dd09_150558.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "file": "mined/mined_8d8e4ec8.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add code to create the note",
-      "file": "mined/mined_bd812198_010658.py:33"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_b05ca0df.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_032758.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_032758.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "file": "mined/mined_e5081b8d.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py module. The boolean for this species must",
-      "file": "mined/mined_e5081b8d.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_7dc3e89c_124017.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_7dc3e89c_124017.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_2e0cdc79_010220.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_a9d8f919_070122.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_report` -- the boolean for this species",
-      "file": "mined/mined_5610afff_013150.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py module for its functionality.",
-      "file": "mined/mined_5610afff_013150.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan block_repair` -- the boolean for this specie",
-      "file": "mined/mined_5a68a69d.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan clock_cycle` -- the boolean for this species",
-      "file": "mined/mined_fcd969eb.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hive_daemon` -- the boolean for this species",
-      "file": "mined/mined_78a28b73.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_123932.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_123932.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the never_twice ledger, so a fixed bug has something stan",
-      "file": "mined/mined_af3e1549.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the",
-      "file": "mined/mined_af3e1549.py:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "has something standing guard over it.",
-      "file": "mined/mined_af3e1549.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "is not yet known fixed. Each test encodes the",
-      "file": "mined/mined_af3e1549.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_71fb089e.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "mined/mined_71fb089e.py:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_22d42ee7.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_beefdba0_134254.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "that would have caught the last bug",
-      "file": "mined/mined_1c038099_091553.py:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_ce206c0b_102803.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "mined/mined_ce206c0b_102803.py:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` module, but nothing seems to be causing the",
-      "file": "mined/mined_ce206c0b_102803.py:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_c6fffc01.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_8997219d_133947.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_report` -- the boolean for this species",
-      "file": "mined/mined_4370e286_135306.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the cell's response is an error w",
-      "file": "mined/mined_4370e286_135306.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_232853.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:19"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add your actual implementation here",
-      "file": "mined/mined_cc22f550.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the real check",
-      "file": "mined/mined_2d2d5dff_171144.py:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the real check",
-      "file": "mined/mined_2d2d5dff_171144.py:28"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the real check",
-      "file": "mined/mined_2d2d5dff_171144.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement the real check",
-      "file": "mined/mined_2d2d5dff_171144.py:48"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hourly_notice` -- the boolean for this speci",
-      "file": "mined/mined_f6c44e9d_100958.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_7898d7f0_232844.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage`",
-      "file": "mined/mined_7898d7f0_232844.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_b0a51eef_115616.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan gap_finder` -- the boolean for this species ",
-      "file": "mined/mined_79076cfd_120335.py:2"
     }
   ],
   "Alice": [
@@ -10563,12 +10563,12 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:85"
+      "file": "AGENTS.md:86"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:89"
+      "file": "AGENTS.md:90"
     },
     {
       "tag": "BUG",
@@ -14257,7 +14257,7 @@
     {
       "tag": "BUG",
       "text": "lived here first: the fixture put \"term_a\"/\"term_b\" in",
-      "file": "src/allele.py:238"
+      "file": "src/allele.py:239"
     },
     {
       "tag": "BUG",
