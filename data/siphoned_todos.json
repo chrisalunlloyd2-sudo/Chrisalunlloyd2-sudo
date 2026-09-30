@@ -1494,7 +1494,7 @@
     {
       "tag": "BUG",
       "text": "Cube**: Red cube deployed to test Three.js rendering.",
-      "file": "CHANGELOG.md:36"
+      "file": "CHANGELOG.md:44"
     }
   ],
   "alice-companion": [
@@ -3859,6 +3859,18 @@
       "tag": "BUG",
       "text": "fix/feature is a hypothesis based on observed data flow anom",
       "file": "SINGULARITY_ROADMAP.md:15"
+    }
+  ],
+  "Hermes": [
+    {
+      "tag": "TODO",
+      "text": "real Amazon",
+      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:44"
+    },
+    {
+      "tag": "TODO",
+      "text": "real Amazon affiliate link\"; placeholder:true auto-set.",
+      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:83"
     }
   ],
   "home": [
@@ -10493,12 +10505,12 @@
     {
       "tag": "TODO",
       "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
-      "file": "e2e.sh:44"
+      "file": "e2e.sh:46"
     },
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:82"
+      "file": "e2e.sh:84"
     },
     {
       "tag": "BUG",
@@ -10696,6 +10708,21 @@
       "file": "CONTRIBUTOR_LADDER.md:17"
     },
     {
+      "tag": "BUG",
+      "text": "(FontRenderer",
+      "file": "kanban_reviews/REPLY-TO-CARD-Q1-Q2.md:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "for good: hermes cron's step-8 launched `javaw`",
+      "file": "kanban_reviews/REPLY-TO-CARD-Q1-Q2.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "as cec6087, but in the hermes-side copy that still had it).",
+      "file": "kanban_reviews/REPLY-TO-CARD-Q1-Q2.md:54"
+    },
+    {
       "tag": "TODO",
       "text": "crystal render paths,",
       "file": "kanban_reviews/CARD-Q2.md:3"
@@ -10739,6 +10766,11 @@
       "tag": "BUG",
       "text": "report with the smoke pass beats ten likes.",
       "file": "docs/CONCEPT_POST.md:45"
+    },
+    {
+      "tag": "TODO",
+      "text": "management/todo_files/mindpalace/quorum_inbox/; Files.write ",
+      "file": "docs/step-log.md:1"
     },
     {
       "tag": "BUG",
@@ -13032,11 +13064,6 @@
     },
     {
       "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "heartbeat_harvester.py:192"
-    },
-    {
-      "tag": "TODO",
       "text": "crawl as tc",
       "file": "test_todo_crawl.py:14"
     },
@@ -13124,11 +13151,6 @@
       "tag": "TODO",
       "text": "= todo[:int(limit)]",
       "file": "nmct_gist_each.py:280"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "mem_governor.py:288"
     },
     {
       "tag": "BUG",
@@ -13638,127 +13660,127 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:202"
+      "file": "hive_daemon.py:203"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:207"
+      "file": "hive_daemon.py:208"
     },
     {
       "tag": "TODO",
       "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
-      "file": "hive_daemon.py:213"
+      "file": "hive_daemon.py:214"
     },
     {
       "tag": "TODO",
       "text": "driver._selftest now asserts all three terms against this nu",
-      "file": "hive_daemon.py:224"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver\":    720.0,",
       "file": "hive_daemon.py:225"
     },
     {
       "tag": "TODO",
+      "text": "driver\":    720.0,",
+      "file": "hive_daemon.py:226"
+    },
+    {
+      "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:351"
+      "file": "hive_daemon.py:352"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:781"
+      "file": "hive_daemon.py:809"
     },
     {
       "tag": "TODO",
       "text": "items (unbuilt) never signal.",
-      "file": "hive_daemon.py:935"
+      "file": "hive_daemon.py:969"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1195"
+      "file": "hive_daemon.py:1229"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1196"
+      "file": "hive_daemon.py:1230"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1197"
+      "file": "hive_daemon.py:1231"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1200"
+      "file": "hive_daemon.py:1234"
     },
     {
       "tag": "TODO",
       "text": "driver\":    (\"todo_driver\",     \"once\",      300, 2),",
-      "file": "hive_daemon.py:1201"
+      "file": "hive_daemon.py:1235"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1213"
+      "file": "hive_daemon.py:1247"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1224"
+      "file": "hive_daemon.py:1258"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1398"
+      "file": "hive_daemon.py:1432"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1882"
+      "file": "hive_daemon.py:1916"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:2115"
+      "file": "hive_daemon.py:2149"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2273"
+      "file": "hive_daemon.py:2307"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2440"
+      "file": "hive_daemon.py:2474"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2485"
+      "file": "hive_daemon.py:2519"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2615"
+      "file": "hive_daemon.py:2649"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2624"
+      "file": "hive_daemon.py:2658"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3149"
+      "file": "hive_daemon.py:3183"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3219"
+      "file": "hive_daemon.py:3253"
     },
     {
       "tag": "BUG",
@@ -13969,6 +13991,16 @@
       "tag": "BUG",
       "text": "is gone is the board lying in the",
       "file": "bug_species.py:1009"
+    },
+    {
+      "tag": "BUG",
+      "text": "\"):",
+      "file": "bug_species.py:1040"
+    },
+    {
+      "tag": "BUG",
+      "text": "species: the %s boolean for \"",
+      "file": "bug_species.py:1059"
     }
   ],
   "viper-state": [
@@ -14097,72 +14129,72 @@
     {
       "tag": "BUG",
       "text": "here would pass any test that only checks the first",
-      "file": "src/gguf_kernel.py:330"
+      "file": "src/gguf_kernel.py:486"
     },
     {
       "tag": "BUG",
       "text": "found by running the test below sampled",
-      "file": "src/gguf_kernel.py:1794"
+      "file": "src/gguf_kernel.py:2061"
     },
     {
       "tag": "BUG",
       "text": "found",
-      "file": "src/gguf_kernel.py:2020"
+      "file": "src/gguf_kernel.py:2287"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2465"
+      "file": "src/gguf_kernel.py:2744"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2469"
+      "file": "src/gguf_kernel.py:2748"
     },
     {
       "tag": "BUG",
       "text": "in rope_frequencies.",
-      "file": "src/gguf_kernel.py:2542"
+      "file": "src/gguf_kernel.py:2876"
     },
     {
       "tag": "BUG",
       "text": "CAN FAKE: a rotation is norm-preserving.",
-      "file": "src/gguf_kernel.py:2558"
+      "file": "src/gguf_kernel.py:2892"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would show up",
-      "file": "src/gguf_kernel.py:2573"
+      "file": "src/gguf_kernel.py:2907"
     },
     {
       "tag": "BUG",
       "text": "that",
-      "file": "src/gguf_kernel.py:2735"
+      "file": "src/gguf_kernel.py:3069"
     },
     {
       "tag": "BUG",
       "text": "ALREADY FOUND ONCE. Profiled",
-      "file": "src/gguf_kernel.py:2956"
+      "file": "src/gguf_kernel.py:3290"
     },
     {
       "tag": "BUG",
       "text": "(a per-call weight copy) reintroduced\" % step_s)",
-      "file": "src/gguf_kernel.py:2981"
+      "file": "src/gguf_kernel.py:3315"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "src/gguf_kernel.py:3181"
+      "file": "src/gguf_kernel.py:3515"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would",
-      "file": "src/gguf_kernel.py:3266"
+      "file": "src/gguf_kernel.py:3600"
     },
     {
       "tag": "BUG",
       "text": "found by running",
-      "file": "src/gguf_kernel.py:3623"
+      "file": "src/gguf_kernel.py:3957"
     },
     {
       "tag": "BUG",
