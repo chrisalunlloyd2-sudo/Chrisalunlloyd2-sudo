@@ -1495,6 +1495,46 @@
       "tag": "BUG",
       "text": "Cube**: Red cube deployed to test Three.js rendering.",
       "file": "CHANGELOG.md:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "before it fired |",
+      "file": "NECTAR.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "book 140 open / 686 open-line / 637 awaiting gist / 50 solve",
+      "file": "notes/weekly_stats_W40.md:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "85 new-weakest |",
+      "file": "notes/weekly_stats_W40.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "85 watch stands | 83135 arrived 20:12:59 MDT (header 19:12:5",
+      "file": "notes/weekly_stats_W40.md:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "85, ollama_guard 92 | book 140/647 gist/50 | gpu fence HOLDI",
+      "file": "notes/weekly_stats_W40.md:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "lane converting placeholders, none minable Write-py; 3 artif",
+      "file": "notes/weekly_stats_W40.md:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "85 + cell_forge 85 NEW (watch); 71-107 ran; RAM 3123MB low-b",
+      "file": "notes/weekly_stats_W40.md:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "book gist (647 awaiting preference, 140 open)",
+      "file": "notes/decision_desk_2026-10-01.md:17"
     }
   ],
   "alice-companion": [
@@ -2796,6 +2836,33 @@
       "tag": "TODO",
       "text": "mirror\",\"file\":\"TASKS.md:1\"}]",
       "file": "scripts/generate_hex_grid.py:157"
+    }
+  ],
+  "Claude": [
+    {
+      "tag": "TODO",
+      "text": "+ reminder escalation. No LLM, no quota.",
+      "file": "life/life.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "{t['id']}\", t[\"text\"])]",
+      "file": "life/life.py:59"
+    },
+    {
+      "tag": "TODO",
+      "text": "(via life.py).",
+      "file": "life/stock.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "= any(t.get(\"key\") == key and not t[\"done\"] for t in todos)",
+      "file": "life/stock.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/stock.py:24"
     }
   ],
   "code_rpg_engine": [
@@ -10568,6 +10635,11 @@
       "file": "BUILD_PLAN.md:9"
     },
     {
+      "tag": "BUG",
+      "text": "class as the",
+      "file": "build-installer.sh:21"
+    },
+    {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` at once \u2014 see that",
       "file": "AGENTS.md:27"
@@ -10646,6 +10718,11 @@
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
       "file": "README.md:604"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "build-warm-installer.sh:19"
     },
     {
       "tag": "TODO",
@@ -10753,9 +10830,19 @@
       "file": ".github/ISSUE_TEMPLATE/bug_report.md:2"
     },
     {
+      "tag": "BUG",
+      "text": "class cbb33ad): the shade plugin REPLACES",
+      "file": "scripts/cascade_dev.sh:54"
+    },
+    {
       "tag": "TODO",
       "text": "crystals\", \"08_hall_lookback\", \"09_agents\",",
       "file": "scripts/test_bot.py:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "class cbb33ad).",
+      "file": "scripts/test_bot.py:149"
     },
     {
       "tag": "BUG",
@@ -13075,17 +13162,17 @@
     {
       "tag": "TODO",
       "text": "WHERE status='pending'\").fetchone()[0]",
-      "file": "aegis_survey.py:130"
+      "file": "aegis_survey.py:139"
     },
     {
       "tag": "TODO",
       "text": "WHERE status='quarantined'\").fetchone()[0]",
-      "file": "aegis_survey.py:131"
+      "file": "aegis_survey.py:140"
     },
     {
       "tag": "TODO",
       "text": "WHERE status='pending'",
-      "file": "aegis_survey.py:132"
+      "file": "aegis_survey.py:141"
     },
     {
       "tag": "TODO",
@@ -13095,17 +13182,17 @@
     {
       "tag": "TODO",
       "text": "= [(p, t) for p, t in corpus if have.get(p) != _sig(t)]",
-      "file": "rag_chain.py:149"
+      "file": "rag_chain.py:151"
     },
     {
       "tag": "TODO",
       "text": "= todo[:limit]",
-      "file": "rag_chain.py:153"
+      "file": "rag_chain.py:155"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "rag_chain.py:155"
+      "file": "rag_chain.py:157"
     },
     {
       "tag": "TODO",
@@ -13535,7 +13622,7 @@
     {
       "tag": "BUG",
       "text": "a test that is",
-      "file": "night_cycle.py:851"
+      "file": "night_cycle.py:855"
     },
     {
       "tag": "BUG",
@@ -13615,7 +13702,7 @@
     {
       "tag": "FIXME",
       "text": "left in code\",               lambda s: re.search(r\"#\\s*(TODO",
-      "file": "evolution_bridge.py:192"
+      "file": "evolution_bridge.py:194"
     },
     {
       "tag": "TODO",
@@ -13660,127 +13747,127 @@
     {
       "tag": "TODO",
       "text": "driver genuinely needs all of it (it talks to GitHub).",
-      "file": "hive_daemon.py:203"
+      "file": "hive_daemon.py:209"
     },
     {
       "tag": "TODO",
       "text": "driver four times, twice taking the whole",
-      "file": "hive_daemon.py:208"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
       "file": "hive_daemon.py:214"
     },
     {
       "tag": "TODO",
+      "text": "driver: self-bounds at TICK_BUDGET_S (240s), checked before ",
+      "file": "hive_daemon.py:220"
+    },
+    {
+      "tag": "TODO",
       "text": "driver._selftest now asserts all three terms against this nu",
-      "file": "hive_daemon.py:225"
+      "file": "hive_daemon.py:231"
     },
     {
       "tag": "TODO",
       "text": "driver\":    720.0,",
-      "file": "hive_daemon.py:226"
+      "file": "hive_daemon.py:232"
     },
     {
       "tag": "TODO",
       "text": "driver, sitter restarts, todo_driver runs first thing, hangs",
-      "file": "hive_daemon.py:352"
+      "file": "hive_daemon.py:399"
     },
     {
       "tag": "BUG",
       "text": "it exists to prevent.",
-      "file": "hive_daemon.py:809"
+      "file": "hive_daemon.py:863"
     },
     {
       "tag": "TODO",
       "text": "items (unbuilt) never signal.",
-      "file": "hive_daemon.py:969"
+      "file": "hive_daemon.py:1033"
     },
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1229"
+      "file": "hive_daemon.py:1300"
     },
     {
       "tag": "TODO",
       "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
-      "file": "hive_daemon.py:1230"
+      "file": "hive_daemon.py:1301"
     },
     {
       "tag": "TODO",
       "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
-      "file": "hive_daemon.py:1231"
+      "file": "hive_daemon.py:1302"
     },
     {
       "tag": "TODO",
       "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1234"
+      "file": "hive_daemon.py:1305"
     },
     {
       "tag": "TODO",
-      "text": "driver\":    (\"todo_driver\",     \"once\",      300, 2),",
-      "file": "hive_daemon.py:1235"
+      "text": "driver\":    (\"cell_async\",      \"a_todo_driver\", 300, 2),   ",
+      "file": "hive_daemon.py:1306"
     },
     {
       "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1247"
+      "file": "hive_daemon.py:1318"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1258"
+      "file": "hive_daemon.py:1329"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1432"
+      "file": "hive_daemon.py:1503"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1916"
+      "file": "hive_daemon.py:1987"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:2149"
+      "file": "hive_daemon.py:2220"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2307"
+      "file": "hive_daemon.py:2378"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2474"
+      "file": "hive_daemon.py:2545"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2519"
+      "file": "hive_daemon.py:2590"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2649"
+      "file": "hive_daemon.py:2720"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2658"
+      "file": "hive_daemon.py:2729"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3183"
+      "file": "hive_daemon.py:3254"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3253"
+      "file": "hive_daemon.py:3324"
     },
     {
       "tag": "BUG",
