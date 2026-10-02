@@ -1502,6 +1502,16 @@
       "file": "NECTAR.md:27"
     },
     {
+      "tag": "BUG",
+      "text": "noted); verdict held for 07:05 recheck task; candidate class",
+      "file": "notes/breaches_2026-10-01.md:24"
+    },
+    {
+      "tag": "BUG",
+      "text": "not engaged). THREE-PROBE CONCORDANCE: 1196 tasklist = 1196 ",
+      "file": "notes/breaches_2026-10-01.md:26"
+    },
+    {
       "tag": "TODO",
       "text": "book 140 open / 686 open-line / 637 awaiting gist / 50 solve",
       "file": "notes/weekly_stats_W40.md:5"
@@ -1533,8 +1543,58 @@
     },
     {
       "tag": "TODO",
+      "text": "85 + cell_forge 85 watches|RAM FLOOR BREACH #5 SUSTAINED 3rd",
+      "file": "notes/weekly_stats_W40.md:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "85, cell_forge 85 (watch), mic max-wait spike 1540-to-4659s ",
+      "file": "notes/weekly_stats_W40.md:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl 70 / todo_driver 80 / cell_forge 85; book 140 open / 6",
+      "file": "notes/weekly_stats_W40.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "filed); free RAM 2738MB = 334MB under floor JUDGE=BREACH so ",
+      "file": "notes/weekly_stats_W40.md:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "'waiting on you' gate) |",
+      "file": "notes/desk_gist_draft_D3.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "digest says 657 items need a gist; the book states your pref",
+      "file": "notes/desk_gist_draft_D3.md:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "book.md, rolled weekly, diffable via git). No new permission",
+      "file": "notes/desk_gist_draft_D3.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "gist / D4 dup-digest / D5 nectar / D6 micro-drought / D7 des",
+      "file": "notes/awaits.md:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "83164 caught:",
+      "file": "notes/mail_probe.js:5"
+    },
+    {
+      "tag": "TODO",
       "text": "book gist (647 awaiting preference, 140 open)",
       "file": "notes/decision_desk_2026-10-01.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl/todo_driver/cell_forge first night sightings.",
+      "file": "notes/decision_desk_2026-10-01.md:38"
     }
   ],
   "alice-companion": [
@@ -2316,6 +2376,121 @@
     },
     {
       "tag": "BUG",
+      "text": "/api/bind/attach referenced b.frame_path instead of b.hook.f",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:227"
+    },
+    {
+      "tag": "TODO",
+      "text": "| ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:249"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught by gates + fixed (documented); driver f8ef520b upgrad",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:254"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master after P136 push | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:264"
+    },
+    {
+      "tag": "BUG",
+      "text": "G11 fixed pre-seal (engine byte-untouched); proof 06_PROOF/p",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master after P137 seal | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:267"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at 407e40d | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:269"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:271"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master at a1d178f | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:273"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master f88ddf9 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:279"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master e72d6ab | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:283"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 9777b80 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:287"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 81eab71 | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:289"
+    },
+    {
+      "tag": "TODO",
+      "text": "verified free on origin/master 940d06b | ADD-only |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:291"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED: status route called users() dict-call -> 500, fixed t",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:316"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED at root class: rotor feedback observed via to_key() CO",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:318"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED: tau_dot divisor was window span not pair-midpoint spa",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:334"
+    },
+    {
+      "tag": "BUG",
+      "text": "FIXED: post_task checked task_id_already_used BEFORE the con",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:351"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught live by q6/q7/q8 on first run), sha256 never-compile-",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:360"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught live by q6/q7/q8, sha256 never-compile-same-graph-twi",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:361"
+    },
+    {
+      "tag": "TODO",
+      "text": "on origin 9b1e34f) | ADD-only | kernel-sandbox |",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:377"
+    },
+    {
+      "tag": "TODO",
+      "text": "14, bad_row 8}; sha256(ledger) never-audit-same-ledger-twice",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:385"
+    },
+    {
+      "tag": "TODO",
+      "text": "backfill todos ADD-ONLY never-overwrite; ledger append ADD-O",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:395"
+    },
+    {
+      "tag": "BUG",
       "text": "silent empty reads faked telemetry (1/13 baseline was an art",
       "file": "07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
     },
@@ -2841,6 +3016,16 @@
   "Claude": [
     {
       "tag": "TODO",
+      "text": "tracks one of three value dimensions:",
+      "file": "PROJECT-UNIFIED-LIFE-UI.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "integration",
+      "file": "PROJECT-UNIFIED-LIFE-UI.md:46"
+    },
+    {
+      "tag": "TODO",
       "text": "+ reminder escalation. No LLM, no quota.",
       "file": "life/life.py:2"
     },
@@ -2863,6 +3048,11 @@
       "tag": "TODO",
       "text": "",
       "file": "life/stock.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "per day (emails Chris).",
+      "file": "life/airq.py:4"
     }
   ],
   "code_rpg_engine": [
@@ -3932,12 +4122,12 @@
     {
       "tag": "TODO",
       "text": "real Amazon",
-      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:44"
+      "file": "blackboard-mirror/tasks/done/archive/011-portfolio-content-pass.md:44"
     },
     {
       "tag": "TODO",
       "text": "real Amazon affiliate link\"; placeholder:true auto-set.",
-      "file": "blackboard-mirror/tasks/done/011-portfolio-content-pass.md:83"
+      "file": "blackboard-mirror/tasks/done/archive/011-portfolio-content-pass.md:83"
     }
   ],
   "home": [
@@ -10647,12 +10837,12 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:86"
+      "file": "AGENTS.md:94"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:90"
+      "file": "AGENTS.md:98"
     },
     {
       "tag": "BUG",
@@ -10857,7 +11047,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/quorum_inbox/; Files.write ",
-      "file": "docs/step-log.md:1"
+      "file": "docs/step-log.md:2"
     },
     {
       "tag": "BUG",
@@ -13787,87 +13977,87 @@
     {
       "tag": "TODO",
       "text": "POPULATE=1).",
-      "file": "hive_daemon.py:1300"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
       "file": "hive_daemon.py:1301"
     },
     {
       "tag": "TODO",
-      "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
+      "text": "crawl\":     (\"todo_crawl\",      \"tick\",     3600, 3),",
       "file": "hive_daemon.py:1302"
     },
     {
       "tag": "TODO",
-      "text": "per tick, yields to chat, bounded lifetime.",
-      "file": "hive_daemon.py:1305"
+      "text": "DRIVER: crawl real open todos \u2192 AEGIS drafts code \u2192 exec_san",
+      "file": "hive_daemon.py:1303"
     },
     {
       "tag": "TODO",
-      "text": "driver\":    (\"cell_async\",      \"a_todo_driver\", 300, 2),   ",
+      "text": "per tick, yields to chat, bounded lifetime.",
       "file": "hive_daemon.py:1306"
     },
     {
       "tag": "TODO",
+      "text": "driver\":    (\"cell_async\",      \"a_todo_driver\", 300, 2),   ",
+      "file": "hive_daemon.py:1307"
+    },
+    {
+      "tag": "TODO",
       "text": "CANDIDATES. Hourly: mail does not arrive fast enough to just",
-      "file": "hive_daemon.py:1318"
+      "file": "hive_daemon.py:1319"
     },
     {
       "tag": "TODO",
       "text": "above is 3600s because it only surfaces",
-      "file": "hive_daemon.py:1329"
+      "file": "hive_daemon.py:1330"
     },
     {
       "tag": "BUG",
       "text": "finds by ACTUALLY DRIVING REAL TESTS\". Every other reviewer",
-      "file": "hive_daemon.py:1503"
+      "file": "hive_daemon.py:1504"
     },
     {
       "tag": "BUG",
       "text": "in a different coat.",
-      "file": "hive_daemon.py:1987"
+      "file": "hive_daemon.py:1988"
     },
     {
       "tag": "BUG",
       "text": "six months later, which is the whole argument",
-      "file": "hive_daemon.py:2220"
+      "file": "hive_daemon.py:2221"
     },
     {
       "tag": "TODO",
       "text": "driver STUCK: 308s with no return (budget 90s, hard 300s)",
-      "file": "hive_daemon.py:2378"
+      "file": "hive_daemon.py:2379"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "hive_daemon.py:2545"
+      "file": "hive_daemon.py:2546"
     },
     {
       "tag": "TODO",
       "text": "driver, nyx_feeder, toc_seeder and the rest sat",
-      "file": "hive_daemon.py:2590"
+      "file": "hive_daemon.py:2591"
     },
     {
       "tag": "TODO",
       "text": "driver ran at 04:21, the hive",
-      "file": "hive_daemon.py:2720"
+      "file": "hive_daemon.py:2721"
     },
     {
       "tag": "BUG",
       "text": "a true",
-      "file": "hive_daemon.py:2729"
+      "file": "hive_daemon.py:2730"
     },
     {
       "tag": "BUG",
       "text": "than any it covers.",
-      "file": "hive_daemon.py:3254"
+      "file": "hive_daemon.py:3255"
     },
     {
       "tag": "BUG",
       "text": "looks like from the",
-      "file": "hive_daemon.py:3324"
+      "file": "hive_daemon.py:3325"
     },
     {
       "tag": "BUG",
