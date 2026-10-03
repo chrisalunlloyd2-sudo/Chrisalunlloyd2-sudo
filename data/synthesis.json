@@ -346,8 +346,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {

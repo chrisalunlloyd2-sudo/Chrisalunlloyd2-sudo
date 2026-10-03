@@ -77,7 +77,7 @@
 <title>MatrixCE_GUI</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1214,-212.67C1214,-212.67 1056,-212.67 1056,-212.67 1050,-212.67 1044,-206.67 1044,-200.67 1044,-200.67 1044,-186.67 1044,-186.67 1044,-180.67 1050,-174.67 1056,-174.67 1056,-174.67 1214,-174.67 1214,-174.67 1220,-174.67 1226,-180.67 1226,-186.67 1226,-186.67 1226,-200.67 1226,-200.67 1226,-206.67 1220,-212.67 1214,-212.67"/>
 <text text-anchor="middle" x="1135" y="-197.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MatrixCE_GUI</text>
-<text text-anchor="middle" x="1135" y="-182.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, API/Web]</text>
+<text text-anchor="middle" x="1135" y="-182.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Agent/BDI]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MatrixCE_GUI -->
 <g id="edge5" class="edge">
@@ -91,7 +91,7 @@
 <title>MATRIX_GEN8_HOME</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1490,-441.67C1490,-441.67 1332,-441.67 1332,-441.67 1326,-441.67 1320,-435.67 1320,-429.67 1320,-429.67 1320,-415.67 1320,-415.67 1320,-409.67 1326,-403.67 1332,-403.67 1332,-403.67 1490,-403.67 1490,-403.67 1496,-403.67 1502,-409.67 1502,-415.67 1502,-415.67 1502,-429.67 1502,-429.67 1502,-435.67 1496,-441.67 1490,-441.67"/>
 <text text-anchor="middle" x="1411" y="-426.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MATRIX_GEN8_HOME</text>
-<text text-anchor="middle" x="1411" y="-411.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Agent/BDI, API/Web]</text>
+<text text-anchor="middle" x="1411" y="-411.47" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Agent/BDI]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MATRIX_GEN8_HOME -->
 <g id="edge6" class="edge">
@@ -448,7 +448,7 @@
 <title>MatrixCE_GUI&#45;&gt;MATRIX_GEN8_HOME</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1158.89,-212.8C1208.45,-254.22 1325.65,-352.17 1380.6,-398.09"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1379.05,-400.45 1386.98,-403.43 1382.64,-396.15 1379.05,-400.45"/>
-<text text-anchor="middle" x="1273" y="-332.47" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
+<text text-anchor="middle" x="1273" y="-332.47" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
 </g>
 <!-- openrouter_manager -->
 <g id="node12" class="node">
