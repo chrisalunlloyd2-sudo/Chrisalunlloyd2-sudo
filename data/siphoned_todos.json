@@ -1562,6 +1562,16 @@
       "file": "notes/weekly_stats_W40.md:67"
     },
     {
+      "tag": "BUG",
+      "text": "not store bug; fix-from-v3 queued 07:00 day-lane; files comm",
+      "file": "notes/weekly_stats_W40.md:172"
+    },
+    {
+      "tag": "BUG",
+      "text": "found: KB/1MB double-divide, real free approx 6.4GB floor he",
+      "file": "notes/weekly_stats_W40.md:186"
+    },
+    {
       "tag": "TODO",
       "text": "'waiting on you' gate) |",
       "file": "notes/desk_gist_draft_D3.md:1"
@@ -1595,6 +1605,11 @@
       "tag": "TODO",
       "text": "crawl/todo_driver/cell_forge first night sightings.",
       "file": "notes/decision_desk_2026-10-01.md:38"
+    },
+    {
+      "tag": "BUG",
+      "text": "(require() vs String()); error WITHOUT the value = transport",
+      "file": "notes/tool_armor_index.md:17"
     }
   ],
   "alice-companion": [
@@ -3016,13 +3031,13 @@
   "Claude": [
     {
       "tag": "TODO",
-      "text": "tracks one of three value dimensions:",
-      "file": "PROJECT-UNIFIED-LIFE-UI.md:7"
+      "text": "income_cents, time_hours, learning tags (list, multi: tailsc",
+      "file": "PROJECT-UNIFIED-LIFE-UI.md:27"
     },
     {
       "tag": "TODO",
-      "text": "integration",
-      "file": "PROJECT-UNIFIED-LIFE-UI.md:46"
+      "text": "via",
+      "file": "parked-tasks/042-life-leads-scraper.md:33"
     },
     {
       "tag": "TODO",
@@ -3033,6 +3048,16 @@
       "tag": "TODO",
       "text": "{t['id']}\", t[\"text\"])]",
       "file": "life/life.py:59"
+    },
+    {
+      "tag": "TODO",
+      "text": "{t['id']})\")",
+      "file": "life/life.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id behind it",
+      "file": "life/task.py:53"
     },
     {
       "tag": "TODO",
@@ -3051,8 +3076,48 @@
     },
     {
       "tag": "TODO",
+      "text": "row: $X | Yh | tags.\"\"\"",
+      "file": "life/dash.py:65"
+    },
+    {
+      "tag": "TODO",
       "text": "per day (emails Chris).",
       "file": "life/airq.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "row: $X | Yh | tags (task-values.json).\"\"\"",
+      "file": "life/web.py:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "added\"",
+      "file": "life/sections/reminders.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "{tid}\"",
+      "file": "life/sections/taskvalues.py:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "{tid} value saved\"",
+      "file": "life/sections/taskvalues.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "with_values_then_mark_done(self):",
+      "file": "life/tests/test_dash.py:163"
+    },
+    {
+      "tag": "TODO",
+      "text": "ids 1..2, same hour for due parse)",
+      "file": "life/tests/_golden.py:22"
+    },
+    {
+      "tag": "HACK",
+      "text": "",
+      "file": "life/tests/test_task.py:50"
     }
   ],
   "code_rpg_engine": [
@@ -4177,8 +4242,8 @@
     },
     {
       "tag": "BUG",
-      "text": "print grep pre-push hook",
-      "file": ".TODO_V2.md:34"
+      "text": "print grep pre-push hook (githooks/pre-push)",
+      "file": ".TODO_V2.md:35"
     },
     {
       "tag": "TODO",
@@ -4249,6 +4314,11 @@
       "tag": "BUG",
       "text": "",
       "file": ".ISSUE_TRACKER_V2.md:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "scraper)",
+      "file": "GEMINI.md:17"
     },
     {
       "tag": "TODO",
@@ -5159,11 +5229,6 @@
       "tag": "TODO",
       "text": "list will be used to track and implement API updates and imp",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3530"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3621"
     }
   ],
   "karoo_gp": [
@@ -10882,32 +10947,32 @@
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:228"
+      "file": "README.md:229"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:236"
+      "file": "README.md:237"
     },
     {
       "tag": "BUG",
       "text": "overlay (includes frustum-culled count) |",
-      "file": "README.md:320"
+      "file": "README.md:321"
     },
     {
       "tag": "BUG",
       "text": "overlay. It shows FPS, room and hall counts,",
-      "file": "README.md:533"
+      "file": "README.md:534"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:582"
+      "file": "README.md:583"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:604"
+      "file": "README.md:605"
     },
     {
       "tag": "BUG",
