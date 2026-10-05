@@ -4578,6 +4578,16 @@
       "file": ".ISSUE_TRACKER_V2.md:53"
     },
     {
+      "tag": "BUG",
+      "text": "",
+      "file": "README.md:133"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "README.md:150"
+    },
+    {
       "tag": "TODO",
       "text": "scraper)",
       "file": "GEMINI.md:17"
@@ -5471,16 +5481,6 @@
       "tag": "TODO",
       "text": "list will be used to track and implement API updates and imp",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3428"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3485"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3489"
     }
   ],
   "karoo_gp": [
@@ -14723,72 +14723,72 @@
     {
       "tag": "BUG",
       "text": "here would pass any test that only checks the first",
-      "file": "src/gguf_kernel.py:486"
+      "file": "src/gguf_kernel.py:509"
     },
     {
       "tag": "BUG",
       "text": "found by running the test below sampled",
-      "file": "src/gguf_kernel.py:2061"
+      "file": "src/gguf_kernel.py:2132"
     },
     {
       "tag": "BUG",
       "text": "found",
-      "file": "src/gguf_kernel.py:2287"
+      "file": "src/gguf_kernel.py:2358"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2743"
+      "file": "src/gguf_kernel.py:2815"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2747"
+      "file": "src/gguf_kernel.py:2819"
     },
     {
       "tag": "BUG",
       "text": "in rope_frequencies.",
-      "file": "src/gguf_kernel.py:2875"
+      "file": "src/gguf_kernel.py:2947"
     },
     {
       "tag": "BUG",
       "text": "CAN FAKE: a rotation is norm-preserving.",
-      "file": "src/gguf_kernel.py:2891"
+      "file": "src/gguf_kernel.py:2963"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would show up",
-      "file": "src/gguf_kernel.py:2906"
+      "file": "src/gguf_kernel.py:2978"
     },
     {
       "tag": "BUG",
       "text": "that",
-      "file": "src/gguf_kernel.py:3068"
+      "file": "src/gguf_kernel.py:3140"
     },
     {
       "tag": "BUG",
       "text": "ALREADY FOUND ONCE. Profiled",
-      "file": "src/gguf_kernel.py:3289"
+      "file": "src/gguf_kernel.py:3361"
     },
     {
       "tag": "BUG",
       "text": "(a per-call weight copy) reintroduced\" % step_s)",
-      "file": "src/gguf_kernel.py:3314"
+      "file": "src/gguf_kernel.py:3386"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "src/gguf_kernel.py:3514"
+      "file": "src/gguf_kernel.py:3586"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would",
-      "file": "src/gguf_kernel.py:3599"
+      "file": "src/gguf_kernel.py:3671"
     },
     {
       "tag": "BUG",
       "text": "found by running",
-      "file": "src/gguf_kernel.py:3956"
+      "file": "src/gguf_kernel.py:4028"
     },
     {
       "tag": "BUG",
