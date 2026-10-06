@@ -4578,16 +4578,6 @@
       "file": ".ISSUE_TRACKER_V2.md:53"
     },
     {
-      "tag": "BUG",
-      "text": "",
-      "file": "README.md:133"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "README.md:150"
-    },
-    {
       "tag": "TODO",
       "text": "scraper)",
       "file": "GEMINI.md:17"
@@ -4606,6 +4596,21 @@
       "tag": "TODO",
       "text": "crawler.py\"),",
       "file": "fetch_gists.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "keystore if missing",
+      "file": "workspace/MatrixWinCE_XP/build_flawless_apk.py:98"
+    },
+    {
+      "tag": "BUG",
+      "text": "keystore if missing",
+      "file": "workspace/MatrixWinCE_XP/build_apk.sh:174"
+    },
+    {
+      "tag": "BUG",
+      "text": "keystore...\"",
+      "file": "workspace/MatrixWinCE_XP/build_apk.sh:176"
     },
     {
       "tag": "TODO",
@@ -5476,11 +5481,6 @@
       "tag": "TODO",
       "text": "list will be used to track and implement system state manage",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3427"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3428"
     }
   ],
   "karoo_gp": [
@@ -11339,12 +11339,12 @@
     {
       "tag": "TODO",
       "text": "management\" / \"todo_files\" / \"mindpalace\",",
-      "file": "scripts/card_hygiene.py:147"
+      "file": "scripts/card_hygiene.py:151"
     },
     {
       "tag": "TODO",
       "text": "management\" / \"reports\",",
-      "file": "scripts/card_hygiene.py:152"
+      "file": "scripts/card_hygiene.py:156"
     },
     {
       "tag": "BUG",
