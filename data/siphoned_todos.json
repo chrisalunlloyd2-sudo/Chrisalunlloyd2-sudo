@@ -3249,7 +3249,7 @@
     {
       "tag": "TODO",
       "text": "with_values_then_mark_done(self):",
-      "file": "life/tests/test_dash.py:164"
+      "file": "life/tests/test_dash.py:169"
     },
     {
       "tag": "TODO",
@@ -4438,6 +4438,91 @@
   "Hermes": [
     {
       "tag": "TODO",
+      "text": "id (optional link). `cal.py add/edit/rm/show`.",
+      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "value badge ($ | h) when linked to a todo.",
+      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "form listing open todos (id, text, $, h); pick one + a start",
+      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "linked length, alert once-only, ICS import idempotency and",
+      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "flow via curl with",
+      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:60"
+    },
+    {
+      "tag": "TODO",
+      "text": "id in ~/.life/task-values.json",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "\"Painting - 5 hours (retroactive)\", route chris, ctx work, m",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "with that text exists).",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "5's due date to 2026-10-04T21:00-06:00 if it has none.",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "join via life.load()) + pending-value totals for open todos.",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "5 rewired to \"Prep bathroom for next paint job\", due 2026-10",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "id 9 \"Painting - 5 hours (retroactive)\", ctx work,",
+      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:63"
+    },
+    {
+      "tag": "TODO",
+      "text": "...\" -> life.py add; \"spent 45 groceries\" -> money.py spend;",
+      "file": "blackboard-mirror/tasks/done/043-life-notes-inbox.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "/ spent N cat [note] / got paid N source / slept 8+ / had a ",
+      "file": "blackboard-mirror/tasks/done/043-life-notes-inbox.md:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "text.",
+      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "with optional due/ctx/income/time/learn; mark done), Today (",
+      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "text containing shell metacharacters is stored verbatim and ",
+      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:46"
+    },
+    {
+      "tag": "TODO",
       "text": "real Amazon",
       "file": "blackboard-mirror/tasks/done/archive/011-portfolio-content-pass.md:44"
     },
@@ -4579,6 +4664,11 @@
     },
     {
       "tag": "TODO",
+      "text": "sync** | `.aria/engine/tailscale_todo_sync.py` | Sync | Tail",
+      "file": "README.md:85"
+    },
+    {
+      "tag": "TODO",
       "text": "scraper)",
       "file": "GEMINI.md:17"
     },
@@ -4596,6 +4686,11 @@
       "tag": "TODO",
       "text": "crawler.py\"),",
       "file": "fetch_gists.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "message\", key=\"value\")",
+      "file": "kai_logging.py:112"
     },
     {
       "tag": "BUG",
@@ -5471,16 +5566,6 @@
       "tag": "TODO",
       "text": "list will be used to track and implement user interface upda",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3425"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3426"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3427"
     }
   ],
   "karoo_gp": [
@@ -11128,7 +11213,7 @@
     },
     {
       "tag": "TODO",
-      "text": "crystals; agents see repo issues in-world",
+      "text": "crystals come from the lexical bridge scanning code, not fro",
       "file": "NEXT_100_STEPS.md:66"
     },
     {
@@ -11209,22 +11294,22 @@
     {
       "tag": "BUG",
       "text": "overlay (includes frustum-culled count) |",
-      "file": "README.md:321"
+      "file": "README.md:328"
     },
     {
       "tag": "BUG",
       "text": "overlay. It shows FPS, room and hall counts,",
-      "file": "README.md:534"
+      "file": "README.md:553"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:583"
+      "file": "README.md:602"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:605"
+      "file": "README.md:624"
     },
     {
       "tag": "BUG",
@@ -11292,6 +11377,11 @@
       "file": "CONTRIBUTOR_LADDER.md:17"
     },
     {
+      "tag": "TODO",
+      "text": "crystal|renderCrystals\"],",
+      "file": "tools/doc_reconcile.py:20"
+    },
+    {
       "tag": "BUG",
       "text": "(FontRenderer",
       "file": "kanban_reviews/REPLY-TO-CARD-Q1-Q2.md:15"
@@ -11325,6 +11415,21 @@
       "tag": "TODO",
       "text": "files/mindpalace/quorum_inbox/` subfolder, or append to `BAC",
       "file": "kanban_reviews/CARD-Q1.md:301"
+    },
+    {
+      "tag": "TODO",
+      "text": "issues |",
+      "file": "reports/doc_reconcile.md:7"
+    },
+    {
+      "tag": "BUG",
+      "text": "(evidence-first checklist), feature (module+budget gates), d",
+      "file": "reports/doc_reconcile.md:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "overlay (includes frustum-culled count); help: F8: Debug | s",
+      "file": "reports/instruction_inventory.md:20"
     },
     {
       "tag": "BUG",
