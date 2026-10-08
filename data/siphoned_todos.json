@@ -3184,7 +3184,7 @@
     {
       "tag": "TODO",
       "text": "row: $X | Yh | tags.\"\"\"",
-      "file": "life/dash.py:78"
+      "file": "life/dash.py:79"
     },
     {
       "tag": "TODO",
@@ -3234,7 +3234,7 @@
     {
       "tag": "TODO",
       "text": "added\"",
-      "file": "life/sections/reminders.py:67"
+      "file": "life/sections/reminders.py:176"
     },
     {
       "tag": "TODO",
@@ -3249,7 +3249,17 @@
     {
       "tag": "TODO",
       "text": "with_values_then_mark_done(self):",
-      "file": "life/tests/test_dash.py:169"
+      "file": "life/tests/test_dash.py:198"
+    },
+    {
+      "tag": "TODO",
+      "text": "+ task-value join, filters, escaping. Temp LIFE_HOME only.\"\"",
+      "file": "life/tests/test_reminders.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "excluded",
+      "file": "life/tests/test_reminders.py:66"
     },
     {
       "tag": "TODO",
@@ -11469,7 +11479,7 @@
     {
       "tag": "BUG",
       "text": "if >0)\")",
-      "file": "scripts/feedback_digest.py:84"
+      "file": "scripts/feedback_digest.py:90"
     },
     {
       "tag": "BUG",
