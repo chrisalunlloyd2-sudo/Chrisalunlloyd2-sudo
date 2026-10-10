@@ -11294,32 +11294,32 @@
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:229"
+      "file": "README.md:230"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:237"
+      "file": "README.md:238"
     },
     {
       "tag": "BUG",
       "text": "overlay (includes frustum-culled count) |",
-      "file": "README.md:328"
+      "file": "README.md:329"
     },
     {
       "tag": "BUG",
       "text": "overlay. It shows FPS, room and hall counts,",
-      "file": "README.md:553"
+      "file": "README.md:554"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:602"
+      "file": "README.md:603"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:624"
+      "file": "README.md:625"
     },
     {
       "tag": "BUG",
@@ -12610,39 +12610,89 @@
       "file": "MEASUREMENTS.md:74"
     },
     {
+      "tag": "BUG",
+      "text": "in the model's code: `.get()` was called on every value of t",
+      "file": "MEASUREMENTS.md:80"
+    },
+    {
+      "tag": "BUG",
+      "text": "in both branches. Recorded as a failure, never installed |",
+      "file": "MEASUREMENTS.md:86"
+    },
+    {
+      "tag": "BUG",
+      "text": "species (guards the comprehension condition with `isinstance",
+      "file": "MEASUREMENTS.md:87"
+    },
+    {
+      "tag": "BUG",
+      "text": "species is. Wired in as a real consumer: the sweep asks the ",
+      "file": "MEASUREMENTS.md:90"
+    },
+    {
       "tag": "TODO",
       "text": "crawl.py\", \"no new contract has reached the board for a day;",
-      "file": "scripts/prometheus_board.py:43"
+      "file": "scripts/prometheus_board.py:45"
     },
     {
       "tag": "TODO",
       "text": "= TARGETS[cls]",
-      "file": "scripts/prometheus_board.py:62"
+      "file": "scripts/prometheus_board.py:64"
     },
     {
       "tag": "TODO",
       "text": "id, text, source=\"x\", repo=None, **kw):",
-      "file": "scripts/prometheus_board.py:138"
-    },
-    {
-      "tag": "TODO",
-      "text": "id in self.d:",
-      "file": "scripts/prometheus_board.py:139"
-    },
-    {
-      "tag": "TODO",
-      "text": "id}",
       "file": "scripts/prometheus_board.py:140"
     },
     {
       "tag": "TODO",
-      "text": "id] = {\"text\": text, \"source\": source}",
+      "text": "id in self.d:",
       "file": "scripts/prometheus_board.py:141"
     },
     {
       "tag": "TODO",
       "text": "id}",
       "file": "scripts/prometheus_board.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = {\"text\": text, \"source\": source}",
+      "file": "scripts/prometheus_board.py:143"
+    },
+    {
+      "tag": "TODO",
+      "text": "id}",
+      "file": "scripts/prometheus_board.py:144"
+    },
+    {
+      "tag": "BUG",
+      "text": "SPECIES: a comprehension / generator whose `if` calls `.get(",
+      "file": "scripts/spec_fix.py:115"
+    },
+    {
+      "tag": "BUG",
+      "text": "= \"def f(data):\" + chr(10) + \"    return sum(1 for item in d",
+      "file": "scripts/spec_fix.py:194"
+    },
+    {
+      "tag": "BUG",
+      "text": "= {}",
+      "file": "scripts/spec_fix.py:200"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/spec_fix.py:222"
+    },
+    {
+      "tag": "BUG",
+      "text": "species, repaired by the SYSTEM (and reported), not left to ",
+      "file": "scripts/template_run.py:152"
+    },
+    {
+      "tag": "BUG",
+      "text": "species_in_a_filled_body_is_repaired_by_the_system_and_repor",
+      "file": "scripts/template_run.py:295"
     },
     {
       "tag": "TODO",
