@@ -488,6 +488,23 @@
       "file": "tests/test_repo_driver.py:11"
     }
   ],
+  "agent-laguna": [
+    {
+      "tag": "TODO",
+      "text": "salience ring feeds the RNN; sigmoid output",
+      "file": "rnn_pruner.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "prunes, hot todo survives",
+      "file": "rnn_pruner.py:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "board as deterministic ASCII the small",
+      "file": "ascii_flow.py:4"
+    }
+  ],
   "agent-squiggly": [
     {
       "tag": "TODO",
@@ -1704,6 +1721,13 @@
       "file": "avataralive/07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
     }
   ],
+  "Alice_Kernel_Backup": [
+    {
+      "tag": "TODO",
+      "text": "email/phone marked). DNS to chrislloyd.info after Chris conf",
+      "file": "Chris_Life_Mirror/logs/daily_pulse.md:18"
+    }
+  ],
   "ArchivalMoe": [
     {
       "tag": "BUG",
@@ -1826,6 +1850,11 @@
       "tag": "TODO",
       "text": "sync()",
       "file": "monitor_pilot.py:195"
+    },
+    {
+      "tag": "TODO",
+      "text": ">RUN->REVIEW->SHIP. Work [HOT] items top-down. P=drop = skip",
+      "file": "QWEN.md:9"
     },
     {
       "tag": "TODO",
@@ -3120,6 +3149,13 @@
       "file": "scripts/generate_hex_grid.py:157"
     }
   ],
+  "Chris_Life": [
+    {
+      "tag": "TODO",
+      "text": "email/phone marked). DNS to chrislloyd.info after Chris conf",
+      "file": "logs/daily_pulse.md:18"
+    }
+  ],
   "Claude": [
     {
       "tag": "TODO",
@@ -3145,6 +3181,111 @@
       "tag": "TODO",
       "text": "{t['id']})\")",
       "file": "life/life.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID]",
+      "file": "life/cal.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "id str|None (link to a todo, value badge).",
+      "file": "life/cal.py:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=None):",
+      "file": "life/cal.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = str(todo_id or \"\").strip()",
+      "file": "life/cal.py:199"
+    },
+    {
+      "tag": "TODO",
+      "text": "id) > 80:",
+      "file": "life/cal.py:200"
+    },
+    {
+      "tag": "TODO",
+      "text": "id too long\")",
+      "file": "life/cal.py:201"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id or None}",
+      "file": "life/cal.py:207"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=None):",
+      "file": "life/cal.py:211"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "life/cal.py:213"
+    },
+    {
+      "tag": "TODO",
+      "text": "src = changes[\"todo_id\"] if provided(\"todo_id\") else old.get",
+      "file": "life/cal.py:350"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = str(todo_src or \"\").strip() or None",
+      "file": "life/cal.py:351"
+    },
+    {
+      "tag": "TODO",
+      "text": "id or \"\") > 80:",
+      "file": "life/cal.py:352"
+    },
+    {
+      "tag": "TODO",
+      "text": "id too long\")",
+      "file": "life/cal.py:353"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=todo_id)",
+      "file": "life/cal.py:370"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID]\")",
+      "file": "life/cal.py:878"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=o.get(\"--todo-id\"))",
+      "file": "life/cal.py:885"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID|'']\")",
+      "file": "life/cal.py:895"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", \"todo_id\")):",
+      "file": "life/cal.py:902"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\") and str(v).strip().lower() in (\"none\", \"no\"):",
+      "file": "life/cal.py:905"
+    },
+    {
+      "tag": "TODO",
+      "text": "id: {ev.get('todo_id') or '-'}\")",
+      "file": "life/cal.py:956"
+    },
+    {
+      "tag": "TODO",
+      "text": "{e['todo_id']})\" if e.get(\"todo_id\") else \"\"",
+      "file": "life/cal.py:994"
     },
     {
       "tag": "TODO",
@@ -3184,7 +3325,7 @@
     {
       "tag": "TODO",
       "text": "row: $X | Yh | tags.\"\"\"",
-      "file": "life/dash.py:79"
+      "file": "life/dash.py:80"
     },
     {
       "tag": "TODO",
@@ -3203,33 +3344,78 @@
     },
     {
       "tag": "TODO",
-      "text": "#8a5a00;--c-event:#0a7d6f;--c-stock:#5b4bb7;--c-cron:#777}",
+      "text": "#8a5a00;--c-event:#0a7d6f;--c-stock:#5b4bb7;--c-cron:#777;",
       "file": "life/sections/calendar.py:45"
     },
     {
       "tag": "TODO",
-      "text": "#e0b050;--c-event:#25b09a;--c-stock:#a99cf0;--c-cron:#999}}",
-      "file": "life/sections/calendar.py:46"
+      "text": "#e0b050;--c-event:#25b09a;--c-stock:#a99cf0;--c-cron:#999;",
+      "file": "life/sections/calendar.py:47"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end):",
-      "file": "life/sections/calendar.py:106"
+      "file": "life/sections/calendar.py:111"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), src=\"todo\",",
-      "file": "life/sections/calendar.py:121"
+      "file": "life/sections/calendar.py:126"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end) + stock_items(d_start, d_end)",
-      "file": "life/sections/calendar.py:278"
+      "file": "life/sections/calendar.py:286"
+    },
+    {
+      "tag": "TODO",
+      "text": "options():",
+      "file": "life/sections/calendar.py:467"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, repeat_extra).\"\"\"",
+      "file": "life/sections/calendar.py:504"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\") or \"\"), rd or {})",
+      "file": "life/sections/calendar.py:514"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, repeat_extra=None, eid=None):",
+      "file": "life/sections/calendar.py:517"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", todo_options(), todo_id)",
+      "file": "life/sections/calendar.py:529"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + td + \"</label>\"",
+      "file": "life/sections/calendar.py:545"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
-      "file": "life/sections/calendar.py:528"
+      "file": "life/sections/calendar.py:687"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", \"repeat\", \"category\", \"alerts\"):",
+      "file": "life/sections/calendar.py:705"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\":",
+      "file": "life/sections/calendar.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
+      "file": "life/sections/calendar.py:717"
     },
     {
       "tag": "TODO",
@@ -3380,6 +3566,51 @@
       "tag": "TODO",
       "text": "items(D(\"2020-01-01T00:00\"), D(\"2020-02-01T00:00\"))",
       "file": "life/tests/test_calendar.py:241"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t-9\")",
+      "file": "life/tests/test_calendar2.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"], \"t-9\")",
+      "file": "life/tests/test_calendar2.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"])",
+      "file": "life/tests/test_calendar2.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t\" * 81)",
+      "file": "life/tests/test_calendar2.py:112"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"\")",
+      "file": "life/tests/test_calendar2.py:136"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"])",
+      "file": "life/tests/test_calendar2.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:171"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:190"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:195"
     }
   ],
   "code_rpg_engine": [
@@ -4698,6 +4929,11 @@
       "file": "fetch_gists.py:14"
     },
     {
+      "tag": "TODO",
+      "text": ">RUN->REVIEW->SHIP. Work [HOT] items top-down. P=drop = skip",
+      "file": "QWEN.md:9"
+    },
+    {
       "tag": "BUG",
       "text": "message\", key=\"value\")",
       "file": "kai_logging.py:112"
@@ -5571,11 +5807,6 @@
       "tag": "TODO",
       "text": "List",
       "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3389"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3425"
     }
   ],
   "karoo_gp": [
@@ -11428,6 +11659,16 @@
     },
     {
       "tag": "TODO",
+      "text": "crystals come from the lexical bridge scanning code, not fro",
+      "file": "reports/2026-W41.md:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "density/last-push age \u2192 KG attribute + room glow intensity",
+      "file": "reports/2026-W41.md:27"
+    },
+    {
+      "tag": "TODO",
       "text": "issues |",
       "file": "reports/doc_reconcile.md:7"
     },
@@ -11460,6 +11701,21 @@
       "tag": "TODO",
       "text": "management\" / \"reports\",",
       "file": "scripts/card_hygiene.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "= len(re.findall(r\"^- \\[ \\]\", body, re.M))",
+      "file": "scripts/scout_bot.py:536"
+    },
+    {
+      "tag": "TODO",
+      "text": "management\" / \"task_watch.log\")",
+      "file": "scripts/scout_bot.py:554"
+    },
+    {
+      "tag": "TODO",
+      "text": "in phases) or (",
+      "file": "scripts/scout_bot.py:576"
     },
     {
       "tag": "BUG",
@@ -12665,6 +12921,41 @@
       "file": "scripts/prometheus_board.py:144"
     },
     {
+      "tag": "TODO",
+      "text": "= fix_contracts_to_post()",
+      "file": "scripts/swarm_features.py:403"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:405"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:412"
+    },
+    {
+      "tag": "TODO",
+      "text": "= to_post()",
+      "file": "scripts/swarm_features.py:421"
+    },
+    {
+      "tag": "TODO",
+      "text": "else None}))",
+      "file": "scripts/swarm_features.py:422"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:423"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:430"
+    },
+    {
       "tag": "BUG",
       "text": "SPECIES: a comprehension / generator whose `if` calls `.get(",
       "file": "scripts/spec_fix.py:115"
@@ -13166,13 +13457,8 @@
   "SIMS1337": [
     {
       "tag": "TODO",
-      "text": "markers inside",
-      "file": "BUILD_BLOCKER.md:11"
-    },
-    {
-      "tag": "TODO",
-      "text": "in that file",
-      "file": "BUILD_BLOCKER.md:19"
+      "text": "at (0,0) \"Wire FOW to all 8 models\" \u2192 marked \u2705 done",
+      "file": "CHANGELOG.md:30"
     },
     {
       "tag": "BUG",
