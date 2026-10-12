@@ -1783,11 +1783,6 @@
       "tag": "TODO",
       "text": "7c6cf9e193b9 \u2014 STUB",
       "file": "todo/todo_7c6cf9e193b9_function_chat_start_is_an_empt.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "or missing error handler in {project}. Show the corrected co",
-      "file": "agents/update_agent.py:37"
     }
   ],
   "aria-swarm": [
@@ -2503,122 +2498,122 @@
     {
       "tag": "BUG",
       "text": "fixed at root class |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:159"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:160"
     },
     {
       "tag": "BUG",
       "text": "/api/bind/attach referenced b.frame_path instead of b.hook.f",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:227"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:228"
     },
     {
       "tag": "TODO",
       "text": "| ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:249"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:250"
     },
     {
       "tag": "BUG",
       "text": "caught by gates + fixed (documented); driver f8ef520b upgrad",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:254"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:255"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P136 push | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:264"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:265"
     },
     {
       "tag": "BUG",
       "text": "G11 fixed pre-seal (engine byte-untouched); proof 06_PROOF/p",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:265"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:266"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P137 seal | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:267"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:268"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at 407e40d | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:269"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:270"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:271"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:272"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at a1d178f | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:273"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:274"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master f88ddf9 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:279"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:280"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master e72d6ab | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:283"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:284"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 9777b80 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:287"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:288"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 81eab71 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:289"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:290"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 940d06b | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:291"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:292"
     },
     {
       "tag": "BUG",
       "text": "FIXED: status route called users() dict-call -> 500, fixed t",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:316"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:317"
     },
     {
       "tag": "BUG",
       "text": "FIXED at root class: rotor feedback observed via to_key() CO",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:318"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:319"
     },
     {
       "tag": "BUG",
       "text": "FIXED: tau_dot divisor was window span not pair-midpoint spa",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:334"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:335"
     },
     {
       "tag": "BUG",
       "text": "FIXED: post_task checked task_id_already_used BEFORE the con",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:351"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:352"
     },
     {
       "tag": "BUG",
       "text": "caught live by q6/q7/q8 on first run), sha256 never-compile-",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:360"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:361"
     },
     {
       "tag": "BUG",
       "text": "caught live by q6/q7/q8, sha256 never-compile-same-graph-twi",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:361"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:362"
     },
     {
       "tag": "TODO",
       "text": "on origin 9b1e34f) | ADD-only | kernel-sandbox |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:377"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:378"
     },
     {
       "tag": "TODO",
       "text": "14, bad_row 8}; sha256(ledger) never-audit-same-ledger-twice",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:385"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:386"
     },
     {
       "tag": "TODO",
       "text": "backfill todos ADD-ONLY never-overwrite; ledger append ADD-O",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:395"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:396"
     },
     {
       "tag": "BUG",
@@ -6785,137 +6780,137 @@
     {
       "tag": "TODO",
       "text": "is not authority, so it must NOT take a lattice cell: doing ",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:171"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:178"
     },
     {
       "tag": "TODO",
-      "text": "id, text, source=\"todo_crawl\", repo=None):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:302"
+      "text": "id, text, source=\"todo_crawl\", repo=None, bid=None, run_afte",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:309"
     },
     {
       "tag": "TODO",
       "text": "on the board. Idempotent on todo_id \u2014 re-offering never dupl",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:303"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:310"
     },
     {
       "tag": "TODO",
       "text": "id in d:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:305"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:320"
     },
     {
       "tag": "TODO",
       "text": "id}",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:306"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:321"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:307"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, \"text\": str(text)[:400], \"source\": source, \"repo\": repo,",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:308"
-    },
-    {
-      "tag": "TODO",
-      "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:312"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl, which is now honest about what a task is.\"\"\"",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:317"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl",
       "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:322"
     },
     {
       "tag": "TODO",
-      "text": "crawl.crawl()",
+      "text": "id, \"text\": str(text)[:400], \"source\": source, \"repo\": repo,",
       "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:323"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = rec",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:331"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl, which is now honest about what a task is.\"\"\"",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:336"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:341"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.crawl()",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:342"
     },
     {
       "tag": "BUG",
       "text": "once (two attempts on one contract collided in the pool",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:370"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:423"
     },
     {
       "tag": "TODO",
       "text": "ids=None, only_if=None):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:403"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:456"
     },
     {
       "tag": "TODO",
       "text": "ids is not None and tid not in todo_ids:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:426"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:479"
     },
     {
       "tag": "TODO",
       "text": "id, party, ok=True, evidence=\"\"):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:441"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:494"
     },
     {
       "tag": "TODO",
       "text": "crawl.tick_off already enforces:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:444"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:497"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:451"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:504"
     },
     {
       "tag": "TODO",
       "text": "id, owner=party)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:454"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:507"
     },
     {
       "tag": "TODO",
       "text": "id))))",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:482"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:535"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:493"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:546"
     },
     {
       "tag": "TODO",
       "text": "id, rec in d.items():",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:523"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:576"
     },
     {
       "tag": "TODO",
       "text": "id, type(e).__name__, str(e)[:100]))",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:533"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:586"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:545"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:598"
     },
     {
       "tag": "TODO",
       "text": "id, party, why=\"\"):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:551"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:604"
     },
     {
       "tag": "TODO",
       "text": "id, owner=party)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:553"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:606"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:555"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:608"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:562"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:615"
     },
     {
       "tag": "BUG",
@@ -6991,6 +6986,106 @@
       "tag": "BUG",
       "text": "Initializing GPU bindings\"",
       "file": "tests/e2e_runner.py:452"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture (Aegis mirror).",
+      "file": "Aegis_Agents/fog_of_war.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "Aegis_Agents/fog_of_war.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture",
+      "file": "Aegis_Agents/fog_of_war.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "substrate the BDI bot already uses, ported for the",
+      "file": "Aegis_Agents/fog_of_war.py:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture -----------------------------------------------",
+      "file": "Aegis_Agents/fog_of_war.py:65"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "Aegis_Agents/fog_of_war.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "item with priority + dependency tracking.\"\"\"",
+      "file": "Aegis_Agents/fog_of_war.py:68"
+    },
+    {
+      "tag": "TODO",
+      "text": "board (blackboard) per cell.\"\"\"",
+      "file": "Aegis_Agents/fog_of_war.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "id: str) -> bool:",
+      "file": "Aegis_Agents/fog_of_war.py:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "Aegis_Agents/fog_of_war.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "Aegis_Agents/fog_of_war.py:105"
+    },
+    {
+      "tag": "TODO",
+      "text": "by priority (then id) \u2014 deterministic.\"\"\"",
+      "file": "Aegis_Agents/fog_of_war.py:109"
+    },
+    {
+      "tag": "TODO",
+      "text": "blackboard.\"\"\"",
+      "file": "Aegis_Agents/fog_of_war.py:122"
+    },
+    {
+      "tag": "TODO",
+      "text": "architecture\", priority=2)",
+      "file": "Aegis_Agents/fog_of_war.py:144"
+    },
+    {
+      "tag": "TODO",
+      "text": "drain_order\": order, \"board\": cell.board.stats()}",
+      "file": "Aegis_Agents/fog_of_war.py:155"
+    },
+    {
+      "tag": "BUG",
+      "text": "LOGGING",
+      "file": "Aegis_Agents/gemini_bridge_api.py:884"
+    },
+    {
+      "tag": "TODO",
+      "text": "priority_and_deps():",
+      "file": "Aegis_Agents/test_fog_of_war.py:19"
+    },
+    {
+      "tag": "TODO",
+      "text": "id in todos:",
+      "file": "Aegis_Agents/gemini_bridge_rag.py:166"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "Aegis_Agents/gemini_bridge_rag.py:168"
+    },
+    {
+      "tag": "HACK",
+      "text": "v3.1",
+      "file": "Aegis_Agents/gemini_extension/content.js:1"
     },
     {
       "tag": "BUG",
@@ -13493,12 +13588,12 @@
     {
       "tag": "TODO",
       "text": "",
-      "file": "docs/RUNBOOK.md:53"
+      "file": "docs/RUNBOOK.md:56"
     },
     {
       "tag": "TODO",
       "text": "Auto-Resolve",
-      "file": "docs/RUNBOOK.md:55"
+      "file": "docs/RUNBOOK.md:58"
     },
     {
       "tag": "BUG",
@@ -15499,6 +15594,21 @@
       "file": "docs/DECISIONS.md:1951"
     },
     {
+      "tag": "BUG",
+      "text": "(inference_v2.py)",
+      "file": "docs/v2-history/STATUS.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific step in isolation",
+      "file": "docs/v2-history/PHASE_23_REMOTE_TESTING.md:211"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "docs/v2-history/PHASE_22_COMPLETE.md:83"
+    },
+    {
       "tag": "TODO",
       "text": "list for vipercli -> the unified",
       "file": "termux_bot/autonomous.py:5"
@@ -15507,6 +15617,28 @@
       "tag": "TODO",
       "text": "list ----------",
       "file": "termux_bot/autonomous.py:123"
+    }
+  ],
+  "ViperCli-v2": [
+    {
+      "tag": "BUG",
+      "text": "(inference_v2.py)",
+      "file": "STATUS.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific step in isolation",
+      "file": "PHASE_23_REMOTE_TESTING.md:211"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "PHASE_22_COMPLETE.md:83"
+    },
+    {
+      "tag": "BUG",
+      "text": "trace",
+      "file": "src/panini_generator.py:42"
     }
   ],
   "ViperNote": [
