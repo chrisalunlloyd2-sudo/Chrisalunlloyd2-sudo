@@ -2617,6 +2617,11 @@
     },
     {
       "tag": "BUG",
+      "text": "fixed, G1-G4 PASS. G5 budget BLOCKED: 8ms gate unmeetable on",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:467"
+    },
+    {
+      "tag": "BUG",
       "text": "silent empty reads faked telemetry (1/13 baseline was an art",
       "file": "07_KNOWLEDGE_BASE/RETROSPECTIVE_0.md:17"
     },
@@ -11500,12 +11505,12 @@
     {
       "tag": "TODO",
       "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
-      "file": "e2e.sh:46"
+      "file": "e2e.sh:50"
     },
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:84"
+      "file": "e2e.sh:88"
     },
     {
       "tag": "BUG",
@@ -11846,6 +11851,26 @@
       "tag": "TODO",
       "text": "crystals, 1 drip cadence)",
       "file": "docs/step-log.md:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "(821\u20135674 white samples by bloom intensity), v5 zero at ALL ",
+      "file": "docs/step-log.md:60"
+    },
+    {
+      "tag": "BUG",
+      "text": "sites cured \u2014 orbit_21 white hex (255,255,255) \u2192 teal/mint b",
+      "file": "docs/step-log.md:61"
+    },
+    {
+      "tag": "BUG",
+      "text": "rows; former white hexes read as subdued moonlit mint) \u00b7 sel",
+      "file": "docs/step-log.md:62"
+    },
+    {
+      "tag": "BUG",
+      "text": "class UNPATCHED at the fountain: foam rim tiers written (0.9",
+      "file": "docs/step-log.md:67"
     },
     {
       "tag": "BUG",
