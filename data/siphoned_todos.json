@@ -1771,8 +1771,23 @@
     },
     {
       "tag": "TODO",
+      "text": "44e98ab958c6 \u2014 SYNTAX",
+      "file": "todo/todo_44e98ab958c6_file_does_not_parse_unicode_er.md:1"
+    },
+    {
+      "tag": "TODO",
       "text": "1cbaad1a98c4 \u2014 STUB",
       "file": "todo/todo_1cbaad1a98c4_function_chat_end_is_an_empty_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "c2d66061f406 \u2014 SYNTAX",
+      "file": "todo/todo_c2d66061f406_file_does_not_parse_unicode_er.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "5ef9c4823504 \u2014 SYNTAX",
+      "file": "todo/todo_5ef9c4823504_file_does_not_parse_unicode_er.md:1"
     },
     {
       "tag": "TODO",
@@ -1783,6 +1798,16 @@
       "tag": "TODO",
       "text": "7c6cf9e193b9 \u2014 STUB",
       "file": "todo/todo_7c6cf9e193b9_function_chat_start_is_an_empt.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "af1ffe47512f \u2014 SYNTAX",
+      "file": "todo/todo_af1ffe47512f_file_does_not_parse_unicode_er.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "e50c7d398b84 \u2014 SYNTAX",
+      "file": "todo/todo_e50c7d398b84_file_does_not_parse_unicode_er.md:1"
     }
   ],
   "aria-swarm": [
@@ -3255,37 +3280,37 @@
     {
       "tag": "TODO",
       "text": "id ID]\")",
-      "file": "life/cal.py:878"
+      "file": "life/cal.py:1043"
     },
     {
       "tag": "TODO",
       "text": "id=o.get(\"--todo-id\"))",
-      "file": "life/cal.py:885"
+      "file": "life/cal.py:1050"
     },
     {
       "tag": "TODO",
       "text": "id ID|'']\")",
-      "file": "life/cal.py:895"
+      "file": "life/cal.py:1060"
     },
     {
       "tag": "TODO",
       "text": "id\", \"todo_id\")):",
-      "file": "life/cal.py:902"
+      "file": "life/cal.py:1067"
     },
     {
       "tag": "TODO",
       "text": "id\") and str(v).strip().lower() in (\"none\", \"no\"):",
-      "file": "life/cal.py:905"
+      "file": "life/cal.py:1070"
     },
     {
       "tag": "TODO",
       "text": "id: {ev.get('todo_id') or '-'}\")",
-      "file": "life/cal.py:956"
+      "file": "life/cal.py:1121"
     },
     {
       "tag": "TODO",
       "text": "{e['todo_id']})\" if e.get(\"todo_id\") else \"\"",
-      "file": "life/cal.py:994"
+      "file": "life/cal.py:1159"
     },
     {
       "tag": "TODO",
@@ -3345,77 +3370,177 @@
     {
       "tag": "TODO",
       "text": "#8a5a00;--c-event:#0a7d6f;--c-stock:#5b4bb7;--c-cron:#777;",
-      "file": "life/sections/calendar.py:45"
+      "file": "life/sections/calendar.py:50"
     },
     {
       "tag": "TODO",
       "text": "#e0b050;--c-event:#25b09a;--c-stock:#a99cf0;--c-cron:#999;",
-      "file": "life/sections/calendar.py:47"
+      "file": "life/sections/calendar.py:52"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end):",
-      "file": "life/sections/calendar.py:111"
+      "file": "life/sections/calendar.py:125"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), src=\"todo\",",
-      "file": "life/sections/calendar.py:126"
+      "file": "life/sections/calendar.py:144"
+    },
+    {
+      "tag": "TODO",
+      "text": "badge(todo_id):",
+      "file": "life/sections/calendar.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id; None when unknown.\"\"\"",
+      "file": "life/sections/calendar.py:153"
+    },
+    {
+      "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "id):",
+      "file": "life/sections/calendar.py:158"
+    },
+    {
+      "tag": "TODO",
+      "text": "badge(ev.get(\"todo_id\"))",
+      "file": "life/sections/calendar.py:172"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end) + stock_items(d_start, d_end)",
-      "file": "life/sections/calendar.py:286"
+      "file": "life/sections/calendar.py:321"
+    },
+    {
+      "tag": "TODO",
+      "text": "value badge (task 045 step 4).\"\"\"",
+      "file": "life/sections/calendar.py:621"
     },
     {
       "tag": "TODO",
       "text": "options():",
-      "file": "life/sections/calendar.py:467"
+      "file": "life/sections/calendar.py:714"
     },
     {
       "tag": "TODO",
       "text": "id, repeat_extra).\"\"\"",
-      "file": "life/sections/calendar.py:504"
+      "file": "life/sections/calendar.py:751"
     },
     {
       "tag": "TODO",
       "text": "id\") or \"\"), rd or {})",
-      "file": "life/sections/calendar.py:514"
+      "file": "life/sections/calendar.py:761"
     },
     {
       "tag": "TODO",
       "text": "id, repeat_extra=None, eid=None):",
-      "file": "life/sections/calendar.py:517"
+      "file": "life/sections/calendar.py:764"
     },
     {
       "tag": "TODO",
       "text": "id\", todo_options(), todo_id)",
-      "file": "life/sections/calendar.py:529"
+      "file": "life/sections/calendar.py:776"
     },
     {
       "tag": "TODO",
       "text": "\" + td + \"</label>\"",
-      "file": "life/sections/calendar.py:545"
+      "file": "life/sections/calendar.py:792"
+    },
+    {
+      "tag": "TODO",
+      "text": "pick one + a start -> linked event, length = todo hours (ste",
+      "file": "life/sections/calendar.py:917"
+    },
+    {
+      "tag": "TODO",
+      "text": "options()",
+      "file": "life/sections/calendar.py:918"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
+      "file": "life/sections/calendar.py:923"
+    },
+    {
+      "tag": "TODO",
+      "text": "hours; the event links back to the todo; nothing is marked d",
+      "file": "life/sections/calendar.py:926"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
-      "file": "life/sections/calendar.py:687"
+      "file": "life/sections/calendar.py:1079"
     },
     {
       "tag": "TODO",
       "text": "id\", \"repeat\", \"category\", \"alerts\"):",
-      "file": "life/sections/calendar.py:705"
+      "file": "life/sections/calendar.py:1097"
     },
     {
       "tag": "TODO",
       "text": "id\":",
-      "file": "life/sections/calendar.py:716"
+      "file": "life/sections/calendar.py:1108"
     },
     {
       "tag": "TODO",
       "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
-      "file": "life/sections/calendar.py:717"
+      "file": "life/sections/calendar.py:1109"
+    },
+    {
+      "tag": "TODO",
+      "text": "linked event, length = the todo's hours (step 6).\"\"\"",
+      "file": "life/sections/calendar.py:1220"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = web.clean_text(form, \"todo_id\", 80)",
+      "file": "life/sections/calendar.py:1221"
+    },
+    {
+      "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:1223"
+    },
+    {
+      "tag": "TODO",
+      "text": "first\"",
+      "file": "life/sections/calendar.py:1224"
+    },
+    {
+      "tag": "TODO",
+      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
+      "file": "life/sections/calendar.py:1228"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/sections/calendar.py:1229"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + todo_id",
+      "file": "life/sections/calendar.py:1230"
+    },
+    {
+      "tag": "TODO",
+      "text": "is already done - nothing scheduled\"",
+      "file": "life/sections/calendar.py:1232"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, {})",
+      "file": "life/sections/calendar.py:1236"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=todo_id)",
+      "file": "life/sections/calendar.py:1247"
     },
     {
       "tag": "TODO",
@@ -3570,47 +3695,102 @@
     {
       "tag": "TODO",
       "text": "id=\"t-9\")",
-      "file": "life/tests/test_calendar2.py:61"
+      "file": "life/tests/test_calendar2.py:62"
     },
     {
       "tag": "TODO",
       "text": "id\"], \"t-9\")",
-      "file": "life/tests/test_calendar2.py:65"
+      "file": "life/tests/test_calendar2.py:66"
     },
     {
       "tag": "TODO",
       "text": "id\"])",
-      "file": "life/tests/test_calendar2.py:72"
+      "file": "life/tests/test_calendar2.py:73"
     },
     {
       "tag": "TODO",
       "text": "id=\"t\" * 81)",
-      "file": "life/tests/test_calendar2.py:112"
+      "file": "life/tests/test_calendar2.py:113"
     },
     {
       "tag": "TODO",
       "text": "id=\"\")",
-      "file": "life/tests/test_calendar2.py:136"
+      "file": "life/tests/test_calendar2.py:137"
     },
     {
       "tag": "TODO",
       "text": "id\"])",
-      "file": "life/tests/test_calendar2.py:139"
+      "file": "life/tests/test_calendar2.py:140"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:171"
+      "file": "life/tests/test_calendar2.py:172"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:190"
+      "file": "life/tests/test_calendar2.py:191"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:195"
+      "file": "life/tests/test_calendar2.py:196"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t1\")",
+      "file": "life/tests/test_calendar2.py:355"
+    },
+    {
+      "tag": "TODO",
+      "text": "as a linked event.\"\"\"",
+      "file": "life/tests/test_calendar2.py:458"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"7\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:467"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"], \"7\")",
+      "file": "life/tests/test_calendar2.py:470"
+    },
+    {
+      "tag": "TODO",
+      "text": "and_bad_start(self):",
+      "file": "life/tests/test_calendar2.py:485"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
+      "file": "life/tests/test_calendar2.py:486"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"7\", \"start\": \"\"}))",
+      "file": "life/tests/test_calendar2.py:487"
+    },
+    {
+      "tag": "TODO",
+      "text": "not_scheduled(self):",
+      "file": "life/tests/test_calendar2.py:489"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:490"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"7\")",
+      "file": "life/tests/test_calendar2.py:495"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:580"
     }
   ],
   "code_rpg_engine": [
@@ -11505,12 +11685,12 @@
     {
       "tag": "TODO",
       "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
-      "file": "e2e.sh:50"
+      "file": "e2e.sh:66"
     },
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:88"
+      "file": "e2e.sh:106"
     },
     {
       "tag": "BUG",
@@ -11896,6 +12076,11 @@
       "tag": "BUG",
       "text": "\u2014 the",
       "file": "docs/LABELS.md:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixed during acceptance: KnowledgeGraph snapshot-publish",
+      "file": ".hermes/PHASE1_VERIFICATION_2026-09-25.md:22"
     }
   ],
   "Nova": [
