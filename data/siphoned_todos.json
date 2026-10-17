@@ -3881,6 +3881,28 @@
       "file": "SCIENTIFIC_LOG.md:3"
     }
   ],
+  "disk-steward": [
+    {
+      "tag": "BUG",
+      "text": "a process whose executable sits directly in c:/users/viper p",
+      "file": "tests/test_passes.py:125"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "tests/test_rules.py:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "= [e for e in M if pick in e[0].lower()]",
+      "file": "tests/mutation_check.py:158"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "tests/mutation_check.py:160"
+    }
+  ],
   "evolved_system": [
     {
       "tag": "TODO",
@@ -11734,7 +11756,7 @@
     },
     {
       "tag": "TODO",
-      "text": "crystals come from the lexical bridge scanning code, not fro",
+      "text": "crystals; agents see repo issues in-world",
       "file": "NEXT_100_STEPS.md:66"
     },
     {
@@ -11939,7 +11961,7 @@
     },
     {
       "tag": "TODO",
-      "text": "crystals come from the lexical bridge scanning code, not fro",
+      "text": "crystals; agents see repo issues in-world",
       "file": "reports/2026-W41.md:25"
     },
     {
@@ -11949,7 +11971,7 @@
     },
     {
       "tag": "TODO",
-      "text": "issues |",
+      "text": "crystals |",
       "file": "reports/doc_reconcile.md:7"
     },
     {
