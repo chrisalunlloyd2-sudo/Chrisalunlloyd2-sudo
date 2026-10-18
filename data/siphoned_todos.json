@@ -1520,6 +1520,11 @@
     },
     {
       "tag": "BUG",
+      "text": "(fz00008).",
+      "file": "notes/py4qwhip_rulings_2026-10-16.md:4"
+    },
+    {
+      "tag": "BUG",
       "text": "noted); verdict held for 07:05 recheck task; candidate class",
       "file": "notes/breaches_2026-10-01.md:24"
     },
@@ -2503,147 +2508,147 @@
     {
       "tag": "BUG",
       "text": "pinned (byte 1096) | 2026-09-08 | band |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:106"
-    },
-    {
-      "tag": "BUG",
-      "text": "pinned (byte 1096) | CLAIMED by kernel-sandbox; claim 2026-0",
       "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:107"
     },
     {
       "tag": "BUG",
+      "text": "pinned (byte 1096) | CLAIMED by kernel-sandbox; claim 2026-0",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:108"
+    },
+    {
+      "tag": "BUG",
       "text": "Row factory missing -> root-class fixed; gate mis-spec x2: B",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:111"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:112"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master ba65a95 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:132"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:133"
     },
     {
       "tag": "BUG",
       "text": "fixed at root class |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:160"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:161"
     },
     {
       "tag": "BUG",
       "text": "/api/bind/attach referenced b.frame_path instead of b.hook.f",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:228"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:229"
     },
     {
       "tag": "TODO",
       "text": "| ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:250"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:251"
     },
     {
       "tag": "BUG",
       "text": "caught by gates + fixed (documented); driver f8ef520b upgrad",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:255"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:256"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P136 push | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:265"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:266"
     },
     {
       "tag": "BUG",
       "text": "G11 fixed pre-seal (engine byte-untouched); proof 06_PROOF/p",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:266"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:267"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master after P137 seal | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:268"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:269"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at 407e40d | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:270"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:271"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at d0ad3e6 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:272"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:273"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master at a1d178f | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:274"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:275"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master f88ddf9 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:280"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:281"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master e72d6ab | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:284"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:285"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 9777b80 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:288"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:289"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 81eab71 | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:290"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:291"
     },
     {
       "tag": "TODO",
       "text": "verified free on origin/master 940d06b | ADD-only |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:292"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:293"
     },
     {
       "tag": "BUG",
       "text": "FIXED: status route called users() dict-call -> 500, fixed t",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:317"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:318"
     },
     {
       "tag": "BUG",
       "text": "FIXED at root class: rotor feedback observed via to_key() CO",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:319"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:320"
     },
     {
       "tag": "BUG",
       "text": "FIXED: tau_dot divisor was window span not pair-midpoint spa",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:335"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:336"
     },
     {
       "tag": "BUG",
       "text": "FIXED: post_task checked task_id_already_used BEFORE the con",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:352"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:353"
     },
     {
       "tag": "BUG",
       "text": "caught live by q6/q7/q8 on first run), sha256 never-compile-",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:361"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:362"
     },
     {
       "tag": "BUG",
       "text": "caught live by q6/q7/q8, sha256 never-compile-same-graph-twi",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:362"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:363"
     },
     {
       "tag": "TODO",
       "text": "on origin 9b1e34f) | ADD-only | kernel-sandbox |",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:378"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:379"
     },
     {
       "tag": "TODO",
       "text": "14, bad_row 8}; sha256(ledger) never-audit-same-ledger-twice",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:386"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:387"
     },
     {
       "tag": "TODO",
       "text": "backfill todos ADD-ONLY never-overwrite; ledger append ADD-O",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:396"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:397"
     },
     {
       "tag": "BUG",
       "text": "fixed, G1-G4 PASS. G5 budget BLOCKED: 8ms gate unmeetable on",
-      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:467"
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:468"
     },
     {
       "tag": "BUG",
@@ -3214,103 +3219,113 @@
     },
     {
       "tag": "TODO",
-      "text": "id str|None (link to a todo, value badge).",
-      "file": "life/cal.py:17"
+      "text": "id str|None (link to a todo, value badge),",
+      "file": "life/cal.py:18"
     },
     {
       "tag": "TODO",
       "text": "id=None):",
-      "file": "life/cal.py:152"
+      "file": "life/cal.py:154"
     },
     {
       "tag": "TODO",
       "text": "id = str(todo_id or \"\").strip()",
-      "file": "life/cal.py:199"
-    },
-    {
-      "tag": "TODO",
-      "text": "id) > 80:",
-      "file": "life/cal.py:200"
-    },
-    {
-      "tag": "TODO",
-      "text": "id too long\")",
       "file": "life/cal.py:201"
     },
     {
       "tag": "TODO",
-      "text": "id\": todo_id or None}",
-      "file": "life/cal.py:207"
-    },
-    {
-      "tag": "TODO",
-      "text": "id=None):",
-      "file": "life/cal.py:211"
-    },
-    {
-      "tag": "TODO",
-      "text": "id)",
-      "file": "life/cal.py:213"
-    },
-    {
-      "tag": "TODO",
-      "text": "src = changes[\"todo_id\"] if provided(\"todo_id\") else old.get",
-      "file": "life/cal.py:350"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = str(todo_src or \"\").strip() or None",
-      "file": "life/cal.py:351"
-    },
-    {
-      "tag": "TODO",
-      "text": "id or \"\") > 80:",
-      "file": "life/cal.py:352"
+      "text": "id) > 80:",
+      "file": "life/cal.py:202"
     },
     {
       "tag": "TODO",
       "text": "id too long\")",
+      "file": "life/cal.py:203"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id or None}",
+      "file": "life/cal.py:209"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=None):",
+      "file": "life/cal.py:213"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "life/cal.py:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "src = changes[\"todo_id\"] if provided(\"todo_id\") else old.get",
+      "file": "life/cal.py:352"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = str(todo_src or \"\").strip() or None",
       "file": "life/cal.py:353"
     },
     {
       "tag": "TODO",
+      "text": "id or \"\") > 80:",
+      "file": "life/cal.py:354"
+    },
+    {
+      "tag": "TODO",
+      "text": "id too long\")",
+      "file": "life/cal.py:355"
+    },
+    {
+      "tag": "TODO",
       "text": "id=todo_id)",
-      "file": "life/cal.py:370"
+      "file": "life/cal.py:372"
+    },
+    {
+      "tag": "TODO",
+      "text": "\"):",
+      "file": "life/cal.py:1446"
+    },
+    {
+      "tag": "TODO",
+      "text": "entry - skipped (todos already feed the calendar)\")",
+      "file": "life/cal.py:1448"
     },
     {
       "tag": "TODO",
       "text": "id ID]\")",
-      "file": "life/cal.py:1043"
+      "file": "life/cal.py:1495"
     },
     {
       "tag": "TODO",
       "text": "id=o.get(\"--todo-id\"))",
-      "file": "life/cal.py:1050"
+      "file": "life/cal.py:1502"
     },
     {
       "tag": "TODO",
       "text": "id ID|'']\")",
-      "file": "life/cal.py:1060"
+      "file": "life/cal.py:1512"
     },
     {
       "tag": "TODO",
       "text": "id\", \"todo_id\")):",
-      "file": "life/cal.py:1067"
+      "file": "life/cal.py:1519"
     },
     {
       "tag": "TODO",
       "text": "id\") and str(v).strip().lower() in (\"none\", \"no\"):",
-      "file": "life/cal.py:1070"
+      "file": "life/cal.py:1522"
     },
     {
       "tag": "TODO",
       "text": "id: {ev.get('todo_id') or '-'}\")",
-      "file": "life/cal.py:1121"
+      "file": "life/cal.py:1573"
     },
     {
       "tag": "TODO",
       "text": "{e['todo_id']})\" if e.get(\"todo_id\") else \"\"",
-      "file": "life/cal.py:1159"
+      "file": "life/cal.py:1611"
     },
     {
       "tag": "TODO",
@@ -3350,7 +3365,7 @@
     {
       "tag": "TODO",
       "text": "row: $X | Yh | tags.\"\"\"",
-      "file": "life/dash.py:80"
+      "file": "life/dash.py:81"
     },
     {
       "tag": "TODO",
@@ -3455,92 +3470,92 @@
     {
       "tag": "TODO",
       "text": "pick one + a start -> linked event, length = todo hours (ste",
-      "file": "life/sections/calendar.py:917"
+      "file": "life/sections/calendar.py:930"
     },
     {
       "tag": "TODO",
       "text": "options()",
-      "file": "life/sections/calendar.py:918"
+      "file": "life/sections/calendar.py:931"
     },
     {
       "tag": "TODO",
       "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
-      "file": "life/sections/calendar.py:923"
+      "file": "life/sections/calendar.py:936"
     },
     {
       "tag": "TODO",
       "text": "hours; the event links back to the todo; nothing is marked d",
-      "file": "life/sections/calendar.py:926"
+      "file": "life/sections/calendar.py:939"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
-      "file": "life/sections/calendar.py:1079"
+      "file": "life/sections/calendar.py:1092"
     },
     {
       "tag": "TODO",
       "text": "id\", \"repeat\", \"category\", \"alerts\"):",
-      "file": "life/sections/calendar.py:1097"
+      "file": "life/sections/calendar.py:1110"
     },
     {
       "tag": "TODO",
       "text": "id\":",
-      "file": "life/sections/calendar.py:1108"
+      "file": "life/sections/calendar.py:1121"
     },
     {
       "tag": "TODO",
       "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
-      "file": "life/sections/calendar.py:1109"
+      "file": "life/sections/calendar.py:1122"
     },
     {
       "tag": "TODO",
       "text": "linked event, length = the todo's hours (step 6).\"\"\"",
-      "file": "life/sections/calendar.py:1220"
+      "file": "life/sections/calendar.py:1233"
     },
     {
       "tag": "TODO",
       "text": "id = web.clean_text(form, \"todo_id\", 80)",
-      "file": "life/sections/calendar.py:1221"
+      "file": "life/sections/calendar.py:1234"
     },
     {
       "tag": "TODO",
       "text": "id:",
-      "file": "life/sections/calendar.py:1223"
-    },
-    {
-      "tag": "TODO",
-      "text": "first\"",
-      "file": "life/sections/calendar.py:1224"
-    },
-    {
-      "tag": "TODO",
-      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
-      "file": "life/sections/calendar.py:1228"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "life/sections/calendar.py:1229"
-    },
-    {
-      "tag": "TODO",
-      "text": "\" + todo_id",
-      "file": "life/sections/calendar.py:1230"
-    },
-    {
-      "tag": "TODO",
-      "text": "is already done - nothing scheduled\"",
-      "file": "life/sections/calendar.py:1232"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, {})",
       "file": "life/sections/calendar.py:1236"
     },
     {
       "tag": "TODO",
+      "text": "first\"",
+      "file": "life/sections/calendar.py:1237"
+    },
+    {
+      "tag": "TODO",
+      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
+      "file": "life/sections/calendar.py:1241"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/sections/calendar.py:1242"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + todo_id",
+      "file": "life/sections/calendar.py:1243"
+    },
+    {
+      "tag": "TODO",
+      "text": "is already done - nothing scheduled\"",
+      "file": "life/sections/calendar.py:1245"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, {})",
+      "file": "life/sections/calendar.py:1249"
+    },
+    {
+      "tag": "TODO",
       "text": "id=todo_id)",
-      "file": "life/sections/calendar.py:1247"
+      "file": "life/sections/calendar.py:1260"
     },
     {
       "tag": "TODO",
@@ -3560,7 +3575,7 @@
     {
       "tag": "TODO",
       "text": "with_values_then_mark_done(self):",
-      "file": "life/tests/test_dash.py:198"
+      "file": "life/tests/test_dash.py:199"
     },
     {
       "tag": "TODO",
@@ -3570,7 +3585,7 @@
     {
       "tag": "TODO",
       "text": "excluded",
-      "file": "life/tests/test_reminders.py:66"
+      "file": "life/tests/test_reminders.py:75"
     },
     {
       "tag": "TODO",
@@ -3745,52 +3760,92 @@
     {
       "tag": "TODO",
       "text": "as a linked event.\"\"\"",
-      "file": "life/tests/test_calendar2.py:458"
+      "file": "life/tests/test_calendar2.py:464"
     },
     {
       "tag": "TODO",
       "text": "id\": \"7\", \"start\": \"2026-10-20T09:00\"})",
-      "file": "life/tests/test_calendar2.py:467"
+      "file": "life/tests/test_calendar2.py:473"
     },
     {
       "tag": "TODO",
       "text": "id\"], \"7\")",
-      "file": "life/tests/test_calendar2.py:470"
+      "file": "life/tests/test_calendar2.py:476"
     },
     {
       "tag": "TODO",
       "text": "and_bad_start(self):",
-      "file": "life/tests/test_calendar2.py:485"
+      "file": "life/tests/test_calendar2.py:491"
     },
     {
       "tag": "TODO",
       "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
-      "file": "life/tests/test_calendar2.py:486"
+      "file": "life/tests/test_calendar2.py:492"
     },
     {
       "tag": "TODO",
       "text": "id\": \"7\", \"start\": \"\"}))",
-      "file": "life/tests/test_calendar2.py:487"
+      "file": "life/tests/test_calendar2.py:493"
     },
     {
       "tag": "TODO",
       "text": "not_scheduled(self):",
-      "file": "life/tests/test_calendar2.py:489"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
-      "file": "life/tests/test_calendar2.py:490"
-    },
-    {
-      "tag": "TODO",
-      "text": "id=\"7\")",
       "file": "life/tests/test_calendar2.py:495"
     },
     {
       "tag": "TODO",
+      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:496"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"7\")",
+      "file": "life/tests/test_calendar2.py:501"
+    },
+    {
+      "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:580"
+      "file": "life/tests/test_calendar2.py:586"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo\\nDTSTART:20261020T100000\\nEND:VEVENT\\n\",",
+      "file": "life/tests/test_calendar2.py:813"
+    },
+    {
+      "tag": "TODO",
+      "text": "echo one must match the dashboard's own todo-uid shape",
+      "file": "life/tests/test_calendar2.py:816"
+    },
+    {
+      "tag": "TODO",
+      "text": "42@life.local\")",
+      "file": "life/tests/test_calendar2.py:817"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo\", \"Odd Cat\"])",
+      "file": "life/tests/test_calendar2.py:819"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo is a todo)",
+      "file": "life/tests/test_calendar2.py:820"
+    },
+    {
+      "tag": "TODO",
+      "text": "entry\", joined)",
+      "file": "life/tests/test_calendar2.py:825"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "docs/CALENDAR.md:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "derived entries",
+      "file": "docs/CALENDAR.md:75"
     }
   ],
   "code_rpg_engine": [
@@ -11707,12 +11762,12 @@
     {
       "tag": "TODO",
       "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
-      "file": "e2e.sh:66"
+      "file": "e2e.sh:75"
     },
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:106"
+      "file": "e2e.sh:115"
     },
     {
       "tag": "BUG",
@@ -11782,12 +11837,12 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:105"
+      "file": "AGENTS.md:124"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:109"
+      "file": "AGENTS.md:128"
     },
     {
       "tag": "BUG",
@@ -11817,42 +11872,42 @@
     {
       "tag": "TODO",
       "text": "crystals** \u2014 TODO/FIXME/HACK comments \u2192 hex crystals (height",
-      "file": "README.md:112"
+      "file": "README.md:114"
     },
     {
       "tag": "BUG",
       "text": "on its first run), selftest JSON, CME stress hunting",
-      "file": "README.md:150"
+      "file": "README.md:152"
     },
     {
       "tag": "TODO",
       "text": "crystals, proposes code changes",
-      "file": "README.md:230"
+      "file": "README.md:232"
     },
     {
       "tag": "TODO",
       "text": "crystals** \u2014 hex crystals that grow with the complexity of t",
-      "file": "README.md:238"
+      "file": "README.md:240"
     },
     {
       "tag": "BUG",
       "text": "overlay (includes frustum-culled count) |",
-      "file": "README.md:329"
+      "file": "README.md:333"
     },
     {
       "tag": "BUG",
       "text": "overlay. It shows FPS, room and hall counts,",
-      "file": "README.md:554"
+      "file": "README.md:599"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:603"
+      "file": "README.md:648"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:625"
+      "file": "README.md:670"
     },
     {
       "tag": "BUG",
@@ -15648,7 +15703,7 @@
     {
       "tag": "BUG",
       "text": "was found and fixed on 2026-09-11.**\\n\"",
-      "file": "src/compound.py:527"
+      "file": "src/compound.py:548"
     },
     {
       "tag": "BUG",
