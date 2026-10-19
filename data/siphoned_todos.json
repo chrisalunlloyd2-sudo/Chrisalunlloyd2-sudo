@@ -2306,6 +2306,11 @@
       "file": "src/phase135_acceptance.py:120"
     },
     {
+      "tag": "BUG",
+      "text": "recorded",
+      "file": "src/attention_spotlight.py:28"
+    },
+    {
       "tag": "TODO",
       "text": "created\"]) == 1 and r[\"todo_created\"][0][\"phase\"] == \"P301\"",
       "file": "src/phase217_acceptance.py:71"
@@ -2767,7 +2772,7 @@
     {
       "tag": "BUG",
       "text": "2026-09-14)",
-      "file": "bdi_fsm/bdi_loop.py:156"
+      "file": "bdi_fsm/bdi_loop.py:184"
     },
     {
       "tag": "TODO",
@@ -3189,8 +3194,18 @@
   "Claude": [
     {
       "tag": "TODO",
+      "text": "...` makes a reminder (date only means due 23:59)",
+      "file": "README.md:17"
+    },
+    {
+      "tag": "TODO",
       "text": "income_cents, time_hours, learning tags (list, multi: tailsc",
       "file": "PROJECT-UNIFIED-LIFE-UI.md:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "key acceptable? who holds it - hub only).",
+      "file": "parked-tasks/046-stickie-geofence-app.md:87"
     },
     {
       "tag": "TODO",
@@ -3365,7 +3380,7 @@
     {
       "tag": "TODO",
       "text": "row: $X | Yh | tags.\"\"\"",
-      "file": "life/dash.py:81"
+      "file": "life/dash.py:84"
     },
     {
       "tag": "TODO",
@@ -3385,177 +3400,177 @@
     {
       "tag": "TODO",
       "text": "#8a5a00;--c-event:#0a7d6f;--c-stock:#5b4bb7;--c-cron:#777;",
-      "file": "life/sections/calendar.py:50"
+      "file": "life/sections/calendar.py:51"
     },
     {
       "tag": "TODO",
       "text": "#e0b050;--c-event:#25b09a;--c-stock:#a99cf0;--c-cron:#999;",
-      "file": "life/sections/calendar.py:52"
+      "file": "life/sections/calendar.py:53"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end):",
-      "file": "life/sections/calendar.py:125"
+      "file": "life/sections/calendar.py:126"
     },
     {
       "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), src=\"todo\",",
-      "file": "life/sections/calendar.py:144"
+      "file": "life/sections/calendar.py:145"
     },
     {
       "tag": "TODO",
       "text": "badge(todo_id):",
-      "file": "life/sections/calendar.py:152"
-    },
-    {
-      "tag": "TODO",
-      "text": "id; None when unknown.\"\"\"",
       "file": "life/sections/calendar.py:153"
     },
     {
       "tag": "TODO",
-      "text": "id:",
+      "text": "id; None when unknown.\"\"\"",
       "file": "life/sections/calendar.py:154"
     },
     {
       "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:155"
+    },
+    {
+      "tag": "TODO",
       "text": "id):",
-      "file": "life/sections/calendar.py:158"
+      "file": "life/sections/calendar.py:159"
     },
     {
       "tag": "TODO",
       "text": "badge(ev.get(\"todo_id\"))",
-      "file": "life/sections/calendar.py:172"
+      "file": "life/sections/calendar.py:173"
     },
     {
       "tag": "TODO",
       "text": "items(d_start, d_end) + stock_items(d_start, d_end)",
-      "file": "life/sections/calendar.py:321"
+      "file": "life/sections/calendar.py:324"
     },
     {
       "tag": "TODO",
       "text": "value badge (task 045 step 4).\"\"\"",
-      "file": "life/sections/calendar.py:621"
+      "file": "life/sections/calendar.py:624"
     },
     {
       "tag": "TODO",
       "text": "options():",
-      "file": "life/sections/calendar.py:714"
+      "file": "life/sections/calendar.py:717"
     },
     {
       "tag": "TODO",
       "text": "id, repeat_extra).\"\"\"",
-      "file": "life/sections/calendar.py:751"
+      "file": "life/sections/calendar.py:754"
     },
     {
       "tag": "TODO",
       "text": "id\") or \"\"), rd or {})",
-      "file": "life/sections/calendar.py:761"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, repeat_extra=None, eid=None):",
       "file": "life/sections/calendar.py:764"
     },
     {
       "tag": "TODO",
+      "text": "id, repeat_extra=None, eid=None):",
+      "file": "life/sections/calendar.py:767"
+    },
+    {
+      "tag": "TODO",
       "text": "id\", todo_options(), todo_id)",
-      "file": "life/sections/calendar.py:776"
+      "file": "life/sections/calendar.py:779"
     },
     {
       "tag": "TODO",
       "text": "\" + td + \"</label>\"",
-      "file": "life/sections/calendar.py:792"
+      "file": "life/sections/calendar.py:795"
     },
     {
       "tag": "TODO",
       "text": "pick one + a start -> linked event, length = todo hours (ste",
-      "file": "life/sections/calendar.py:930"
+      "file": "life/sections/calendar.py:933"
     },
     {
       "tag": "TODO",
       "text": "options()",
-      "file": "life/sections/calendar.py:931"
+      "file": "life/sections/calendar.py:934"
     },
     {
       "tag": "TODO",
       "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
-      "file": "life/sections/calendar.py:936"
-    },
-    {
-      "tag": "TODO",
-      "text": "hours; the event links back to the todo; nothing is marked d",
       "file": "life/sections/calendar.py:939"
     },
     {
       "tag": "TODO",
+      "text": "hours; the event links back to the todo; nothing is marked d",
+      "file": "life/sections/calendar.py:942"
+    },
+    {
+      "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
-      "file": "life/sections/calendar.py:1092"
+      "file": "life/sections/calendar.py:1095"
     },
     {
       "tag": "TODO",
       "text": "id\", \"repeat\", \"category\", \"alerts\"):",
-      "file": "life/sections/calendar.py:1110"
+      "file": "life/sections/calendar.py:1113"
     },
     {
       "tag": "TODO",
       "text": "id\":",
-      "file": "life/sections/calendar.py:1121"
+      "file": "life/sections/calendar.py:1124"
     },
     {
       "tag": "TODO",
       "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
-      "file": "life/sections/calendar.py:1122"
+      "file": "life/sections/calendar.py:1125"
     },
     {
       "tag": "TODO",
       "text": "linked event, length = the todo's hours (step 6).\"\"\"",
-      "file": "life/sections/calendar.py:1233"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = web.clean_text(form, \"todo_id\", 80)",
-      "file": "life/sections/calendar.py:1234"
-    },
-    {
-      "tag": "TODO",
-      "text": "id:",
       "file": "life/sections/calendar.py:1236"
     },
     {
       "tag": "TODO",
-      "text": "first\"",
+      "text": "id = web.clean_text(form, \"todo_id\", 80)",
       "file": "life/sections/calendar.py:1237"
     },
     {
       "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:1239"
+    },
+    {
+      "tag": "TODO",
+      "text": "first\"",
+      "file": "life/sections/calendar.py:1240"
+    },
+    {
+      "tag": "TODO",
       "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
-      "file": "life/sections/calendar.py:1241"
+      "file": "life/sections/calendar.py:1244"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "life/sections/calendar.py:1242"
-    },
-    {
-      "tag": "TODO",
-      "text": "\" + todo_id",
-      "file": "life/sections/calendar.py:1243"
-    },
-    {
-      "tag": "TODO",
-      "text": "is already done - nothing scheduled\"",
       "file": "life/sections/calendar.py:1245"
     },
     {
       "tag": "TODO",
+      "text": "\" + todo_id",
+      "file": "life/sections/calendar.py:1246"
+    },
+    {
+      "tag": "TODO",
+      "text": "is already done - nothing scheduled\"",
+      "file": "life/sections/calendar.py:1248"
+    },
+    {
+      "tag": "TODO",
       "text": "id, {})",
-      "file": "life/sections/calendar.py:1249"
+      "file": "life/sections/calendar.py:1252"
     },
     {
       "tag": "TODO",
       "text": "id=todo_id)",
-      "file": "life/sections/calendar.py:1260"
+      "file": "life/sections/calendar.py:1263"
     },
     {
       "tag": "TODO",
@@ -3574,8 +3589,33 @@
     },
     {
       "tag": "TODO",
+      "text": "",
+      "file": "life/tests/e2e_dash.sh:72"
+    },
+    {
+      "tag": "TODO",
+      "text": ">/dev/null",
+      "file": "life/tests/e2e_dash.sh:91"
+    },
+    {
+      "tag": "TODO",
+      "text": "panel renders\" || echo \"FAIL schedule todo panel\"",
+      "file": "life/tests/e2e_dash.sh:93"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=1\" --data-urlencode \"start=2026-10-19T10:00\" $B/action/Ca",
+      "file": "life/tests/e2e_dash.sh:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "shows value badge\" || echo \"FAIL value badge on agenda\"",
+      "file": "life/tests/e2e_dash.sh:102"
+    },
+    {
+      "tag": "TODO",
       "text": "with_values_then_mark_done(self):",
-      "file": "life/tests/test_dash.py:199"
+      "file": "life/tests/test_dash.py:201"
     },
     {
       "tag": "TODO",
@@ -3591,6 +3631,11 @@
       "tag": "TODO",
       "text": "ids 1..2, same hour for due parse)",
       "file": "life/tests/_golden.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "Order Primer tomorrow 3pm\")",
+      "file": "life/tests/test_quickadd.py:80"
     },
     {
       "tag": "HACK",
@@ -3710,132 +3755,132 @@
     {
       "tag": "TODO",
       "text": "id=\"t-9\")",
-      "file": "life/tests/test_calendar2.py:62"
+      "file": "life/tests/test_calendar2.py:64"
     },
     {
       "tag": "TODO",
       "text": "id\"], \"t-9\")",
-      "file": "life/tests/test_calendar2.py:66"
+      "file": "life/tests/test_calendar2.py:68"
     },
     {
       "tag": "TODO",
       "text": "id\"])",
-      "file": "life/tests/test_calendar2.py:73"
+      "file": "life/tests/test_calendar2.py:75"
     },
     {
       "tag": "TODO",
       "text": "id=\"t\" * 81)",
-      "file": "life/tests/test_calendar2.py:113"
+      "file": "life/tests/test_calendar2.py:115"
     },
     {
       "tag": "TODO",
       "text": "id=\"\")",
-      "file": "life/tests/test_calendar2.py:137"
+      "file": "life/tests/test_calendar2.py:139"
     },
     {
       "tag": "TODO",
       "text": "id\"])",
-      "file": "life/tests/test_calendar2.py:140"
+      "file": "life/tests/test_calendar2.py:142"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:172"
+      "file": "life/tests/test_calendar2.py:174"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:191"
+      "file": "life/tests/test_calendar2.py:193"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:196"
+      "file": "life/tests/test_calendar2.py:198"
     },
     {
       "tag": "TODO",
       "text": "id=\"t1\")",
-      "file": "life/tests/test_calendar2.py:355"
+      "file": "life/tests/test_calendar2.py:357"
     },
     {
       "tag": "TODO",
       "text": "as a linked event.\"\"\"",
-      "file": "life/tests/test_calendar2.py:464"
+      "file": "life/tests/test_calendar2.py:466"
     },
     {
       "tag": "TODO",
       "text": "id\": \"7\", \"start\": \"2026-10-20T09:00\"})",
-      "file": "life/tests/test_calendar2.py:473"
+      "file": "life/tests/test_calendar2.py:475"
     },
     {
       "tag": "TODO",
       "text": "id\"], \"7\")",
-      "file": "life/tests/test_calendar2.py:476"
+      "file": "life/tests/test_calendar2.py:478"
     },
     {
       "tag": "TODO",
       "text": "and_bad_start(self):",
-      "file": "life/tests/test_calendar2.py:491"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
-      "file": "life/tests/test_calendar2.py:492"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": \"7\", \"start\": \"\"}))",
       "file": "life/tests/test_calendar2.py:493"
     },
     {
       "tag": "TODO",
-      "text": "not_scheduled(self):",
+      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
+      "file": "life/tests/test_calendar2.py:494"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"7\", \"start\": \"\"}))",
       "file": "life/tests/test_calendar2.py:495"
     },
     {
       "tag": "TODO",
+      "text": "not_scheduled(self):",
+      "file": "life/tests/test_calendar2.py:497"
+    },
+    {
+      "tag": "TODO",
       "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
-      "file": "life/tests/test_calendar2.py:496"
+      "file": "life/tests/test_calendar2.py:498"
     },
     {
       "tag": "TODO",
       "text": "id=\"7\")",
-      "file": "life/tests/test_calendar2.py:501"
+      "file": "life/tests/test_calendar2.py:503"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:586"
+      "file": "life/tests/test_calendar2.py:588"
     },
     {
       "tag": "TODO",
       "text": "Echo\\nDTSTART:20261020T100000\\nEND:VEVENT\\n\",",
-      "file": "life/tests/test_calendar2.py:813"
+      "file": "life/tests/test_calendar2.py:815"
     },
     {
       "tag": "TODO",
       "text": "echo one must match the dashboard's own todo-uid shape",
-      "file": "life/tests/test_calendar2.py:816"
+      "file": "life/tests/test_calendar2.py:818"
     },
     {
       "tag": "TODO",
       "text": "42@life.local\")",
-      "file": "life/tests/test_calendar2.py:817"
-    },
-    {
-      "tag": "TODO",
-      "text": "Echo\", \"Odd Cat\"])",
       "file": "life/tests/test_calendar2.py:819"
     },
     {
       "tag": "TODO",
+      "text": "Echo\", \"Odd Cat\"])",
+      "file": "life/tests/test_calendar2.py:821"
+    },
+    {
+      "tag": "TODO",
       "text": "Echo is a todo)",
-      "file": "life/tests/test_calendar2.py:820"
+      "file": "life/tests/test_calendar2.py:822"
     },
     {
       "tag": "TODO",
       "text": "entry\", joined)",
-      "file": "life/tests/test_calendar2.py:825"
+      "file": "life/tests/test_calendar2.py:827"
     },
     {
       "tag": "TODO",
@@ -5171,19 +5216,19 @@
       "file": "GEMINI.md:17"
     },
     {
-      "tag": "TODO",
-      "text": "crawler\",",
-      "file": "gist_fetches.py:24"
+      "tag": "BUG",
+      "text": "APKs are currently unsigned or rely on zipalign without expl",
+      "file": "BUILD_NOTES.md:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "keystore generation (`keytool -genkey -v -keystore debug.key",
+      "file": "BUILD_NOTES.md:19"
     },
     {
       "tag": "BUG",
       "text": "prints in production code:",
       "file": "V2_DEPLOYMENT_CHECKLIST.md:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py\"),",
-      "file": "fetch_gists.py:14"
     },
     {
       "tag": "TODO",
@@ -5197,873 +5242,48 @@
     },
     {
       "tag": "BUG",
-      "text": "keystore if missing",
-      "file": "workspace/MatrixWinCE_XP/build_flawless_apk.py:98"
+      "text": "trace\", \"debug\"),",
+      "file": "heartbeat_server/test_meaning_detection.py:95"
     },
     {
       "tag": "BUG",
-      "text": "keystore if missing",
-      "file": "workspace/MatrixWinCE_XP/build_apk.sh:174"
+      "text": "fail diagnose\", \"debug\"),",
+      "file": "heartbeat_server/test_meaning_detection.py:96"
     },
     {
       "tag": "BUG",
-      "text": "keystore...\"",
-      "file": "workspace/MatrixWinCE_XP/build_apk.sh:176"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:231"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:234"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:257"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/matrix_ce_kai9000_apk/src/os_backbone/gui_bridge.py:258"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SINGULARITY_LOG.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "Sync windows dynamically fetch this data, providing a real-t",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/CHANGELOG.md:69"
-    },
-    {
-      "tag": "TODO",
-      "text": "Sync windows dynamically fetch this data, providing a real-t",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/UPDATE_LOG.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "Sync windows dynamically fetch this data, providing a real-t",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PROJECT_LOG.md:119"
+      "text": "| error, debug, trace, diagnose, fail, crash, inspect, bug |",
+      "file": "heartbeat_server/README.md:52"
     },
     {
       "tag": "BUG",
-      "text": "fix/feature is a hypothesis based on observed data flow anom",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SINGULARITY_ROADMAP.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYPHON.py` to parse these logs.",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/SCIENTIFIC_LOG.md:9"
+      "text": "the error crash\")",
+      "file": ".matrix_ide/core/test_boolean_orchestrator.py:39"
     },
     {
       "tag": "BUG",
-      "text": "running={_running}\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/triton_broker.py:144"
-    },
-    {
-      "tag": "TODO",
-      "text": "Database",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/zero_to_ce/payload/init_databases.py:28"
+      "text": "",
+      "file": ".matrix_ide/core/test_boolean_orchestrator.py:40"
     },
     {
       "tag": "BUG",
-      "text": "this in C.\"",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/fault_injector.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:7"
-    },
-    {
-      "tag": "TODO",
-      "text": "Database for H2O Execution",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:37"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/chat_harvester.py:39"
-    },
-    {
-      "tag": "TODO",
-      "text": "database with Google Keep with backoff.",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/google_bridge.py:47"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:237"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:240"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:263"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/gui_bridge.py:264"
+      "text": "(inspect, diagnose, trace errors)",
+      "file": ".matrix_ide/core/boolean_orchestrator.py:7"
     },
     {
       "tag": "BUG",
       "text": "= 0b0100",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/core/boolean_orchestrator.py:5"
+      "file": ".matrix_ide/core/boolean_orchestrator.py:31"
     },
     {
       "tag": "BUG",
-      "text": "{bool(orchestrator.state & orchestrator.STATE_DEBUG)}\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/core/headless_broker.py:69"
+      "text": "",
+      "file": ".matrix_ide/core/boolean_orchestrator.py:167"
     },
     {
       "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "Router",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:131"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:134"
-    },
-    {
-      "tag": "TODO",
-      "text": "list.\"})",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:139"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:239"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:242"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:265"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/PocketMatrix/system/backup/gui_bridge_LEGACY.py:266"
-    },
-    {
-      "tag": "BUG",
-      "text": "in login functionality\\n- Implement new authentication syste",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/scripts/update_todo.py:20"
-    },
-    {
-      "tag": "TODO",
-      "text": "Scanner",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = False",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:65"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\" in line:",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:67"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = True",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:69"
-    },
-    {
-      "tag": "TODO",
-      "text": "section and line.startswith('##'):",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:72"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = False",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:73"
-    },
-    {
-      "tag": "TODO",
-      "text": "section:",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SCANNER.py:75"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern = re.compile(r'TODO: (.*)')",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:13"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:28"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\\n\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/TODO_SYPHON.py:65"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/SYNC_ALL.sh:10"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/project_manager.py:20"
-    },
-    {
-      "tag": "TODO",
-      "text": "List\\n\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/project_manager.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "Keystore...\"",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/manifest_apk.sh:106"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:14"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:22"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:23"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/_Archived_Root/scripts/triton_broker.py:43"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:65"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:90"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:94"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:96"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:130"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:131"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:132"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:133"
-    },
-    {
-      "tag": "TODO",
-      "text": "List Summary",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:135"
-    },
-    {
-      "tag": "TODO",
-      "text": "list outlines the current tasks and features to be implement",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:136"
-    },
-    {
-      "tag": "TODO",
-      "text": "list has been updated with a comprehensive outline of tasks ",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:147"
-    },
-    {
-      "tag": "TODO",
-      "text": "list by implementing automated testing, optimizing database ",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:149"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:162"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:166"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:168"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:202"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:203"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:204"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:205"
-    },
-    {
-      "tag": "TODO",
-      "text": "List Summary",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:207"
-    },
-    {
-      "tag": "TODO",
-      "text": "list outlines the current tasks and features to be implement",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:208"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:326"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:352"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:356"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:358"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:392"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:393"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:394"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:395"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:445"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:449"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:451"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:487"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:488"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:489"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:490"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:633"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:772"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:798"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:802"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:804"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:840"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:841"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:842"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:843"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:887"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:891"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:893"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:929"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:930"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:931"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:932"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1037"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1117"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1143"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1147"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1149"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1185"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1186"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1187"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1188"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1245"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1249"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1251"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1287"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1288"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1289"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1290"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1401"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1481"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1507"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1511"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1513"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1549"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1550"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1551"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1552"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1608"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1612"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1614"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1650"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1651"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1652"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1653"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1781"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1955"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1956"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1957"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:1958"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2097"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2149"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2395"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2460"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:2803"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3050"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3090"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3094"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3096"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3132"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3133"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3134"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3135"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3177"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3181"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3183"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement user interface upda",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3219"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement database performanc",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3220"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement system state manage",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3221"
-    },
-    {
-      "tag": "TODO",
-      "text": "list will be used to track and implement API updates and imp",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3222"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3305"
-    },
-    {
-      "tag": "TODO",
-      "text": "list",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3357"
-    },
-    {
-      "tag": "TODO",
-      "text": "List for OpenRouter Manager",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3383"
-    },
-    {
-      "tag": "TODO",
-      "text": "list to ensure that all tasks and features are properly trac",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3387"
-    },
-    {
-      "tag": "TODO",
-      "text": "List",
-      "file": "workspace/matrix_ce/MATRIX_GEN8_HOME-1.2.0-alpha/docs/enterprise/HOURLY_UPGRADES.md:3389"
+      "text": "sync.\")",
+      "file": ".aria/engine/tailscale_todo_sync.py:37"
     }
   ],
   "karoo_gp": [
@@ -11717,7 +10937,12 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` | `TASK_H01` |",
-      "file": "ARCHITECTURE.md:68"
+      "file": "ARCHITECTURE.md:70"
+    },
+    {
+      "tag": "BUG",
+      "text": "overlay toggle), BLACKBOARD refresh for issue #84.",
+      "file": "BLACKBOARD.md:9"
     },
     {
       "tag": "TODO",
@@ -11787,12 +11012,12 @@
     {
       "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:151"
+      "file": "CROSS_CORRELATED_ROADMAP.md:152"
     },
     {
       "tag": "BUG",
       "text": "#1)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:193"
+      "file": "CROSS_CORRELATED_ROADMAP.md:194"
     },
     {
       "tag": "TODO",
@@ -11835,14 +11060,19 @@
       "file": "AGENTS.md:27"
     },
     {
+      "tag": "BUG",
+      "text": "fix`, `glitch_found`,",
+      "file": "AGENTS.md:126"
+    },
+    {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:124"
+      "file": "AGENTS.md:148"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:128"
+      "file": "AGENTS.md:152"
     },
     {
       "tag": "BUG",
@@ -11942,12 +11172,12 @@
     {
       "tag": "BUG",
       "text": "log)",
-      "file": "BLUEPRINT.md:184"
+      "file": "BLUEPRINT.md:187"
     },
     {
       "tag": "TODO",
       "text": "crystals]",
-      "file": "BLUEPRINT.md:210"
+      "file": "BLUEPRINT.md:213"
     },
     {
       "tag": "TODO",
@@ -11962,7 +11192,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` \u2014 the Autonomous Finishin",
-      "file": "DEV_SETUP.md:113"
+      "file": "DEV_SETUP.md:115"
     },
     {
       "tag": "BUG",
@@ -12016,6 +11246,11 @@
     },
     {
       "tag": "TODO",
+      "text": "density/last-push age \u2192 KG attribute + room glow intensity",
+      "file": "reports/2026-W42.md:26"
+    },
+    {
+      "tag": "TODO",
       "text": "crystals; agents see repo issues in-world",
       "file": "reports/2026-W41.md:25"
     },
@@ -12048,6 +11283,11 @@
       "tag": "BUG",
       "text": "report",
       "file": ".github/ISSUE_TEMPLATE/bug_report.md:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "files/mindpalace",
+      "file": "scripts/evidence_checker.py:33"
     },
     {
       "tag": "TODO",
