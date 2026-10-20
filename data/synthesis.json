@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -27,8 +27,8 @@
       "source": "Aegis_Agents",
       "target": "Machine2",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -49,8 +49,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -92,8 +92,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -114,8 +114,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "Machine2",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -136,8 +136,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -179,8 +179,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -341,8 +341,8 @@
       "source": "Machine2",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -383,66 +383,66 @@
     {
       "source": "Machine2",
       "target": "SimsMerged",
-      "domains": [
-        "Telemetry",
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "MATRIX_GEN8_HOME",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "mind-palace",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "mindpalace",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "Nova",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "MATRIX_GEN8_HOME",
       "domains": [
         "Agent/BDI",
-        "API/Web"
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "mindpalace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "SimsMerged",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -505,8 +505,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -663,8 +663,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
