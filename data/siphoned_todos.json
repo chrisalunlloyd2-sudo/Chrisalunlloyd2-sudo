@@ -2356,6 +2356,11 @@
       "file": "src/doc_drift.py:99"
     },
     {
+      "tag": "BUG",
+      "text": "in the textbook formula:",
+      "file": "src/intervention_scheduler.py:75"
+    },
+    {
       "tag": "TODO",
       "text": "P' + m[1], title: 'integrate/verify queued task p' + m[1] + ",
       "file": "06_ENGINE/sophia_kernel.js:24"
@@ -3350,12 +3355,12 @@
     {
       "tag": "TODO",
       "text": "= re.compile(r\"^todo:\\s*(.+)$\", re.I)",
-      "file": "life/notes.py:47"
+      "file": "life/notes.py:52"
     },
     {
       "tag": "TODO",
       "text": "text\")",
-      "file": "life/notes.py:147"
+      "file": "life/notes.py:183"
     },
     {
       "tag": "TODO",
@@ -3700,32 +3705,32 @@
     {
       "tag": "TODO",
       "text": "buy primer\")",
-      "file": "life/tests/test_notes.py:193"
+      "file": "life/tests/test_notes.py:225"
     },
     {
       "tag": "TODO",
       "text": "\" + payload)",
-      "file": "life/tests/test_notes.py:201"
+      "file": "life/tests/test_notes.py:233"
     },
     {
       "tag": "TODO",
       "text": "due\\ntodo: -x\\nspent 5 food --kind\\n\")",
-      "file": "life/tests/test_notes.py:210"
+      "file": "life/tests/test_notes.py:242"
     },
     {
       "tag": "TODO",
       "text": "buy primer\")",
-      "file": "life/tests/test_notes.py:215"
+      "file": "life/tests/test_notes.py:247"
     },
     {
       "tag": "TODO",
       "text": "x\")",
-      "file": "life/tests/test_notes.py:232"
+      "file": "life/tests/test_notes.py:264"
     },
     {
       "tag": "TODO",
       "text": "paint <b>trim</b>\\nspent 45 groceries\\nhello <script>alert(1",
-      "file": "life/tests/test_notes.py:256"
+      "file": "life/tests/test_notes.py:288"
     },
     {
       "tag": "TODO",
@@ -3982,6 +3987,21 @@
     }
   ],
   "disk-steward": [
+    {
+      "tag": "TODO",
+      "text": "309d56f3a9cd \u2014 STUB",
+      "file": "todo/todo_309d56f3a9cd_function_forget_is_an_empty_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "2c693e16daa5 \u2014 STUB",
+      "file": "todo/todo_2c693e16daa5_function_forget_is_an_empty_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "25636f391199 \u2014 STUB",
+      "file": "todo/todo_25636f391199_function_forget_is_an_empty_st.md:1"
+    },
     {
       "tag": "BUG",
       "text": "a process whose executable sits directly in c:/users/viper p",
@@ -6573,6 +6593,16 @@
       "tag": "BUG",
       "text": "in deps.py: deadline_s here is only checked BETWEEN",
       "file": "AGENT_SQUIGLY/squigly/census.py:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "found by fuzz, fixed: planner_proofs deadlock_report evaluat",
+      "file": "py4qwhip/reviews/graph_port_step5_alice_package.md:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "#1 (found+fixed 10-16): planner_proofs deadlock loop `live_e",
+      "file": "py4qwhip/rust_plan/RUST_PORT_PLAN_20261014.md:86"
     }
   ],
   "MasterLogs": [
@@ -11318,6 +11348,36 @@
       "tag": "BUG",
       "text": "class cbb33ad): the shade plugin REPLACES",
       "file": "scripts/cascade_dev.sh:54"
+    },
+    {
+      "tag": "HACK",
+      "text": "markers cheaply (os.walk,",
+      "file": "scripts/repo_sweep.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"\\b(TODO|FIXME|HACK)\\b[::]? (.+)\")",
+      "file": "scripts/repo_sweep.py:91"
+    },
+    {
+      "tag": "HACK",
+      "text": "scan of a local clone. Capped; never walks .git.\"\"\"",
+      "file": "scripts/repo_sweep.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.search(line):",
+      "file": "scripts/repo_sweep.py:213"
+    },
+    {
+      "tag": "TODO",
+      "text": "hot = sorted((r for r in recs if r[\"todos\"] > 0),",
+      "file": "scripts/repo_sweep.py:348"
+    },
+    {
+      "tag": "TODO",
+      "text": "hot:",
+      "file": "scripts/repo_sweep.py:356"
     },
     {
       "tag": "TODO",
