@@ -42,7 +42,8 @@
       "source": "Aegis_Agents",
       "target": "MatrixCE_GUI",
       "domains": [
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -72,6 +73,13 @@
       "target": "Nova",
       "domains": [
         "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
       ]
     },
     {
@@ -129,7 +137,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MatrixCE_GUI",
       "domains": [
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -159,6 +168,13 @@
       "target": "Nova",
       "domains": [
         "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
       ]
     },
     {
@@ -206,6 +222,13 @@
     },
     {
       "source": "H2OIDE",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OIDE",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
         "Telemetry"
@@ -263,6 +286,13 @@
     {
       "source": "H2OMatrixCE",
       "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MatrixCE_GUI",
       "domains": [
         "Telemetry"
       ]
@@ -334,7 +364,8 @@
       "source": "Machine2",
       "target": "MatrixCE_GUI",
       "domains": [
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -368,6 +399,13 @@
     },
     {
       "source": "Machine2",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Machine2",
       "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
@@ -385,6 +423,13 @@
       "target": "SimsMerged",
       "domains": [
         "Agent/BDI",
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MatrixCE_GUI",
+      "domains": [
         "Telemetry"
       ]
     },
@@ -441,22 +486,60 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
+        "Agent/BDI",
         "API/Web",
-        "Agent/BDI"
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "mindpalace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "Nova",
+      "domains": [
+        "Telemetry"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
+        "Agent/BDI",
         "API/Web"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MatrixCE_GUI",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
       ]
     },
     {
       "source": "MatrixCE_GUI",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -484,6 +567,7 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
+        "Agent/BDI",
         "API/Web"
       ]
     },
@@ -591,6 +675,13 @@
       "target": "SimsMerged",
       "domains": [
         "Telemetry"
+      ]
+    },
+    {
+      "source": "openrouter_manager",
+      "target": "SimsMerged",
+      "domains": [
+        "Agent/BDI"
       ]
     },
     {
@@ -671,16 +762,6 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "Aegis_Unified",
-      "task": "2026-08-16).",
-      "location": "self_extend.py:77",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Aegis_Unified",
       "task": "\u00b7 2 repos with uncommitted work |",
       "location": "FORWARD-PLAN.md:10",
       "domains": [
@@ -690,139 +771,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "any",
-      "location": "mined/mined_65f8e296_050421.py:15",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan aegis_survey` -- the boolean for this specie",
-      "location": "mined/mined_48d3e1c1_201437.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan agent_book` -- the boolean for this species ",
-      "location": "mined/mined_81bf9082_113218.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan block_promoter` -- the boolean for this spec",
-      "location": "mined/mined_df56918d_142322.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan cell_report` -- the boolean for this species",
-      "location": "mined/mined_9440edeb_232550.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py module.",
-      "location": "mined/mined_9440edeb_232550.py:21",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py module's self-test must still pass and the boolea",
-      "location": "mined/mined_9440edeb_232550.py:22",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "location": "mined/mined_6d89187c_084750.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "location": "mined/mined_9c43543d_094012.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species module and the curriculum module.",
-      "location": "mined/mined_9c43543d_094012.py:18",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan gap_finder` -- the boolean for this species ",
-      "location": "mined/mined_bea7d6dd_115153.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "where the",
-      "location": "mined/mined_bea7d6dd_115153.py:16",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species and schema. I've fixed it and I believe my",
-      "location": "mined/mined_bea7d6dd_115153.py:18",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species and",
-      "location": "mined/mined_bea7d6dd_115153.py:21",
+      "repo": "Aegis_Unified",
+      "task": "2026-08-16).",
+      "location": "self_extend.py:77",
       "domains": [
         "General"
       ]
@@ -832,7 +783,7 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
-      "location": "mined/mined_b611889d_223338.py:2",
+      "location": "mined/mined_b0a51eef_082148.py:2",
       "domains": [
         "General"
       ]
@@ -841,8 +792,148 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "",
-      "location": "mined/mined_2061c662_120033.py:24",
+      "task": "species.py scan cell_tools` -- the boolean for this species ",
+      "location": "mined/mined_459fc9f3.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan agent_book` -- the boolean for this species ",
+      "location": "mined/mined_62323a41_082608.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "in the agent's handling of agent and book information.",
+      "location": "mined/mined_62323a41_082608.py:17",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan agent_book`",
+      "location": "mined/mined_62323a41_082608.py:23",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan gap_finder` -- the boolean for this species ",
+      "location": "mined/mined_bea7d6dd_034728.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "where the",
+      "location": "mined/mined_bea7d6dd_034728.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species and schema. I've fixed it and I believe my",
+      "location": "mined/mined_bea7d6dd_034728.py:18",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species and",
+      "location": "mined/mined_bea7d6dd_034728.py:21",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_f19e4ec2.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_c2933181_031020.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan email_command` -- the boolean for this speci",
+      "location": "mined/mined_a4ffd108_111120.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan hourly_notice` -- the boolean for this speci",
+      "location": "mined/mined_addb6c7b.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_addb6c7b.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_6f7ecec3_092654.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "in the never_twice ledger, so a fixed bug has something stan",
+      "location": "mined/mined_6f7ecec3_144026.py:2",
       "domains": [
         "General"
       ]
@@ -852,7 +943,7 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "species.py scan lexicon_compiler` -- the boolean for this sp",
-      "location": "mined/mined_8d8e4ec8_201204.py:2",
+      "location": "mined/mined_0bbe76bf.py:2",
       "domains": [
         "General"
       ]
@@ -862,7 +953,7 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "species.py scan hive_daemon` -- the boolean for this species",
-      "location": "mined/mined_84c50471_083118.py:2",
+      "location": "mined/mined_d4477b34_233308.py:2",
       "domains": [
         "General"
       ]
@@ -880,6 +971,7 @@
       "Machine2",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
+      "openrouter_manager",
       "SimsMerged"
     ],
     "API/Web": [
@@ -894,6 +986,7 @@
       "H2OMatrixCE",
       "Machine2",
       "MasterLogs",
+      "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
       "mind-palace",
       "mindpalace",
