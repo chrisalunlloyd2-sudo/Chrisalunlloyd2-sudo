@@ -72,7 +72,7 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web, Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI, Telemetry |
 | `MatrixCE_GUI` | `mind-palace` | Telemetry |
 | `MatrixCE_GUI` | `mindpalace` | Telemetry |
 | `MatrixCE_GUI` | `Nova` | Telemetry |
