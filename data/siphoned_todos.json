@@ -3595,12 +3595,17 @@
     {
       "tag": "TODO",
       "text": "{t['id']}\", t[\"text\"])]",
-      "file": "life/life.py:64"
+      "file": "life/life.py:73"
     },
     {
       "tag": "TODO",
       "text": "{t['id']})\")",
-      "file": "life/life.py:100"
+      "file": "life/life.py:109"
+    },
+    {
+      "tag": "TODO",
+      "text": ", spent, bank, meal...) go to the",
+      "file": "life/dos.py:94"
     },
     {
       "tag": "TODO",
@@ -3635,12 +3640,12 @@
     {
       "tag": "TODO",
       "text": "= re.compile(r\"^todo:\\s*(.+)$\", re.I)",
-      "file": "life/notes.py:52"
+      "file": "life/notes.py:61"
     },
     {
       "tag": "TODO",
       "text": "text\")",
-      "file": "life/notes.py:183"
+      "file": "life/notes.py:239"
     },
     {
       "tag": "TODO",
@@ -3769,6 +3774,16 @@
     },
     {
       "tag": "TODO",
+      "text": "buy tape\\nread https://example.com/x about trim\\n-weird\")",
+      "file": "life/tests/test_expansion.py:268"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy tape\" for p in n.pending()))",
+      "file": "life/tests/test_expansion.py:275"
+    },
+    {
+      "tag": "TODO",
       "text": "buy primer\": (\"todo\", {\"text\": \"buy primer\"}),",
       "file": "life/tests/test_notes.py:66"
     },
@@ -3780,77 +3795,77 @@
     {
       "tag": "TODO",
       "text": "\", \"I had a scoop today\", \"spent 1e9 food\", \"spent -5 food\")",
-      "file": "life/tests/test_notes.py:80"
+      "file": "life/tests/test_notes.py:81"
     },
     {
       "tag": "TODO",
       "text": "buy primer\\n\\nspent 45 groceries\\n\")",
-      "file": "life/tests/test_notes.py:111"
+      "file": "life/tests/test_notes.py:112"
     },
     {
       "tag": "TODO",
       "text": "buy primer\", \"spent 45 groceries\"})",
-      "file": "life/tests/test_notes.py:115"
+      "file": "life/tests/test_notes.py:116"
     },
     {
       "tag": "TODO",
       "text": "buy primer\\n\\nspent 45 groceries\\ntodo: second\\n\")",
-      "file": "life/tests/test_notes.py:119"
+      "file": "life/tests/test_notes.py:120"
     },
     {
       "tag": "TODO",
       "text": "buy primer\\njust a thought\\nspent 45 groceries\\ntodo: --inco",
-      "file": "life/tests/test_notes.py:127"
+      "file": "life/tests/test_notes.py:128"
     },
     {
       "tag": "TODO",
       "text": "income\" fails validation: stays a note",
-      "file": "life/tests/test_notes.py:129"
+      "file": "life/tests/test_notes.py:130"
     },
     {
       "tag": "TODO",
       "text": "caf\\xe9 run\\n\" + b\"x\" * 200000)",
-      "file": "life/tests/test_notes.py:136"
+      "file": "life/tests/test_notes.py:137"
     },
     {
       "tag": "TODO",
       "text": "stolen\\n\")",
-      "file": "life/tests/test_notes.py:154"
+      "file": "life/tests/test_notes.py:155"
     },
     {
       "tag": "TODO",
       "text": "buy primer\")",
-      "file": "life/tests/test_notes.py:173"
+      "file": "life/tests/test_notes.py:174"
     },
     {
       "tag": "TODO",
       "text": "buy primer\")",
-      "file": "life/tests/test_notes.py:225"
+      "file": "life/tests/test_notes.py:226"
     },
     {
       "tag": "TODO",
       "text": "\" + payload)",
-      "file": "life/tests/test_notes.py:233"
+      "file": "life/tests/test_notes.py:234"
     },
     {
       "tag": "TODO",
       "text": "due\\ntodo: -x\\nspent 5 food --kind\\n\")",
-      "file": "life/tests/test_notes.py:242"
+      "file": "life/tests/test_notes.py:243"
     },
     {
       "tag": "TODO",
       "text": "buy primer\")",
-      "file": "life/tests/test_notes.py:247"
+      "file": "life/tests/test_notes.py:248"
     },
     {
       "tag": "TODO",
       "text": "x\")",
-      "file": "life/tests/test_notes.py:264"
+      "file": "life/tests/test_notes.py:265"
     },
     {
       "tag": "TODO",
       "text": "paint <b>trim</b>\\nspent 45 groceries\\nhello <script>alert(1",
-      "file": "life/tests/test_notes.py:288"
+      "file": "life/tests/test_notes.py:289"
     },
     {
       "tag": "HACK",
@@ -3995,27 +4010,27 @@
     {
       "tag": "TODO",
       "text": "items(D(\"2026-10-01T00:00\"), D(\"2026-11-01T00:00\"))",
-      "file": "life/tests/test_calendar.py:230"
+      "file": "life/tests/test_calendar.py:231"
     },
     {
       "tag": "TODO",
       "text": "items(D(\"2026-11-01T00:00\"), D(\"2026-12-01T00:00\")), [])",
-      "file": "life/tests/test_calendar.py:232"
+      "file": "life/tests/test_calendar.py:233"
     },
     {
       "tag": "TODO",
       "text": "not_late(self):",
-      "file": "life/tests/test_calendar.py:234"
+      "file": "life/tests/test_calendar.py:235"
     },
     {
       "tag": "TODO",
       "text": "items(D(\"2020-01-01T00:00\"), D(\"2020-02-01T00:00\"))",
-      "file": "life/tests/test_calendar.py:236"
+      "file": "life/tests/test_calendar.py:237"
     },
     {
       "tag": "TODO",
       "text": "items(D(\"2020-01-01T00:00\"), D(\"2020-02-01T00:00\"))",
-      "file": "life/tests/test_calendar.py:241"
+      "file": "life/tests/test_calendar.py:242"
     },
     {
       "tag": "TODO",
@@ -4134,133 +4149,133 @@
     },
     {
       "tag": "TODO",
-      "text": "items(d_start, d_end) + stock_items(d_start, d_end)",
-      "file": "life/sections/calendar.py:324"
+      "text": "items(d_start, d_end) + (stock_items(d_start, d_end) if show",
+      "file": "life/sections/calendar.py:332"
     },
     {
       "tag": "TODO",
       "text": "value badge (task 045 step 4).\"\"\"",
-      "file": "life/sections/calendar.py:624"
+      "file": "life/sections/calendar.py:632"
     },
     {
       "tag": "TODO",
       "text": "options():",
-      "file": "life/sections/calendar.py:717"
+      "file": "life/sections/calendar.py:725"
     },
     {
       "tag": "TODO",
       "text": "id, repeat_extra).\"\"\"",
-      "file": "life/sections/calendar.py:754"
+      "file": "life/sections/calendar.py:762"
     },
     {
       "tag": "TODO",
       "text": "id\") or \"\"), rd or {})",
-      "file": "life/sections/calendar.py:764"
+      "file": "life/sections/calendar.py:772"
     },
     {
       "tag": "TODO",
       "text": "id, repeat_extra=None, eid=None):",
-      "file": "life/sections/calendar.py:767"
+      "file": "life/sections/calendar.py:775"
     },
     {
       "tag": "TODO",
       "text": "id\", todo_options(), todo_id)",
-      "file": "life/sections/calendar.py:779"
+      "file": "life/sections/calendar.py:787"
     },
     {
       "tag": "TODO",
       "text": "\" + td + \"</label>\"",
-      "file": "life/sections/calendar.py:795"
+      "file": "life/sections/calendar.py:803"
     },
     {
       "tag": "TODO",
       "text": "pick one + a start -> linked event, length = todo hours (ste",
-      "file": "life/sections/calendar.py:933"
+      "file": "life/sections/calendar.py:941"
     },
     {
       "tag": "TODO",
       "text": "options()",
-      "file": "life/sections/calendar.py:934"
-    },
-    {
-      "tag": "TODO",
-      "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
-      "file": "life/sections/calendar.py:939"
-    },
-    {
-      "tag": "TODO",
-      "text": "hours; the event links back to the todo; nothing is marked d",
       "file": "life/sections/calendar.py:942"
     },
     {
       "tag": "TODO",
+      "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
+      "file": "life/sections/calendar.py:947"
+    },
+    {
+      "tag": "TODO",
+      "text": "hours; the event links back to the todo; nothing is marked d",
+      "file": "life/sections/calendar.py:950"
+    },
+    {
+      "tag": "TODO",
       "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
-      "file": "life/sections/calendar.py:1095"
+      "file": "life/sections/calendar.py:1103"
     },
     {
       "tag": "TODO",
       "text": "id\", \"repeat\", \"category\", \"alerts\"):",
-      "file": "life/sections/calendar.py:1113"
+      "file": "life/sections/calendar.py:1121"
     },
     {
       "tag": "TODO",
       "text": "id\":",
-      "file": "life/sections/calendar.py:1124"
+      "file": "life/sections/calendar.py:1132"
     },
     {
       "tag": "TODO",
       "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
-      "file": "life/sections/calendar.py:1125"
+      "file": "life/sections/calendar.py:1133"
     },
     {
       "tag": "TODO",
       "text": "linked event, length = the todo's hours (step 6).\"\"\"",
-      "file": "life/sections/calendar.py:1236"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = web.clean_text(form, \"todo_id\", 80)",
-      "file": "life/sections/calendar.py:1237"
-    },
-    {
-      "tag": "TODO",
-      "text": "id:",
-      "file": "life/sections/calendar.py:1239"
-    },
-    {
-      "tag": "TODO",
-      "text": "first\"",
-      "file": "life/sections/calendar.py:1240"
-    },
-    {
-      "tag": "TODO",
-      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
       "file": "life/sections/calendar.py:1244"
     },
     {
       "tag": "TODO",
-      "text": "",
+      "text": "id = web.clean_text(form, \"todo_id\", 80)",
       "file": "life/sections/calendar.py:1245"
     },
     {
       "tag": "TODO",
-      "text": "\" + todo_id",
-      "file": "life/sections/calendar.py:1246"
+      "text": "id:",
+      "file": "life/sections/calendar.py:1247"
     },
     {
       "tag": "TODO",
-      "text": "is already done - nothing scheduled\"",
+      "text": "first\"",
       "file": "life/sections/calendar.py:1248"
     },
     {
       "tag": "TODO",
-      "text": "id, {})",
+      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
       "file": "life/sections/calendar.py:1252"
     },
     {
       "tag": "TODO",
+      "text": "",
+      "file": "life/sections/calendar.py:1253"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + todo_id",
+      "file": "life/sections/calendar.py:1254"
+    },
+    {
+      "tag": "TODO",
+      "text": "is already done - nothing scheduled\"",
+      "file": "life/sections/calendar.py:1256"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, {})",
+      "file": "life/sections/calendar.py:1260"
+    },
+    {
+      "tag": "TODO",
       "text": "id=todo_id)",
-      "file": "life/sections/calendar.py:1263"
+      "file": "life/sections/calendar.py:1271"
     },
     {
       "tag": "TODO",
@@ -4275,7 +4290,12 @@
     {
       "tag": "TODO",
       "text": "added\"",
-      "file": "life/sections/reminders.py:176"
+      "file": "life/sections/reminders.py:194"
+    },
+    {
+      "tag": "TODO",
+      "text": "...</code>, <code>spent 12 food</code> or <code>meal dinner ",
+      "file": "life/sections/braindump.py:18"
     }
   ],
   "code_rpg_engine": [
@@ -5619,6 +5639,11 @@
       "tag": "BUG",
       "text": "print grep pre-push hook (githooks/pre-push)",
       "file": ".TODO_V2.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "print from `main_loop()`",
+      "file": "CHANGELOG.md:49"
     },
     {
       "tag": "TODO",
@@ -11427,17 +11452,17 @@
     {
       "tag": "BUG",
       "text": "overlay. It shows FPS, room and hall counts,",
-      "file": "README.md:599"
+      "file": "README.md:613"
     },
     {
       "tag": "BUG",
       "text": "template](.github/ISSUE_TEMPLATE/bug_report.md). **Never con",
-      "file": "README.md:648"
+      "file": "README.md:662"
     },
     {
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
-      "file": "README.md:670"
+      "file": "README.md:684"
     },
     {
       "tag": "TODO",
@@ -11477,7 +11502,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` \u2014 the Autonomous Finishin",
-      "file": "DEV_SETUP.md:115"
+      "file": "DEV_SETUP.md:127"
     },
     {
       "tag": "BUG",
@@ -11592,7 +11617,7 @@
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:115"
+      "file": "e2e.sh:117"
     },
     {
       "tag": "TODO",
@@ -11611,7 +11636,7 @@
     },
     {
       "tag": "TODO",
-      "text": "density/last-push age \u2192 KG attribute + room glow intensity",
+      "text": "density/last-push age \u2192 KG attribute + room glow intensity (",
       "file": "NEXT_100_STEPS.md:68"
     },
     {
@@ -11716,8 +11741,18 @@
     },
     {
       "tag": "TODO",
+      "text": "crystals | 07_todo_crystals_06.png | 11.0 |",
+      "file": "reports/visual_baseline/README.md:15"
+    },
+    {
+      "tag": "TODO",
       "text": "crystal|renderCrystals\"],",
       "file": "tools/doc_reconcile.py:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "print. Copied into",
+      "file": "data/demo_repos/zig-ember/README.md:3"
     },
     {
       "tag": "HACK",
