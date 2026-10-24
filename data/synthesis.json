@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -27,8 +27,8 @@
       "source": "Aegis_Agents",
       "target": "Machine2",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -49,8 +49,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -99,8 +99,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -121,8 +121,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "Machine2",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -143,8 +143,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -193,8 +193,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -369,8 +369,8 @@
       "source": "Machine2",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -419,8 +419,8 @@
       "source": "Machine2",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -575,8 +575,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -769,6 +769,36 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "species.py scan auto_pusher` -- the boolean for this species",
+      "location": "mined/mined_fe94e4d2_202348.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "PUSHERS IN AUTOMATED ORGANIZATIONS.",
+      "location": "mined/mined_fe94e4d2_202348.py:12",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_fe94e4d2_202348.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan auto_pusher` -- the boolean for this species",
       "location": "mined/mined_fe94e4d2_172533.py:2",
       "domains": [
         "General"
@@ -859,6 +889,16 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "species.py scan clock_cycle` -- the boolean for this species",
+      "location": "mined/mined_fcd969eb_205824.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan clock_cycle` -- the boolean for this species",
       "location": "mined/mined_fcd969eb_180845.py:2",
       "domains": [
         "General"
@@ -900,46 +940,6 @@
       "repo": "agent-squiggly",
       "task": "species.py scan clock_cycle` -- the boolean for this species",
       "location": "mined/mined_fcd969eb_104117.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan clock_cycle` -- the boolean for this species",
-      "location": "mined/mined_fcd969eb_103814.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan clock_cycle` -- the boolean for this species",
-      "location": "mined/mined_fcd969eb_074147.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan clock_cycle` -- the boolean for this species",
-      "location": "mined/mined_fcd969eb.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_fccdff7e_230920.py:2",
       "domains": [
         "General"
       ]
