@@ -564,6 +564,21 @@
     {
       "tag": "BUG",
       "text": "species.py scan auto_pusher` -- the boolean for this species",
+      "file": "mined/mined_fe94e4d2_202348.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "PUSHERS IN AUTOMATED ORGANIZATIONS.",
+      "file": "mined/mined_fe94e4d2_202348.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_fe94e4d2_202348.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan auto_pusher` -- the boolean for this species",
       "file": "mined/mined_fe94e4d2_172533.py:2"
     },
     {
@@ -605,6 +620,11 @@
       "tag": "BUG",
       "text": "10 times now im detecting a pattern in your",
       "file": "mined/mined_fe94e4d2.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan clock_cycle` -- the boolean for this species",
+      "file": "mined/mined_fcd969eb_205824.py:2"
     },
     {
       "tag": "BUG",
@@ -1044,6 +1064,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_ee4a5928_202834.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_ee4a5928_165912.py:2"
     },
     {
@@ -1110,6 +1135,16 @@
       "tag": "TODO",
       "text": "Implement main function",
       "file": "mined/mined_ed5d9be6.py:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_eb474e6f_210510.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_eb474e6f_202532.py:2"
     },
     {
       "tag": "BUG",
@@ -1470,41 +1505,6 @@
       "tag": "BUG",
       "text": "species.py scan cell_tools` -- the boolean for this species ",
       "file": "mined/mined_e704a03c_182613.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_163947.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_163947.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_141850.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_141850.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_135818.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_135818.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_123934.py:2"
     }
   ],
   "Alice": [
@@ -2056,6 +2056,11 @@
       "file": "todos/p35_goal_driven_autonomy_task.md:26"
     },
     {
+      "tag": "BUG",
+      "text": "the cases mutated planner `p` while the assertion inspected ",
+      "file": "todos/p252_task.md:37"
+    },
+    {
       "tag": "TODO",
       "text": "(this commit)",
       "file": "todos/p213_upgrade_planner_task.md:22"
@@ -2427,6 +2432,11 @@
     },
     {
       "tag": "BUG",
+      "text": "every bad case was a lambda closing over the SHARED planner ",
+      "file": "07_KNOWLEDGE_BASE/PHASE_LEDGER.md:499"
+    },
+    {
+      "tag": "BUG",
       "text": "** SkinnedMesh child material was being overwritten by flat ",
       "file": "07_KNOWLEDGE_BASE/MEMORY_ROTOR.md:7"
     },
@@ -2454,6 +2464,11 @@
       "tag": "TODO",
       "text": "Intake**: Scheduled and active (`0 * * * *`, task-3456) moni",
       "file": "06_PROOF/phase31_proof.md:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "\u2014 every bad case was a lambda closing over the",
+      "file": "06_PROOF/phase252_proof.md:124"
     },
     {
       "tag": "BUG",
@@ -3024,21 +3039,6 @@
       "tag": "BUG",
       "text": "M3-02 (Lower Dental Arch Bleed)",
       "file": ".agents/teamwork/worker_m3_remed13_2/handoff.md:56"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Chin Skin Penetration under Combined Articu",
-      "file": ".agents/teamwork/worker_m3_remed13_2/handoff.md:69"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01.",
-      "file": ".agents/teamwork/worker_m3_remed13_2/handoff.md:91"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03 are completely resolved without regressi",
-      "file": ".agents/teamwork/worker_m3_remed13_2/handoff.md:105"
     }
   ],
   "batch_powershell": [
@@ -3580,7 +3580,7 @@
     {
       "tag": "TODO",
       "text": "row: $X | Yh | tags (task-values.json).\"\"\"",
-      "file": "life/web.py:27"
+      "file": "life/web.py:28"
     },
     {
       "tag": "TODO",
@@ -4000,82 +4000,82 @@
     {
       "tag": "TODO",
       "text": "as a linked event.\"\"\"",
-      "file": "life/tests/test_calendar2.py:466"
+      "file": "life/tests/test_calendar2.py:467"
     },
     {
       "tag": "TODO",
       "text": "id\": \"7\", \"start\": \"2026-10-20T09:00\"})",
-      "file": "life/tests/test_calendar2.py:475"
+      "file": "life/tests/test_calendar2.py:476"
     },
     {
       "tag": "TODO",
       "text": "id\"], \"7\")",
-      "file": "life/tests/test_calendar2.py:478"
+      "file": "life/tests/test_calendar2.py:479"
     },
     {
       "tag": "TODO",
       "text": "and_bad_start(self):",
-      "file": "life/tests/test_calendar2.py:493"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
       "file": "life/tests/test_calendar2.py:494"
     },
     {
       "tag": "TODO",
-      "text": "id\": \"7\", \"start\": \"\"}))",
+      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
       "file": "life/tests/test_calendar2.py:495"
     },
     {
       "tag": "TODO",
-      "text": "not_scheduled(self):",
-      "file": "life/tests/test_calendar2.py:497"
+      "text": "id\": \"7\", \"start\": \"\"}))",
+      "file": "life/tests/test_calendar2.py:496"
     },
     {
       "tag": "TODO",
-      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
+      "text": "not_scheduled(self):",
       "file": "life/tests/test_calendar2.py:498"
     },
     {
       "tag": "TODO",
+      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:499"
+    },
+    {
+      "tag": "TODO",
       "text": "id=\"7\")",
-      "file": "life/tests/test_calendar2.py:503"
+      "file": "life/tests/test_calendar2.py:504"
     },
     {
       "tag": "TODO",
       "text": "id\": \"\"})",
-      "file": "life/tests/test_calendar2.py:588"
+      "file": "life/tests/test_calendar2.py:589"
     },
     {
       "tag": "TODO",
       "text": "Echo\\nDTSTART:20261020T100000\\nEND:VEVENT\\n\",",
-      "file": "life/tests/test_calendar2.py:815"
+      "file": "life/tests/test_calendar2.py:816"
     },
     {
       "tag": "TODO",
       "text": "echo one must match the dashboard's own todo-uid shape",
-      "file": "life/tests/test_calendar2.py:818"
-    },
-    {
-      "tag": "TODO",
-      "text": "42@life.local\")",
       "file": "life/tests/test_calendar2.py:819"
     },
     {
       "tag": "TODO",
-      "text": "Echo\", \"Odd Cat\"])",
-      "file": "life/tests/test_calendar2.py:821"
+      "text": "42@life.local\")",
+      "file": "life/tests/test_calendar2.py:820"
     },
     {
       "tag": "TODO",
-      "text": "Echo is a todo)",
+      "text": "Echo\", \"Odd Cat\"])",
       "file": "life/tests/test_calendar2.py:822"
     },
     {
       "tag": "TODO",
+      "text": "Echo is a todo)",
+      "file": "life/tests/test_calendar2.py:823"
+    },
+    {
+      "tag": "TODO",
       "text": "entry\", joined)",
-      "file": "life/tests/test_calendar2.py:827"
+      "file": "life/tests/test_calendar2.py:828"
     },
     {
       "tag": "TODO",
@@ -5444,6 +5444,21 @@
     }
   ],
   "Hermes": [
+    {
+      "tag": "TODO",
+      "text": "= [l for l in inbox if l not in seen][:5]",
+      "file": "scripts/agent_tick.py:84"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/agent_tick.py:85"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/agent_tick.py:94"
+    },
     {
       "tag": "TODO",
       "text": "...\" -> life.py add; \"spent 45 groceries\" -> money.py spend;",
@@ -11422,7 +11437,7 @@
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:117"
+      "file": "e2e.sh:118"
     },
     {
       "tag": "BUG",
@@ -11567,12 +11582,12 @@
     {
       "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:152"
+      "file": "CROSS_CORRELATED_ROADMAP.md:149"
     },
     {
       "tag": "BUG",
       "text": "#1)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:194"
+      "file": "CROSS_CORRELATED_ROADMAP.md:193"
     },
     {
       "tag": "BUG",
@@ -11662,7 +11677,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` | `TASK_H01` |",
-      "file": "ARCHITECTURE.md:70"
+      "file": "ARCHITECTURE.md:71"
     },
     {
       "tag": "TODO",
@@ -11672,17 +11687,17 @@
     {
       "tag": "BUG",
       "text": "fix`, `glitch_found`,",
-      "file": "AGENTS.md:126"
+      "file": "AGENTS.md:127"
     },
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:148"
+      "file": "AGENTS.md:152"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:152"
+      "file": "AGENTS.md:156"
     },
     {
       "tag": "TODO",
