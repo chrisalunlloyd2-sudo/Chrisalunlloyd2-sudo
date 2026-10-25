@@ -64,7 +64,8 @@
       "source": "Aegis_Agents",
       "target": "mindpalace",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -158,7 +159,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "mindpalace",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -384,7 +386,8 @@
       "source": "Machine2",
       "target": "mindpalace",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -539,7 +542,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "mindpalace",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -623,6 +627,13 @@
     },
     {
       "source": "mindpalace",
+      "target": "openrouter_manager",
+      "domains": [
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "mindpalace",
       "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
@@ -639,7 +650,8 @@
       "source": "mindpalace",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -956,6 +968,7 @@
       "Chrisalunlloyd2-sudo",
       "Machine2",
       "MATRIX_GEN8_HOME",
+      "mindpalace",
       "openrouter_manager",
       "SimsMerged"
     ],

@@ -13,7 +13,7 @@
 | `Aegis_Agents` | `MatrixCE_GUI` | Telemetry |
 | `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
-| `Aegis_Agents` | `mindpalace` | Telemetry |
+| `Aegis_Agents` | `mindpalace` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `Nova` | Telemetry |
 | `Aegis_Agents` | `openrouter_manager` | Agent/BDI |
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
@@ -26,7 +26,7 @@
 | `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `mindpalace` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `mindpalace` | Telemetry, Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI |
 | `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
@@ -58,7 +58,7 @@
 | `Machine2` | `MatrixCE_GUI` | Telemetry |
 | `Machine2` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
 | `Machine2` | `mind-palace` | Telemetry |
-| `Machine2` | `mindpalace` | Telemetry |
+| `Machine2` | `mindpalace` | Telemetry, Agent/BDI |
 | `Machine2` | `Nova` | Telemetry |
 | `Machine2` | `openrouter_manager` | Agent/BDI |
 | `Machine2` | `sims-java-neo-fx` | Telemetry |
@@ -80,7 +80,7 @@
 | `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
 | `MatrixCE_GUI` | `SimsMerged` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
-| `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry |
+| `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
 | `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
@@ -92,9 +92,10 @@
 | `mind-palace` | `sims-javafx-neo` | Telemetry |
 | `mind-palace` | `SimsMerged` | Telemetry |
 | `mindpalace` | `Nova` | Telemetry |
+| `mindpalace` | `openrouter_manager` | Agent/BDI |
 | `mindpalace` | `sims-java-neo-fx` | Telemetry |
 | `mindpalace` | `sims-javafx-neo` | Telemetry |
-| `mindpalace` | `SimsMerged` | Telemetry |
+| `mindpalace` | `SimsMerged` | Telemetry, Agent/BDI |
 | `Nova` | `sims-java-neo-fx` | Telemetry |
 | `Nova` | `sims-javafx-neo` | Telemetry |
 | `Nova` | `SimsMerged` | Telemetry |
