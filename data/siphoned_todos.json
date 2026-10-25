@@ -699,6 +699,11 @@
     {
       "tag": "BUG",
       "text": "has cost more time here than any other.",
+      "file": "mined/mined_fccdff7e_004718.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
       "file": "mined/mined_fccdff7e_003528.py:2"
     },
     {
@@ -710,6 +715,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_fccdff7e.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "add logic here",
+      "file": "mined/mined_faabfbe7_225234.py:46"
     },
     {
       "tag": "BUG",
@@ -819,6 +829,21 @@
     {
       "tag": "BUG",
       "text": "species.py scan hive_daemon` -- the boolean for this species",
+      "file": "mined/mined_f6e3a1c6_032451.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "REPORTS TO BIOLOGICAL HIVE",
+      "file": "mined/mined_f6e3a1c6_032451.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_f6e3a1c6_032451.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hive_daemon` -- the boolean for this species",
       "file": "mined/mined_f6e3a1c6_021950.py:2"
     },
     {
@@ -894,6 +919,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_f6c44e9d_031559.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_f6c44e9d_013211.py:2"
     },
     {
@@ -950,6 +980,11 @@
       "tag": "TODO",
       "text": "Add your actual implementation here",
       "file": "mined/mined_f5d23441_012327.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add your actual implementation here",
+      "file": "mined/mined_f5d23441_004608.py:33"
     },
     {
       "tag": "TODO",
@@ -1470,41 +1505,6 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_e786857a_224402.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e786857a_195310.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e786857a_160251.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e786857a.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_211306.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_211306.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_182613.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cell_tools` -- the boolean for this species ",
-      "file": "mined/mined_e704a03c_182613.py:14"
     }
   ],
   "Alice": [
@@ -3196,6 +3196,11 @@
     },
     {
       "tag": "BUG",
+      "text": "aid",
+      "file": "bdi_fsm/pressure_trace.py:114"
+    },
+    {
+      "tag": "BUG",
       "text": "that only shows up as \"it used to be better\".",
       "file": "bdi_fsm/markov_chat.py:225"
     },
@@ -3203,6 +3208,16 @@
       "tag": "BUG",
       "text": "in one day -- the :8765 keyword matcher",
       "file": "bdi_fsm/langdetect.py:71"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the first draft; the fix is to use the LOCAL energy for h",
+      "file": "bdi_fsm/enstrophy.py:99"
+    },
+    {
+      "tag": "BUG",
+      "text": "(first draft had it).",
+      "file": "bdi_fsm/enstrophy.py:418"
     },
     {
       "tag": "TODO",
@@ -3771,6 +3786,16 @@
       "tag": "TODO",
       "text": "per day (emails Chris).",
       "file": "life/airq.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "file expenses tomorrow\", \"reminder\", \"ok\",",
+      "file": "life/tests/test_voice_quickadd.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "done:true must be skipped by the calendar reader",
+      "file": "life/tests/test_voice_night.py:138"
     },
     {
       "tag": "TODO",
@@ -4344,6 +4369,16 @@
     }
   ],
   "code_rpg_engine": [
+    {
+      "tag": "BUG",
+      "text": "the live world exposed): `NPC.state` carries TWO",
+      "file": "outside/npc_moderation.py:74"
+    },
+    {
+      "tag": "BUG",
+      "text": "this caught): the first version inferred progress",
+      "file": "outside/npc_moderation.py:251"
+    },
     {
       "tag": "BUG",
       "text": "wrote it once, in passing, for free.",
@@ -5446,78 +5481,118 @@
   "Hermes": [
     {
       "tag": "TODO",
-      "text": "= [l for l in inbox if l not in seen][:5]",
-      "file": "scripts/agent_tick.py:84"
+      "text": "= inbox[:12] if kind == \"summarise\" else [l for l in inbox i",
+      "file": "scripts/agent_tick.py:105"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "scripts/agent_tick.py:85"
+      "file": "scripts/agent_tick.py:106"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "scripts/agent_tick.py:94"
+      "file": "scripts/agent_tick.py:121"
+    },
+    {
+      "tag": "BUG",
+      "text": "came from using the wrong item shape).",
+      "file": "blackboard-mirror/tasks/done/050-voice-shopping-add-read-tick-off.md:10"
+    },
+    {
+      "tag": "TODO",
+      "text": "id (optional link). `cal.py add/edit/rm/show`.",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "value badge ($ | h) when linked to a todo.",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:26"
+    },
+    {
+      "tag": "TODO",
+      "text": "form listing open todos (id, text, $, h); pick one + a start",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:30"
+    },
+    {
+      "tag": "TODO",
+      "text": "linked length, alert once-only, ICS import idempotency and",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "flow via curl with",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:60"
+    },
+    {
+      "tag": "TODO",
+      "text": "id",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:98"
+    },
+    {
+      "tag": "TODO",
+      "text": "linking events to todos with time_hours default",
+      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:103"
     },
     {
       "tag": "TODO",
       "text": "...\" -> life.py add; \"spent 45 groceries\" -> money.py spend;",
-      "file": "blackboard-mirror/tasks/done/043-life-notes-inbox.md:21"
+      "file": "blackboard-mirror/tasks/done/archive/043-life-notes-inbox.md:21"
     },
     {
       "tag": "TODO",
       "text": "/ spent N cat [note] / got paid N source / slept 8+ / had a ",
-      "file": "blackboard-mirror/tasks/done/043-life-notes-inbox.md:46"
+      "file": "blackboard-mirror/tasks/done/archive/043-life-notes-inbox.md:46"
     },
     {
       "tag": "TODO",
       "text": "text.",
-      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:26"
+      "file": "blackboard-mirror/tasks/done/archive/040-life-dash-plugins-and-values-panel.md:26"
     },
     {
       "tag": "TODO",
       "text": "with optional due/ctx/income/time/learn; mark done), Today (",
-      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:42"
+      "file": "blackboard-mirror/tasks/done/archive/040-life-dash-plugins-and-values-panel.md:42"
     },
     {
       "tag": "TODO",
       "text": "text containing shell metacharacters is stored verbatim and ",
-      "file": "blackboard-mirror/tasks/done/040-life-dash-plugins-and-values-panel.md:46"
+      "file": "blackboard-mirror/tasks/done/archive/040-life-dash-plugins-and-values-panel.md:46"
     },
     {
       "tag": "TODO",
       "text": "id in ~/.life/task-values.json",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:8"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:8"
     },
     {
       "tag": "TODO",
       "text": "\"Painting - 5 hours (retroactive)\", route chris, ctx work, m",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:25"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:25"
     },
     {
       "tag": "TODO",
       "text": "with that text exists).",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:26"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:26"
     },
     {
       "tag": "TODO",
       "text": "5's due date to 2026-10-04T21:00-06:00 if it has none.",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:27"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:27"
     },
     {
       "tag": "TODO",
       "text": "join via life.load()) + pending-value totals for open todos.",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:52"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:52"
     },
     {
       "tag": "TODO",
       "text": "5 rewired to \"Prep bathroom for next paint job\", due 2026-10",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:62"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:62"
     },
     {
       "tag": "TODO",
       "text": "id 9 \"Painting - 5 hours (retroactive)\", ctx work,",
-      "file": "blackboard-mirror/tasks/done/039-life-task-values-fix.md:63"
+      "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:63"
     },
     {
       "tag": "TODO",
@@ -5528,31 +5603,6 @@
       "tag": "TODO",
       "text": "real Amazon affiliate link\"; placeholder:true auto-set.",
       "file": "blackboard-mirror/tasks/done/archive/011-portfolio-content-pass.md:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "id (optional link). `cal.py add/edit/rm/show`.",
-      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "value badge ($ | h) when linked to a todo.",
-      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:26"
-    },
-    {
-      "tag": "TODO",
-      "text": "form listing open todos (id, text, $, h); pick one + a start",
-      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:30"
-    },
-    {
-      "tag": "TODO",
-      "text": "linked length, alert once-only, ICS import idempotency and",
-      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:52"
-    },
-    {
-      "tag": "TODO",
-      "text": "flow via curl with",
-      "file": "blackboard-mirror/tasks/doing/045-life-calendar-phase2.md:60"
     }
   ],
   "home": [
@@ -5923,6 +5973,778 @@
       "tag": "BUG",
       "text": "we fixed: treating an already-SATISFIED clause as a unit and",
       "file": "dpll_sat.md:6"
+    }
+  ],
+  "Life": [
+    {
+      "tag": "TODO",
+      "text": "row: $X | Yh | tags (task-values.json).\"\"\"",
+      "file": "life/web.py:28"
+    },
+    {
+      "tag": "TODO",
+      "text": "<text> | do: <text> | follow up: <text> | <https link> | spe",
+      "file": "life/voice.py:35"
+    },
+    {
+      "tag": "TODO",
+      "text": "id behind it",
+      "file": "life/task.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "(via life.py).",
+      "file": "life/stock.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "= any(t.get(\"key\") == key and not t[\"done\"] for t in todos)",
+      "file": "life/stock.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/stock.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement encryption + git push",
+      "file": "life/sophia_loops.py:260"
+    },
+    {
+      "tag": "TODO",
+      "text": "<text>                  -> life.py add <text>",
+      "file": "life/notes.py:10"
+    },
+    {
+      "tag": "TODO",
+      "text": "= re.compile(r\"^todo:\\s*(.+)$\", re.I)",
+      "file": "life/notes.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "text\")",
+      "file": "life/notes.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "+ reminder escalation. No LLM, no quota.",
+      "file": "life/life.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "{t['id']}\", t[\"text\"])]",
+      "file": "life/life.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "{t['id']})\")",
+      "file": "life/life.py:109"
+    },
+    {
+      "tag": "TODO",
+      "text": ", spent, bank, meal...) go to the",
+      "file": "life/dos.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "row: $X | Yh | tags.\"\"\"",
+      "file": "life/dash.py:84"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID]",
+      "file": "life/cal.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "id str|None (link to a todo, value badge),",
+      "file": "life/cal.py:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=None):",
+      "file": "life/cal.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = str(todo_id or \"\").strip()",
+      "file": "life/cal.py:201"
+    },
+    {
+      "tag": "TODO",
+      "text": "id) > 80:",
+      "file": "life/cal.py:202"
+    },
+    {
+      "tag": "TODO",
+      "text": "id too long\")",
+      "file": "life/cal.py:203"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id or None}",
+      "file": "life/cal.py:209"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=None):",
+      "file": "life/cal.py:213"
+    },
+    {
+      "tag": "TODO",
+      "text": "id)",
+      "file": "life/cal.py:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "src = changes[\"todo_id\"] if provided(\"todo_id\") else old.get",
+      "file": "life/cal.py:352"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = str(todo_src or \"\").strip() or None",
+      "file": "life/cal.py:353"
+    },
+    {
+      "tag": "TODO",
+      "text": "id or \"\") > 80:",
+      "file": "life/cal.py:354"
+    },
+    {
+      "tag": "TODO",
+      "text": "id too long\")",
+      "file": "life/cal.py:355"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=todo_id)",
+      "file": "life/cal.py:372"
+    },
+    {
+      "tag": "TODO",
+      "text": "\"):",
+      "file": "life/cal.py:1446"
+    },
+    {
+      "tag": "TODO",
+      "text": "entry - skipped (todos already feed the calendar)\")",
+      "file": "life/cal.py:1448"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID]\")",
+      "file": "life/cal.py:1495"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=o.get(\"--todo-id\"))",
+      "file": "life/cal.py:1502"
+    },
+    {
+      "tag": "TODO",
+      "text": "id ID|'']\")",
+      "file": "life/cal.py:1512"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", \"todo_id\")):",
+      "file": "life/cal.py:1519"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\") and str(v).strip().lower() in (\"none\", \"no\"):",
+      "file": "life/cal.py:1522"
+    },
+    {
+      "tag": "TODO",
+      "text": "id: {ev.get('todo_id') or '-'}\")",
+      "file": "life/cal.py:1573"
+    },
+    {
+      "tag": "TODO",
+      "text": "{e['todo_id']})\" if e.get(\"todo_id\") else \"\"",
+      "file": "life/cal.py:1611"
+    },
+    {
+      "tag": "TODO",
+      "text": "per day (emails Chris).",
+      "file": "life/airq.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "file expenses tomorrow\", \"reminder\", \"ok\",",
+      "file": "life/tests/test_voice_quickadd.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "call Bob\"))",
+      "file": "life/tests/test_voice.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "cancel me\"))",
+      "file": "life/tests/test_voice.py:66"
+    },
+    {
+      "tag": "TODO",
+      "text": "stale\"))",
+      "file": "life/tests/test_voice.py:73"
+    },
+    {
+      "tag": "TODO",
+      "text": "income 9\", \"todo: a\\nspent 5 food\", \"bank x y\", \"curl http:/",
+      "file": "life/tests/test_voice.py:82"
+    },
+    {
+      "tag": "TODO",
+      "text": "first\"))",
+      "file": "life/tests/test_voice.py:93"
+    },
+    {
+      "tag": "TODO",
+      "text": "second\"))",
+      "file": "life/tests/test_voice.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "second\")",
+      "file": "life/tests/test_voice.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "call Bob\\n\")",
+      "file": "life/tests/test_vault_pull.py:60"
+    },
+    {
+      "tag": "TODO",
+      "text": "call Bob\\n\")",
+      "file": "life/tests/test_vault_pull.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "call Bob\\ntodo: buy tape\\n\")",
+      "file": "life/tests/test_vault_pull.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "not a real note\\n\")",
+      "file": "life/tests/test_vault_pull.py:74"
+    },
+    {
+      "tag": "HACK",
+      "text": "",
+      "file": "life/tests/test_task.py:50"
+    },
+    {
+      "tag": "TODO",
+      "text": "+ task-value join, filters, escaping. Temp LIFE_HOME only.\"\"",
+      "file": "life/tests/test_reminders.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "excluded",
+      "file": "life/tests/test_reminders.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "Order Primer tomorrow 3pm\")",
+      "file": "life/tests/test_quickadd.py:80"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\": (\"todo\", {\"text\": \"buy primer\"}),",
+      "file": "life/tests/test_notes.py:66"
+    },
+    {
+      "tag": "TODO",
+      "text": "call Sam  \": (\"todo\", {\"text\": \"call Sam\"}),",
+      "file": "life/tests/test_notes.py:67"
+    },
+    {
+      "tag": "TODO",
+      "text": "\", \"I had a scoop today\", \"spent 1e9 food\", \"spent -5 food\")",
+      "file": "life/tests/test_notes.py:81"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\\n\\nspent 45 groceries\\n\")",
+      "file": "life/tests/test_notes.py:112"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\", \"spent 45 groceries\"})",
+      "file": "life/tests/test_notes.py:116"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\\n\\nspent 45 groceries\\ntodo: second\\n\")",
+      "file": "life/tests/test_notes.py:120"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\\njust a thought\\nspent 45 groceries\\ntodo: --inco",
+      "file": "life/tests/test_notes.py:128"
+    },
+    {
+      "tag": "TODO",
+      "text": "income\" fails validation: stays a note",
+      "file": "life/tests/test_notes.py:130"
+    },
+    {
+      "tag": "TODO",
+      "text": "caf\\xe9 run\\n\" + b\"x\" * 200000)",
+      "file": "life/tests/test_notes.py:137"
+    },
+    {
+      "tag": "TODO",
+      "text": "stolen\\n\")",
+      "file": "life/tests/test_notes.py:155"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\")",
+      "file": "life/tests/test_notes.py:174"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\")",
+      "file": "life/tests/test_notes.py:226"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + payload)",
+      "file": "life/tests/test_notes.py:234"
+    },
+    {
+      "tag": "TODO",
+      "text": "due\\ntodo: -x\\nspent 5 food --kind\\n\")",
+      "file": "life/tests/test_notes.py:243"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy primer\")",
+      "file": "life/tests/test_notes.py:248"
+    },
+    {
+      "tag": "TODO",
+      "text": "x\")",
+      "file": "life/tests/test_notes.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "paint <b>trim</b>\\nspent 45 groceries\\nhello <script>alert(1",
+      "file": "life/tests/test_notes.py:289"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy tape\\nread https://example.com/x about trim\\n-weird\")",
+      "file": "life/tests/test_expansion.py:268"
+    },
+    {
+      "tag": "TODO",
+      "text": "buy tape\" for p in n.pending()))",
+      "file": "life/tests/test_expansion.py:275"
+    },
+    {
+      "tag": "TODO",
+      "text": "with_values_then_mark_done(self):",
+      "file": "life/tests/test_dash.py:201"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t-9\")",
+      "file": "life/tests/test_calendar2.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"], \"t-9\")",
+      "file": "life/tests/test_calendar2.py:68"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"])",
+      "file": "life/tests/test_calendar2.py:75"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t\" * 81)",
+      "file": "life/tests/test_calendar2.py:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"\")",
+      "file": "life/tests/test_calendar2.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"])",
+      "file": "life/tests/test_calendar2.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:174"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:193"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:198"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"t1\")",
+      "file": "life/tests/test_calendar2.py:357"
+    },
+    {
+      "tag": "TODO",
+      "text": "as a linked event.\"\"\"",
+      "file": "life/tests/test_calendar2.py:467"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"7\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:476"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"], \"7\")",
+      "file": "life/tests/test_calendar2.py:479"
+    },
+    {
+      "tag": "TODO",
+      "text": "and_bad_start(self):",
+      "file": "life/tests/test_calendar2.py:494"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"99\", \"start\": \"2026-10-20T09:00\"}), \"unknown todo 99\")",
+      "file": "life/tests/test_calendar2.py:495"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"7\", \"start\": \"\"}))",
+      "file": "life/tests/test_calendar2.py:496"
+    },
+    {
+      "tag": "TODO",
+      "text": "not_scheduled(self):",
+      "file": "life/tests/test_calendar2.py:498"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"8\", \"start\": \"2026-10-20T09:00\"})",
+      "file": "life/tests/test_calendar2.py:499"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=\"7\")",
+      "file": "life/tests/test_calendar2.py:504"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": \"\"})",
+      "file": "life/tests/test_calendar2.py:589"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo\\nDTSTART:20261020T100000\\nEND:VEVENT\\n\",",
+      "file": "life/tests/test_calendar2.py:816"
+    },
+    {
+      "tag": "TODO",
+      "text": "echo one must match the dashboard's own todo-uid shape",
+      "file": "life/tests/test_calendar2.py:819"
+    },
+    {
+      "tag": "TODO",
+      "text": "42@life.local\")",
+      "file": "life/tests/test_calendar2.py:820"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo\", \"Odd Cat\"])",
+      "file": "life/tests/test_calendar2.py:822"
+    },
+    {
+      "tag": "TODO",
+      "text": "Echo is a todo)",
+      "file": "life/tests/test_calendar2.py:823"
+    },
+    {
+      "tag": "TODO",
+      "text": "entry\", joined)",
+      "file": "life/tests/test_calendar2.py:828"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(D(\"2026-10-01T00:00\"), D(\"2026-11-01T00:00\"))",
+      "file": "life/tests/test_calendar.py:231"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(D(\"2026-11-01T00:00\"), D(\"2026-12-01T00:00\")), [])",
+      "file": "life/tests/test_calendar.py:233"
+    },
+    {
+      "tag": "TODO",
+      "text": "not_late(self):",
+      "file": "life/tests/test_calendar.py:235"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(D(\"2020-01-01T00:00\"), D(\"2020-02-01T00:00\"))",
+      "file": "life/tests/test_calendar.py:237"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(D(\"2020-01-01T00:00\"), D(\"2020-02-01T00:00\"))",
+      "file": "life/tests/test_calendar.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/tests/e2e_dash.sh:72"
+    },
+    {
+      "tag": "TODO",
+      "text": ">/dev/null",
+      "file": "life/tests/e2e_dash.sh:91"
+    },
+    {
+      "tag": "TODO",
+      "text": "panel renders\" || echo \"FAIL schedule todo panel\"",
+      "file": "life/tests/e2e_dash.sh:93"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=1\" --data-urlencode \"start=2026-10-19T10:00\" $B/action/Ca",
+      "file": "life/tests/e2e_dash.sh:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "shows value badge\" || echo \"FAIL value badge on agenda\"",
+      "file": "life/tests/e2e_dash.sh:102"
+    },
+    {
+      "tag": "TODO",
+      "text": "ids 1..2, same hour for due parse)",
+      "file": "life/tests/_golden.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "{tid}\"",
+      "file": "life/sections/taskvalues.py:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "{tid} value saved\"",
+      "file": "life/sections/taskvalues.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "added\"",
+      "file": "life/sections/reminders.py:194"
+    },
+    {
+      "tag": "TODO",
+      "text": "todos with a due date (life.py DB); done = struck through, l",
+      "file": "life/sections/calendar.py:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8a5a00;--c-event:#0a7d6f;--c-stock:#5b4bb7;--c-cron:#777;",
+      "file": "life/sections/calendar.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "#e0b050;--c-event:#25b09a;--c-stock:#a99cf0;--c-cron:#999;",
+      "file": "life/sections/calendar.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(d_start, d_end):",
+      "file": "life/sections/calendar.py:126"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + str(t.get(\"id\", \"?\")), src=\"todo\",",
+      "file": "life/sections/calendar.py:145"
+    },
+    {
+      "tag": "TODO",
+      "text": "badge(todo_id):",
+      "file": "life/sections/calendar.py:153"
+    },
+    {
+      "tag": "TODO",
+      "text": "id; None when unknown.\"\"\"",
+      "file": "life/sections/calendar.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:155"
+    },
+    {
+      "tag": "TODO",
+      "text": "id):",
+      "file": "life/sections/calendar.py:159"
+    },
+    {
+      "tag": "TODO",
+      "text": "badge(ev.get(\"todo_id\"))",
+      "file": "life/sections/calendar.py:173"
+    },
+    {
+      "tag": "TODO",
+      "text": "items(d_start, d_end) + (stock_items(d_start, d_end) if show",
+      "file": "life/sections/calendar.py:332"
+    },
+    {
+      "tag": "TODO",
+      "text": "value badge (task 045 step 4).\"\"\"",
+      "file": "life/sections/calendar.py:632"
+    },
+    {
+      "tag": "TODO",
+      "text": "options():",
+      "file": "life/sections/calendar.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, repeat_extra).\"\"\"",
+      "file": "life/sections/calendar.py:762"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\") or \"\"), rd or {})",
+      "file": "life/sections/calendar.py:772"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, repeat_extra=None, eid=None):",
+      "file": "life/sections/calendar.py:775"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", todo_options(), todo_id)",
+      "file": "life/sections/calendar.py:787"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + td + \"</label>\"",
+      "file": "life/sections/calendar.py:803"
+    },
+    {
+      "tag": "TODO",
+      "text": "pick one + a start -> linked event, length = todo hours (ste",
+      "file": "life/sections/calendar.py:941"
+    },
+    {
+      "tag": "TODO",
+      "text": "options()",
+      "file": "life/sections/calendar.py:942"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + _sel_sel(\"todo_id\", opts) + \"</label>\"",
+      "file": "life/sections/calendar.py:947"
+    },
+    {
+      "tag": "TODO",
+      "text": "hours; the event links back to the todo; nothing is marked d",
+      "file": "life/sections/calendar.py:950"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + str(t.get(\"id\", \"?\")), \"title\": str(t.get(\"text\", \"\")),",
+      "file": "life/sections/calendar.py:1103"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\", \"repeat\", \"category\", \"alerts\"):",
+      "file": "life/sections/calendar.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\":",
+      "file": "life/sections/calendar.py:1132"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\"] = web.clean_text(form, \"todo_id\", 80)  # '' clears the ",
+      "file": "life/sections/calendar.py:1133"
+    },
+    {
+      "tag": "TODO",
+      "text": "linked event, length = the todo's hours (step 6).\"\"\"",
+      "file": "life/sections/calendar.py:1244"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = web.clean_text(form, \"todo_id\", 80)",
+      "file": "life/sections/calendar.py:1245"
+    },
+    {
+      "tag": "TODO",
+      "text": "id:",
+      "file": "life/sections/calendar.py:1247"
+    },
+    {
+      "tag": "TODO",
+      "text": "first\"",
+      "file": "life/sections/calendar.py:1248"
+    },
+    {
+      "tag": "TODO",
+      "text": "= next((t for t in web.rd(life.DB, []) if isinstance(t, dict",
+      "file": "life/sections/calendar.py:1252"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/sections/calendar.py:1253"
+    },
+    {
+      "tag": "TODO",
+      "text": "\" + todo_id",
+      "file": "life/sections/calendar.py:1254"
+    },
+    {
+      "tag": "TODO",
+      "text": "is already done - nothing scheduled\"",
+      "file": "life/sections/calendar.py:1256"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, {})",
+      "file": "life/sections/calendar.py:1260"
+    },
+    {
+      "tag": "TODO",
+      "text": "id=todo_id)",
+      "file": "life/sections/calendar.py:1271"
+    },
+    {
+      "tag": "TODO",
+      "text": "...</code>, <code>spent 12 food</code> or <code>meal dinner ",
+      "file": "life/sections/braindump.py:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "repaint the hallway` | A todo |",
+      "file": "docs/HOW-TO-USE.md:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "|",
+      "file": "docs/HOW-TO-USE.md:24"
     }
   ],
   "living-ascii-art": [
@@ -11432,12 +12254,12 @@
     {
       "tag": "TODO",
       "text": "crystals\",\"08_hall_lookback\",\"09_agents\",\"10_portal_pad\",",
-      "file": "e2e.sh:75"
+      "file": "e2e.sh:83"
     },
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:118"
+      "file": "e2e.sh:126"
     },
     {
       "tag": "BUG",
@@ -11508,6 +12330,11 @@
       "tag": "BUG",
       "text": "/ feature / docs / hypothesis-step \u2014 evidence-first, pre-ans",
       "file": "README.md:684"
+    },
+    {
+      "tag": "BUG",
+      "text": "quiet 45.5fps avg / worst 54ms \u2014 the earlier \"120fps\" readou",
+      "file": "NEXT_100_STEPS.md:49"
     },
     {
       "tag": "TODO",
@@ -11655,6 +12482,31 @@
       "file": "CHANGELOG.md:181"
     },
     {
+      "tag": "TODO",
+      "text": "crystals (38964fa)",
+      "file": "CHANGELOG.md:243"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals (a5cecea)",
+      "file": "CHANGELOG.md:247"
+    },
+    {
+      "tag": "TODO",
+      "text": "grep -> mindpalace_memory/repo_sweep), RepoSweepData.ingest ",
+      "file": "CHANGELOG.md:265"
+    },
+    {
+      "tag": "BUG",
+      "text": "class f93d235) (244313e)",
+      "file": "CHANGELOG.md:305"
+    },
+    {
+      "tag": "BUG",
+      "text": "class cbb33ad) (b145a18)",
+      "file": "CHANGELOG.md:306"
+    },
+    {
       "tag": "BUG",
       "text": "| Evidence | Fix |",
       "file": "BUILD_PLAN.md:9"
@@ -11677,7 +12529,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` | `TASK_H01` |",
-      "file": "ARCHITECTURE.md:71"
+      "file": "ARCHITECTURE.md:72"
     },
     {
       "tag": "TODO",
@@ -11686,18 +12538,18 @@
     },
     {
       "tag": "BUG",
-      "text": "fix`, `glitch_found`,",
-      "file": "AGENTS.md:127"
+      "text": "fix`, `glitch_found`, `perf_improvement`, `feature`) live on",
+      "file": "AGENTS.md:130"
     },
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:152"
+      "file": "AGENTS.md:155"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:156"
+      "file": "AGENTS.md:159"
     },
     {
       "tag": "TODO",
@@ -11893,6 +12745,11 @@
       "tag": "TODO",
       "text": "crystals` and `12_door_prompt` capture dark \u2014",
       "file": "docs/TEST_PLAN.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "crystals` \u2026 `32_door_portal_open`); decode them with",
+      "file": "docs/PERFORMANCE.md:45"
     },
     {
       "tag": "BUG",
