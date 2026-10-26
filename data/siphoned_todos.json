@@ -1119,6 +1119,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_ee4a5928_011524.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_ee4a5928.py:2"
     },
     {
@@ -1500,11 +1505,6 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_e786857a_235536.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e786857a_224402.py:2"
     }
   ],
   "Alice": [
@@ -1642,6 +1642,11 @@
       "tag": "TODO",
       "text": "gist / D4 dup-digest / D5 nectar / D6 micro-drought / D7 des",
       "file": "notes/awaits.md:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "triage lane",
+      "file": "notes/D-DECISIONS.md:14"
     }
   ],
   "alice-companion": [
@@ -3599,6 +3604,16 @@
     },
     {
       "tag": "TODO",
+      "text": "",
+      "file": "life/voice_review.py:448"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/voice_review.py:471"
+    },
+    {
+      "tag": "TODO",
       "text": "<text> | do: <text> | follow up: <text> | <https link> | spe",
       "file": "life/voice.py:35"
     },
@@ -3786,6 +3801,36 @@
       "tag": "TODO",
       "text": "per day (emails Chris).",
       "file": "life/airq.py:4"
+    },
+    {
+      "tag": "TODO",
+      "text": "1\"]},",
+      "file": "life/tests/test_voice_review.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "2\"],",
+      "file": "life/tests/test_voice_review.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "1, shop-1, todo-2)\\n\"",
+      "file": "life/tests/test_voice_review.py:92"
+    },
+    {
+      "tag": "TODO",
+      "text": "2 (undone %sT08:12:00Z)\\n\"",
+      "file": "life/tests/test_voice_review.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "2\", undone_part)",
+      "file": "life/tests/test_voice_review.py:212"
+    },
+    {
+      "tag": "TODO",
+      "text": "1\", undone_part)",
+      "file": "life/tests/test_voice_review.py:213"
     },
     {
       "tag": "TODO",
@@ -5495,6 +5540,16 @@
       "file": "scripts/agent_tick.py:121"
     },
     {
+      "tag": "TODO",
+      "text": "> doing -> done), recording every command needed per transit",
+      "file": "blackboard-mirror/tasks/done/064-kanban-pilot-mirror.md:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "in chatter hourly caps and a param-shadowing bug in eviction",
+      "file": "blackboard-mirror/tasks/done/057-always-on-basement-assistant.md:35"
+    },
+    {
       "tag": "BUG",
       "text": "came from using the wrong item shape).",
       "file": "blackboard-mirror/tasks/done/050-voice-shopping-add-read-tick-off.md:10"
@@ -5502,37 +5557,37 @@
     {
       "tag": "TODO",
       "text": "id (optional link). `cal.py add/edit/rm/show`.",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:18"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:18"
     },
     {
       "tag": "TODO",
       "text": "value badge ($ | h) when linked to a todo.",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:26"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:26"
     },
     {
       "tag": "TODO",
       "text": "form listing open todos (id, text, $, h); pick one + a start",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:30"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:30"
     },
     {
       "tag": "TODO",
       "text": "linked length, alert once-only, ICS import idempotency and",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:52"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:52"
     },
     {
       "tag": "TODO",
       "text": "flow via curl with",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:60"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:60"
     },
     {
       "tag": "TODO",
       "text": "id",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:98"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:98"
     },
     {
       "tag": "TODO",
       "text": "linking events to todos with time_hours default",
-      "file": "blackboard-mirror/tasks/done/045-life-calendar-phase2.md:103"
+      "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:103"
     },
     {
       "tag": "TODO",
@@ -5688,7 +5743,7 @@
     {
       "tag": "BUG",
       "text": "print from `main_loop()`",
-      "file": "CHANGELOG.md:49"
+      "file": "CHANGELOG.md:65"
     },
     {
       "tag": "BUG",
@@ -5983,6 +6038,16 @@
     },
     {
       "tag": "TODO",
+      "text": "",
+      "file": "life/voice_review.py:448"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "life/voice_review.py:471"
+    },
+    {
+      "tag": "TODO",
       "text": "<text> | do: <text> | follow up: <text> | <https link> | spe",
       "file": "life/voice.py:35"
     },
@@ -6173,8 +6238,43 @@
     },
     {
       "tag": "TODO",
+      "text": "1\"]},",
+      "file": "life/tests/test_voice_review.py:22"
+    },
+    {
+      "tag": "TODO",
+      "text": "2\"],",
+      "file": "life/tests/test_voice_review.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "1, shop-1, todo-2)\\n\"",
+      "file": "life/tests/test_voice_review.py:92"
+    },
+    {
+      "tag": "TODO",
+      "text": "2 (undone %sT08:12:00Z)\\n\"",
+      "file": "life/tests/test_voice_review.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "2\", undone_part)",
+      "file": "life/tests/test_voice_review.py:212"
+    },
+    {
+      "tag": "TODO",
+      "text": "1\", undone_part)",
+      "file": "life/tests/test_voice_review.py:213"
+    },
+    {
+      "tag": "TODO",
       "text": "file expenses tomorrow\", \"reminder\", \"ok\",",
       "file": "life/tests/test_voice_quickadd.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "done:true must be skipped by the calendar reader",
+      "file": "life/tests/test_voice_night.py:138"
     },
     {
       "tag": "TODO",
@@ -7654,132 +7754,132 @@
     {
       "tag": "TODO",
       "text": "id, text, source=\"todo_crawl\", repo=None, bid=None, run_afte",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:309"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:342"
     },
     {
       "tag": "TODO",
       "text": "on the board. Idempotent on todo_id \u2014 re-offering never dupl",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:310"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:343"
     },
     {
       "tag": "TODO",
       "text": "id in d:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:320"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:353"
     },
     {
       "tag": "TODO",
       "text": "id}",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:321"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:354"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:322"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:355"
     },
     {
       "tag": "TODO",
       "text": "id, \"text\": str(text)[:400], \"source\": source, \"repo\": repo,",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:323"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:356"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:331"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:364"
     },
     {
       "tag": "TODO",
       "text": "crawl, which is now honest about what a task is.\"\"\"",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:336"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:369"
     },
     {
       "tag": "TODO",
       "text": "crawl",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:341"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:374"
     },
     {
       "tag": "TODO",
       "text": "crawl.crawl()",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:342"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:375"
     },
     {
       "tag": "BUG",
       "text": "once (two attempts on one contract collided in the pool",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:423"
-    },
-    {
-      "tag": "TODO",
-      "text": "ids=None, only_if=None):",
       "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:456"
     },
     {
       "tag": "TODO",
+      "text": "ids=None, only_if=None):",
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:489"
+    },
+    {
+      "tag": "TODO",
       "text": "ids is not None and tid not in todo_ids:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:479"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:512"
     },
     {
       "tag": "TODO",
       "text": "id, party, ok=True, evidence=\"\"):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:494"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:527"
     },
     {
       "tag": "TODO",
       "text": "crawl.tick_off already enforces:",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:497"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:530"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:504"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:537"
     },
     {
       "tag": "TODO",
       "text": "id, owner=party)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:507"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:540"
     },
     {
       "tag": "TODO",
       "text": "id))))",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:535"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:568"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:546"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:579"
     },
     {
       "tag": "TODO",
       "text": "id, rec in d.items():",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:576"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:609"
     },
     {
       "tag": "TODO",
       "text": "id, type(e).__name__, str(e)[:100]))",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:586"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:619"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:598"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:631"
     },
     {
       "tag": "TODO",
       "text": "id, party, why=\"\"):",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:604"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:637"
     },
     {
       "tag": "TODO",
       "text": "id, owner=party)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:606"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:639"
     },
     {
       "tag": "TODO",
       "text": "id)",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:608"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:641"
     },
     {
       "tag": "TODO",
       "text": "id] = rec",
-      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:615"
+      "file": "BDI_FSM_AGENT/bdi_fsm/contracts.py:648"
     },
     {
       "tag": "TODO",
