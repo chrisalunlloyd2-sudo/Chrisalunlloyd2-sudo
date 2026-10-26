@@ -5,8 +5,8 @@
       "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -27,8 +27,8 @@
       "source": "Aegis_Agents",
       "target": "Machine2",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -49,8 +49,8 @@
       "source": "Aegis_Agents",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -64,8 +64,8 @@
       "source": "Aegis_Agents",
       "target": "mindpalace",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -100,8 +100,8 @@
       "source": "Aegis_Agents",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -122,8 +122,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "Machine2",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -144,8 +144,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -159,8 +159,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "mindpalace",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -195,8 +195,8 @@
       "source": "Chrisalunlloyd2-sudo",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -371,8 +371,8 @@
       "source": "Machine2",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -386,8 +386,8 @@
       "source": "Machine2",
       "target": "mindpalace",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -422,8 +422,8 @@
       "source": "Machine2",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -542,8 +542,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "mindpalace",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -557,8 +557,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -579,8 +579,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -650,8 +650,8 @@
       "source": "mindpalace",
       "target": "SimsMerged",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -752,8 +752,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
