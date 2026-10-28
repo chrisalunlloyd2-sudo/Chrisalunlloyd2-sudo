@@ -704,6 +704,11 @@
     {
       "tag": "BUG",
       "text": "has cost more time here than any other.",
+      "file": "mined/mined_fccdff7e_003928.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "has cost more time here than any other.",
       "file": "mined/mined_fccdff7e_003528.py:2"
     },
     {
@@ -725,6 +730,11 @@
       "tag": "TODO",
       "text": "add logic here",
       "file": "mined/mined_faabfbe7_225234.py:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "add logic here",
+      "file": "mined/mined_faabfbe7_005936.py:46"
     },
     {
       "tag": "BUG",
@@ -1495,16 +1505,6 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_e98c6eef_162834.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e98c6eef_162659.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_e98c6eef_104602.py:2"
     }
   ],
   "Alice": [
