@@ -465,8 +465,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -480,8 +480,8 @@
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -517,8 +517,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -890,6 +890,16 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "location": "mined/mined_678b1c96_140935.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "species.py scan agent_book` -- the boolean for this species ",
       "location": "mined/mined_264521cf_143556.py:2",
       "domains": [
@@ -902,16 +912,6 @@
       "repo": "agent-squiggly",
       "task": "REPORTS & AGENT REPORT.",
       "location": "mined/mined_264521cf_143556.py:12",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "reports and agent reports. It uses bug_species.py to classif",
-      "location": "mined/mined_264521cf_143556.py:14",
       "domains": [
         "General"
       ]

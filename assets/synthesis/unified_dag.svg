@@ -105,7 +105,7 @@
 <title>MATRIX_GEN8_HOME</title>
 <path fill="#161b22" stroke="#58a6ff" d="M1776.25,-879.25C1776.25,-879.25 1619.25,-879.25 1619.25,-879.25 1613.25,-879.25 1607.25,-873.25 1607.25,-867.25 1607.25,-867.25 1607.25,-848.75 1607.25,-848.75 1607.25,-842.75 1613.25,-836.75 1619.25,-836.75 1619.25,-836.75 1776.25,-836.75 1776.25,-836.75 1782.25,-836.75 1788.25,-842.75 1788.25,-848.75 1788.25,-848.75 1788.25,-867.25 1788.25,-867.25 1788.25,-873.25 1782.25,-879.25 1776.25,-879.25"/>
 <text xml:space="preserve" text-anchor="middle" x="1697.75" y="-861.95" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">MATRIX_GEN8_HOME</text>
-<text xml:space="preserve" text-anchor="middle" x="1697.75" y="-844.7" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[API/Web, Telemetry]</text>
+<text xml:space="preserve" text-anchor="middle" x="1697.75" y="-844.7" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Telemetry, API/Web]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;MATRIX_GEN8_HOME -->
 <g id="edge7" class="edge">
@@ -133,7 +133,7 @@
 <title>mindpalace</title>
 <path fill="#161b22" stroke="#58a6ff" d="M2355,-784.25C2355,-784.25 2148.5,-784.25 2148.5,-784.25 2142.5,-784.25 2136.5,-778.25 2136.5,-772.25 2136.5,-772.25 2136.5,-753.75 2136.5,-753.75 2136.5,-747.75 2142.5,-741.75 2148.5,-741.75 2148.5,-741.75 2355,-741.75 2355,-741.75 2361,-741.75 2367,-747.75 2367,-753.75 2367,-753.75 2367,-772.25 2367,-772.25 2367,-778.25 2361,-784.25 2355,-784.25"/>
 <text xml:space="preserve" text-anchor="middle" x="2251.75" y="-766.95" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">mindpalace</text>
-<text xml:space="preserve" text-anchor="middle" x="2251.75" y="-749.7" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Telemetry, Orchestration]</text>
+<text xml:space="preserve" text-anchor="middle" x="2251.75" y="-749.7" font-family="Courier,monospace" font-size="14.00" fill="#c9d1d9">[Orchestration, Telemetry]</text>
 </g>
 <!-- Aegis_Agents&#45;&gt;mindpalace -->
 <g id="edge9" class="edge">
@@ -574,7 +574,7 @@
 <title>MatrixCE_GUI&#45;&gt;MATRIX_GEN8_HOME</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1438.12,-329.46C1471.08,-380.77 1553.04,-515.59 1589.25,-640.75 1600.13,-678.36 1584.59,-784.07 1607.25,-816 1611.28,-821.68 1616.28,-826.61 1621.84,-830.89"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="1620.06,-833.07 1628.24,-835.3 1623.24,-828.46 1620.06,-833.07"/>
-<text xml:space="preserve" text-anchor="middle" x="1560.38" y="-643.45" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text xml:space="preserve" text-anchor="middle" x="1560.38" y="-643.45" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MatrixCE_GUI&#45;&gt;mindpalace -->
 <g id="edge66" class="edge">
@@ -588,7 +588,7 @@
 <title>MatrixCE_GUI&#45;&gt;openrouter_manager</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1513.64,-293.45C1605.74,-279.28 1753.44,-258.75 1882,-250.75 2131.29,-235.23 2194.46,-260.86 2442.75,-288 2445.47,-288.3 2448.23,-288.61 2451.01,-288.92"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="2450.46,-291.68 2458.73,-289.82 2451.11,-286.12 2450.46,-291.68"/>
-<text xml:space="preserve" text-anchor="middle" x="1951.88" y="-253.45" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text xml:space="preserve" text-anchor="middle" x="1951.88" y="-253.45" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MatrixCE_GUI&#45;&gt;SimsMerged -->
 <g id="edge68" class="edge">
@@ -623,7 +623,7 @@
 <title>MATRIX_GEN8_HOME&#45;&gt;openrouter_manager</title>
 <path fill="none" stroke="#58a6ff" stroke-width="1.2" d="M1766.6,-836.33C1775.08,-830.94 1782.7,-824.27 1788.25,-816 1810.68,-782.56 1780.02,-484.55 1806.25,-454 1848.13,-405.22 2258.23,-342.52 2451.03,-315.44"/>
 <polygon fill="#58a6ff" stroke="#58a6ff" stroke-width="1.2" points="2451.27,-318.23 2458.8,-314.35 2450.49,-312.69 2451.27,-318.23"/>
-<text xml:space="preserve" text-anchor="middle" x="2079.12" y="-384.7" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> API/Web </text>
+<text xml:space="preserve" text-anchor="middle" x="2079.12" y="-384.7" font-family="Courier,monospace" font-size="9.00" fill="#8b949e"> Agent/BDI </text>
 </g>
 <!-- MATRIX_GEN8_HOME&#45;&gt;sims&#45;java&#45;neo&#45;fx -->
 <g id="edge73" class="edge">
