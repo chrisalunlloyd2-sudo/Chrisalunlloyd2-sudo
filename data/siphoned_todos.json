@@ -657,6 +657,11 @@
       "file": "mined/mined_486ce86b_141912.py:34"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan hero_curriculum` -- the boolean for this spe",
+      "file": "mined/mined_678b1c96_140935.py:2"
+    },
+    {
       "tag": "TODO",
       "text": "implement the generation of tasks based on the current state",
       "file": "mined/mined_b51bbade_223458.py:37"
@@ -1379,6 +1384,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan gap_finder` -- the boolean for this species ",
+      "file": "mined/mined_79076cfd_114226.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan gap_finder` -- the boolean for this species ",
       "file": "mined/mined_79076cfd_093803.py:2"
     },
     {
@@ -1495,16 +1505,6 @@
       "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
       "file": "mined/mined_69d7a56a.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py module to classify the gist as a new species, and",
-      "file": "mined/mined_69d7a56a.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module. The self-test for the bug_species module sho",
-      "file": "mined/mined_69d7a56a.py:21"
     }
   ],
   "Alice": [
@@ -12434,7 +12434,7 @@
     {
       "tag": "TODO",
       "text": "crystals) measures ~1.5 full-frame. 1.0 splits",
-      "file": "e2e.sh:126"
+      "file": "e2e.sh:127"
     },
     {
       "tag": "BUG",
