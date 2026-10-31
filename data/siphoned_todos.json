@@ -588,6 +588,16 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_486ce86b_135828.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement the logic to detect proxies",
+      "file": "mined/mined_486ce86b_135828.py:34"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_231d7da1_143100.py:2"
     },
@@ -1138,6 +1148,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan docs_ingest` -- the boolean for this species",
+      "file": "mined/mined_6c440401_191606.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_b611889d_123742.py:2"
     },
@@ -1490,21 +1505,6 @@
       "tag": "TODO",
       "text": "Add a check to see if the referent still exists",
       "file": "mined/mined_e6946205_182137.py:25"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add a separate function to clean up orphans",
-      "file": "mined/mined_e6946205_182137.py:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_ca683322_194111.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_69d7a56a.py:2"
     }
   ],
   "Alice": [
