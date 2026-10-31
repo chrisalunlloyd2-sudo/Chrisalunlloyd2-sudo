@@ -109,8 +109,8 @@
 - 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_22d42ee7_001131.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_report` -- the boolean for this species *(mined/mined_4370e286.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py` to ensure that the cell's response is an error w *(mined/mined_4370e286.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_486ce86b_135828.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan hourly_notice` -- the boolean for this speci *(mined/mined_231d7da1_143100.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan auto_pusher` -- the boolean for this species *(mined/mined_e1e3ec17_111155.py:2)*
 - 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_e1e3ec17_111155.py:16)*
 - 🔴 **[BUG]** `agent-squiggly` → species.py scan aegis_survey` -- the boolean for this specie *(mined/mined_0f06dff8_185043.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py module." *(mined/mined_0f06dff8_185043.py:21)*

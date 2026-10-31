@@ -770,6 +770,16 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_486ce86b_135828.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "species.py scan hourly_notice` -- the boolean for this speci",
       "location": "mined/mined_231d7da1_143100.py:2",
       "domains": [
@@ -902,16 +912,6 @@
       "repo": "agent-squiggly",
       "task": "species.py scan agent_book` -- the boolean for this species ",
       "location": "mined/mined_264521cf_143556.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "REPORTS & AGENT REPORT.",
-      "location": "mined/mined_264521cf_143556.py:12",
       "domains": [
         "General"
       ]
