@@ -1893,6 +1893,136 @@
     },
     {
       "tag": "TODO",
+      "text": "lines and a push in 30 days\",",
+      "file": "tape/tape_bridge.py:43"
+    },
+    {
+      "tag": "TODO",
+      "text": "line)",
+      "file": "tape/tapeflow.py:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "line, an agent, or a SLOT (a destination such as @archive, @",
+      "file": "tape/tapeflow.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "lines, not what a project is for.",
+      "file": "tape/tapeflow.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "lines AND a push in the last `days`: work in progress, belon",
+      "file": "tape/tapeflow.py:170"
+    },
+    {
+      "tag": "TODO",
+      "text": "cell per unchecked '- [ ]' line in the top-level *.md files.",
+      "file": "tape/tapeflow.py:253"
+    },
+    {
+      "tag": "TODO",
+      "text": "cells, have, by_remote = [], [], set(), {}",
+      "file": "tape/tapeflow.py:255"
+    },
+    {
+      "tag": "TODO",
+      "text": "cells.append(cell(\"todo\", \"%s/%s:%d\" % (name, fn, n), where=",
+      "file": "tape/tapeflow.py:279"
+    },
+    {
+      "tag": "TODO",
+      "text": "cells)       # repos first, todos after: a walk to a repo ne",
+      "file": "tape/tapeflow.py:286"
+    },
+    {
+      "tag": "TODO",
+      "text": "lines = \"\".join(\"- [ ] task %d\\n\" % i for i in range(6))",
+      "file": "tape/tapeflow.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "lines)",
+      "file": "tape/tapeflow.py:378"
+    },
+    {
+      "tag": "TODO",
+      "text": "comments gone from main and the newest backup) |",
+      "file": "tape/README.md:11"
+    },
+    {
+      "tag": "TODO",
+      "text": "whose marker text is gone from origin/main, or a promised fi",
+      "file": "tape/unfinished.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"^\\[(TODO|GAP|CONTRACT)\\]\\s+(.+?)(?::(\\d+))",
+      "file": "tape/unfinished.py:127"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.match(title)",
+      "file": "tape/unfinished.py:136"
+    },
+    {
+      "tag": "TODO",
+      "text": "%s:%s\" % (repo, m.group(1), m.group(2)[:60])",
+      "file": "tape/unfinished.py:145"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.match(title)",
+      "file": "tape/unfinished.py:155"
+    },
+    {
+      "tag": "TODO",
+      "text": "filed again after its line moved folds into one item\",",
+      "file": "tape/unfinished.py:347"
+    },
+    {
+      "tag": "TODO",
+      "text": "lines\" % n, STRONG if n >= 20 else WEAK if n >= 5 else -STRO",
+      "file": "tape/logic_units.py:103"
+    },
+    {
+      "tag": "TODO",
+      "text": "counts, agents, gh snapshot, unfinished items.\"\"\"",
+      "file": "tape/logic_units.py:208"
+    },
+    {
+      "tag": "TODO",
+      "text": "sync merges by \"id\", swarm_ragnet_sync serves the whole obje",
+      "file": "tape/logic_units.py:230"
+    },
+    {
+      "tag": "TODO",
+      "text": "sync's merge). -> (added, total).\"\"\"",
+      "file": "tape/logic_units.py:252"
+    },
+    {
+      "tag": "TODO",
+      "text": "marker is gone from the code, each with its evidence. Author",
+      "file": "tape/close_gone.py:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.match(title)",
+      "file": "tape/close_gone.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "comment still carrying the marker anywhere in the tree (TODO",
+      "file": "tape/close_gone.py:42"
+    },
+    {
+      "tag": "TODO",
+      "text": "comment carrying it anywhere in the tree on %s\" % (own.repla",
+      "file": "tape/close_gone.py:140"
+    },
+    {
+      "tag": "TODO",
       "text": "sync.\")",
       "file": "engine/tailscale_todo_sync.py:48"
     },
@@ -4340,7 +4470,7 @@
     {
       "tag": "TODO",
       "text": "file expenses tomorrow\", \"reminder\", \"ok\",",
-      "file": "life/tests/test_voice_quickadd.py:88"
+      "file": "life/tests/test_voice_quickadd.py:94"
     },
     {
       "tag": "TODO",
