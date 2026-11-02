@@ -5680,11 +5680,6 @@
       "file": "blackboard-mirror/tasks/done/057-always-on-basement-assistant.md:35"
     },
     {
-      "tag": "BUG",
-      "text": "came from using the wrong item shape).",
-      "file": "blackboard-mirror/tasks/done/050-voice-shopping-add-read-tick-off.md:10"
-    },
-    {
       "tag": "TODO",
       "text": "...\" -> life.py add; \"spent 45 groceries\" -> money.py spend;",
       "file": "blackboard-mirror/tasks/done/archive/043-life-notes-inbox.md:21"
@@ -5693,6 +5688,11 @@
       "tag": "TODO",
       "text": "/ spent N cat [note] / got paid N source / slept 8+ / had a ",
       "file": "blackboard-mirror/tasks/done/archive/043-life-notes-inbox.md:46"
+    },
+    {
+      "tag": "BUG",
+      "text": "came from using the wrong item shape).",
+      "file": "blackboard-mirror/tasks/done/archive/050-voice-shopping-add-read-tick-off.md:10"
     },
     {
       "tag": "TODO",
@@ -12734,12 +12734,12 @@
     {
       "tag": "BUG",
       "text": "#2 + BLUEPRINT diagnosis)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:149"
+      "file": "CROSS_CORRELATED_ROADMAP.md:141"
     },
     {
       "tag": "BUG",
       "text": "#1)",
-      "file": "CROSS_CORRELATED_ROADMAP.md:193"
+      "file": "CROSS_CORRELATED_ROADMAP.md:185"
     },
     {
       "tag": "TODO",
