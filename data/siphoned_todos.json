@@ -787,6 +787,21 @@
       "file": "mined/mined_15cc8520.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_ce206c0b_102752.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "mined/mined_ce206c0b_102752.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` module, but nothing seems to be causing the",
+      "file": "mined/mined_ce206c0b_102752.py:18"
+    },
+    {
       "tag": "TODO",
       "text": "Define orphan_finder function with appropriate docstring",
       "file": "mined/mined_e6946205_173432.py:23"
@@ -1490,21 +1505,6 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_cb25b931_125342.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Define orphan_finder function with appropriate docstring",
-      "file": "mined/mined_e6946205_182137.py:23"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add exception handling and logging",
-      "file": "mined/mined_e6946205_182137.py:24"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add a check to see if the referent still exists",
-      "file": "mined/mined_e6946205_182137.py:25"
     }
   ],
   "Alice": [
@@ -5666,18 +5666,8 @@
   "Hermes": [
     {
       "tag": "TODO",
-      "text": "> doing -> done), recording every command needed per transit",
-      "file": "blackboard-mirror/tasks/done/064-kanban-pilot-mirror.md:10"
-    },
-    {
-      "tag": "TODO",
       "text": "`, `enquiry:`). What is MISSING is the deterministic context",
       "file": "blackboard-mirror/tasks/done/068-triage-intake-router.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "in chatter hourly caps and a param-shadowing bug in eviction",
-      "file": "blackboard-mirror/tasks/done/057-always-on-basement-assistant.md:35"
     },
     {
       "tag": "TODO",
@@ -5688,6 +5678,16 @@
       "tag": "TODO",
       "text": "/ spent N cat [note] / got paid N source / slept 8+ / had a ",
       "file": "blackboard-mirror/tasks/done/archive/043-life-notes-inbox.md:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "> doing -> done), recording every command needed per transit",
+      "file": "blackboard-mirror/tasks/done/archive/064-kanban-pilot-mirror.md:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "in chatter hourly caps and a param-shadowing bug in eviction",
+      "file": "blackboard-mirror/tasks/done/archive/057-always-on-basement-assistant.md:35"
     },
     {
       "tag": "BUG",
