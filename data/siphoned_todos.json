@@ -577,6 +577,26 @@
       "file": "mined/mined_22d42ee7_001131.py:2"
     },
     {
+      "tag": "TODO",
+      "text": "Define orphan_finder function with appropriate docstring",
+      "file": "mined/mined_e6946205_055004.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add exception handling and logging",
+      "file": "mined/mined_e6946205_055004.py:24"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a check to see if the referent still exists",
+      "file": "mined/mined_e6946205_055004.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "Add a separate function to clean up orphans",
+      "file": "mined/mined_e6946205_055004.py:26"
+    },
+    {
       "tag": "BUG",
       "text": "species.py scan cell_report` -- the boolean for this species",
       "file": "mined/mined_4370e286.py:2"
@@ -935,6 +955,11 @@
       "tag": "BUG",
       "text": "has cost more time here than any other.",
       "file": "mined/mined_37b6dadf.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan batch_layers` -- the boolean for this specie",
+      "file": "mined/mined_69a5e837_084250.py:2"
     },
     {
       "tag": "BUG",
@@ -1448,6 +1473,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan lexicon_compiler` -- the boolean for this sp",
+      "file": "mined/mined_2f44dd09_195447.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
       "file": "mined/mined_7898d7f0_143051.py:2"
     },
@@ -1475,36 +1505,6 @@
       "tag": "BUG",
       "text": "in the",
       "file": "mined/mined_af3e1549.py:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "has something standing guard over it.",
-      "file": "mined/mined_af3e1549.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "is not yet known fixed. Each test encodes the",
-      "file": "mined/mined_af3e1549.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hourly_notice` -- the boolean for this speci",
-      "file": "mined/mined_231d7da1_022112.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Add logic to run test case",
-      "file": "mined/mined_5c2444a1_092703.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_c6fffc01_031420.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_cb25b931_125342.py:2"
     }
   ],
   "Alice": [
