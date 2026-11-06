@@ -69,14 +69,14 @@
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `SimsMerged` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web |
 | `MatrixCE_GUI` | `mindpalace` | Agent/BDI |
-| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Telemetry, Agent/BDI |
@@ -104,13 +104,13 @@
 - 🔴 **[BUG]** `Aegis-GAN-OTG` → display mode engaged (for evolutionary biologists)') *(karoo_gp/pause.py:75)*
 - 🔴 **[BUG]** `Aegis-GAN-OTG` → or set expected output for tests *(karoo_gp/test/util.py:42)*
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
-- 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_22d42ee7_001131.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan cell_report` -- the boolean for this species *(mined/mined_4370e286.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py` to ensure that the cell's response is an error w *(mined/mined_4370e286.py:16)*
-- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_486ce86b_135828.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan hourly_notice` -- the boolean for this speci *(mined/mined_231d7da1_143100.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan auto_pusher` -- the boolean for this species *(mined/mined_e1e3ec17_111155.py:2)*
-- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_e1e3ec17_111155.py:16)*
-- 🔴 **[BUG]** `agent-squiggly` → species.py scan aegis_survey` -- the boolean for this specie *(mined/mined_0f06dff8_185043.py:2)*
+- 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan block_repair` -- the boolean for this specie *(mined/mined_d0a7faa0.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan aegis_conductor` -- the boolean for this spe *(mined/mined_03b40667_090026.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_03b40667_090026.py:19)*
+- 🔴 **[BUG]** `agent-squiggly` → has cost more time here than any other. *(mined/mined_b0a51eef_102144.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → Debug mode. *(mined/mined_694412aa_050117.py:23)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan gap_finder` -- the boolean for this species  *(mined/mined_bea7d6dd_115153.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → where the *(mined/mined_bea7d6dd_115153.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species and schema. I've fixed it and I believe my *(mined/mined_bea7d6dd_115153.py:18)*

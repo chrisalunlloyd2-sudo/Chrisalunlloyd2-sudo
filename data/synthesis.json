@@ -465,8 +465,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -480,8 +480,8 @@
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -517,8 +517,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "API/Web",
-        "Agent/BDI"
+        "Agent/BDI",
+        "API/Web"
       ]
     },
     {
@@ -720,16 +720,6 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "Aegis_Unified",
-      "task": "\u00b7 2 repos with uncommitted work |",
-      "location": "FORWARD-PLAN.md:10",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Aegis_Unified",
       "task": "2026-08-16).",
       "location": "self_extend.py:77",
       "domains": [
@@ -739,9 +729,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_22d42ee7_001131.py:2",
+      "repo": "Aegis_Unified",
+      "task": "\u00b7 2 repos with uncommitted work |",
+      "location": "FORWARD-PLAN.md:10",
       "domains": [
         "General"
       ]
@@ -750,8 +740,8 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "species.py scan cell_report` -- the boolean for this species",
-      "location": "mined/mined_4370e286.py:2",
+      "task": "species.py scan block_repair` -- the boolean for this specie",
+      "location": "mined/mined_d0a7faa0.py:2",
       "domains": [
         "General"
       ]
@@ -760,38 +750,8 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "species.py` to ensure that the cell's response is an error w",
-      "location": "mined/mined_4370e286.py:16",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "has cost more time here than any other.",
-      "location": "mined/mined_486ce86b_135828.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan hourly_notice` -- the boolean for this speci",
-      "location": "mined/mined_231d7da1_143100.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan auto_pusher` -- the boolean for this species",
-      "location": "mined/mined_e1e3ec17_111155.py:2",
+      "task": "species.py scan aegis_conductor` -- the boolean for this spe",
+      "location": "mined/mined_03b40667_090026.py:2",
       "domains": [
         "General"
       ]
@@ -801,87 +761,7 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_e1e3ec17_111155.py:16",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan aegis_survey` -- the boolean for this specie",
-      "location": "mined/mined_0f06dff8_185043.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py module.\"",
-      "location": "mined/mined_0f06dff8_185043.py:21",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan aegis_survey` -- the boolean for this specie",
-      "location": "mined/mined_0f06dff8_185043.py:29",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_86f56931.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_86f56931.py:16",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan code_lineage` -- the boolean for this specie",
-      "location": "mined/mined_7898d7f0_233622.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan code_lineage`",
-      "location": "mined/mined_7898d7f0_233622.py:23",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan aegis_survey` -- the boolean for this specie",
-      "location": "mined/mined_a99ba3c2_020152.py:2",
+      "location": "mined/mined_03b40667_090026.py:19",
       "domains": [
         "General"
       ]
@@ -891,7 +771,7 @@
       "tag": "BUG",
       "repo": "agent-squiggly",
       "task": "has cost more time here than any other.",
-      "location": "mined/mined_486ce86b_141912.py:2",
+      "location": "mined/mined_b0a51eef_102144.py:2",
       "domains": [
         "General"
       ]
@@ -900,8 +780,8 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "species.py scan hero_curriculum` -- the boolean for this spe",
-      "location": "mined/mined_678b1c96_140935.py:2",
+      "task": "Debug mode.",
+      "location": "mined/mined_694412aa_050117.py:23",
       "domains": [
         "General"
       ]
@@ -910,8 +790,128 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
-      "task": "species.py scan agent_book` -- the boolean for this species ",
-      "location": "mined/mined_264521cf_143556.py:2",
+      "task": "species.py scan gap_finder` -- the boolean for this species ",
+      "location": "mined/mined_bea7d6dd_115153.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "where the",
+      "location": "mined/mined_bea7d6dd_115153.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species and schema. I've fixed it and I believe my",
+      "location": "mined/mined_bea7d6dd_115153.py:18",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species and",
+      "location": "mined/mined_bea7d6dd_115153.py:21",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_d71df467_005555.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan block_repair` -- the boolean for this specie",
+      "location": "mined/mined_7f686e60_073354.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_7f686e60_073354.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_1da4ed23_205848.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "has cost more time here than any other.",
+      "location": "mined/mined_bfa5eb6c_000223.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "",
+      "location": "mined/mined_bfa5eb6c_000223.py:23",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan cell_tools` -- the boolean for this species ",
+      "location": "mined/mined_459fc9f3_212952.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan cue_node` -- the boolean for this species mu",
+      "location": "mined/mined_e49b7420_042801.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan cue_node` command",
+      "location": "mined/mined_e49b7420_042801.py:17",
       "domains": [
         "General"
       ]
