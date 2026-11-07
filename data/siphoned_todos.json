@@ -613,6 +613,16 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_3101a545_095436.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_3101a545_095436.py:14"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan block_repair` -- the boolean for this specie",
       "file": "mined/mined_7f686e60_073354.py:2"
     },
@@ -824,12 +834,22 @@
     {
       "tag": "BUG",
       "text": "species.py scan clock_cycle` -- the boolean for this species",
+      "file": "mined/mined_a25b669b_092734.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan clock_cycle` -- the boolean for this species",
       "file": "mined/mined_162a7711.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan clock_cycle` -- the boolean for this species",
       "file": "mined/mined_162a7711.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_command` -- the boolean for this speci",
+      "file": "mined/mined_4fb22b6f_093545.py:2"
     },
     {
       "tag": "TODO",
@@ -1252,6 +1272,16 @@
       "file": "mined/mined_19eaeb46_070112.py:17"
     },
     {
+      "tag": "TODO",
+      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
+      "file": "mined/mined_9b5b8be4_075342.py:2"
+    },
+    {
+      "tag": "TODO",
+      "text": "Grand Unifier is a Python script that reads from multiple so",
+      "file": "mined/mined_9b5b8be4_075342.py:12"
+    },
+    {
       "tag": "BUG",
       "text": "in the never_twice ledger, so a fixed bug has something stan",
       "file": "mined/mined_f3ae7dfd_212205.py:2"
@@ -1475,36 +1505,6 @@
       "tag": "TODO",
       "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
       "file": "mined/mined_c9112677_204132.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py -- ONE QUEUE, assembled from every source t",
-      "file": "mined/mined_c9112677_204132.py:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "list assembled from blackboard, ledgers, hive, and this",
-      "file": "mined/mined_c9112677_204132.py:14"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the logic to handle this situation.",
-      "file": "mined/mined_c9112677_204132.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.",
-      "file": "mined/mined_486ce86b.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement the logic to detect proxies",
-      "file": "mined/mined_486ce86b.py:34"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan gap_finder` -- the boolean for this species ",
-      "file": "mined/mined_79076cfd_120335.py:2"
     }
   ],
   "Alice": [
@@ -2176,6 +2176,11 @@
   ],
   "AvatarAlive": [
     {
+      "tag": "TODO",
+      "text": "> execute plan EXACTLY -> land -> update",
+      "file": "AGENT_NOTES.md:10"
+    },
+    {
       "tag": "BUG",
       "text": "flags (`window.AVATAR_DEBUG_FLAGS`).",
       "file": "QUALITY.md:145"
@@ -2772,6 +2777,21 @@
     },
     {
       "tag": "TODO",
+      "text": "status=claimed, owner=<your instance id>, claimed_at.",
+      "file": "HIVE_STATE/README.md:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "INTAKE (7am digest reads it).",
+      "file": "HIVE_STATE/README.md:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "HIVE_STATE/plans/0001-local-suite-collection-killer.md:2"
+    },
+    {
+      "tag": "TODO",
       "text": "SEALED.",
       "file": "todos/p148_test_dag_task.md:18"
     },
@@ -3154,26 +3174,6 @@
       "tag": "BUG",
       "text": "TEST-M3-01 is genuinely eliminated.",
       "file": ".agents/teamwork/auditor_m3_14_1/BRIEFING.md:53"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 without mocks or hardcoded strings",
-      "file": ".agents/teamwork/auditor_m3_14_1/progress.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 Elimination & Execution Viability**: **PASS** \u2014 `",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Dental Arch Separation)**: Lower dental arch ve",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:139"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Chin Skin Non-Penetration)**: Under combine",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:140"
     }
   ],
   "batch_powershell": [
@@ -3638,6 +3638,11 @@
     }
   ],
   "Chrisalunlloyd2-sudo": [
+    {
+      "tag": "BUG",
+      "text": "mode. *(mined/mined_694412aa_050117.py:23)*",
+      "file": "SYNTHESIS_PLAN.md:113"
+    },
     {
       "tag": "TODO",
       "text": "Hex Matrix",
