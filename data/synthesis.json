@@ -465,8 +465,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -480,8 +480,8 @@
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -517,8 +517,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
-        "API/Web"
+        "API/Web",
+        "Agent/BDI"
       ]
     },
     {
@@ -840,6 +840,26 @@
       "priority": 1,
       "tag": "BUG",
       "repo": "agent-squiggly",
+      "task": "species.py scan cue_node` -- the boolean for this species mu",
+      "location": "mined/mined_3101a545_095436.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan cue_node` -- the boolean for this species mu",
+      "location": "mined/mined_3101a545_095436.py:14",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
       "task": "species.py scan block_repair` -- the boolean for this specie",
       "location": "mined/mined_7f686e60_073354.py:2",
       "domains": [
@@ -892,26 +912,6 @@
       "repo": "agent-squiggly",
       "task": "species.py scan cell_tools` -- the boolean for this species ",
       "location": "mined/mined_459fc9f3_212952.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan cue_node` -- the boolean for this species mu",
-      "location": "mined/mined_e49b7420_042801.py:2",
-      "domains": [
-        "General"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan cue_node` command",
-      "location": "mined/mined_e49b7420_042801.py:17",
       "domains": [
         "General"
       ]
