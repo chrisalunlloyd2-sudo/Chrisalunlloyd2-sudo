@@ -738,6 +738,11 @@
     },
     {
       "tag": "BUG",
+      "text": "has cost more time here than any other.",
+      "file": "mined/mined_fa6f94b1_002903.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
       "file": "mined/mined_033fd495_125703.py:2"
     },
@@ -1418,6 +1423,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_d918c26f_013630.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_addb6c7b_191659.py:2"
     },
@@ -1495,16 +1505,6 @@
       "tag": "BUG",
       "text": "species.py will also pass.\"",
       "file": "mined/mined_d4477b34_232617.py:24"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_command` -- the boolean for this speci",
-      "file": "mined/mined_4fb22b6f_010602.py:2"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier.py in C:\\\\Viper\\\\scripts. Its job: One todo li",
-      "file": "mined/mined_c9112677_204132.py:2"
     }
   ],
   "Alice": [
@@ -2182,6 +2182,11 @@
     },
     {
       "tag": "BUG",
+      "text": "wearing a race's clothes. Cheapest possible test:",
+      "file": "AGENT_NOTES.md:124"
+    },
+    {
+      "tag": "BUG",
       "text": "flags (`window.AVATAR_DEBUG_FLAGS`).",
       "file": "QUALITY.md:145"
     },
@@ -2787,6 +2792,11 @@
     },
     {
       "tag": "TODO",
+      "text": "gets a plan file in plans/ exact enough for a flash instance",
+      "file": "HIVE_STATE/README.md:59"
+    },
+    {
+      "tag": "TODO",
       "text": "",
       "file": "HIVE_STATE/plans/0001-local-suite-collection-killer.md:2"
     },
@@ -3164,16 +3174,6 @@
       "tag": "BUG",
       "text": "in `Walk` and `Run`: out-of-reach target clamping and $+0.05",
       "file": ".agents/teamwork/challenger_m6_2_1/BRIEFING.md:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01` remediation",
-      "file": ".agents/teamwork/auditor_m3_14_1/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 is genuinely eliminated.",
-      "file": ".agents/teamwork/auditor_m3_14_1/BRIEFING.md:53"
     }
   ],
   "batch_powershell": [
@@ -5686,11 +5686,6 @@
     },
     {
       "tag": "TODO",
-      "text": "`, `enquiry:`). What is MISSING is the deterministic context",
-      "file": "blackboard-mirror/tasks/done/068-triage-intake-router.md:4"
-    },
-    {
-      "tag": "TODO",
       "text": "id in ~/.life/task-values.json",
       "file": "blackboard-mirror/tasks/done/archive/039-life-task-values-fix.md:8"
     },
@@ -5793,6 +5788,11 @@
       "tag": "TODO",
       "text": "linking events to todos with time_hours default",
       "file": "blackboard-mirror/tasks/done/archive/045-life-calendar-phase2.md:103"
+    },
+    {
+      "tag": "TODO",
+      "text": "`, `enquiry:`). What is MISSING is the deterministic context",
+      "file": "blackboard-mirror/tasks/done/archive/068-triage-intake-router.md:4"
     },
     {
       "tag": "TODO",
@@ -6178,6 +6178,18 @@
       "tag": "BUG",
       "text": "we fixed: treating an already-SATISFIED clause as a unit and",
       "file": "dpll_sat.md:6"
+    }
+  ],
+  "LiDar": [
+    {
+      "tag": "BUG",
+      "text": "worth recording: it fed z-depth into the",
+      "file": "README.md:175"
+    },
+    {
+      "tag": "BUG",
+      "text": "once; do not reintroduce it.",
+      "file": "CONTRIBUTING.md:63"
     }
   ],
   "Life": [
@@ -12519,17 +12531,17 @@
     {
       "tag": "BUG",
       "text": "fix`, `glitch_found`, `perf_improvement`, `feature`) live on",
-      "file": "AGENTS.md:146"
+      "file": "AGENTS.md:147"
     },
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:173"
+      "file": "AGENTS.md:174"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:177"
+      "file": "AGENTS.md:178"
     },
     {
       "tag": "TODO",
@@ -12689,7 +12701,7 @@
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/` \u2014 the Autonomous Finishin",
-      "file": "DEV_SETUP.md:136"
+      "file": "DEV_SETUP.md:144"
     },
     {
       "tag": "TODO",
@@ -14112,6 +14124,16 @@
     }
   ],
   "painting-ops-vault": [
+    {
+      "tag": "TODO",
+      "text": "add name/site scrub pass or rename script. Not fixed tonight",
+      "file": "debrief_log.md:58"
+    },
+    {
+      "tag": "BUG",
+      "text": "STILL OPEN: anonymize.sh only scrubs emails + phone numbers.",
+      "file": "debrief_log.md:96"
+    },
     {
       "tag": "TODO",
       "text": "call Bob about the quote",
