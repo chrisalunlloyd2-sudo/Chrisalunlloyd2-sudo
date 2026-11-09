@@ -857,6 +857,21 @@
       "file": "mined/mined_4fb22b6f_093545.py:2"
     },
     {
+      "tag": "BUG",
+      "text": "species.py scan auto_pusher` -- the boolean for this species",
+      "file": "mined/mined_fe94e4d2_041916.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "PUSHERS IN AUTOMATED ORGANIZATIONS.",
+      "file": "mined/mined_fe94e4d2_041916.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_fe94e4d2_041916.py:16"
+    },
+    {
       "tag": "TODO",
       "text": "Implement this function.",
       "file": "mined/mined_e3c83d10_094141.py:25"
@@ -1490,21 +1505,6 @@
       "tag": "BUG",
       "text": "species in bug_species.py should pass.\"",
       "file": "mined/mined_d4477b34_232617.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "report and store it persistently, and will continue",
-      "file": "mined/mined_d4477b34_232617.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species in",
-      "file": "mined/mined_d4477b34_232617.py:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py will also pass.\"",
-      "file": "mined/mined_d4477b34_232617.py:24"
     }
   ],
   "Alice": [
@@ -12781,27 +12781,27 @@
     {
       "tag": "BUG",
       "text": "quiet 45.5fps avg / worst 54ms \u2014 the earlier \"120fps\" readou",
-      "file": "NEXT_100_STEPS.md:49"
+      "file": "NEXT_100_STEPS.md:51"
     },
     {
       "tag": "TODO",
       "text": "crystals (a5cecea; selftest 48/0; live loop: scout\u2192quorum\u2192cr",
-      "file": "NEXT_100_STEPS.md:53"
+      "file": "NEXT_100_STEPS.md:55"
     },
     {
       "tag": "BUG",
       "text": "\u2014 billboard text drew at world origin, now all HUD text (ros",
-      "file": "NEXT_100_STEPS.md:58"
+      "file": "NEXT_100_STEPS.md:60"
     },
     {
       "tag": "TODO",
       "text": "crystals; agents see repo issues in-world",
-      "file": "NEXT_100_STEPS.md:66"
+      "file": "NEXT_100_STEPS.md:68"
     },
     {
       "tag": "TODO",
       "text": "density/last-push age \u2192 KG attribute + room glow intensity (",
-      "file": "NEXT_100_STEPS.md:68"
+      "file": "NEXT_100_STEPS.md:70"
     },
     {
       "tag": "BUG",
@@ -12972,6 +12972,11 @@
       "tag": "TODO",
       "text": "files/mindpalace",
       "file": "scripts/evidence_checker.py:33"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix hints (from today's scan)",
+      "file": "docs/HANDOFF_SONNET.md:14"
     },
     {
       "tag": "TODO",
@@ -14133,6 +14138,11 @@
       "tag": "BUG",
       "text": "STILL OPEN: anonymize.sh only scrubs emails + phone numbers.",
       "file": "debrief_log.md:96"
+    },
+    {
+      "tag": "BUG",
+      "text": "STILL OPEN: anonymize.sh only scrubs emails + phone numbers.",
+      "file": "debrief_log.md:143"
     },
     {
       "tag": "TODO",
@@ -16454,7 +16464,7 @@
     {
       "tag": "BUG",
       "text": "above hid for eight days.",
-      "file": "src/state_machine.py:76"
+      "file": "src/state_machine.py:86"
     },
     {
       "tag": "BUG",
@@ -16469,62 +16479,62 @@
     {
       "tag": "BUG",
       "text": "found",
-      "file": "src/gguf_kernel.py:2358"
+      "file": "src/gguf_kernel.py:2368"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2815"
+      "file": "src/gguf_kernel.py:2825"
     },
     {
       "tag": "BUG",
       "text": "%r\"",
-      "file": "src/gguf_kernel.py:2819"
+      "file": "src/gguf_kernel.py:2829"
     },
     {
       "tag": "BUG",
       "text": "in rope_frequencies.",
-      "file": "src/gguf_kernel.py:2947"
+      "file": "src/gguf_kernel.py:2957"
     },
     {
       "tag": "BUG",
       "text": "CAN FAKE: a rotation is norm-preserving.",
-      "file": "src/gguf_kernel.py:2963"
+      "file": "src/gguf_kernel.py:2973"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would show up",
-      "file": "src/gguf_kernel.py:2978"
+      "file": "src/gguf_kernel.py:2988"
     },
     {
       "tag": "BUG",
       "text": "that",
-      "file": "src/gguf_kernel.py:3140"
+      "file": "src/gguf_kernel.py:3150"
     },
     {
       "tag": "BUG",
       "text": "ALREADY FOUND ONCE. Profiled",
-      "file": "src/gguf_kernel.py:3361"
+      "file": "src/gguf_kernel.py:3371"
     },
     {
       "tag": "BUG",
       "text": "(a per-call weight copy) reintroduced\" % step_s)",
-      "file": "src/gguf_kernel.py:3386"
+      "file": "src/gguf_kernel.py:3396"
     },
     {
       "tag": "BUG",
       "text": "",
-      "file": "src/gguf_kernel.py:3586"
+      "file": "src/gguf_kernel.py:3596"
     },
     {
       "tag": "BUG",
       "text": "(wrong axis, wrong broadcast) would",
-      "file": "src/gguf_kernel.py:3671"
+      "file": "src/gguf_kernel.py:3681"
     },
     {
       "tag": "BUG",
       "text": "found by running",
-      "file": "src/gguf_kernel.py:4028"
+      "file": "src/gguf_kernel.py:4038"
     },
     {
       "tag": "TODO",
@@ -16580,6 +16590,11 @@
       "tag": "BUG",
       "text": "this",
       "file": "src/changelog.py:182"
+    },
+    {
+      "tag": "BUG",
+      "text": "aid",
+      "file": "src/bootstrap.py:127"
     },
     {
       "tag": "BUG",
@@ -16644,52 +16659,52 @@
     {
       "tag": "BUG",
       "text": "that cried tampering) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "src/taskgen.py:210"
+      "file": "src/taskgen.py:218"
     },
     {
       "tag": "BUG",
       "text": "WAS REAL. `change_ledger.record()`",
-      "file": "src/taskgen.py:221"
+      "file": "src/taskgen.py:229"
     },
     {
       "tag": "TODO",
       "text": "driver's own shape \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "src/taskgen.py:652"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver.GH_REPOS -- filing there means todo_driver's",
-      "file": "src/taskgen.py:658"
-    },
-    {
-      "tag": "TODO",
-      "text": "driver does not scan, so those",
       "file": "src/taskgen.py:660"
     },
     {
       "tag": "TODO",
-      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
+      "text": "driver.GH_REPOS -- filing there means todo_driver's",
       "file": "src/taskgen.py:666"
     },
     {
       "tag": "TODO",
+      "text": "driver does not scan, so those",
+      "file": "src/taskgen.py:668"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
+      "file": "src/taskgen.py:674"
+    },
+    {
+      "tag": "TODO",
       "text": "driver's own parser cannot read, which would be worse than n",
-      "file": "src/taskgen.py:670"
+      "file": "src/taskgen.py:678"
     },
     {
       "tag": "TODO",
       "text": "driver's existing pipeline);",
-      "file": "src/taskgen.py:709"
+      "file": "src/taskgen.py:717"
     },
     {
       "tag": "TODO",
       "text": "DRIVER'S OWN REGEX. Filing 341",
-      "file": "src/taskgen.py:893"
+      "file": "src/taskgen.py:901"
     },
     {
       "tag": "TODO",
       "text": "driver's regex expects one: %r\"",
-      "file": "src/taskgen.py:903"
+      "file": "src/taskgen.py:911"
     },
     {
       "tag": "BUG",
@@ -16837,6 +16852,153 @@
       "tag": "BUG",
       "text": "trace",
       "file": "src/panini_generator.py:42"
+    }
+  ],
+  "ViperCli-v3": [
+    {
+      "tag": "BUG",
+      "text": "above hid for eight days.",
+      "file": "src/state_machine.py:86"
+    },
+    {
+      "tag": "BUG",
+      "text": "here would pass any test that only checks the first",
+      "file": "src/gguf_kernel.py:509"
+    },
+    {
+      "tag": "BUG",
+      "text": "found by running the test below sampled",
+      "file": "src/gguf_kernel.py:2132"
+    },
+    {
+      "tag": "BUG",
+      "text": "found",
+      "file": "src/gguf_kernel.py:2368"
+    },
+    {
+      "tag": "BUG",
+      "text": "%r\"",
+      "file": "src/gguf_kernel.py:2825"
+    },
+    {
+      "tag": "BUG",
+      "text": "%r\"",
+      "file": "src/gguf_kernel.py:2829"
+    },
+    {
+      "tag": "BUG",
+      "text": "in rope_frequencies.",
+      "file": "src/gguf_kernel.py:2957"
+    },
+    {
+      "tag": "BUG",
+      "text": "CAN FAKE: a rotation is norm-preserving.",
+      "file": "src/gguf_kernel.py:2973"
+    },
+    {
+      "tag": "BUG",
+      "text": "(wrong axis, wrong broadcast) would show up",
+      "file": "src/gguf_kernel.py:2988"
+    },
+    {
+      "tag": "BUG",
+      "text": "that",
+      "file": "src/gguf_kernel.py:3150"
+    },
+    {
+      "tag": "BUG",
+      "text": "ALREADY FOUND ONCE. Profiled",
+      "file": "src/gguf_kernel.py:3371"
+    },
+    {
+      "tag": "BUG",
+      "text": "(a per-call weight copy) reintroduced\" % step_s)",
+      "file": "src/gguf_kernel.py:3396"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "src/gguf_kernel.py:3596"
+    },
+    {
+      "tag": "BUG",
+      "text": "(wrong axis, wrong broadcast) would",
+      "file": "src/gguf_kernel.py:3681"
+    },
+    {
+      "tag": "BUG",
+      "text": "found by running",
+      "file": "src/gguf_kernel.py:4038"
+    },
+    {
+      "tag": "BUG",
+      "text": "THIS MODULE HIT: an unclosed paren followed by a",
+      "file": "src/triage.py:355"
+    },
+    {
+      "tag": "BUG",
+      "text": "the test caught)",
+      "file": "src/code_assist.py:122"
+    },
+    {
+      "tag": "BUG",
+      "text": "aid",
+      "file": "src/bootstrap.py:127"
+    },
+    {
+      "tag": "BUG",
+      "text": "that cried tampering) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "src/taskgen.py:237"
+    },
+    {
+      "tag": "BUG",
+      "text": "WAS REAL. `change_ledger.record()`",
+      "file": "src/taskgen.py:248"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own shape \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "src/taskgen.py:679"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.GH_REPOS -- filing there means todo_driver's",
+      "file": "src/taskgen.py:685"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver does not scan, so those",
+      "file": "src/taskgen.py:687"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
+      "file": "src/taskgen.py:693"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own parser cannot read, which would be worse than n",
+      "file": "src/taskgen.py:697"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's existing pipeline);",
+      "file": "src/taskgen.py:736"
+    },
+    {
+      "tag": "TODO",
+      "text": "DRIVER'S OWN REGEX. Filing 341",
+      "file": "src/taskgen.py:920"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's regex expects one: %r\"",
+      "file": "src/taskgen.py:930"
+    },
+    {
+      "tag": "BUG",
+      "text": "(dict-vs-str contract). Exact values from source.\"\"\"",
+      "file": "tests/test_triage_taskgen.py:2"
     }
   ],
   "ViperNote": [
