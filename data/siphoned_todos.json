@@ -1208,6 +1208,11 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_da038b63_060157.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_ee4a5928_220431.py:2"
     },
@@ -1314,6 +1319,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan hourly_notice` -- the boolean for this speci",
+      "file": "mined/mined_231d7da1_075747.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan hourly_notice` -- the boolean for this speci",
       "file": "mined/mined_f6c44e9d_100958.py:2"
     },
     {
@@ -1380,6 +1390,16 @@
       "tag": "BUG",
       "text": "any",
       "file": "mined/mined_65f8e296_050421.py:15"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "file": "mined/mined_86f56931_131825.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_86f56931_131825.py:16"
     },
     {
       "tag": "BUG",
@@ -1485,26 +1505,6 @@
       "tag": "BUG",
       "text": "species.py scan hive_daemon` -- the boolean for this species",
       "file": "mined/mined_84c50471_045333.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan hive_daemon` -- the boolean for this species",
-      "file": "mined/mined_d4477b34_232617.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "report from the hive. The daemon",
-      "file": "mined/mined_d4477b34_232617.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "report and store it persistently.",
-      "file": "mined/mined_d4477b34_232617.py:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "species in bug_species.py should pass.\"",
-      "file": "mined/mined_d4477b34_232617.py:19"
     }
   ],
   "Alice": [
@@ -12531,17 +12531,17 @@
     {
       "tag": "BUG",
       "text": "fix`, `glitch_found`, `perf_improvement`, `feature`) live on",
-      "file": "AGENTS.md:147"
+      "file": "AGENTS.md:157"
     },
     {
       "tag": "TODO",
       "text": "management/todo_files/mindpalace/monitor_log.jsonl` \u2014 a",
-      "file": "AGENTS.md:174"
+      "file": "AGENTS.md:184"
     },
     {
       "tag": "TODO",
       "text": "management/task_watch.log` \u2014 append a `DONE [mindpalace]",
-      "file": "AGENTS.md:178"
+      "file": "AGENTS.md:188"
     },
     {
       "tag": "TODO",
