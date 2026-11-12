@@ -17,34 +17,22 @@
       <div class="bdi-card">
         <div class="header">
           <span>🧠 BDI COGNITIVE MATRIX [KERNEL RUNTIME]</span>
-          <span style="color:#8b949e; font-size:11px;">SYNC: 2026-11-10 19:47:51Z</span>
+          <span style="color:#8b949e; font-size:11px;">SYNC: </span>
         </div>
         <div class="grid">
           <div class="col">
             <div class="label beliefs-label">1. Beliefs (World State)</div>
-            <div class="content"><code>{
-  "fsm_state": "IDLE",
-  "corpus_lines": 1444,
-  "sops": 1,
-  "traces": 10,
-  "planner": "deadlock-free; liveness-to-COMMIT proven; 2 livelock cycles flagged"
-}</code></div>
+            <div class="content"><code></code></div>
           </div>
           <div class="col">
             <div class="label desires-label">2. Desires (Goal Queue)</div>
-            <div class="content"><code>[
-  "resolve BLOCKED livelock cycle",
-  "triage 11 BDI TODOs",
-  "triage 14 Aegis_Agents TODOs",
-  "keep corpus >=500 lines",
-  "self-sustain binaries"
-]</code></div>
+            <div class="content"><code></code></div>
           </div>
           <div class="col">
             <div class="label intentions-label">3. Intention (Active Plan)</div>
             <div class="content">
               <span class="badge">ACTIVE</span>
-              <div style="margin-top:6px; color:#f0f6fc; font-weight:600;">COMPLETE_FLEET_ACTIONS_ARSENAL</div>
+              <div style="margin-top:6px; color:#f0f6fc; font-weight:600;"></div>
             </div>
           </div>
         </div>
