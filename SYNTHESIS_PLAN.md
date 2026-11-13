@@ -2,10 +2,89 @@
 
 > Automated correlation report generated for Kernel BDI execution loops.
 
+> Regenerated locally by Alice — slot 6/13 (cross-repo-unifier) — 2026-11-13T19:32:49Z
+
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
+| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `H2OIDE` | Telemetry |
+| `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
+| `Aegis_Agents` | `Machine2` | Telemetry, Agent/BDI |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
+| `Aegis_Agents` | `MatrixCE_GUI` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `mind-palace` | Telemetry |
+| `Aegis_Agents` | `Nova` | Telemetry |
+| `Aegis_Agents` | `openrouter_manager` | Telemetry, Agent/BDI |
+| `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
+| `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `Machine2` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `openrouter_manager` | Telemetry, Agent/BDI |
+| `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
+| `H2OIDE` | `H2OMatrixCE` | Telemetry |
+| `H2OIDE` | `Machine2` | Telemetry |
+| `H2OIDE` | `MasterLogs` | Telemetry |
+| `H2OIDE` | `MatrixCE_GUI` | Telemetry |
+| `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
+| `H2OIDE` | `mind-palace` | Telemetry |
+| `H2OIDE` | `Nova` | Telemetry |
+| `H2OIDE` | `openrouter_manager` | Telemetry |
+| `H2OIDE` | `sims-java-neo-fx` | Telemetry |
+| `H2OIDE` | `sims-javafx-neo` | Telemetry |
+| `H2OMatrixCE` | `Machine2` | Telemetry |
+| `H2OMatrixCE` | `MasterLogs` | Telemetry |
+| `H2OMatrixCE` | `MatrixCE_GUI` | Telemetry |
+| `H2OMatrixCE` | `MATRIX_GEN8_HOME` | Telemetry |
+| `H2OMatrixCE` | `mind-palace` | Telemetry |
+| `H2OMatrixCE` | `Nova` | Telemetry |
+| `H2OMatrixCE` | `openrouter_manager` | Telemetry |
+| `H2OMatrixCE` | `sims-java-neo-fx` | Telemetry |
+| `H2OMatrixCE` | `sims-javafx-neo` | Telemetry |
+| `Machine2` | `MasterLogs` | Telemetry |
+| `Machine2` | `MatrixCE_GUI` | Telemetry, Agent/BDI |
+| `Machine2` | `MATRIX_GEN8_HOME` | Telemetry, Agent/BDI |
+| `Machine2` | `mind-palace` | Telemetry |
+| `Machine2` | `Nova` | Telemetry |
+| `Machine2` | `openrouter_manager` | Telemetry, Agent/BDI |
+| `Machine2` | `sims-java-neo-fx` | Telemetry |
+| `Machine2` | `sims-javafx-neo` | Telemetry |
+| `MasterLogs` | `MatrixCE_GUI` | Telemetry |
+| `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
+| `MasterLogs` | `mind-palace` | Telemetry |
+| `MasterLogs` | `Nova` | Telemetry |
+| `MasterLogs` | `openrouter_manager` | Telemetry |
+| `MasterLogs` | `sims-java-neo-fx` | Telemetry |
+| `MasterLogs` | `sims-javafx-neo` | Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Telemetry, API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `mind-palace` | Telemetry |
+| `MatrixCE_GUI` | `Nova` | Telemetry |
+| `MatrixCE_GUI` | `openrouter_manager` | Telemetry, API/Web, Agent/BDI |
+| `MatrixCE_GUI` | `sims-java-neo-fx` | Telemetry |
+| `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
+| `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
+| `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Telemetry, API/Web, Agent/BDI |
+| `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
+| `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
+| `mind-palace` | `Nova` | Telemetry |
+| `mind-palace` | `openrouter_manager` | Telemetry |
+| `mind-palace` | `sims-java-neo-fx` | Telemetry |
+| `mind-palace` | `sims-javafx-neo` | Telemetry |
+| `Nova` | `openrouter_manager` | Telemetry |
+| `Nova` | `sims-java-neo-fx` | Telemetry |
+| `Nova` | `sims-javafx-neo` | Telemetry |
+| `openrouter_manager` | `sims-java-neo-fx` | Telemetry |
+| `openrouter_manager` | `sims-javafx-neo` | Telemetry |
+| `sims-java-neo-fx` | `sims-javafx-neo` | Telemetry |
 
 ### ⚡ Prioritized Execution Queue (Next Steps)
 - 🔴 **[BUG]** `aegis-fleet-docs` → fixed 2026-08-09.) *(WORKFLOW.md:30)*
