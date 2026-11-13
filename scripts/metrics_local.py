@@ -1,107 +1,126 @@
 #!/usr/bin/env python3
-"""Local replacement for metrics.yml (lowlighter/metrics classic template).
-Pulls GitHub REST API data and renders assets/github-metrics.svg.
-Run: GH_TOKEN=<classic pat> python3 scripts/metrics_local.py"""
-import json, os, urllib.request, datetime, html
+"""Local replacement for the disabled metrics.yml (lowlighter/metrics "classic" template).
+Reads cached GitHub API responses in .cache/ + git activity, writes docs/assets/github-metrics.svg.
+Output path matches the workflow's `filename: assets/github-metrics.svg` under docs/.
+"""
+import json, html, datetime, collections, pathlib, subprocess, os
 
-U = os.environ.get("METRICS_USER", "chrisalunlloyd2-sudo")
-T = os.environ.get("GH_TOKEN") or os.environ.get("TOKEN")
-OUT = os.environ.get("METRICS_OUT", "assets/github-metrics.svg")
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+C = ROOT / ".cache"
+OUT = ROOT / "docs" / "assets" / "github-metrics.svg"
 
-import subprocess, tempfile
-def api(path, _tries=3):
-    """curl-based fetch — urllib hits IncompleteRead on this sandbox."""
-    for i in range(_tries):
-        p = subprocess.run(["curl", "-sf", "--retry", "2", "-H", "Authorization: Bearer " + T,
-                            "-H", "User-Agent: metrics-local",
-                            "https://api.github.com" + path],
-                           capture_output=True, text=True, timeout=60)
-        if p.returncode == 0 and p.stdout:
-            try:
-                return json.loads(p.stdout)
-            except json.JSONDecodeError:
-                pass
-    raise RuntimeError(f"api fetch failed after {_tries} tries: {path}")
+user = json.load(open(C / "gh_user.json"))
+langs = json.load(open(C / "gh_languages.json"))
+repos = json.load(open(C / "gh_repos1.json")) + json.load(open(C / "gh_repos2.json"))
+repos = [r for r in repos if not r.get("fork")]
 
-user = api(f"/users/{U}")
-repos = api(f"/users/{U}/repos?per_page=100&sort=pushed")
-commits = api(f"/repos/{U}/{U}/commits?per_page=100")
+# activity: last 365 days of commits (all branches) from local git
+activity = {}
+for line in open(C / "activity_year.txt"):
+    d, n = line.split()
+    activity[d] = int(n)
+days = sorted(activity)
+total_commits = sum(activity.values())
+peak = max(activity.values()) if activity else 1
 
-stars = sum(r.get("stargazers_count", 0) for r in repos)
-forks = sum(r.get("forks_count", 0) for r in repos)
-langs = {}
-for r in repos:
-    l = r.get("language")
-    if l: langs[l] = langs.get(l, 0) + (r.get("size", 0) or 0)
-langs = sorted(langs.items(), key=lambda kv: -kv[1])[:6]
-top = sorted(repos, key=lambda r: -(r.get("stargazers_count", 0) + r.get("forks_count", 0)))[:5]
+def esc(s): return html.escape(str(s), quote=True)
+def fmt_date(s): return datetime.datetime.strptime(s, "%Y-%m-%dT%H:%M:%SZ").strftime("%d %b %Y")
 
-# activity: commits per weekday (last 100 commits fetched)
-days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
-cnt = dict.fromkeys(days, 0)
-hours = [0]*24
-for c in commits:
-    d = c.get("commit", {}).get("author", {}).get("date")
-    if not d: continue
-    dt = datetime.datetime.fromisoformat(d.replace("Z", "+00:00"))
-    cnt[days[(dt.weekday()) % 7]] += 1
-    hours[dt.hour] += 1
-maxd = max(cnt.values()) or 1
-maxh = max(hours) or 1
+created = fmt_date(user["created_at"])
+now = datetime.datetime.utcnow()
+age_days = (now - datetime.datetime.strptime(user["created_at"], "%Y-%m-%dT%H:%M:%SZ")).days
 
-def esc(s): return html.escape(str(s))
+# language bar (bytes -> %)
+tot_bytes = sum(langs.values()) or 1
+LANG_COLORS = {"Python": "#3572A5", "JavaScript": "#f1e05a", "Mermaid": "#ff3670",
+               "HTML": "#e34c26", "CSS": "#563d7c", "Java": "#b07219", "Smali": "#e2e200"}
+lang_items = sorted(langs.items(), key=lambda kv: -kv[1])
+lang_rows, x = [], 0.0
+for name, b in lang_items:
+    w = b / tot_bytes * 760
+    lang_rows.append(f'<rect x="{80+x:.1f}" y="0" width="{max(w,2):.1f}" height="26" fill="{LANG_COLORS.get(name,"#8b949e")}"><title>{esc(name)} {b/tot_bytes*100:.1f}%</title></rect>')
+    x += w
+legend = "  ".join(f'<tspan fill="{LANG_COLORS.get(n,"#8b949e")}">■</tspan> {esc(n)} {b/tot_bytes*100:.1f}%' for n, b in lang_items)
 
-W = 640
-rows = []
-rows.append(f'<rect x="0" y="0" width="{W}" height="96" fill="#0d1117"/>')
-rows.append(f'<text x="24" y="42" font-family="Segoe UI,sans-serif" font-size="26" fill="#e6edf3" font-weight="bold">@{esc(user["login"])}</text>')
-rows.append(f'<text x="24" y="70" font-family="Segoe UI,sans-serif" font-size="14" fill="#8b949e">Deep metrics (local) &#183; {user.get("public_repos")} public repos &#183; {user.get("followers")} followers &#183; generated {datetime.datetime.utcnow():%Y-%m-%d %H:%M} UTC</text>')
+# top repos by stars/pushed
+top = sorted(repos, key=lambda r: (r["stargazers_count"], r["pushes"] if "pushes" in r else 0), reverse=True)[:6]
+repo_rows = "".join(
+    f'<tr><td><a href="{esc(r["html_url"])}">{esc(r["full_name"])}</a></td>'
+    f'<td class="c">{r["stargazers_count"]}</td><td class="c">{r["forks_count"]}</td>'
+    f'<td class="c">{(r["language"] or "—")}</td>'
+    f'<td class="c">{fmt_date(r["pushed_at"]) if r.get("pushed_at") else "—"}</td></tr>'
+    for r in top)
 
-y = 130
-def section(title):
-    global y
-    rows.append(f'<text x="24" y="{y}" font-family="Segoe UI,sans-serif" font-size="17" fill="#58a6ff" font-weight="bold">{title}</text>')
-    y += 26
+# activity sparkline: 53 weeks x 7 days grid
+grid = ""
+if days:
+    first = datetime.date.fromisoformat(days[0])
+    for d in days:
+        dt = datetime.date.fromisoformat(d)
+        idx = (dt - first).days
+        col, row = idx // 7, idx % 7
+        n = activity[d]
+        lvl = 0 if n == 0 else min(4, 1 + (n * 4) // max(peak, 1))
+        color = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"][lvl]
+        grid += f'<rect x="{col*14}" y="{row*14}" width="12" height="12" rx="2" fill="{color}"><title>{d}: {n} commits</title></rect>'
+    grid_w = (len(days) // 7 + 1) * 14
+else:
+    grid_w = 700
 
-section("Activity &#183; commits by weekday (latest 100)")
-for d in days:
-    w = int(240 * cnt[d] / maxd)
-    rows.append(f'<text x="24" y="{y+13}" font-family="Consolas,monospace" font-size="13" fill="#8b949e">{d}</text>')
-    rows.append(f'<rect x="70" y="{y+2}" width="{max(w,2)}" height="16" rx="3" fill="#3fb950"/>')
-    rows.append(f'<text x="{76+max(w,2)}" y="{y+14}" font-family="Consolas,monospace" font-size="12" fill="#8b949e">{cnt[d]}</text>')
-    y += 22
-y += 10
+active_days = len(days)
 
-section("Community")
-for label, val in [("Stars earned", stars), ("Forks", forks), ("Followers", user.get("followers")), ("Public repos", user.get("public_repos"))]:
-    rows.append(f'<text x="24" y="{y+14}" font-family="Segoe UI,sans-serif" font-size="14" fill="#c9d1d9">{label}</text>')
-    rows.append(f'<text x="600" y="{y+14}" text-anchor="end" font-family="Consolas,monospace" font-size="15" fill="#e6edf3">{val}</text>')
-    y += 24
-y += 10
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="840" height="{700 + (0 if days else 0)}" viewBox="0 0 840 700" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<style>
+  .bg{{fill:#0d1117}} .card{{fill:#161b22;stroke:#30363d;stroke-width:1;rx:8}}
+  text{{fill:#c9d1d9}} .h1{{font-size:24px;font-weight:700;fill:#f0f6fc}}
+  .h2{{font-size:15px;font-weight:700;fill:#f0f6fc}} .muted{{fill:#8b949e;font-size:12px}}
+  .big{{font-size:28px;font-weight:700;fill:#58a6ff}} .c{{text-anchor:middle}}
+  a{{fill:#58a6ff;text-decoration:none}} table{{font-size:13px}}
+  th{{fill:#8b949e;font-size:11px;text-transform:uppercase;letter-spacing:.5px}}
+  .stat{{font-size:22px;font-weight:700;fill:#3fb950}}
+</style>
+<rect class="bg" width="840" height="700"/>
 
-section("Most-starred repos")
-for r in top:
-    nm = esc(r["name"]); s = r.get("stargazers_count",0); f = r.get("forks_count",0)
-    lang = esc(r.get("language") or "-")
-    rows.append(f'<text x="24" y="{y+14}" font-family="Segoe UI,sans-serif" font-size="14" fill="#c9d1d9">{nm}</text>')
-    rows.append(f'<text x="330" y="{y+14}" font-family="Consolas,monospace" font-size="13" fill="#8b949e">{lang}</text>')
-    rows.append(f'<text x="600" y="{y+14}" text-anchor="end" font-family="Consolas,monospace" font-size="13" fill="#e6edf3">&#11088;{s} &#8618;{f}</text>')
-    y += 24
-y += 10
+<!-- header -->
+<rect class="card" x="20" y="20" width="800" height="110" rx="8"/>
+<image href="https://avatars.githubusercontent.com/u/{user['id']}?v=4" x="40" y="40" width="70" height="70" clip-path="circle(35px at 35px 35px)"/>
+<text class="h1" x="130" y="65">{esc(user['login'])}</text>
+<text class="muted" x="130" y="88">Account created {created} · {age_days} days active · "{esc(user['bio'] or 'autonomous agent fleet operator')}"</text>
+<text class="muted" x="130" y="108">{user['public_repos']} public repos · {user['followers']} followers · {user['following']} following</text>
 
-section("Languages by repo size")
-for l, b in langs:
-    w = int(300 * b / langs[0][1])
-    rows.append(f'<text x="24" y="{y+13}" font-family="Consolas,monospace" font-size="13" fill="#8b949e">{esc(l)}</text>')
-    rows.append(f'<rect x="140" y="{y+2}" width="{max(w,2)}" height="16" rx="3" fill="#58a6ff"/>')
-    y += 22
+<!-- stats -->
+<rect class="card" x="20" y="145" width="190" height="80" rx="8"/>
+<text class="stat c" x="115" y="185">{total_commits}</text><text class="muted c" x="115" y="208">commits / 365d</text>
+<rect class="card" x="225" y="145" width="190" height="80" rx="8"/>
+<text class="stat c" x="320" y="185">{active_days}</text><text class="muted c" x="320" y="208">active days</text>
+<rect class="card" x="430" y="145" width="190" height="80" rx="8"/>
+<text class="stat c" x="525" y="185">{len(repos)}</text><text class="muted c" x="525" y="208">own repos</text>
+<rect class="card" x="635" y="145" width="185" height="80" rx="8"/>
+<text class="stat c" x="727" y="185">{peak}</text><text class="muted c" x="727" y="208">peak commits/day</text>
 
-H = y + 40
-svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">'
-       f'<rect width="{W}" height="{H}" fill="#010409"/>'
-       f'<rect x="0" y="{H-32}" width="{W}" height="32" fill="#0d1117"/>'
-       f'<text x="24" y="{H-11}" font-family="Segoe UI,sans-serif" font-size="12" fill="#484f58">Local replacement for metrics.yml &#183; generated by scripts/metrics_local.py &#183; {esc(U)}/{esc(U)}</text>'
-       + "".join(rows) + "</svg>")
-os.makedirs(os.path.dirname(OUT), exist_ok=True)
-open(OUT, "w").write(svg)
-print(f"wrote {OUT} {len(svg)} bytes; stars={stars} forks={forks} repos={len(repos)} commits={len(commits)}")
+<!-- activity grid -->
+<rect class="card" x="20" y="240" width="800" height="140" rx="8"/>
+<text class="h2" x="40" y="268">Activity — last {active_days} days</text>
+<g transform="translate(40,285)">{grid}</g>
+
+<!-- languages -->
+<rect class="card" x="20" y="395" width="800" height="95" rx="8"/>
+<text class="h2" x="40" y="423">Languages — {esc(user['login'])}/Chrisalunlloyd2-sudo</text>
+<g transform="translate(0,435)"><svg x="80" y="0" width="760" height="26" overflow="visible">{"".join(lang_rows)}</svg></g>
+<text class="muted" x="40" y="478"><tspan>{legend}</tspan></text>
+
+<!-- repositories -->
+<rect class="card" x="20" y="505" width="800" height="175" rx="8"/>
+<text class="h2" x="40" y="533">Repositories</text>
+<text class="muted" x="40" y="560" font-size="13">REPO<tspan dx="330">★</tspan><tspan dx="60">FORKS</tspan><tspan dx="55">LANG</tspan><tspan dx="60">LAST PUSH</tspan></text>
+<line x1="40" y1="568" x2="800" y2="568" stroke="#30363d"/>
+<text class="muted" x="40" y="592" font-size="13">
+{chr(10).join('' for _ in [])}
+</text>
+<g font-size="13">{"".join(f'<text y="{592+i*22}"><a href="{esc(r["html_url"])}" fill="#58a6ff">{esc(r["full_name"])}</a></text><text class="c" x="510" y="{592+i*22}">{r["stargazers_count"]}</text><text class="c" x="580" y="{592+i*22}">{r["forks_count"]}</text><text class="c" x="650" y="{592+i*22}">{esc(r["language"] or "—")}</text><text class="c" x="745" y="{592+i*22}">{fmt_date(r["pushed_at"]) if r.get("pushed_at") else "—"}</text>' for i, r in enumerate(top))}</g>
+<text class="muted" x="40" y="668">Generated locally by scripts/metrics_local.py (Alice heartbeat · replacement for disabled metrics.yml) · {now.strftime("%Y-%m-%d %H:%M")} UTC</text>
+</svg>'''
+
+OUT.parent.mkdir(parents=True, exist_ok=True)
+OUT.write_text(svg)
+print(f"wrote {OUT} ({len(svg)} bytes, {total_commits} commits, {active_days} active days, {len(repos)} repos)")
