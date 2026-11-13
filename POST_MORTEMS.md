@@ -55,3 +55,28 @@ workflow's original entry format.
 - **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
 
 ---
+
+### ⚠️ Incident Digest (Local Self-Healing Monitor) — 2026-11-13 10:07:40Z
+- **Scan window:** last 24h · **Repos scanned:** 66/66
+
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (failure) at `2026-11-13T08:38:05Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43394750263)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (failure) at `2026-11-13T05:47:41Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43374335426)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (failure) at `2026-11-13T05:27:05Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43372107636)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (failure) at `2026-11-13T03:09:37Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43357058311)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (failure) at `2026-11-13T01:27:40Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43345085131)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (failure) at `2026-11-12T23:20:22Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43328008781)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (failure) at `2026-11-12T23:15:44Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43327338223)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (failure) at `2026-11-12T22:03:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43316236142)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (failure) at `2026-11-12T20:37:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43302112107)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (failure) at `2026-11-12T15:00:07Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43243044083)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Analytics Generator` (failure) at `2026-11-12T14:56:29Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43242429013)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (failure) at `2026-11-12T14:51:23Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43241535481)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (failure) at `2026-11-12T14:44:26Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43240320759)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (failure) at `2026-11-12T12:53:55Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43222141031)
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (failure) at `2026-11-12T11:58:46Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43213767815)
+
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS` — 15 failure(s) queued
+- **AvatarAlive latest run detail:** name='' path=BuildFailed event=push status=completed concl=startup_failure
+- **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
+
+---
