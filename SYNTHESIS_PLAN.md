@@ -1,6 +1,6 @@
 # 🌐 Multi-Repo Unified Synthesis & Next Steps
 
-> Automated correlation report generated for Kernel BDI execution loops. (local run by Alice — Action disabled 2026-11-12)
+> Automated correlation report generated for Kernel BDI execution loops.
 
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
@@ -72,18 +72,18 @@
 | `MasterLogs` | `openrouter_manager` | Telemetry |
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web, Telemetry |
 | `MatrixCE_GUI` | `mind-palace` | Telemetry |
-| `MatrixCE_GUI` | `mindpalace` | Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `mindpalace` | Telemetry, Agent/BDI |
 | `MatrixCE_GUI` | `Nova` | Telemetry |
-| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web, Telemetry |
 | `MatrixCE_GUI` | `sims-java-neo-fx` | Telemetry |
 | `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
 | `MatrixCE_GUI` | `SimsMerged` | Agent/BDI |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
-| `MATRIX_GEN8_HOME` | `mindpalace` | Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `mindpalace` | Telemetry, Agent/BDI |
 | `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web, Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI |
