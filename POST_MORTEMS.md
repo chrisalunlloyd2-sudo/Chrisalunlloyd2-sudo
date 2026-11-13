@@ -104,3 +104,23 @@ workflow's original entry format.
 - **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
 
 ---
+
+### ⚠️ Incident Digest (Local Self-Healing Monitor) — 2026-11-13 16:09:15Z
+
+- **Scan window:** last 24h · **Repos scanned:** 20/20 (most recently pushed)
+
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-13T08:38:05Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43394750263)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-13T01:27:40Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43345085131)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-12T20:37:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43302112107)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-13T14:13:58Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43440762172)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-13T05:47:41Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43374335426)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-12T23:20:22Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43328008781)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Analytics Generator` (schedule) failed at `2026-11-13T14:21:50Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43441999262)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (schedule) failed at `2026-11-13T14:01:33Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43438839825)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-13T11:53:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43420616344)
+
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS` — 9 failure(s) queued
+
+- **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
+
+---
