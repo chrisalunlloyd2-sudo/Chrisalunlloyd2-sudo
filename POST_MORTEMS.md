@@ -29,3 +29,29 @@ workflow's original entry format.
 - **Recommended Action:** Same LFS quota class as run 42868772720 (refs #25). Tracker: 36 of 69 LFS paths are pointer stubs as of 2026-11-12.
 
 ---
+
+### ⚠️ Incident Digest (Local Self-Healing Monitor) — 2026-11-13 02:09:13Z
+
+- **Scan window:** last 24h · **Repos scanned:** 20/20 (most recently pushed)
+
+- **chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo** · workflow `Agent Post-Mortem & Exception Digest` (workflow_run) failed at `2026-11-12T08:03:52Z` — [run](https://github.com/chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo/actions/runs/43179906772)
+- **chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo** · workflow `Generate State Machine Activity Matrix` (schedule) failed at `2026-11-12T08:03:45Z` — [run](https://github.com/chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo/actions/runs/43179890731)
+- **chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo** · workflow `Agent Post-Mortem & Exception Digest` (workflow_run) failed at `2026-11-12T07:33:56Z` — [run](https://github.com/chrisalunlloyd2-sudo/Chrisalunlloyd2-sudo/actions/runs/43176193273)
+- **chrisalunlloyd2-sudo/mindpalace** · workflow `welcome-feedback` (issues) failed at `2026-11-12T04:53:53Z` — [run](https://github.com/chrisalunlloyd2-sudo/mindpalace/actions/runs/43157752596)
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (workflow_dispatch) failed at `2026-11-12T11:58:46Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43213767815)
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (push) failed at `2026-11-12T05:13:51Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43159974855)
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (push) failed at `2026-11-12T04:44:29Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43156760691)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-13T01:27:40Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43345085131)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-12T20:37:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43302112107)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-12T12:53:55Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43222141031)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-12T23:20:22Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43328008781)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-12T14:51:23Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43241535481)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (schedule) failed at `2026-11-12T23:15:44Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43327338223)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-12T22:03:16Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43316236142)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-12T15:00:07Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43243044083)
+
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS` — 15 failure(s) queued
+
+- **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
+
+---
