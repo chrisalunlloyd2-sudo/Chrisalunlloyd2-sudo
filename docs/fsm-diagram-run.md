@@ -6,3 +6,10 @@
 - **Output:** `assets/fsm/states.svg` — regenerated, **byte-identical to committed artifact** (diagram current, no diff)
 - **Result:** ✅ compile clean, zero errors
 - Workflow originally: push→`fsm/**` or manual; now run by Alice on heartbeat (workflow disabled 2026-11-12).
+
+## Re-verification (cycle 2, slot 9/13)
+
+- **Run at:** 2026-11-13 09:04 UTC (heartbeat)
+- **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, **byte-identical** (md5 79cb6b05) — diagram still current, source unchanged.
+- **Toolchain:** PlantUML 1.2024.7 jar re-fetched (prior /tmp copy purged by disk cleanup), OpenJDK sandbox.
+- Workflow still disabled; Alice runs it locally per heartbeat rotation.
