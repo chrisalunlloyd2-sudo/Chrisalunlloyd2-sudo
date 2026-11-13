@@ -111,7 +111,7 @@ def main():
         if wanted and name not in wanted:
             continue
         clone_url = f"https://x-access-token:{GH_TOKEN}@github.com/{GH_USER}/{name}.git"
-        os.system(f"git clone --depth 1 -q {clone_url} /tmp/{name} 2>/dev/null")
+        os.system(f"timeout 25 git clone --depth 1 -q {clone_url} /tmp/{name} 2>/dev/null")  # capped: local heartbeat run, avoid stalls
         repo_todos, repo_events = [], []
         for root, dirs, files in os.walk(f"/tmp/{name}"):
             dirs[:] = [d for d in dirs if d not in ('.git','node_modules','dist','build','__pycache__','.venv')]
