@@ -7,3 +7,10 @@
 - **Note:** existing `assets/diagrams/pipeline.svg` (19.5 KB mmdc render) retained ADD-only — it is current; local renderer is the sandbox fallback for future runs.
 - **FSM side (fsm-diagram.yml):** PlantUML recompiled `fsm/states.puml` → `assets/fsm/states.svg` **byte-identical** (diagram current, no commit needed).
 - Workflow originally: push→`schemas/**.mmd`,`dags/**.mmd`; now run by Alice on heartbeat (workflows disabled 2026-11-12).
+
+## Render run 2026-11-14 (slot 9/13 of cycle 1 — local Alice replacement)
+- Trigger: heartbeat, `render-diagrams.yml` disabled 2026-11-12.
+- Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome still unavailable — disk/RAM constrained sandbox).
+- Input: `schemas/pipeline.mmd` + `dags/pipeline.mmd` (identical, md5 72b3273c).
+- Output: `assets/diagrams/pipeline_local.svg` re-rendered, XML-validated.
+- Source unchanged since last render → diagram stays in sync with `.mmd` inputs.
