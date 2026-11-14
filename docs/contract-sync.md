@@ -26,3 +26,8 @@
 - Rendered fsm/states.puml with plantuml-1.2024.7 (java -tsvg) locally, per disabled workflow fsm-diagram.yml.
 - Output md5 79cb6b05d83e18683c0bc550d1ebe1c9 == committed assets/fsm/states.svg md5: diagram in sync, no drift, no SVG change needed.
 - ADD-only: receipt append only.
+
+## auto-contract-sync local run — 2026-11-14T23:05:14Z (slot 2/13, cycle 4)
+- Drift audit of `schemas/pipeline.mmd` (src md5 72b3273c79e6221aef981b453ccde991) vs `origin/main:shared_contracts/pipeline.mmd` in BDI_FSM_AGENT, Sophia, Aegis_Unified — all three fetched live from GitHub.
+- Result: **0/3 drifted — full MATCH on all downstream; 0 commits, 0 PRs** (workflow's `git diff --cached --quiet` guard would skip anyway; no empty commits pushed).
+- Workflow remains disabled; run here on heartbeat.
