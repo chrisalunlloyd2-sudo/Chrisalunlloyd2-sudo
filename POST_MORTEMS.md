@@ -152,3 +152,21 @@ workflow's original entry format.
 - **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed. Note: aegis-agent-bridge (8/17) and living-ascii-art (4/17) are chronically failing on `schedule` — candidates for the local-heartbeat treatment.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI (Chrisalunlloyd2-sudo/AvatarAlive)
+- **Timestamp:** `2026-11-14T16:43:22Z` → `2026-11-14T20:58:35Z` (9 failed run(s) in 24h)
+- **Workflow Run:** [43634599653](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/43634599653), [43637400490](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/43637400490), [43640299372](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/43640299372)
+- **Agent Diagnosis Status:** `BDI_ANALYSIS_COMPLETE`
+- **Recommended Action:** LFS quota class (refs AvatarAlive #25): 36/69 LFS paths still pointer stubs, ci.yml LFS-pull step trips PRODUCTION MESH SLOT CORRUPT. Action: pay LFS bill, then `python3 tools/lfs_audit.py .` locally to verify.
+
+---
+
+
+### ⚠️ Incident Detected: Update Living ASCII Art (chrisalunlloyd2-sudo/living-ascii-art)
+- **Timestamp:** `2026-11-14T15:52:18Z` → `2026-11-14T15:52:18Z` (1 failed run(s) in 24h)
+- **Workflow Run:** [43612490128](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43612490128)
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS`
+- **Recommended Action:** living-ascii-art daily Update job failing on `schedule` (4th repo in the chronic set) — candidate for local-heartbeat treatment; check data feed.
+
+---
+
