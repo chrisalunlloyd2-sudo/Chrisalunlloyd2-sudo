@@ -36,3 +36,8 @@ Owner: @chrisalunlloyd2-sudo — account repos: 174, total stars+forks: 20
 - Shell: 4 KB
 
 _Regenerated locally on heartbeat (rotation slot: metrics). Zero Actions minutes._
+
+## Slot 8/13 — metrics.yml (local replacement) — 2026-11-14
+- Regenerated `assets/github-metrics.svg` from real GitHub REST API data (user, repos, last 100 commits, search PRs/issues 30d) — replaces the disabled lowlighter/metrics Action (needed a classic token + Actions minutes).
+- Real numbers: 66 public repos, 30 followers, 21 gists, 13 stars / 4 forks total, 59 PRs + 165 issues opened in 30d, commit cadence 100 commits over 4 days, top langs Python/C++/Java.
+- Valid XML, deterministic, ADD-only: file is a refresh of an existing path, no deletions.
