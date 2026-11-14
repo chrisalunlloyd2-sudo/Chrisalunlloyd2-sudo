@@ -21,3 +21,8 @@
 ## bdi-state-hud local run — 2026-11-14T17:13:55Z (slot 3/13)
 - Regenerated `assets/agent/bdi-core-hud.svg` from live `state_snapshot/bdi/{beliefs.json,desires.json,active_plan.txt}` using the workflow's own render logic.
 - XML validated. Commit: telemetry push below.
+
+## fsm-diagram local run — 2026-11-14 (slot 5/13)
+- Rendered fsm/states.puml with plantuml-1.2024.7 (java -tsvg) locally, per disabled workflow fsm-diagram.yml.
+- Output md5 79cb6b05d83e18683c0bc550d1ebe1c9 == committed assets/fsm/states.svg md5: diagram in sync, no drift, no SVG change needed.
+- ADD-only: receipt append only.
