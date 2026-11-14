@@ -17,3 +17,7 @@
 - Result: **0/3 drifted — all three downstream already carry the current source (pipeline.mmd md5 72b3273c79e6221aef981b453ccde991); 0 commits, 0 PRs created** (guards held; no empty commits pushed).
 - Source last changed: 4546bef6; downstream in sync at that content.
 - Next: workflow remains disabled, runs here on heartbeat; next slot = bdi-state-hud.
+
+## bdi-state-hud local run — 2026-11-14T17:13:55Z (slot 3/13)
+- Regenerated `assets/agent/bdi-core-hud.svg` from live `state_snapshot/bdi/{beliefs.json,desires.json,active_plan.txt}` using the workflow's own render logic.
+- XML validated. Commit: telemetry push below.
