@@ -124,3 +124,31 @@ workflow's original entry format.
 - **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed.
 
 ---
+
+### ⚠️ Incident Digest (Local Self-Healing Monitor) — 2026-11-14 15:39:10Z
+
+- **Scan window:** last 24h · **Repos scanned:** 20/20 (most recently pushed) · **Failures found:** 17 across 4 repos
+
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (push) failed at `2026-11-14T02:58:28Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43549152391)
+- **chrisalunlloyd2-sudo/chrislloyd-io** · workflow `Deploy to GitHub Pages` (push) failed at `2026-11-14T01:42:55Z` — [run](https://github.com/chrisalunlloyd2-sudo/chrislloyd-io/actions/runs/43542234254)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-14T09:15:57Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43579729267)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-14T02:27:07Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43546373632)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-13T22:12:53Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43517408789)
+- **chrisalunlloyd2-sudo/living-ascii-art** · workflow `Update Living ASCII Art` (schedule) failed at `2026-11-13T16:43:10Z` — [run](https://github.com/chrisalunlloyd2-sudo/living-ascii-art/actions/runs/43465526688)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-14T13:12:47Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43598623164)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-14T05:37:49Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43562458125)
+- **chrisalunlloyd2-sudo/mind-palace** · workflow `Refresh MindPalace Data` (schedule) failed at `2026-11-13T23:23:00Z` — [run](https://github.com/chrisalunlloyd2-sudo/mind-palace/actions/runs/43526695325)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-14T14:47:44Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43606716608)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Analytics Generator` (schedule) failed at `2026-11-14T13:17:47Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43599037108)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (schedule) failed at `2026-11-14T13:04:12Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43597887774)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-14T07:23:14Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43570861471)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (schedule) failed at `2026-11-14T05:16:31Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43560733927)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-14T00:41:12Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43535846728)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Traffic Fetch` (schedule) failed at `2026-11-13T23:18:32Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43526128618)
+- **chrisalunlloyd2-sudo/aegis-agent-bridge** · workflow `Aegis Inbox Poll` (schedule) failed at `2026-11-13T19:15:34Z` — [run](https://github.com/chrisalunlloyd2-sudo/aegis-agent-bridge/actions/runs/43490486508)
+
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS` — 17 failure(s) queued
+
+- **Recommended Action:** validate state lock and corpus integrity; check heartbeat feed. Note: aegis-agent-bridge (8/17) and living-ascii-art (4/17) are chronically failing on `schedule` — candidates for the local-heartbeat treatment.
+
+---
