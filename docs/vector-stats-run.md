@@ -11,3 +11,8 @@
 - Source re-read live: state_snapshot/db_metrics.json → 1.4k vectors / 7 chunks / 1444 corpus (unchanged since 2026-11-13; last_suite "672 passed 72.6s" still current).
 - Output regenerated: assets/agent/vector-memory.svg (same pill format as disabled vector-stats.yml).
 - ADD-only: receipt appended + svg touched, nothing deleted.
+
+## Re-run 2026-11-15 pulse (heartbeat, Alice) - vector-stats slot
+- Source re-read live: state_snapshot/db_metrics.json -> 1.4k vectors / 7 chunks / 1444 corpus / last_suite "672 passed 72.6s".
+- Output regenerated: assets/agent/vector-memory.svg (pill format per disabled vector-stats.yml; real data, not the 128/48.2k fallbacks).
+- ADD-only: receipt appended + svg rewritten, nothing deleted.
