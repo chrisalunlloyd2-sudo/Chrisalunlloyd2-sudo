@@ -6,3 +6,14 @@ source: fsm/states.puml topology (18 edges, 8 states) × whole-word trigger occu
 total_weight: 77
 max_cell: 40 (COMMIT → IDLE); next VERIFY → COMMIT 13, PLATEAU → IDLE 4, BLOCKED → IDLE 4
 note: deterministic real data replaces np.random.randint noise of the disabled workflow; counts grown since 2026-11-14 receipt (53 → 77) as source gained trigger words. Workflow fsm-telemetry-plot.yml remains disabled; regen owned by Alice on heartbeat.
+
+run: fsm-telemetry-plot (workflow slot — local Alice regen)
+date: 2026-11-15T21:16:28+00:00
+slot: 7/13 (cycle 5)
+output: assets/agent/fsm_density.svg
+source: fsm/states.puml topology (18 edges, 8 states) x whole-word trigger occurrence counts in repo source (excl .git/assets/docs/node_modules/.github)
+total_weight: 81
+max_cell: 38 (COMMIT -> IDLE); top triggers: done=38, pass=18, give_up=4, fail=3
+note: deterministic real data replaces np.random.randint noise of the disabled workflow; matplotlib present this run (SVG via Agg). Workflow fsm-telemetry-plot.yml remains disabled; regen owned by Alice on heartbeat.
+
+## telemetry: slot fsm-diagram/fsm-telemetry-plot local regen — 2026-11-15T21:47:11Z — fsm_density.svg + fsm-telemetry-run.md refreshed from fsm/states.puml topology, ADD-only [alice-local]
