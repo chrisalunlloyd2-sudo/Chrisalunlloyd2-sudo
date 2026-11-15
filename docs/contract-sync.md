@@ -36,3 +36,12 @@
 - Live drift audit: `schemas/pipeline.mmd` (src md5 72b3273c79e6221aef981b453ccde991, last change fd77084 2026-11-12T21:16Z) vs `origin/main:shared_contracts/pipeline.mmd` fetched from GitHub in BDI_FSM_AGENT, Sophia, Aegis_Unified.
 - Result: **0/3 drifted — full MATCH on all three; 0 commits, 0 PRs** (workflow's `git diff --cached --quiet` guard would skip; no empty commits pushed).
 - Workflow remains disabled; run here on heartbeat. Next slot: vector-stats / vector-cluster-map rotation.
+
+## auto-contract-sync local run — 2026-11-15T12:46:56Z (slot 2/13, cycle 5)
+- Drift audit vs source `schemas/pipeline.mmd` (md5 72b3273c79e6221aef981b453ccde991), using local downstream checkouts (reused clones, disk ~100%):
+  | BDI_FSM_AGENT | Sophia | Aegis_Unified |
+  |---|---|---|
+  | MATCH | MATCH | MATCH |
+- Result: **0/3 drifted — 0 broadcasts, 0 commits, 0 PRs** (workflow's own `git diff --cached --quiet` guard would skip all three anyway; no empty downstream commits per ADD-only).
+- Source last changed: fb742d0 2026-11-10; downstream already carry that content.
+- Next: workflow remains disabled, runs here on heartbeat; next slot = metrics.
