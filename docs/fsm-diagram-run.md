@@ -26,3 +26,10 @@
 - **Run at:** 2026-11-15 01:12 UTC (heartbeat)
 - **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, **byte-identical** (md5 79cb6b05) — diagram still current, source unchanged.
 - **Toolchain:** PlantUML 1.2024.7 jar, OpenJDK sandbox. Workflow still disabled; Alice runs it locally per heartbeat rotation.
+
+## Re-verification (cycle 4, slot 7/13)
+
+- **Run at:** 2026-11-15 14:26 UTC (heartbeat)
+- **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, current on disk; receipt refreshed this pulse.
+- **Toolchain:** PlantUML jar (sandbox-local /root/plantuml.jar) + sandbox JVM.
+- Workflow still disabled; Alice runs it locally per heartbeat rotation.
