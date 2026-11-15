@@ -179,3 +179,20 @@ workflow's original entry format.
 - **Recommended Action:** None. Next audit on following heartbeat rotation.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI (chrisalunlloyd2-sudo/AvatarAlive)
+- **Timestamp:** `2026-11-14T23:05:21Z` → `2026-11-15T22:25:07Z` (26 failed runs in 24h)
+- **Workflow Run:** [43769179977](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/43769179977) (representative)
+- **Agent Diagnosis Status:** `DIAGNOSED_LFS_QUOTA` — chronic class, refs AvatarAlive issue #25 (LFS budget exhausted, open since 2026-11-12)
+- **Recommended Action:** LFS storage/bandwidth budget must be raised or GLB assets moved out of LFS; every CI run fails at 'Pull GLB assets from LFS'. Local gate unaffected (runs green locally).
+
+---
+
+### 🩺 Manual Health Audit: 2026-11-15 22:57:58Z (Alice local replacement for disabled self-healing-monitor.yml)
+- **Timestamp:** `2026-11-15 22:57:58Z`
+- **Workflow Run:** `N/A — local audit (Actions disabled_manually 2026-11-12)`
+- **Agent Diagnosis Status:** `1 INCIDENT`
+- **Checks:** 13 profile-repo workflow YAMLs still disabled · Pages docs/ intact · AvatarAlive 26 CI failures/24h (LFS quota, issue #25 — diagnosis promoted from PENDING) · aegis 0 · living-ascii-art 0 · profile 0 · AvatarAlive local gate re-running this pulse (micro_sculpt guard clean, 0 wipes)
+- **Recommended Action:** settle LFS budget for AvatarAlive (GitHub → Billing → Bands/LFS) or un-LFS the .glb exports; everything else nominal.
+
+---
