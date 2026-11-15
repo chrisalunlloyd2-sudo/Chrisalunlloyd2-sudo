@@ -1,8 +1,8 @@
 # snake_grid — local run (Alice heartbeat)
 
-- Date: 2026-11-14T23:38Z
-- Replacement for: `.github/workflows/snake_grid.yml` (disabled 2026-11-12, Actions minutes)
-- Data source: github-contributions-api.jogruber.de/v4/Chrisalunlloyd2-sudo (fresh pull: 16,408 contributions in 2026, 365 day-cells)
-- Regenerated: `docs/github-snake.svg`, `docs/github-snake-dark.svg`, `docs/ocean.svg`
-- Method: boustrophedon crawl path over 53 week-columns x 7 weekdays, animated stroke snake head, 5-level github palettes (light/dark) + ocean palette
-- Note: `ocean.gif` from the old workflow not regenerated (SVG source of truth on Pages)
+- Date: 2026-11-15T09:32Z
+- Replacement for: `.github/workflows/snake_grid.yml` (disabled 2026-11-11, Actions minutes)
+- Data source: github-contributions-api.jogruber.de/v4/Chrisalunlloyd2-sudo?y=last — 16,418 contributions / 365 day-cells (live pull)
+- Regenerated: `docs/github-snake.svg`, `docs/github-snake-dark.svg`, `docs/ocean.svg` (all XML-validated)
+- Method: boustrophedon crawl path, 53 week-columns x 7 weekdays, animated stroke snake head + moving head-dot, 3 palettes (github light / github-dark / ocean)
+- Note: `ocean.gif` from old workflow not regenerated (SVG is the Pages source of truth)
