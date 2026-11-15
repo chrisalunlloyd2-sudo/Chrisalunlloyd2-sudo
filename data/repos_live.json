@@ -1,0 +1,337 @@
+[
+ {
+  "name": "aegis-agent-bridge",
+  "desc": "Aegis Agent Email Sync Bridge \u2014 protocol, inbox poller, router, and state manager for agent orchestration via Gmail/OneDrive/GitHub",
+  "lang": "Python"
+ },
+ {
+  "name": "AegisAgent",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "Aegis_Agents",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "agent-laguna",
+  "desc": "Autonomous daily agent \u2014 hexflow contract processor, hounty reward system, daily task completion + 1 self-improvement step/day",
+  "lang": "Python"
+ },
+ {
+  "name": "aria-sync",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "batch_termux",
+  "desc": "Persistent batch terminal for Termux \u2014 Rust native core with psutil monitoring, regex hooks, error recursion feedback, and resource pressure pacing. Forks nova-terminal, bridges sims1337 + matrixwince.",
+  "lang": "Python"
+ },
+ {
+  "name": "Chrisalunlloyd2-sudo",
+  "desc": "Kernel / Aegis profile \u2014 nightly contribution snake + 3D grid",
+  "lang": "Python"
+ },
+ {
+  "name": "chrislloyd-io",
+  "desc": "Chris Alun Lloyd Ltd \u2014 painting & home renovation, affiliate shop, open-source business-automation compendium. Data-driven static site.",
+  "lang": "Python"
+ },
+ {
+  "name": "Chris_Lloyd_Website",
+  "desc": "Chris Lloyd Painting - Regina & area. Static portfolio.",
+  "lang": "HTML"
+ },
+ {
+  "name": "DARWIN_GRID_DEPLOY",
+  "desc": "",
+  "lang": "JavaScript"
+ },
+ {
+  "name": "E2E_Final_Test",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "E2E_Test_Deploy_6172",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "evolved_system",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Flappy_bird_except_python_and",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "fleet-repo-scanner",
+  "desc": "Paced fleet repo scanner with rollback + never-try-twice memory. Pure stdlib, ADD-only doctrine gate, snapshot-rollback, never repeats a failing operation.",
+  "lang": "Python"
+ },
+ {
+  "name": "frontier-ai-dlc",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Gitautoworks",
+  "desc": "My automated git hub uploader.",
+  "lang": "Python"
+ },
+ {
+  "name": "H2OIDE",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "H2OMatrixCE",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "H2O_MATRIX",
+  "desc": "Unified H2O IDE and Matrix GEN8 Ecosystem",
+  "lang": "Python"
+ },
+ {
+  "name": "house-inference",
+  "desc": "Termux/cellular house GGUF inference \u2014 super-hardened server, model manifest (danube/triton/tinystories), quantization, APK model hook. Main ops pattern.",
+  "lang": "Python"
+ },
+ {
+  "name": "JRM",
+  "desc": "",
+  "lang": "Java"
+ },
+ {
+  "name": "Kernel_Pedagogy",
+  "desc": "Lessons distilled from Kernel's real code \u2014 DPLL, BMC, N-retry, knee-pruning, fleet gist. Auto-seeded nightly.",
+  "lang": ""
+ },
+ {
+  "name": "LiDar",
+  "desc": "Emulative LiDAR: monocular depth, 5-illusion correction, 3-D triangulation and active view planning \u2014 pure Python stdlib.",
+  "lang": "Python"
+ },
+ {
+  "name": "living-ascii-art",
+  "desc": "Living ASCII art from news headlines with rainbow fade animations",
+  "lang": "JavaScript"
+ },
+ {
+  "name": "Machine2",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "market-research",
+  "desc": "Lightweight web research digest for paint/home-reno market + seasonal demand (v1)",
+  "lang": "Python"
+ },
+ {
+  "name": "MasterLogs",
+  "desc": "Centralized system logs, dependency trees, runtime errors, debug traces, KV snapshots, keyword lists, LoRA updates \u2014 auto-populated nightly by Aegis dream engine.",
+  "lang": "Python"
+ },
+ {
+  "name": "MatrixCE_GUI",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Matrix_CEAGENTS",
+  "desc": "",
+  "lang": "HTML"
+ },
+ {
+  "name": "Matrix_CEAPK",
+  "desc": "",
+  "lang": "Smali"
+ },
+ {
+  "name": "Matrix_CEAPPS",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Matrix_CEBack",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Matrix_CEKAI9000",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Matrix_CESERVERS",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "matrix_dash",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "MATRIX_GEN8_HOME",
+  "desc": "\ud83c\udf0c KAI 9000: Matrix CE Home | Unified Storage Substrate | Phase-Locked Android Architectural Core",
+  "lang": "Python"
+ },
+ {
+  "name": "mind-palace",
+  "desc": "First-person graph-based memory palace for GitHub repos, databases, and sovereign knowledge",
+  "lang": "JavaScript"
+ },
+ {
+  "name": "mindpalace",
+  "desc": "3D First-Person GitHub Repository Explorer",
+  "lang": "Java"
+ },
+ {
+  "name": "moe-kai-skill",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "MultiPage_E2E_20010",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "NAS_SHARE",
+  "desc": "",
+  "lang": "JavaScript"
+ },
+ {
+  "name": "Nova",
+  "desc": "Autonomous Systems Engineering Project Foundry. v10.1 Master Engine with System Bible and Double Consent.",
+  "lang": "HTML"
+ },
+ {
+  "name": "openrouter",
+  "desc": "",
+  "lang": "CSS"
+ },
+ {
+  "name": "openrouter_manager",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "py4qwhip",
+  "desc": "Self-assembling Paninian bytecode runtime - self-resolving variables, zero undefined states, bytecode-tagged credentials",
+  "lang": "Python"
+ },
+ {
+  "name": "RandomTestProject",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "Ryush",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "SimAgentCity",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "sims-java-neo-fx",
+  "desc": "",
+  "lang": "Java"
+ },
+ {
+  "name": "sims-javafx-neo",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "SIMS1337",
+  "desc": "Whitepaper: https://github.com/chrisalunlloyd2-sudo/SIMS1337/blob/main/SIMS1337_White_Paper.md",
+  "lang": "Java"
+ },
+ {
+  "name": "SIMS1337-BACKEND",
+  "desc": "\u2699\ufe0f GodHand + Player Grid Backend - Servers, Tests, Model Chat",
+  "lang": ""
+ },
+ {
+  "name": "SIMS1337-SKY",
+  "desc": "\ud83c\udfd9\ufe0f Player Grid 3D - XYZ City Skyline Assets",
+  "lang": ""
+ },
+ {
+  "name": "SIMS1337BACKEND",
+  "desc": "\u2699\ufe0f Backend Services, Tests, CI/CD, Server Orchestration",
+  "lang": ""
+ },
+ {
+  "name": "SIMS1337SKY",
+  "desc": "\ud83c\udfd9\ufe0f SIMS1337 Skyline - 4D City Assets & Graphics",
+  "lang": "HTML"
+ },
+ {
+  "name": "SimsMerged",
+  "desc": "",
+  "lang": "Python"
+ },
+ {
+  "name": "sovereign-analytics",
+  "desc": "",
+  "lang": "HTML"
+ },
+ {
+  "name": "Sprite",
+  "desc": "\ud83c\udf0c KAI 9000: Matrix CE Ecosystem | Unified Substrate Explorer with Cloud & Phone Integration | DePIN-backed Autonomous Swarm",
+  "lang": ""
+ },
+ {
+  "name": "teaching_sandbox",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "TestRepo999",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "TestRepoPush",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "training_sandbox",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "vidalialed-lite",
+  "desc": "",
+  "lang": ""
+ },
+ {
+  "name": "VoiceHex",
+  "desc": "Local offline voice assistant - speculative hex-cell TTS chooser, deterministic, no LLM",
+  "lang": "Python"
+ },
+ {
+  "name": "wip-quantum-asm",
+  "desc": "Quantum Assembly Language Specification and Tooling",
+  "lang": "Python"
+ },
+ {
+  "name": "WORKER_PACKAGE",
+  "desc": "",
+  "lang": "JavaScript"
+ }
+]

@@ -1,27 +1,93 @@
-# 🌐 Multi-Repo Unified Synthesis & Next Steps
+# Multi-Repo Unified Synthesis & Next Steps
 
-> Automated correlation report generated for Kernel BDI execution loops.
+> Automated correlation report (local regen of cross-repo-unifier, slot 4/13). Data: live GitHub repos API + siphoned TODOs.
 
-### 🔗 Cross-Repository Domain Correlations
+### Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
 | `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `H2OIDE` | Telemetry |
 | `Aegis_Agents` | `Machine2` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
+| `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
+| `Aegis_Agents` | `mindpalace` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `Nova` | Telemetry |
+| `Aegis_Agents` | `openrouter_manager` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
+| `Aegis_Agents` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `Machine2` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `mindpalace` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `SimsMerged` | Agent/BDI, Telemetry |
+| `H2OIDE` | `Machine2` | Telemetry |
+| `H2OIDE` | `MasterLogs` | Telemetry |
+| `H2OIDE` | `MatrixCE_GUI` | Telemetry |
+| `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
+| `H2OIDE` | `mind-palace` | Telemetry |
+| `H2OIDE` | `mindpalace` | Telemetry |
+| `H2OIDE` | `Nova` | Telemetry |
+| `H2OIDE` | `openrouter_manager` | Telemetry |
+| `H2OIDE` | `sims-javafx-neo` | Telemetry |
+| `H2OIDE` | `SimsMerged` | Telemetry |
+| `Kernel_Pedagogy` | `mindpalace` | Orchestration |
 | `Machine2` | `MasterLogs` | Telemetry |
+| `Machine2` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
+| `Machine2` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Machine2` | `mind-palace` | Telemetry |
+| `Machine2` | `mindpalace` | Agent/BDI, Telemetry |
+| `Machine2` | `Nova` | Telemetry |
+| `Machine2` | `openrouter_manager` | Agent/BDI, Telemetry |
 | `Machine2` | `sims-javafx-neo` | Telemetry |
+| `Machine2` | `SimsMerged` | Agent/BDI, Telemetry |
+| `MasterLogs` | `MatrixCE_GUI` | Telemetry |
+| `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
 | `MasterLogs` | `mind-palace` | Telemetry |
+| `MasterLogs` | `mindpalace` | Telemetry |
+| `MasterLogs` | `Nova` | Telemetry |
+| `MasterLogs` | `openrouter_manager` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
+| `MasterLogs` | `SimsMerged` | Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, API/Web, Telemetry |
+| `MatrixCE_GUI` | `mind-palace` | Telemetry |
+| `MatrixCE_GUI` | `mindpalace` | Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `Nova` | Telemetry |
+| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, API/Web, Telemetry |
+| `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
+| `MatrixCE_GUI` | `SimsMerged` | Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
+| `MATRIX_GEN8_HOME` | `mindpalace` | Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, API/Web, Telemetry |
+| `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
+| `MATRIX_GEN8_HOME` | `SimsMerged` | Agent/BDI, Telemetry |
+| `mind-palace` | `mindpalace` | Telemetry |
+| `mind-palace` | `Nova` | Telemetry |
+| `mind-palace` | `openrouter_manager` | Telemetry |
 | `mind-palace` | `sims-javafx-neo` | Telemetry |
+| `mind-palace` | `SimsMerged` | Telemetry |
+| `mindpalace` | `Nova` | Telemetry |
+| `mindpalace` | `openrouter_manager` | Agent/BDI, Telemetry |
+| `mindpalace` | `sims-javafx-neo` | Telemetry |
+| `mindpalace` | `SimsMerged` | Agent/BDI, Telemetry |
+| `Nova` | `openrouter_manager` | Telemetry |
+| `Nova` | `sims-javafx-neo` | Telemetry |
+| `Nova` | `SimsMerged` | Telemetry |
+| `openrouter_manager` | `sims-javafx-neo` | Telemetry |
+| `openrouter_manager` | `SimsMerged` | Agent/BDI, Telemetry |
+| `sims-javafx-neo` | `SimsMerged` | Telemetry |
 
-### ⚡ Prioritized Execution Queue (Next Steps)
+**67 repos**, **79 cross-links**, unified stack below.
+
+### Prioritized Execution Queue (Next Steps)
 - 🔴 **[BUG]** `aegis-fleet-docs` → fixed 2026-08-09.) *(WORKFLOW.md:30)*
 - 🔴 **[BUG]** `Aegis-GAN-OTG` → display mode') *(karoo_gp/pause.py:40)*
 - 🔴 **[BUG]** `Aegis-GAN-OTG` → display mode engaged (for evolutionary biologists)') *(karoo_gp/pause.py:75)*
@@ -29,11 +95,18 @@
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
-- 🔴 **[BUG]** `alice-companion` → Cube**: Red cube deployed to test Three.js rendering. *(CHANGELOG.md:13)*
-- 🔴 **[BUG]** `alice-companion` → fixed at root) *(NEXT_100_STEPS.md:5)*
-- 🔴 **[BUG]** `alice-companion` → pages and leak paths; 404 returns HTML not JSON | *(avataralive/00_REQUEST/phase14_hardening.md:18)*
-- 🔴 **[BUG]** `alice-companion` → flag (never enable Flask debug/reloader). *(avataralive/00_REQUEST/phase14_hardening.md:81)*
-- 🔴 **[BUG]** `alice-companion` → view toggle (show bones). *(avataralive/00_REQUEST/phase20_studio_skinnedmesh.md:12)*
-- 🔴 **[BUG]** `alice-companion` → in kernel source: writes at byte 8+idx*4 land in state_vecto *(avataralive/00_REQUEST/phases_120_153_dag_truth_band.md:35)*
-- 🔴 **[BUG]** `ArchivalMoe` → reports from text. *(README.md:207)*
-- 🔴 **[BUG]** `ArchivalMoe` → report"), *(context_injector.py:202)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_013201.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_013201.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_031404.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_031404.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_032809.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_032809.py:16)*
+
+### Unified Stack
+- **Database**: (none)
+- **Orchestration**: `Kernel_Pedagogy`, `mindpalace`
+- **Agent/BDI**: `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `Machine2`, `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `mindpalace`, `openrouter_manager`, `SimsMerged`
+- **API/Web**: `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `openrouter_manager`
+- **Telemetry**: `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `H2OIDE`, `Machine2`, `MasterLogs`, `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `mind-palace`, `mindpalace`, `Nova`, `openrouter_manager`, `sims-javafx-neo`
