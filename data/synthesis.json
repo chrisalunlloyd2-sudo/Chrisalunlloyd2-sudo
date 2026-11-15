@@ -18,9 +18,8 @@
     },
     {
       "source": "Aegis_Agents",
-      "target": "Machine2",
+      "target": "H2OMatrixCE",
       "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -64,13 +63,6 @@
     },
     {
       "source": "Aegis_Agents",
-      "target": "Nova",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
       "target": "openrouter_manager",
       "domains": [
         "Agent/BDI",
@@ -79,16 +71,15 @@
     },
     {
       "source": "Aegis_Agents",
-      "target": "sims-javafx-neo",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
     },
     {
       "source": "Aegis_Agents",
-      "target": "SimsMerged",
+      "target": "sims-javafx-neo",
       "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -101,9 +92,8 @@
     },
     {
       "source": "Chrisalunlloyd2-sudo",
-      "target": "Machine2",
+      "target": "H2OMatrixCE",
       "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -147,16 +137,16 @@
     },
     {
       "source": "Chrisalunlloyd2-sudo",
-      "target": "Nova",
+      "target": "openrouter_manager",
       "domains": [
+        "Agent/BDI",
         "Telemetry"
       ]
     },
     {
       "source": "Chrisalunlloyd2-sudo",
-      "target": "openrouter_manager",
+      "target": "sims-java-neo-fx",
       "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -168,16 +158,8 @@
       ]
     },
     {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
       "source": "H2OIDE",
-      "target": "Machine2",
+      "target": "H2OMatrixCE",
       "domains": [
         "Telemetry"
       ]
@@ -219,14 +201,14 @@
     },
     {
       "source": "H2OIDE",
-      "target": "Nova",
+      "target": "openrouter_manager",
       "domains": [
         "Telemetry"
       ]
     },
     {
       "source": "H2OIDE",
-      "target": "openrouter_manager",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
@@ -239,8 +221,57 @@
       ]
     },
     {
-      "source": "H2OIDE",
-      "target": "SimsMerged",
+      "source": "H2OMatrixCE",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "mindpalace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "openrouter_manager",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "sims-java-neo-fx",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
@@ -253,74 +284,6 @@
       ]
     },
     {
-      "source": "Machine2",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "MATRIX_GEN8_HOME",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "mind-palace",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "mindpalace",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "Nova",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "openrouter_manager",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
       "source": "MasterLogs",
       "target": "MatrixCE_GUI",
       "domains": [
@@ -350,13 +313,6 @@
     },
     {
       "source": "MasterLogs",
-      "target": "Nova",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
       "target": "openrouter_manager",
       "domains": [
         "Telemetry"
@@ -364,14 +320,14 @@
     },
     {
       "source": "MasterLogs",
-      "target": "sims-javafx-neo",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
     },
     {
       "source": "MasterLogs",
-      "target": "SimsMerged",
+      "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
@@ -380,8 +336,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
         "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -402,17 +358,17 @@
     },
     {
       "source": "MatrixCE_GUI",
-      "target": "Nova",
+      "target": "openrouter_manager",
       "domains": [
+        "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
     {
       "source": "MatrixCE_GUI",
-      "target": "openrouter_manager",
+      "target": "sims-java-neo-fx",
       "domains": [
-        "Agent/BDI",
-        "API/Web",
         "Telemetry"
       ]
     },
@@ -420,14 +376,6 @@
       "source": "MatrixCE_GUI",
       "target": "sims-javafx-neo",
       "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -448,17 +396,17 @@
     },
     {
       "source": "MATRIX_GEN8_HOME",
-      "target": "Nova",
+      "target": "openrouter_manager",
       "domains": [
+        "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
     {
       "source": "MATRIX_GEN8_HOME",
-      "target": "openrouter_manager",
+      "target": "sims-java-neo-fx",
       "domains": [
-        "Agent/BDI",
-        "API/Web",
         "Telemetry"
       ]
     },
@@ -466,14 +414,6 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "sims-javafx-neo",
       "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MATRIX_GEN8_HOME",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -486,13 +426,6 @@
     },
     {
       "source": "mind-palace",
-      "target": "Nova",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "mind-palace",
       "target": "openrouter_manager",
       "domains": [
         "Telemetry"
@@ -500,21 +433,14 @@
     },
     {
       "source": "mind-palace",
-      "target": "sims-javafx-neo",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
     },
     {
       "source": "mind-palace",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "mindpalace",
-      "target": "Nova",
+      "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
@@ -529,36 +455,21 @@
     },
     {
       "source": "mindpalace",
-      "target": "sims-javafx-neo",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
     },
     {
       "source": "mindpalace",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Nova",
-      "target": "openrouter_manager",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Nova",
       "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "Nova",
-      "target": "SimsMerged",
+      "source": "openrouter_manager",
+      "target": "sims-java-neo-fx",
       "domains": [
         "Telemetry"
       ]
@@ -571,16 +482,8 @@
       ]
     },
     {
-      "source": "openrouter_manager",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-javafx-neo",
-      "target": "SimsMerged",
+      "source": "sims-java-neo-fx",
+      "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
@@ -634,8 +537,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Telemetry",
-        "Agent/BDI"
+        "Agent/BDI",
+        "Telemetry"
       ]
     },
     {
@@ -661,9 +564,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86.py:2",
+      "repo": "Alice",
+      "task": "Cube**: Red cube deployed to test Three.js rendering.",
+      "location": "CHANGELOG.md:44",
       "domains": [
         "General"
       ]
@@ -671,9 +574,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86.py:16",
+      "repo": "Alice",
+      "task": "before it fired |",
+      "location": "NECTAR.md:27",
       "domains": [
         "General"
       ]
@@ -681,9 +584,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_013201.py:2",
+      "repo": "Alice",
+      "task": "noted); verdict held for 07:05 recheck task; candidate class",
+      "location": "notes/breaches_2026-10-01.md:24",
       "domains": [
         "General"
       ]
@@ -691,9 +594,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_013201.py:16",
+      "repo": "Alice",
+      "task": "not engaged). THREE-PROBE CONCORDANCE: 1196 tasklist = 1196 ",
+      "location": "notes/breaches_2026-10-01.md:26",
       "domains": [
         "General"
       ]
@@ -701,9 +604,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_031404.py:2",
+      "repo": "Alice",
+      "task": "83164 caught:",
+      "location": "notes/mail_probe.js:5",
       "domains": [
         "General"
       ]
@@ -711,9 +614,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_031404.py:16",
+      "repo": "Alice",
+      "task": "(fz00008).",
+      "location": "notes/py4qwhip_rulings_2026-10-16.md:4",
       "domains": [
         "General"
       ]
@@ -721,9 +624,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_032809.py:2",
+      "repo": "Alice",
+      "task": "(require() vs String()); error WITHOUT the value = transport",
+      "location": "notes/tool_armor_index.md:17",
       "domains": [
         "General"
       ]
@@ -731,9 +634,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_032809.py:16",
+      "repo": "Alice",
+      "task": "filed); free RAM 2738MB = 334MB under floor JUDGE=BREACH so ",
+      "location": "notes/weekly_stats_W40.md:67",
       "domains": [
         "General"
       ]
@@ -741,9 +644,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_085840.py:2",
+      "repo": "Alice",
+      "task": "not store bug; fix-from-v3 queued 07:00 day-lane; files comm",
+      "location": "notes/weekly_stats_W40.md:172",
       "domains": [
         "General"
       ]
@@ -751,9 +654,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_085840.py:16",
+      "repo": "Alice",
+      "task": "found: KB/1MB double-divide, real free approx 6.4GB floor he",
+      "location": "notes/weekly_stats_W40.md:186",
       "domains": [
         "General"
       ]
@@ -761,9 +664,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_112319.py:2",
+      "repo": "Alice",
+      "task": "fix verified | n/a | n/a | n/a | n/a | hexflow_relay message",
+      "location": "notes/weekly_stats_W40.md:246",
       "domains": [
         "General"
       ]
@@ -771,9 +674,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_112319.py:16",
+      "repo": "Alice",
+      "task": "SCAR (method not allowed; real verdict = out_0449+0452b door",
+      "location": "notes/weekly_stats_W40.md:250",
       "domains": [
         "General"
       ]
@@ -781,9 +684,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_113636.py:2",
+      "repo": "alice-companion",
+      "task": "Cube**: Red cube deployed to test Three.js rendering.",
+      "location": "CHANGELOG.md:13",
       "domains": [
         "General"
       ]
@@ -791,9 +694,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_113636.py:16",
+      "repo": "alice-companion",
+      "task": "fixed at root)",
+      "location": "NEXT_100_STEPS.md:5",
       "domains": [
         "General"
       ]
@@ -801,9 +704,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_114800.py:2",
+      "repo": "alice-companion",
+      "task": "pages and leak paths; 404 returns HTML not JSON |",
+      "location": "avataralive/00_REQUEST/phase14_hardening.md:18",
       "domains": [
         "General"
       ]
@@ -811,9 +714,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_114800.py:16",
+      "repo": "alice-companion",
+      "task": "flag (never enable Flask debug/reloader).",
+      "location": "avataralive/00_REQUEST/phase14_hardening.md:81",
       "domains": [
         "General"
       ]
@@ -821,9 +724,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "location": "mined/mined_00fe2a86_115128.py:2",
+      "repo": "alice-companion",
+      "task": "view toggle (show bones).",
+      "location": "avataralive/00_REQUEST/phase20_studio_skinnedmesh.md:12",
       "domains": [
         "General"
       ]
@@ -831,9 +734,9 @@
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "agent-squiggly",
-      "task": "10 times now im detecting a pattern in your",
-      "location": "mined/mined_00fe2a86_115128.py:16",
+      "repo": "alice-companion",
+      "task": "in kernel source: writes at byte 8+idx*4 land in state_vecto",
+      "location": "avataralive/00_REQUEST/phases_120_153_dag_truth_band.md:35",
       "domains": [
         "General"
       ]
@@ -848,12 +751,10 @@
     "Agent/BDI": [
       "Aegis_Agents",
       "Chrisalunlloyd2-sudo",
-      "Machine2",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
       "mindpalace",
-      "openrouter_manager",
-      "SimsMerged"
+      "openrouter_manager"
     ],
     "API/Web": [
       "MatrixCE_GUI",
@@ -864,17 +765,15 @@
       "Aegis_Agents",
       "Chrisalunlloyd2-sudo",
       "H2OIDE",
-      "Machine2",
+      "H2OMatrixCE",
       "MasterLogs",
       "MatrixCE_GUI",
       "MATRIX_GEN8_HOME",
       "mind-palace",
       "mindpalace",
-      "Nova",
       "openrouter_manager",
-      "sims-javafx-neo",
-      "SimsMerged"
+      "sims-java-neo-fx",
+      "sims-javafx-neo"
     ]
-  },
-  "generated_note": "local regen of cross-repo-unifier.yml (workflow disabled 2026-11-12; Alice heartbeat slot 4/13)"
+  }
 }
