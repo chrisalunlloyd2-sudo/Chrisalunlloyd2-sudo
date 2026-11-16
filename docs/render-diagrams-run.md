@@ -28,3 +28,8 @@
 - Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome unavailable in sandbox — quota = power + water).
 - Output: per-diagram `assets/diagrams/pipeline_schema.svg` + `pipeline_dag.svg` regenerated and XML-validated; `pipeline_local.svg` refreshed from schemas copy.
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## Local run — 2026-11-16T03:52:17Z (Alice, heartbeat)
+- Regenerated `assets/diagrams/pipeline.svg` + `assets/diagrams/pipeline_dag.svg` from `schemas/pipeline.mmd` / `dags/pipeline.mmd` via Kroki Mermaid renderer (mmdc Chrome unavailable in sandbox — Kroki = same Mermaid engine, dark theme, transparent bg intent).
+- Mermaid flowchart: DREAM → VOTE → DEPLOY → EMAIL → LEARN (+ corpus-floor self-loop).
+- Local replacement for disabled `render-diagrams.yml`; Pages source `/docs` untouched by this slot.
