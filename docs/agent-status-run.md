@@ -6,3 +6,7 @@
   - LIVE: GitHub REST `users/Chrisalunlloyd2-sudo/repos` — 67 repos, 6 pushed in last 24h
 - Output: `assets/agent-status.svg` (this is the ONLY workflow output file that had never been generated)
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## agent-status slot — 2026-11-16 04:58 UTC (Alice, local regen)
+- Regenerated `assets/agent-status.svg` from `state_snapshot/db_metrics.json` (suite: 672 passed 72.6s, corpus: 1444).
+- Replacement for disabled agent-status.yml; ADD-only, pushed straight to main for Pages.

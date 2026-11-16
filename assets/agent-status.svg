@@ -15,9 +15,8 @@
           <span class="title"><span class="dot"></span> KERNEL STATUS: ONLINE</span>
           <span class="meta">SUITE: 672 passed 72.6s</span>
         </div>
-        <div class="meta">LAST HEARTBEAT: 2026-11-15 16:40 UTC</div>
-        <div class="meta">CORPUS: 1444 lines • BDI-FSM • Sophia logic • Enigma rotors</div>
-        <div class="meta">Regenerated locally (Alice) — Actions workflow disabled 2026-11-12</div>
+        <div class="meta">LAST HEARTBEAT: 2026-11-16 04:58 UTC</div>
+        <div class="meta">CORPUS: 1444 lines &#8226; BDI-FSM &#8226; Sophia logic &#8226; Enigma rotors</div>
       </div>
     </div>
   </foreignObject>
