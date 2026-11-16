@@ -50,3 +50,12 @@
 - Drift check: `schemas/pipeline.mmd` md5 72b3273c79e6221aef981b453ccde991 vs remote shared_contracts/pipeline.mmd in BDI_FSM_AGENT / Sophia / Aegis_Unified — all three **MATCH**.
 - Result: **0/3 drifted — audit only, 0 commits, 0 PRs pushed** (workflow's own `git diff --cached --quiet` guard would skip an empty push anyway).
 - Source unchanged since fb742d0 (2026-11-10). Workflow remains disabled; runs here on heartbeat.
+
+## auto-contract-sync local run — 2026-11-16T12:29:04Z (slot 2/13, cycle 6)
+- Live drift audit: `schemas/pipeline.mmd` (src md5 72b3273c79e6221aef981b453ccde991, last change f12ab95 2026-11-12T16:00:20+00:00) vs `shared_contracts/pipeline.mmd` fetched via GitHub contents API (ref=default branch) in BDI_FSM_AGENT, Sophia, Aegis_Unified.
+- Result:
+  | BDI_FSM_AGENT | 72b3273c... MATCH (branch main) |
+  | Sophia | 72b3273c... MATCH (branch main) |
+  | Aegis_Unified | 72b3273c... MATCH (branch main) |
+- Action: **audit only — 0/3 downstream drifted, no broadcast performed** (workflow's `git diff --cached --quiet` guard would skip a zero-diff push anyway)
+- Workflow remains disabled; run here on heartbeat. Next slot: snake_grid / fsm-plot rotation.
