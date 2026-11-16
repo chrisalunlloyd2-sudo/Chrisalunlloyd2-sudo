@@ -10,3 +10,7 @@
 ## agent-status slot — 2026-11-16 04:58 UTC (Alice, local regen)
 - Regenerated `assets/agent-status.svg` from `state_snapshot/db_metrics.json` (suite: 672 passed 72.6s, corpus: 1444).
 - Replacement for disabled agent-status.yml; ADD-only, pushed straight to main for Pages.
+
+## agent-status slot — 2026-11-16 11:56 UTC (Alice, local regen, pulse hb12)
+- Regenerated `assets/agent-status.svg` from `state_snapshot/db_metrics.json` (suite: 672 passed 72.6s).
+- Replacement for disabled agent-status.yml; ADD-only, pushed straight to main for Pages.
