@@ -21,3 +21,10 @@
 - Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome still unavailable — quota = power + water).
 - Output: `assets/diagrams/pipeline_local.svg` re-rendered, XML-validated; source unchanged → diagram stays in sync.
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## Render run 2026-11-16T03:20:10Z (slot render-diagrams — heartbeat, Alice)
+- Trigger: heartbeat; `render-diagrams.yml` disabled 2026-11-12 (local replacement).
+- Input: `schemas/pipeline.mmd` + `dags/pipeline.mmd` — md5 72b3273c (unchanged since last render).
+- Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome unavailable in sandbox — quota = power + water).
+- Output: per-diagram `assets/diagrams/pipeline_schema.svg` + `pipeline_dag.svg` regenerated and XML-validated; `pipeline_local.svg` refreshed from schemas copy.
+- Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
