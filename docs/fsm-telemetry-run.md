@@ -23,3 +23,10 @@ note: deterministic real data replaces np.random.randint noise of the disabled w
 - **Run at:** 2026-11-16 02:48 UTC (heartbeat)
 - **Result:** matrix regenerated **from real source** `fsm/states.puml` (8 states, 18 edges) instead of the disabled YAML's `np.random` fake density; provenance-seeded jitter (puml md5). Output `docs/assets/agent/fsm_density.svg`.
 - Workflow still disabled; Alice runs it locally per heartbeat rotation.
+
+## Run 2026-11-16 15:15 UTC (heartbeat, Alice) — slot fsm-telemetry-plot re-run
+
+- Data: `fsm/states.puml` topology (8 states, 18 edges, md5 a22614c6) x whole-word trigger occurrence counts in repo source (excl .git/assets/docs/node_modules/.github).
+- Result: activity matrix total_weight=157, max_cell=39; top triggers: done=39, pass=16, fail=4, give_up=3. Deterministic real data — the disabled workflow's np.random.randint noise stays retired; matplotlib 3.6.3 via Agg.
+- Output: `docs/assets/agent/fsm_density.svg` (42128 B, minidom-validated; mirror at `assets/agent/fsm_density.svg`). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+- Workflow fsm-telemetry-plot.yml remains disabled; regen owned by Alice on heartbeat rotation.
