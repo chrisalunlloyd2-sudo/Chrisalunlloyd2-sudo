@@ -13,3 +13,13 @@
 - Regenerated: docs/github-snake.svg, docs/github-snake-dark.svg, docs/ocean.svg (all XML-validated)
 - Method: fresh script /root/snake_gen.py — 53 week-columns boustrophedon path, animated stroke-dashoffset snake + animateMotion head-dot, 3 palettes, footer timestamp
 - Note: ADD-only receipt, nothing deleted from GitHub
+
+---
+
+## Run 2026-11-16 07:00 MST — Alice local regeneration (replaces snake_grid.yml, disabled 2026-11-12)
+
+- Source: live contribution calendar HTML for `chrisalunlloyd2-sudo` (fetched with VoiceHex PAT, read-only), 366 day-cells parsed with exact tooltip counts.
+- Output regenerated: `docs/github-snake.svg` (light) + `docs/github-snake-dark.svg` (dark), 7×53 week grid, per-day tooltips, month labels, XML-valid (minidom).
+- Stats: **16,454 contributions / last year**, 145 active days, peak day 5,102, levels 0–4 palette (light `#9be9a8…`, dark `#0e4429…`).
+- `ocean.gif` color-snake output NOT regenerated (no Platane/snk runtime in sandbox) — SVG pair is the working replacement; honest skip.
+- Pushed straight to `main` (Pages serves /docs directly). Next rotation slot: `bdi-state-hud`.
