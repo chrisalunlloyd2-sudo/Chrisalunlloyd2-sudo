@@ -204,3 +204,11 @@ workflow's original entry format.
 - **Recommended Action:** settle LFS budget or migrate .glb exports out of LFS; all other repos 0 failures/24h.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI
+- **Timestamp:** `2026-11-16T16:49:15Z`
+- **Workflow Run:** https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions
+- **Agent Diagnosis Status:** `DIAGNOSED_LFS_QUOTA`
+- **Recommended Action:** 37 failed runs/24h — LFS quota class (refs #25); raise budget or migrate .glb.
+
+---

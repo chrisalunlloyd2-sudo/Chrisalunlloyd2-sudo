@@ -25,3 +25,11 @@
 - POST_MORTEMS.md: 1 new incident appended ADD-only (nothing rewritten/deleted).
 - Profile repo: 13 workflows still disabled_manually per last verified read; Pages is branch-source (docs/), unaffected.
 - Action: raise AvatarAlive LFS budget or migrate .glb out of LFS.
+
+## Run 2026-11-16T16:49:15Z (heartbeat, Alice) — slot self-healing-monitor re-run
+- Source: GitHub REST `actions/runs?status=failure&created=>24h` across 4 repos.
+- Failures: **AvatarAlive 37** (all 'Multi-Track CI', latest 2026-11-16T16:16:21Z, chronic LFS-quota class, issue #25 — up from 28) · aegis-agent-bridge 0 · living-ascii-art 0 · profile 0.
+- Note: AvatarAlive GH Actions are **executing again** (runs recorded through 16:16Z) → billing lock appears lifted; failures are now purely the LFS-quota class, not execution lock.
+- Profile repo: 13/14 workflows still disabled_manually (Pages is branch-source docs/, unaffected).
+- POST_MORTEMS.md: 1 new incident appended ADD-only (nothing rewritten/deleted).
+- Action: raise AvatarAlive LFS budget or migrate .glb out of LFS (refs #25).
