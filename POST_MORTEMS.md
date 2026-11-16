@@ -196,3 +196,11 @@ workflow's original entry format.
 - **Recommended Action:** settle LFS budget for AvatarAlive (GitHub → Billing → Bands/LFS) or un-LFS the .glb exports; everything else nominal.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI (heartbeat re-scan)
+- **Timestamp:** `2026-11-16 04:25:30Z`
+- **Workflow Run:** [AvatarAlive Actions](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions)
+- **Agent Diagnosis Status:** `DIAGNOSED_LFS_QUOTA` (refs #25) — 28 failed runs/24h, up from 26 at last pulse
+- **Recommended Action:** settle LFS budget or migrate .glb exports out of LFS; all other repos 0 failures/24h.
+
+---

@@ -18,3 +18,10 @@
 - POST_MORTEMS.md: 1 new incident appended + prior PENDING_BDI_ANALYSIS entry effectively resolved (diagnosis now DIAGNOSED_LFS_QUOTA). ADD-only — nothing rewritten or deleted.
 - Profile repo workflows: 13/13 still disabled_manually, 1 active (Pages is branch-source, unaffected).
 - Action: raise AvatarAlive LFS budget or migrate .glb out of LFS.
+
+## Run 2026-11-16 04:25:30Z (heartbeat, Alice) — slot self-healing-monitor re-run
+- Source: GitHub REST `actions/runs?status=failure&created=>24h` across 4 repos.
+- Failures: **AvatarAlive 28** (all 'Multi-Track CI', chronic LFS-quota class, issue #25 — up from 26) · aegis-agent-bridge 0 · living-ascii-art 0 · profile 0.
+- POST_MORTEMS.md: 1 new incident appended ADD-only (nothing rewritten/deleted).
+- Profile repo: 13 workflows still disabled_manually per last verified read; Pages is branch-source (docs/), unaffected.
+- Action: raise AvatarAlive LFS budget or migrate .glb out of LFS.
