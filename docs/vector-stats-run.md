@@ -21,3 +21,8 @@
 - Source re-read live: state_snapshot/db_metrics.json -> 1.4k vectors / 7 chunks / 1444 corpus.
 - Output regenerated: assets/agent/vector-memory.svg (pill format per disabled vector-stats.yml; real data, not fallbacks).
 - ADD-only: receipt appended + svg rewritten, nothing deleted.
+
+### vector-stats regen 2026-11-16T09:47:14Z
+- regenerated assets/agent/vector-memory.svg from state_snapshot/db_metrics.json (live): 1.4k vectors / 7 chunks / 1444 corpus
+- recipe: local replay of disabled vector-stats.yml (heredoc SVG, byte-parity)
+- alice heartbeat pulse
