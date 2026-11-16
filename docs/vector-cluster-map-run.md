@@ -18,3 +18,9 @@
 - Method: log1p(stars, forks, size, open issues) + staleness-yrs + fork flag + link degree, z-scored, PCA via numpy SVD; deterministic (no RNG) — now a tracked script: `tools/local/vector_cluster_map.py`.
 - Result: PC1 43.7% / PC2 19.1% variance, 14 red-ringed cross-linked repos, top-8 labeled, colored by language group.
 - Output: `assets/vectors/semantic_cluster.svg` (91 KB, XML-validated). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## Run 2026-11-16 09:15 UTC (heartbeat, Alice) — slot vector-cluster-map re-run
+- Data: live GitHub REST `users/Chrisalunlloyd2-sudo/repos` re-fetched this pulse → `data/repos_live.json` (67 repos) + `data/synthesis.json` (67 cross-links, 13 core repos).
+- Method unchanged: `tools/local/vector_cluster_map.py` — log1p(stars, forks, size, open issues) + staleness-yrs + fork flag + link degree, z-scored, numpy SVD PCA (no sklearn — sandbox source-build of sklearn fails, PEP668; numpy path stays deterministic).
+- Result: PC1 42.4% / PC2 19.2% variance, 13 red-ringed cross-linked repos, colored by language group.
+- Output: `assets/vectors/semantic_cluster.svg` (81 KB, XML-validated). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
