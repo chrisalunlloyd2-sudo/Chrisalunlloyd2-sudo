@@ -14,3 +14,8 @@
 - Source: 70 fleet repos -> 2605 TODO/FIXME/HACK/BUG entries (3 are source-code self-matches of the scan pattern itself, kept as-is)
 - Outputs: assets/telemetry/todo_hex_grid.svg (valid XML) + data/siphoned_todos.json regenerated at workflow paths
 - Note: data/ files live under data/ (workflow's siphon path is docs/); both regenerated in place, ADD-only receipt, nothing deleted from GitHub
+
+## Pulse 2026-11-16T11:00Z (heartbeat rotation: hex-todo-siphon)
+- Regenerated locally: assets/telemetry/todo_hex_grid.svg + data/siphoned_todos.json (scripts/generate_hex_grid.py, GH_TOKEN from origin).
+- Result: grid 220 tasks, 30 agent events; SVG XML-validated.
+- ADD-only receipt.
