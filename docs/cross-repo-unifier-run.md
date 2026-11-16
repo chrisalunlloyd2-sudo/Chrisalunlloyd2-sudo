@@ -104,3 +104,9 @@ _Source: GitHub REST /users/chrisalunlloyd2-sudo/repos + data/siphoned_todos.jso
 ## 2026-11-16T02:15Z — slot cross-repo-unifier (rotation 5/13)
 - Live regen from GH API: 67 repos, 67 domain cross-links, 70 TODO sources, 25 prioritized next actions.
 - data/synthesis.json + SYNTHESIS_PLAN.md + assets/synthesis/unified_dag.svg (graphviz 86 KB) refreshed, ADD-only.
+
+---
+
+## Local regen 2026-11-16T05:32Z (rotation slot: cross-repo-unifier)
+
+Extracted the embedded Python verbatim from `.github/workflows/cross-repo-unifier.yml` (dedent only), ran with live GH_TOKEN: **67 repos** correlated, domain cross-links + prioritized next-action queue regenerated. Outputs refreshed ADD-only: `SYNTHESIS_PLAN.md`, `data/synthesis.json`, `assets/synthesis/unified_dag.svg` (graphviz `dot` present in sandbox). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/ · next rotation slot: `fsm-diagram`.

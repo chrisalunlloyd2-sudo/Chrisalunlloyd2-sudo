@@ -336,8 +336,8 @@
       "source": "MatrixCE_GUI",
       "target": "MATRIX_GEN8_HOME",
       "domains": [
-        "Agent/BDI",
         "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -360,8 +360,8 @@
       "source": "MatrixCE_GUI",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
         "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
@@ -398,8 +398,8 @@
       "source": "MATRIX_GEN8_HOME",
       "target": "openrouter_manager",
       "domains": [
-        "Agent/BDI",
         "API/Web",
+        "Agent/BDI",
         "Telemetry"
       ]
     },
