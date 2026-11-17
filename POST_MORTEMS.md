@@ -212,3 +212,11 @@ workflow's original entry format.
 - **Recommended Action:** 37 failed runs/24h — LFS quota class (refs #25); raise budget or migrate .glb.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI (7 failed runs / 24h)
+- **Timestamp:** `2026-11-17T23:18:47Z`
+- **Workflow Run:** [AvatarAlive actions (failure filter)](https://github.com/Chrisalunlloyd2-sudo/AvatarAlive/actions?query=status%3Afailure)
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS`
+- **Recommended Action:** Chronic class refs #25 (LFS quota) — latest failure 2026-11-17T22:08:28Z. Down from 37 → 7 in 24h. Raise LFS budget or migrate .glb out of LFS.
+
+---
