@@ -45,3 +45,9 @@
 - **Run at:** 2026-11-16T14:39:09Z (heartbeat)
 - **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, md5 old=79cb6b05d83e18683c0bc550d1ebe1c9 new=79cb6b05d83e18683c0bc550d1ebe1c9
 - **Toolchain:** PlantUML 1.2024.7 jar, OpenJDK 17 sandbox. Workflow still disabled; Alice runs it locally per heartbeat rotation.
+
+## Re-verification (cycle 5, heartbeat 2026-11-16/17)
+
+- **Run at:** 2026-11-16 heartbeat (UTC ts in commit)
+- **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, **byte-identical** (md5 79cb6b05) — diagram still current, no artifact diff.
+- **Toolchain:** PlantUML 1.2024.7 jar (cached /tmp), OpenJDK sandbox. Workflow still disabled; Alice runs it locally per heartbeat rotation (slot: fsm-diagram).
