@@ -26,3 +26,8 @@
 - regenerated assets/agent/vector-memory.svg from state_snapshot/db_metrics.json (live): 1.4k vectors / 7 chunks / 1444 corpus
 - recipe: local replay of disabled vector-stats.yml (heredoc SVG, byte-parity)
 - alice heartbeat pulse
+
+### vector-stats regen 2026-11-17T22:40:02Z
+- regenerated assets/agent/vector-memory.svg from state_snapshot/db_metrics.json (live): 1.4k vectors / 7 chunks / 1444 corpus
+- recipe: local replay of disabled vector-stats.yml (heredoc SVG, byte-parity)
+- alice heartbeat pulse (rotation slot 4/13 this cycle)
