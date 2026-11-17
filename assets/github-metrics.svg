@@ -1,65 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" font-family="Segoe UI, Ubuntu, sans-serif">
-<rect width="100%" height="100%" fill="#0d1117"/>
-<text x="24" y="42" fill="#e6edf3" font-size="22" font-weight="700">@chrisalunlloyd2-sudo</text>
-<text x="24" y="66" fill="#8b949e" font-size="13">Deep Metrics · classic template · generated locally (replaces lowlighter/metrics Action)</text>
-<line x1="24" y1="82" x2="696" y2="82" stroke="#30363d"/>
-<text x="24" y="118" fill="#e6edf3" font-size="26" font-weight="700">66</text>
-<text x="24" y="138" fill="#8b949e" font-size="12">Public repos</text>
-<text x="194" y="118" fill="#e6edf3" font-size="26" font-weight="700">30</text>
-<text x="194" y="138" fill="#8b949e" font-size="12">Followers</text>
-<text x="364" y="118" fill="#e6edf3" font-size="26" font-weight="700">26</text>
-<text x="364" y="138" fill="#8b949e" font-size="12">Following</text>
-<text x="534" y="118" fill="#e6edf3" font-size="26" font-weight="700">21</text>
-<text x="534" y="138" fill="#8b949e" font-size="12">Gists</text>
-<line x1="24" y1="156" x2="696" y2="156" stroke="#30363d"/>
-<text x="24" y="184" fill="#58a6ff" font-size="14" font-weight="700">ACTIVITY — last 30 days</text>
-<text x="36" y="210" fill="#c9d1d9" font-size="13">Commits (profile repo, latest 100 fetched)</text>
-<text x="696" y="210" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">100</text>
-<text x="36" y="232" fill="#c9d1d9" font-size="13">Pull requests opened</text>
-<text x="696" y="232" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">59</text>
-<text x="36" y="254" fill="#c9d1d9" font-size="13">Issues opened</text>
-<text x="696" y="254" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">165</text>
-<text x="24" y="286" fill="#58a6ff" font-size="14" font-weight="700">COMMIT CADENCE — latest 100 commits over 4 days</text>
-<rect x="24.0" y="308" width="167.0" height="44" fill="#3fb950"><title>2026-11-10: 35</title></rect>
-<rect x="192.0" y="329" width="167.0" height="23" fill="#3fb950"><title>2026-11-12: 18</title></rect>
-<rect x="360.0" y="302" width="167.0" height="50" fill="#3fb950"><title>2026-11-13: 39</title></rect>
-<rect x="528.0" y="342" width="167.0" height="10" fill="#3fb950"><title>2026-11-14: 8</title></rect>
-<text x="24" y="368" fill="#8b949e" font-size="11">2026-11-10 → 2026-11-14 · busiest 39 commits/day</text>
-<text x="24" y="392" fill="#58a6ff" font-size="14" font-weight="700">COMMUNITY</text>
-<text x="36" y="418" fill="#c9d1d9" font-size="13">Stars across owned repos</text>
-<text x="340" y="418" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">13</text>
-<text x="36" y="440" fill="#c9d1d9" font-size="13">Forks across owned repos</text>
-<text x="340" y="440" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">4</text>
-<text x="36" y="462" fill="#c9d1d9" font-size="13">Followers</text>
-<text x="340" y="462" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="end">30</text>
-<text x="380" y="472" fill="#58a6ff" font-size="14" font-weight="700"></text>
-<text x="380" y="498" fill="#58a6ff" font-size="14" font-weight="700">TOP REPOSITORIES</text>
-<text x="392" y="522" fill="#c9d1d9" font-size="13">mindpalace</text>
-<text x="696" y="522" fill="#e6edf3" font-size="12" text-anchor="end">★2 · Java</text>
-<text x="392" y="544" fill="#c9d1d9" font-size="13">brute-foundry</text>
-<text x="696" y="544" fill="#e6edf3" font-size="12" text-anchor="end">★1 · Python</text>
-<text x="392" y="566" fill="#c9d1d9" font-size="13">MATRIX_GEN8_HOME</text>
-<text x="696" y="566" fill="#e6edf3" font-size="12" text-anchor="end">★1 · Python</text>
-<text x="392" y="588" fill="#c9d1d9" font-size="13">Matrix_CEAPPS</text>
-<text x="696" y="588" fill="#e6edf3" font-size="12" text-anchor="end">★1 · Python</text>
-<text x="392" y="610" fill="#c9d1d9" font-size="13">Matrix_CEKAI9000</text>
-<text x="696" y="610" fill="#e6edf3" font-size="12" text-anchor="end">★1 · Python</text>
-<text x="380" y="642" fill="#58a6ff" font-size="14" font-weight="700">LANGUAGES (owned, non-fork, by size)</text>
-<rect x="380" y="666" width="316" height="14" fill="#161b22" rx="3"/>
-<rect x="380.0" y="666" width="132.6" height="14" fill="#58a6ff" rx="2"><title>Python 42.0%</title></rect>
-<rect x="512.6" y="666" width="66.8" height="14" fill="#3fb950" rx="2"><title>C++ 21.1%</title></rect>
-<rect x="579.4" y="666" width="61.3" height="14" fill="#d29922" rx="2"><title>Java 19.4%</title></rect>
-<rect x="640.7" y="666" width="24.9" height="14" fill="#f85149" rx="2"><title>Smali 7.9%</title></rect>
-<rect x="665.6" y="666" width="16.7" height="14" fill="#bc8cff" rx="2"><title>JavaScript 5.3%</title></rect>
-<rect x="682.3" y="666" width="13.6" height="14" fill="#39c5cf" rx="2"><title>HTML 4.3%</title></rect>
-<rect x="380" y="691" width="9" height="9" fill="#58a6ff"/>
-<text x="395" y="700" fill="#c9d1d9" font-size="12">Python 42%</text>
-<rect x="380" y="709" width="9" height="9" fill="#3fb950"/>
-<text x="395" y="718" fill="#c9d1d9" font-size="12">C++ 21%</text>
-<rect x="380" y="727" width="9" height="9" fill="#d29922"/>
-<text x="395" y="736" fill="#c9d1d9" font-size="12">Java 19%</text>
-<rect x="380" y="745" width="9" height="9" fill="#f85149"/>
-<text x="395" y="754" fill="#c9d1d9" font-size="12">Smali 8%</text>
-<line x1="24" y1="514" x2="696" y2="514" stroke="#30363d"/>
-<text x="24" y="536" fill="#8b949e" font-size="11">Generated 2026-11-14 20:25 UTC from GitHub REST API (real data) · local replacement for disabled workflow metrics.yml · slot 8/13</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" font-family="ui-sans-serif,Segoe UI,Helvetica,Arial">
+<rect width="800" height="560" fill="#ffffff"/>
+<rect width="800" height="70" fill="#1f2328"/>
+<text x="28" y="44" font-size="24" fill="#ffffff" font-weight="700">@chrisalunlloyd2-sudo — deep metrics</text>
+<text x="28" y="62" font-size="12" fill="#9da7b1">local regeneration of lowlighter/metrics classic · 2026-11-17 22:06 UTC</text>
+<text x="28" y="118" font-size="26" font-weight="700" fill="#1f2328">121</text>
+<text x="28" y="138" font-size="11" fill="#656d76">repositories</text>
+<text x="160" y="118" font-size="26" font-weight="700" fill="#1f2328">15</text>
+<text x="160" y="138" font-size="11" fill="#656d76">stars</text>
+<text x="292" y="118" font-size="26" font-weight="700" fill="#1f2328">4</text>
+<text x="292" y="138" font-size="11" fill="#656d76">forks</text>
+<text x="424" y="118" font-size="26" font-weight="700" fill="#1f2328">30</text>
+<text x="424" y="138" font-size="11" fill="#656d76">followers</text>
+<text x="556" y="118" font-size="26" font-weight="700" fill="#1f2328">27</text>
+<text x="556" y="138" font-size="11" fill="#656d76">public events/100</text>
+<text x="688" y="118" font-size="26" font-weight="700" fill="#1f2328">private+public</text>
+<text x="688" y="138" font-size="11" fill="#656d76">mode</text>
+<text x="28" y="184" font-size="15" font-weight="700" fill="#1f2328">Languages (repo size share, non-forks)</text>
+<text x="28" y="217" font-size="12" fill="#1f2328">Python</text>
+<rect x="170" y="206" width="241" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="417" y="217" font-size="11" fill="#656d76">48.2%</text>
+<text x="28" y="241" font-size="12" fill="#1f2328">C++</text>
+<rect x="170" y="230" width="93" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="269" y="241" font-size="11" fill="#656d76">18.8%</text>
+<text x="28" y="265" font-size="12" fill="#1f2328">Java</text>
+<rect x="170" y="254" width="85" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="261" y="265" font-size="11" fill="#656d76">17.2%</text>
+<text x="28" y="289" font-size="12" fill="#1f2328">Smali</text>
+<rect x="170" y="278" width="35" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="211" y="289" font-size="11" fill="#656d76">7.0%</text>
+<text x="28" y="313" font-size="12" fill="#1f2328">JavaScript</text>
+<rect x="170" y="302" width="24" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="200" y="313" font-size="11" fill="#656d76">5.0%</text>
+<text x="28" y="337" font-size="12" fill="#1f2328">HTML</text>
+<rect x="170" y="326" width="19" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="195" y="337" font-size="11" fill="#656d76">3.8%</text>
+<text x="28" y="376" font-size="15" font-weight="700" fill="#1f2328">Top repositories (stars · size)</text>
+<text x="28" y="398" font-size="11" fill="#656d76">REPO</text><text x="480" y="398" font-size="11" fill="#656d76">LANG</text><text x="600" y="398" font-size="11" fill="#656d76">★</text><text x="670" y="398" font-size="11" fill="#656d76">KB</text><text x="740" y="398" font-size="11" fill="#656d76">UPD</text>
+<text x="28" y="418" font-size="12" fill="#1f2328">MatrixWinCE</text>
+<text x="480" y="418" font-size="12" fill="#656d76">C++</text>
+<text x="600" y="418" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="418" font-size="12" fill="#1f2328">166104</text>
+<text x="740" y="418" font-size="11" fill="#656d76">2026-10-27</text>
+<text x="28" y="438" font-size="12" fill="#1f2328">agent-squiggly</text>
+<text x="480" y="438" font-size="12" fill="#656d76">Python</text>
+<text x="600" y="438" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="438" font-size="12" fill="#1f2328">107299</text>
+<text x="740" y="438" font-size="11" fill="#656d76">2026-11-17</text>
+<text x="28" y="458" font-size="12" fill="#1f2328">MATRIX_GEN8_HOME</text>
+<text x="480" y="458" font-size="12" fill="#656d76">Python</text>
+<text x="600" y="458" font-size="12" fill="#1f2328">1</text>
+<text x="670" y="458" font-size="12" fill="#1f2328">79326</text>
+<text x="740" y="458" font-size="11" fill="#656d76">2026-08-15</text>
+<text x="28" y="478" font-size="12" fill="#1f2328">SimsMerged</text>
+<text x="480" y="478" font-size="12" fill="#656d76">Python</text>
+<text x="600" y="478" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="478" font-size="12" fill="#1f2328">67410</text>
+<text x="740" y="478" font-size="11" fill="#656d76">2026-10-03</text>
+<text x="28" y="498" font-size="12" fill="#1f2328">Matrix_CEAPK</text>
+<text x="480" y="498" font-size="12" fill="#656d76">Smali</text>
+<text x="600" y="498" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="498" font-size="12" fill="#1f2328">61949</text>
+<text x="740" y="498" font-size="11" fill="#656d76">2026-09-10</text>
+<text x="28" y="518" font-size="12" fill="#1f2328">mindpalace</text>
+<text x="480" y="518" font-size="12" fill="#656d76">Java</text>
+<text x="600" y="518" font-size="12" fill="#1f2328">2</text>
+<text x="670" y="518" font-size="12" fill="#1f2328">55419</text>
+<text x="740" y="518" font-size="11" fill="#656d76">2026-11-17</text>
+<text x="28" y="538" font-size="12" fill="#1f2328">JRM</text>
+<text x="480" y="538" font-size="12" fill="#656d76">Java</text>
+<text x="600" y="538" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="538" font-size="12" fill="#1f2328">52465</text>
+<text x="740" y="538" font-size="11" fill="#656d76">2026-09-10</text>
+<text x="28" y="558" font-size="12" fill="#1f2328">viper-scripts</text>
+<text x="480" y="558" font-size="12" fill="#656d76">Python</text>
+<text x="600" y="558" font-size="12" fill="#1f2328">0</text>
+<text x="670" y="558" font-size="12" fill="#1f2328">45265</text>
+<text x="740" y="558" font-size="11" fill="#656d76">2026-11-17</text>
+<line x1="28" y1="520" x2="772" y2="520" stroke="#d0d7de"/>
+<text x="28" y="540" font-size="11" fill="#656d76">Generated locally by scripts_local_metrics.py (Alice heartbeat rotation 3/13, replaces disabled metrics.yml). Pages: /Chrisalunlloyd2-sudo/</text>
 </svg>
