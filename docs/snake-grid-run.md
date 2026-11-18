@@ -30,3 +30,9 @@
 - Regenerated: docs/github-snake.svg, docs/github-snake-dark.svg, docs/ocean.svg (all XML-validated)
 - Method: boustrophedon 53x7 animated stroke path + head-dot, 3 palettes
 - ADD-only receipt, pushed straight to main (Pages serves /docs)
+
+## Run 2026-11-18T15:49:52Z — heartbeat rotation slot `snake_grid` cycle-2 (local regen, replaces disabled snake_grid.yml)
+
+- Source: live contribution API for chrisalunlloyd2-sudo via /root/snake_gen.py — 16,458 contributions / last year
+- Regenerated: docs/github-snake.svg, docs/github-snake-dark.svg, docs/ocean.svg (all XML-validated)
+- ADD-only receipt, pushed straight to main (Pages serves /docs)
