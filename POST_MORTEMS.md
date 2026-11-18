@@ -220,3 +220,11 @@ workflow's original entry format.
 - **Recommended Action:** Chronic class refs #25 (LFS quota) — latest failure 2026-11-17T22:08:28Z. Down from 37 → 7 in 24h. Raise LFS budget or migrate .glb out of LFS.
 
 ---
+
+### ⚠️ Incident Detected: Multi-Track CI (AvatarAlive)
+- **Timestamp:** `2026-11-18T13:08:45Z`
+- **Workflow Run:** https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions
+- **Agent Diagnosis Status:** `DIAGNOSED_LFS_QUOTA`
+- **Recommended Action:** LFS budget (refs #25) — 5 failed runs in last 24h; aegis-agent-bridge 0, living-ascii-art 0, profile 0.
+
+---
