@@ -79,3 +79,5 @@ See [SYNTHESIS_PLAN.md](SYNTHESIS_PLAN.md) for the live auto-correlated task que
 - 🧬 **Stack:** BDI-FSM agent, Sophia logic, Enigma rotor codecs, HDC vector memory
 - 🤖 **Kernel:** deterministic zero-LLM coding agent — 672 tests green, law-gated promotes, Nash theta* act-gates
 - 📡 **Telemetry:** 13 GitHub Actions keep every SVG live — hex TODO siphon, cross-repo synthesis, BDI HUD, FSM heatmap
+
+> BDI HUD regenerated locally 2026-11-18 (bdi-state-hud workflow slot 9/13, disabled Actions replaced by Alice heartbeat rotation).
