@@ -3,1788 +3,265 @@
   "cross_links": [
     {
       "source": "Aegis_Agents",
-      "target": "Alice",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "ArchivalMoe",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "AvatarAlive",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "BDI_FSM_AGENT",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "brute-foundry",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
       "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "Claude",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "H2OMatrixCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Aegis_Agents",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "BDI_FSM_AGENT",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "brute-foundry",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "Claude",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Alice",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "AvatarAlive",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "BDI_FSM_AGENT",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "H2OMatrixCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "karoo_gp",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "Machine2",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ArchivalMoe",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "avatar-creator",
-      "target": "AvatarAlive",
-      "domains": [
-        "Database"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "BDI_FSM_AGENT",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "Claude",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "H2OMatrixCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "karoo_gp",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "Kernel_Pedagogy",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "Life",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "Machine2",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "MatrixWinCE",
       "domains": [
         "Telemetry",
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "ViperCli",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "AvatarAlive",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "brute-foundry",
-      "domains": [
         "Agent/BDI"
       ]
     },
     {
-      "source": "BDI_FSM_AGENT",
-      "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "Claude",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
+      "source": "Aegis_Agents",
       "target": "H2OMatrixCE",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "BDI_FSM_AGENT",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
+      "source": "Aegis_Agents",
       "target": "Machine2",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "BDI_FSM_AGENT",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "Chrisalunlloyd2-sudo",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "Claude",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "brute-foundry",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "Claude",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "H2OMatrixCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Chrisalunlloyd2-sudo",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "code_rpg_engine",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "Kernel_Pedagogy",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI",
-        "Orchestration",
-        "API/Web"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "API/Web"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "API/Web"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "ViperCli",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Claude",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "kai-proxy-guard",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "code_rpg_engine",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "karoo_gp",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "Machine2",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "H2OMatrixCE",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "karoo_gp",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "kai-proxy-guard",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "Life",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "local_desktop",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "karoo_gp",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Kernel_Pedagogy",
-      "target": "Life",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Kernel_Pedagogy",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Kernel_Pedagogy",
-      "target": "ViperCli",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Kernel_Pedagogy",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "Machine2",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "API/Web"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "API/Web"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "ViperCli",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "Life",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "Machine2",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "local_desktop",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "MasterLogs",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "Machine2",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "MatrixCE_GUI",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MasterLogs",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "MatrixWinCE",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "sims-javafx-neo",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "SimsMerged",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixCE_GUI",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
         "Telemetry",
-        "API/Web"
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "H2OMatrixCE",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "Machine2",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Chrisalunlloyd2-sudo",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "Machine2",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "H2OMatrixCE",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Machine2",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Machine2",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Machine2",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry",
+        "Agent/BDI"
+      ]
+    },
+    {
+      "source": "Machine2",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Machine2",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MatrixCE_GUI",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "sims-javafx-neo",
+      "domains": [
+        "Telemetry"
       ]
     },
     {
       "source": "MatrixCE_GUI",
-      "target": "viper-state",
+      "target": "MATRIX_GEN8_HOME",
       "domains": [
+        "API/Web",
+        "Telemetry",
         "Agent/BDI"
       ]
     },
     {
       "source": "MatrixCE_GUI",
-      "target": "VIPER_SCRIPT_LIBRARY",
+      "target": "mind-palace",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "MatrixWinCE",
-      "target": "scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixWinCE",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixWinCE",
+      "source": "MatrixCE_GUI",
       "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "MatrixWinCE",
-      "target": "SimsMerged",
+      "source": "MATRIX_GEN8_HOME",
+      "target": "mind-palace",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "MatrixWinCE",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "MatrixWinCE",
-      "target": "ViperCli",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "MatrixWinCE",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
-      ]
-    },
-    {
-      "source": "MatrixWinCE",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "scripts",
-      "target": "sims-java-neo-fx",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "scripts",
+      "source": "MATRIX_GEN8_HOME",
       "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
       ]
     },
     {
-      "source": "scripts",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "scripts",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "scripts",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-java-neo-fx",
+      "source": "mind-palace",
       "target": "sims-javafx-neo",
       "domains": [
         "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-java-neo-fx",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-java-neo-fx",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-java-neo-fx",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-javafx-neo",
-      "target": "SimsMerged",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-javafx-neo",
-      "target": "viper-scripts",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "sims-javafx-neo",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "SimsMerged",
-      "target": "viper-scripts",
-      "domains": [
-        "Agent/BDI",
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "SimsMerged",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "SimsMerged",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "viper-scripts",
-      "target": "viper-state",
-      "domains": [
-        "Agent/BDI"
-      ]
-    },
-    {
-      "source": "viper-scripts",
-      "target": "VIPER_SCRIPT_LIBRARY",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "source": "ViperCli",
-      "target": "ViperCli-v3",
-      "domains": [
-        "Orchestration"
       ]
     }
   ],
@@ -1795,7 +272,39 @@
       "repo": "aegis-fleet-docs",
       "task": "fixed 2026-08-09.)",
       "location": "WORKFLOW.md:30",
-      "domains": []
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode')",
+      "location": "karoo_gp/pause.py:40",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode engaged (for evolutionary biologists)')",
+      "location": "karoo_gp/pause.py:75",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "or set expected output for tests",
+      "location": "karoo_gp/test/util.py:42",
+      "domains": [
+        "General"
+      ]
     },
     {
       "priority": 1,
@@ -1804,8 +313,8 @@
       "task": "LOGGING",
       "location": "gemini_bridge_api.py:884",
       "domains": [
-        "Agent/BDI",
-        "Telemetry"
+        "Telemetry",
+        "Agent/BDI"
       ]
     },
     {
@@ -1814,7 +323,9 @@
       "repo": "Aegis_Unified",
       "task": "\u00b7 2 repos with uncommitted work |",
       "location": "FORWARD-PLAN.md:10",
-      "domains": []
+      "domains": [
+        "General"
+      ]
     },
     {
       "priority": 1,
@@ -1822,275 +333,217 @@
       "repo": "Aegis_Unified",
       "task": "2026-08-16).",
       "location": "self_extend.py:77",
-      "domains": []
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "Alice",
-      "task": "Cube**: Red cube deployed to test Three.js rendering.",
-      "location": "CHANGELOG.md:44",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "before it fired |",
-      "location": "NECTAR.md:27",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "noted); verdict held for 07:05 recheck task; candidate class",
-      "location": "notes/breaches_2026-10-01.md:24",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86.py:16",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "not engaged). THREE-PROBE CONCORDANCE: 1196 tasklist = 1196 ",
-      "location": "notes/breaches_2026-10-01.md:26",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_013201.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "83164 caught:",
-      "location": "notes/mail_probe.js:5",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_013201.py:16",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "(fz00008).",
-      "location": "notes/py4qwhip_rulings_2026-10-16.md:4",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_031404.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "(require() vs String()); error WITHOUT the value = transport",
-      "location": "notes/tool_armor_index.md:17",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_031404.py:16",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "filed); free RAM 2738MB = 334MB under floor JUDGE=BREACH so ",
-      "location": "notes/weekly_stats_W40.md:67",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_032809.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "not store bug; fix-from-v3 queued 07:00 day-lane; files comm",
-      "location": "notes/weekly_stats_W40.md:172",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_032809.py:16",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "found: KB/1MB double-divide, real free approx 6.4GB floor he",
-      "location": "notes/weekly_stats_W40.md:186",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_085840.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "fix verified | n/a | n/a | n/a | n/a | hexflow_relay message",
-      "location": "notes/weekly_stats_W40.md:246",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_085840.py:16",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "Alice",
-      "task": "SCAR (method not allowed; real verdict = out_0449+0452b door",
-      "location": "notes/weekly_stats_W40.md:250",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_112319.py:2",
       "domains": [
-        "Agent/BDI"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "reports from text.",
-      "location": "README.md:207",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_112319.py:16",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\"),",
-      "location": "context_injector.py:202",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_113636.py:2",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "reports from text.",
-      "location": "context_injector.py:208",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_113636.py:16",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\", \"action\") else \"normal\"",
-      "location": "context_injector.py:217",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_114800.py:2",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report \u2192 proposed_updates with diff_type='bugfix'",
-      "location": "context_injector.py:226",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_114800.py:16",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "report\" else \"improve\"",
-      "location": "context_injector.py:242",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_115128.py:2",
       "domains": [
-        "Telemetry"
+        "General"
       ]
     },
     {
       "priority": 1,
       "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "must come back as an error reply",
-      "location": "kqml.py:777",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_115128.py:16",
       "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "ArchivalMoe",
-      "task": "hunter. Here is a real function from {project}, file `{file}",
-      "location": "moa_orchestrator.py:36",
-      "domains": [
-        "Telemetry"
-      ]
-    },
-    {
-      "priority": 1,
-      "tag": "BUG",
-      "repo": "avatar-creator",
-      "task": "without ever opening a browser.",
-      "location": "TERMUX_SETUP.md:30",
-      "domains": [
-        "Database"
+        "General"
       ]
     }
   ],
   "unified_stack": {
-    "Database": [
-      "avatar-creator",
-      "AvatarAlive"
-    ],
+    "Database": [],
     "Orchestration": [
-      "AvatarAlive",
-      "Claude",
-      "Kernel_Pedagogy",
-      "Life",
-      "MatrixWinCE",
-      "ViperCli",
-      "ViperCli-v3"
+      "Kernel_Pedagogy"
     ],
     "Agent/BDI": [
       "Aegis_Agents",
-      "Alice",
-      "BDI_FSM_AGENT",
-      "brute-foundry",
       "Chrisalunlloyd2-sudo",
-      "Claude",
-      "code_rpg_engine",
-      "kai-proxy-guard",
-      "karoo_gp",
-      "Life",
       "Machine2",
       "MatrixCE_GUI",
-      "SimsMerged",
-      "viper-scripts",
-      "viper-state"
+      "MATRIX_GEN8_HOME"
     ],
     "API/Web": [
-      "Claude",
-      "Life",
       "MatrixCE_GUI",
-      "viper-scripts"
+      "MATRIX_GEN8_HOME"
     ],
     "Telemetry": [
       "Aegis_Agents",
-      "ArchivalMoe",
-      "AvatarAlive",
-      "BDI_FSM_AGENT",
       "Chrisalunlloyd2-sudo",
       "H2OMatrixCE",
-      "karoo_gp",
-      "local_desktop",
       "Machine2",
       "MasterLogs",
       "MatrixCE_GUI",
-      "MatrixWinCE",
-      "scripts",
-      "sims-java-neo-fx",
-      "sims-javafx-neo",
-      "SimsMerged",
-      "viper-scripts",
-      "VIPER_SCRIPT_LIBRARY"
+      "MATRIX_GEN8_HOME",
+      "mind-palace",
+      "sims-javafx-neo"
     ]
   }
 }
