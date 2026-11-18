@@ -23,3 +23,10 @@
 - Stats: **16,454 contributions / last year**, 145 active days, peak day 5,102, levels 0–4 palette (light `#9be9a8…`, dark `#0e4429…`).
 - `ocean.gif` color-snake output NOT regenerated (no Platane/snk runtime in sandbox) — SVG pair is the working replacement; honest skip.
 - Pushed straight to `main` (Pages serves /docs directly). Next rotation slot: `bdi-state-hud`.
+
+## Run 2026-11-18T00:23:54Z — heartbeat rotation slot `snake_grid` (local regen, replaces disabled snake_grid.yml)
+
+- Source: live contribution API for chrisalunlloyd2-sudo via /root/snake_gen.py — 16,458 contributions / last year
+- Regenerated: docs/github-snake.svg, docs/github-snake-dark.svg, docs/ocean.svg (all XML-validated)
+- Method: boustrophedon 53x7 animated stroke path + head-dot, 3 palettes
+- ADD-only receipt, pushed straight to main (Pages serves /docs)
