@@ -40,3 +40,9 @@
 - Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome unavailable in sandbox — quota = power + water).
 - Output: `assets/diagrams/pipeline.svg`, `pipeline_schemas.svg`, `pipeline_dags.svg` re-rendered (5 nodes / 5 edges / 5 styles each), all XML minidom-validated; Kroki `pipeline_dag.svg` left as-is (richer render).
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## Render run 2026-11-18 15:20 UTC (slot render-diagrams 13/13 close — heartbeat, Alice)
+- Trigger: heartbeat; `render-diagrams.yml` disabled 2026-11-12.
+- Input: `schemas/pipeline.mmd` + `dags/pipeline.mmd` — md5 72b3273c both (unchanged).
+- Output: `assets/diagrams/pipeline_local.svg` re-rendered via `scripts/render_mmd_local.py`, XML-validated. mmdc/Chrome unavailable in sandbox; external `pipeline.svg` (mmdc) retained ADD-only.
+- Rotation note: all 13 disabled workflows now have a local Alice run this cycle.
