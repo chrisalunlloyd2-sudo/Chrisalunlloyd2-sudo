@@ -7,3 +7,5 @@
 - Intention: COMPLETE_FLEET_ACTIONS_ARSENAL
 
 ## 2026-11-16 01:42:29Z — heartbeat slot bdi-state-hud local regen — assets/agent/bdi-core-hud.svg → assets/agent/bdi-core-hud.svg from state_snapshot/bdi (real data), ADD-only [alice-local]
+
+## 2026-11-19 21:27:17Z — heartbeat slot bdi-state-hud local regen (cycle 13/13) — docs/assets/agent/bdi-core-hud.svg from state_snapshot/bdi REAL data (no fallback), mirror assets/agent/, ADD-only [alice-local]
