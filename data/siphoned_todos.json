@@ -507,1004 +507,69 @@
   ],
   "agent-squiggly": [
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86.py:2"
+      "tag": "TODO",
+      "text": "count   INTEGER DEFAULT 0,",
+      "file": "agent_squiggly.py:88"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86.py:16"
+      "tag": "TODO",
+      "text": "count).\"\"\"",
+      "file": "agent_squiggly.py:179"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_013201.py:2"
+      "tag": "TODO",
+      "text": "= 0",
+      "file": "agent_squiggly.py:186"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_013201.py:16"
+      "tag": "TODO",
+      "text": "+= txt.upper().count(\"TODO\") + txt.upper().count(\"FIXME\")",
+      "file": "agent_squiggly.py:196"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_031404.py:2"
+      "tag": "TODO",
+      "text": "* 0.025)",
+      "file": "agent_squiggly.py:209"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_031404.py:16"
+      "tag": "TODO",
+      "text": "",
+      "file": "agent_squiggly.py:210"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_032809.py:2"
+      "tag": "TODO",
+      "text": "count,last_commit,last_crawl,status) \"",
+      "file": "agent_squiggly.py:407"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_032809.py:16"
+      "tag": "TODO",
+      "text": "count=?,last_commit=?,last_crawl=? WHERE folder=?\",",
+      "file": "agent_squiggly.py:422"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_085840.py:2"
+      "tag": "TODO",
+      "text": "count, has_git, status, last_commit \"",
+      "file": "agent_squiggly.py:452"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_085840.py:16"
+      "tag": "TODO",
+      "text": "count\",\"has_git\",\"status\",\"last_commit\"]",
+      "file": "agent_squiggly.py:456"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_112319.py:2"
+      "tag": "TODO",
+      "text": "count, has_git FROM projects \"",
+      "file": "agent_squiggly.py:599"
     },
     {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_112319.py:16"
+      "tag": "TODO",
+      "text": "win_[\"'todo_win:\"]",
+      "file": "dags/thing_alerts.mmd:14"
     },
     {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_113636.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_113636.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_114800.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_114800.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_115128.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_115128.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_141132.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_141132.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_155050.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_155050.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan epmo_cadence` -- the boolean for this specie",
-      "file": "mined/mined_00fe2a86_233017.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_00fe2a86_233017.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_061821.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_081102.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_100835.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_110516.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_113755.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_120053.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_123952.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_123954.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_154931.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_164003.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_210617.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_012832.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_031246.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_093307.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_122407.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_124021.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_132005.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_164015.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_202701.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_203243.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_214257.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_031239.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_031239.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_053808.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_053808.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_115817.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_115817.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_182542.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_182542.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_210018.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_210018.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_213043.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_213043.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_022034.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_092134.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_101927.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_110543.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_141948.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_164535.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_010009.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_090200.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_111018.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_202649.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_032527.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_115423.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_164450.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_232609.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_232811.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_233300.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_031112.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_040602.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_153453.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_162948.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_032758.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_032758.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_051159.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_051159.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_154038.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_154038.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_074035.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_081244.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_094001.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_231329.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_090026.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_090026.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_125637.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_125637.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_033645.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_033645.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_033645.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_104714.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_104714.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_104714.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_122041.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_122041.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_122041.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_094826.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_150645.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_151919.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_151919.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_132422.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_132422.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_132422.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_135407.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_135407.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_135407.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_143100.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_143100.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_143100.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_002722.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_002722.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_002722.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_002722.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_002722.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_002722.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_164235.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_164235.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_164235.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_164235.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_164235.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_164235.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_034358.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_034358.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_201428.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_201428.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_210752.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_210752.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_040956.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_040956.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_040956.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_072007.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_072007.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_072007.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_101621.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_101621.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_101621.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_112310.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_112310.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_112310.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_173536.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_173536.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_173536.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_062814.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_062814.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_062814.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_062814.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_062814.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_062814.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_212610.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_212610.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_212610.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_212610.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_212610.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_212610.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_125703.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_210959.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_164501.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_164501.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_113845.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_113845.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_113845.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_115120.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_115120.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_115120.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_181540.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_181540.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_181540.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_221911.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_221911.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_221911.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_232853.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_042911.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_042911.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_042911.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_042911.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_042911.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_042911.py:37"
+      "tag": "TODO",
+      "text": "win[\"todo_win\"]",
+      "file": "dags/thing_redundancies.mmd:5"
     }
   ],
   "Alice": [
@@ -3188,328 +2253,6 @@
       "file": "todo/todo_490a390b7e23_module_has_summary_line_but_no.md:1"
     }
   ],
-  "BDI_FSM_AGENT": [
-    {
-      "tag": "BUG",
-      "text": "(confirmed 2026-09-01, not yet fixed)",
-      "file": "AGENTS.md:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "AGENTS.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "AGENTS.md:50"
-    },
-    {
-      "tag": "TODO",
-      "text": "management/todo_files/BDI_FSM_AGENT/",
-      "file": "AGENTS.md:76"
-    },
-    {
-      "tag": "TODO",
-      "text": "management/task_watch.log` as usual. Include: the",
-      "file": "AGENTS.md:105"
-    },
-    {
-      "tag": "BUG",
-      "text": "elsewhere.",
-      "file": "AGENTS.md:107"
-    },
-    {
-      "tag": "BUG",
-      "text": "2026-09-14)",
-      "file": "bdi_fsm/bdi_loop.py:184"
-    },
-    {
-      "tag": "BUG",
-      "text": "found by gate).",
-      "file": "bdi_fsm/cf_cells.py:210"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl -> 19 real open items (93 raw, once duplicates,",
-      "file": "bdi_fsm/contracts.py:9"
-    },
-    {
-      "tag": "BUG",
-      "text": "the :8765 keyword matcher (\"hi\" inside",
-      "file": "bdi_fsm/contracts.py:98"
-    },
-    {
-      "tag": "TODO",
-      "text": "is not authority, so it must NOT take a lattice cell: doing ",
-      "file": "bdi_fsm/contracts.py:171"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, text, source=\"todo_crawl\", repo=None):",
-      "file": "bdi_fsm/contracts.py:302"
-    },
-    {
-      "tag": "TODO",
-      "text": "on the board. Idempotent on todo_id \u2014 re-offering never dupl",
-      "file": "bdi_fsm/contracts.py:303"
-    },
-    {
-      "tag": "TODO",
-      "text": "id in d:",
-      "file": "bdi_fsm/contracts.py:305"
-    },
-    {
-      "tag": "TODO",
-      "text": "id}",
-      "file": "bdi_fsm/contracts.py:306"
-    },
-    {
-      "tag": "TODO",
-      "text": "id)",
-      "file": "bdi_fsm/contracts.py:307"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, \"text\": str(text)[:400], \"source\": source, \"repo\": repo,",
-      "file": "bdi_fsm/contracts.py:308"
-    },
-    {
-      "tag": "TODO",
-      "text": "id] = rec",
-      "file": "bdi_fsm/contracts.py:312"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl, which is now honest about what a task is.\"\"\"",
-      "file": "bdi_fsm/contracts.py:317"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl",
-      "file": "bdi_fsm/contracts.py:322"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl.crawl()",
-      "file": "bdi_fsm/contracts.py:323"
-    },
-    {
-      "tag": "TODO",
-      "text": "ids=None, only_if=None):",
-      "file": "bdi_fsm/contracts.py:378"
-    },
-    {
-      "tag": "TODO",
-      "text": "ids is not None and tid not in todo_ids:",
-      "file": "bdi_fsm/contracts.py:401"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, party, ok=True, evidence=\"\"):",
-      "file": "bdi_fsm/contracts.py:416"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawl.tick_off already enforces:",
-      "file": "bdi_fsm/contracts.py:419"
-    },
-    {
-      "tag": "TODO",
-      "text": "id)",
-      "file": "bdi_fsm/contracts.py:426"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, owner=party)",
-      "file": "bdi_fsm/contracts.py:429"
-    },
-    {
-      "tag": "TODO",
-      "text": "id))))",
-      "file": "bdi_fsm/contracts.py:457"
-    },
-    {
-      "tag": "TODO",
-      "text": "id] = rec",
-      "file": "bdi_fsm/contracts.py:468"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, rec in d.items():",
-      "file": "bdi_fsm/contracts.py:498"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, type(e).__name__, str(e)[:100]))",
-      "file": "bdi_fsm/contracts.py:508"
-    },
-    {
-      "tag": "TODO",
-      "text": "id)",
-      "file": "bdi_fsm/contracts.py:520"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, party, why=\"\"):",
-      "file": "bdi_fsm/contracts.py:526"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, owner=party)",
-      "file": "bdi_fsm/contracts.py:528"
-    },
-    {
-      "tag": "TODO",
-      "text": "id)",
-      "file": "bdi_fsm/contracts.py:530"
-    },
-    {
-      "tag": "TODO",
-      "text": "id] = rec",
-      "file": "bdi_fsm/contracts.py:537"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the first draft; the fix is to use the LOCAL energy for h",
-      "file": "bdi_fsm/enstrophy.py:99"
-    },
-    {
-      "tag": "BUG",
-      "text": "(first draft had it).",
-      "file": "bdi_fsm/enstrophy.py:418"
-    },
-    {
-      "tag": "BUG",
-      "text": "in one day -- the :8765 keyword matcher",
-      "file": "bdi_fsm/langdetect.py:71"
-    },
-    {
-      "tag": "BUG",
-      "text": "that only shows up as \"it used to be better\".",
-      "file": "bdi_fsm/markov_chat.py:225"
-    },
-    {
-      "tag": "BUG",
-      "text": "aid",
-      "file": "bdi_fsm/pressure_trace.py:114"
-    },
-    {
-      "tag": "FIXME",
-      "text": "markers + missing README/pyproject/LICENSE",
-      "file": "bdi_fsm/seed_factory.py:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "RE = re.compile(r\"\\b(TODO|FIXME|XXX|HACK)\\b[:\\s]*(.*)$\", re.",
-      "file": "bdi_fsm/seed_factory.py:25"
-    },
-    {
-      "tag": "TODO",
-      "text": "markers, missing docs/packaging, untested modules.\"\"\"",
-      "file": "bdi_fsm/seed_factory.py:33"
-    },
-    {
-      "tag": "FIXME",
-      "text": "markers in .py/.md (line-level, capped)",
-      "file": "bdi_fsm/seed_factory.py:39"
-    },
-    {
-      "tag": "TODO",
-      "text": "RE.finditer(txt):",
-      "file": "bdi_fsm/seed_factory.py:55"
-    },
-    {
-      "tag": "TODO",
-      "text": "list\") are NOT gaps",
-      "file": "bdi_fsm/seed_factory.py:59"
-    },
-    {
-      "tag": "BUG",
-      "text": "we fixed: treating an already-SATISFIED clause \"",
-      "file": "bdi_fsm/seed_factory.py:124"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "docs/ARCHITECTURE.md:223"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "docs/BANBURISMUS.md:110"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix pass (202/202) |",
-      "file": "docs/ROADMAP.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "fixed from the original sketch)",
-      "file": "docs/programmatic_meaning.md:41"
-    },
-    {
-      "tag": "BUG",
-      "text": "we fixed: treating an already-SATISFIED clause as a unit and",
-      "file": "pedagogy/dpll_sat.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix: \"ordered list\" must not also produce a bullet \"list\"",
-      "file": "tests/test_code_ask.py:10"
-    },
-    {
-      "tag": "TODO",
-      "text": "never_takes_a_lattice_cell():",
-      "file": "tests/test_contracts.py:62"
-    },
-    {
-      "tag": "TODO",
-      "text": "displacing one would silently break the",
-      "file": "tests/test_contracts.py:63"
-    },
-    {
-      "tag": "BUG",
-      "text": "`json` was never imported at module level, so",
-      "file": "tests/test_corpus_gather.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "\"android.contentEvil\" must NOT be allowed",
-      "file": "tests/test_domain_node.py:17"
-    },
-    {
-      "tag": "TODO",
-      "text": "finish f\\n    # FIXME: edge case\\n\")",
-      "file": "tests/test_seed_factory.py:13"
-    },
-    {
-      "tag": "TODO",
-      "text": "x\\n\")",
-      "file": "tests/test_seed_factory.py:87"
-    },
-    {
-      "tag": "BUG",
-      "text": "signature is absent from the real scan:",
-      "file": "tests/test_seed_factory_paths.py:22"
-    },
-    {
-      "tag": "TODO",
-      "text": "6b32a24655cd \u2014 NOTIMPL",
-      "file": "todo/todo_6b32a24655cd_notimplementederror_implement_.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "744b883ce0c7 \u2014 NOTIMPL",
-      "file": "todo/todo_744b883ce0c7_notimplementederror_implement_.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "96c3b2302ad0 \u2014 NOTIMPL",
-      "file": "todo/todo_96c3b2302ad0_notimplementederror_implement_.md:1"
-    }
-  ],
   "brute-foundry": [
     {
       "tag": "TODO",
@@ -3761,6 +2504,11 @@
   ],
   "chrislloyd-io": [
     {
+      "tag": "BUG",
+      "text": "found in",
+      "file": "docs/PLAN-SITE-100.md:98"
+    },
+    {
       "tag": "TODO",
       "text": "= run([sys.executable, \"scripts/i18n_extract.py\", \"--sync\"])",
       "file": "scripts/sync_store.py:101"
@@ -3788,6 +2536,26 @@
       "tag": "TODO",
       "text": "...` makes a reminder (date only means due 23:59)",
       "file": "README.md:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "elsewhere) produces a `None` mixed with real dates",
+      "file": "docs/AUDIT-MODULES.md:85"
+    },
+    {
+      "tag": "TODO",
+      "text": "onto the calendar",
+      "file": "docs/AUDIT-MODULES.md:89"
+    },
+    {
+      "tag": "BUG",
+      "text": "anywhere inside one section's `actions()` method (e.g. a typ",
+      "file": "docs/AUDIT-MODULES.md:100"
+    },
+    {
+      "tag": "TODO",
+      "text": "never show as",
+      "file": "docs/AUDIT-MODULES.md:150"
     },
     {
       "tag": "TODO",
@@ -3827,17 +2595,22 @@
     {
       "tag": "BUG",
       "text": "anywhere in this list.** The ones that are genuinely",
-      "file": "docs/PLAN-SONNET-100.md:183"
+      "file": "docs/PLAN-SONNET-100.md:193"
     },
     {
       "tag": "BUG",
       "text": "is specifically cross-process).",
-      "file": "docs/PLAN-SONNET-100.md:228"
+      "file": "docs/PLAN-SONNET-100.md:238"
+    },
+    {
+      "tag": "BUG",
+      "text": "`system_zone()` (line ~277) and the",
+      "file": "docs/PLAN-SONNET-100.md:255"
     },
     {
       "tag": "TODO",
       "text": "load/save path.",
-      "file": "docs/PLAN-SONNET-100.md:253"
+      "file": "docs/PLAN-SONNET-100.md:281"
     },
     {
       "tag": "TODO",
@@ -4817,818 +3590,6 @@
       "tag": "TODO",
       "text": "",
       "file": "README.md:23"
-    }
-  ],
-  "H2OMatrixCE": [
-    {
-      "tag": "TODO",
-      "text": "database with Google Keep with backoff.",
-      "file": "README.md:178"
-    },
-    {
-      "tag": "TODO",
-      "text": "google()`",
-      "file": "README.md:190"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py`",
-      "file": "README.md:221"
-    },
-    {
-      "tag": "TODO",
-      "text": "Scanner",
-      "file": "README.md:223"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER` | `cleanup_completed` | `cleanup_completed()` |",
-      "file": "README.md:392"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER` | `scan_todos` | `scan_todos()` |",
-      "file": "README.md:393"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER` | `update_syphon` | `update_syphon(all_todos)` |",
-      "file": "README.md:394"
-    },
-    {
-      "tag": "TODO",
-      "text": "google` | `sync_todo_google()` |",
-      "file": "README.md:426"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "SINGULARITY_LOG.md:15"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix/feature is a hypothesis based on observed data flow anom",
-      "file": "SINGULARITY_ROADMAP.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "SYNC_ALL.sh:10"
-    },
-    {
-      "tag": "TODO",
-      "text": "Scanner",
-      "file": "TODO_SCANNER.py:8"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern = re.compile(r'- \\[ \\] (.*)')",
-      "file": "TODO_SCANNER.py:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "pattern.findall(content)",
-      "file": "TODO_SCANNER.py:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = False",
-      "file": "TODO_SCANNER.py:65"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\" in line:",
-      "file": "TODO_SCANNER.py:67"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = True",
-      "file": "TODO_SCANNER.py:69"
-    },
-    {
-      "tag": "TODO",
-      "text": "section and line.startswith('##'):",
-      "file": "TODO_SCANNER.py:72"
-    },
-    {
-      "tag": "TODO",
-      "text": "section = False",
-      "file": "TODO_SCANNER.py:73"
-    },
-    {
-      "tag": "TODO",
-      "text": "section:",
-      "file": "TODO_SCANNER.py:75"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "WAKE.sh:25"
-    },
-    {
-      "tag": "BUG",
-      "text": "Keystore...\"",
-      "file": "manifest_apk.sh:106"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in H2OMatrixCE",
-      "file": "todo_0001_LIST.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "todo_0001_LIST.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0001_LIST.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0001_LIST.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0001_LIST.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#2 in H2OMatrixCE",
-      "file": "todo_0002_S_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "todo_0002_S_---.md:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0002_S_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0002_S_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0002_S_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#3 in H2OMatrixCE",
-      "file": "todo_0003_LIST_in_line.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "todo_0003_LIST_in_line.md:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\" in line:",
-      "file": "todo_0003_LIST_in_line.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0003_LIST_in_line.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0003_LIST_in_line.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0003_LIST_in_line.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#4 in H2OMatrixCE",
-      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#5 in H2OMatrixCE",
-      "file": "todo_0005__DB_exist_okTrue.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "todo_0005__DB_exist_okTrue.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0005__DB_exist_okTrue.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0005__DB_exist_okTrue.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0005__DB_exist_okTrue.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#6 in H2OMatrixCE",
-      "file": "todo_0006__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "todo_0006__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0006__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0006__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0006__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#7 in H2OMatrixCE",
-      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#8 in H2OMatrixCE",
-      "file": "todo_0008__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "todo_0008__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0008__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0008__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0008__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#9 in H2OMatrixCE",
-      "file": "todo_0009_SYSTEM_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "todo_0009_SYSTEM_---.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0009_SYSTEM_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0009_SYSTEM_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0009_SYSTEM_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#10 in H2OMatrixCE",
-      "file": "todo_0010__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "todo_0010__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0010__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0010__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0010__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#11 in H2OMatrixCE",
-      "file": "todo_0011__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "todo_0011__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0011__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0011__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0011__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0001_LIST.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "AEGEN_TODOS/todo_0001_LIST.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0001_LIST.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0001_LIST.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0001_LIST.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#2 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0002_S_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "AEGEN_TODOS/todo_0002_S_---.md:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0002_S_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0002_S_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0002_S_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#3 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SCANNER.py",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST\" in line:",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0003_LIST_in_line.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#4 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#5 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0005__DB_exist_okTrue.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#6 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0006__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "AEGEN_TODOS/todo_0006__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0006__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0006__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0006__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#7 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0007__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#8 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0008__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "AEGEN_TODOS/todo_0008__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0008__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0008__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0008__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#9 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0009_SYSTEM_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#10 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0010__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "AEGEN_TODOS/todo_0010__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0010__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0010__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0010__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#11 in H2OMatrixCE",
-      "file": "AEGEN_TODOS/todo_0011__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "AEGEN_TODOS/todo_0011__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "AEGEN_TODOS/todo_0011__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0011__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "AEGEN_TODOS/todo_0011__DB.md:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:47"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:48"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:49"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:50"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:51"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:52"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:53"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:54"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:55"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:56"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "H2OIDE/README_ENTERPRISE.md:57"
-    },
-    {
-      "tag": "BUG",
-      "text": "test.sh",
-      "file": "H2OIDE/README_ENTERPRISE.md:705"
-    },
-    {
-      "tag": "TODO",
-      "text": "(Google Keep Hypersync)**",
-      "file": "H2OIDE/initialize_enterprise_project.py:57"
-    },
-    {
-      "tag": "BUG",
-      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
-      "file": "H2OIDE/initialize_enterprise_project.py:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "PocketMatrix/system/chat_harvester.py:7"
-    },
-    {
-      "tag": "TODO",
-      "text": "Database for H2O Execution",
-      "file": "PocketMatrix/system/chat_harvester.py:37"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "PocketMatrix/system/chat_harvester.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "PocketMatrix/system/chat_harvester.py:39"
-    },
-    {
-      "tag": "BUG",
-      "text": "this in C.\"",
-      "file": "PocketMatrix/system/fault_injector.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "database with Google Keep with backoff.",
-      "file": "PocketMatrix/system/google_bridge.py:47"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "PocketMatrix/system/gui_bridge.py:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "Router",
-      "file": "PocketMatrix/system/gui_bridge.py:30"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "PocketMatrix/system/gui_bridge.py:33"
-    },
-    {
-      "tag": "TODO",
-      "text": "list.\"})",
-      "file": "PocketMatrix/system/gui_bridge.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "PocketMatrix/system/gui_bridge.py:138"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "PocketMatrix/system/gui_bridge.py:141"
-    },
-    {
-      "tag": "TODO",
-      "text": "google():",
-      "file": "PocketMatrix/system/gui_bridge.py:164"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "PocketMatrix/system/gui_bridge.py:165"
     }
   ],
   "H2O_MATRIX": [
@@ -7074,8 +5035,8 @@
     },
     {
       "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAiTrain_SYNC_20260514.md:12"
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
     },
     {
       "tag": "BUG",
@@ -7116,81 +5077,6 @@
       "tag": "TODO",
       "text": "count\": len(todo_hits)})",
       "file": "command_center_maintenance.py:441"
-    },
-    {
-      "tag": "BUG",
-      "text": "reports. (`as is' distribution)",
-      "file": "freetype.md:71"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE (",
-      "file": "security_sentinel.py:61"
-    },
-    {
-      "tag": "TODO",
-      "text": "id TEXT PRIMARY KEY,",
-      "file": "security_sentinel.py:62"
-    },
-    {
-      "tag": "TODO",
-      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
-      "file": "security_sentinel.py:95"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
-      "file": "security_sentinel.py:134"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE (",
-      "file": "security_sentinel.py:156"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, title, details, priority, status, assigned_agent, proof_",
-      "file": "security_sentinel.py:157"
-    },
-    {
-      "tag": "TODO",
-      "text": "id,",
-      "file": "security_sentinel.py:162"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": todo_id,",
-      "file": "security_sentinel.py:181"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE",
-      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "SimAgentCity_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:52"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:802"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAI_SYNC_20260514.md:1847"
     },
     {
       "tag": "TODO",
@@ -7328,6 +5214,86 @@
       "file": "global_agent_network.py:875"
     },
     {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:881"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
+    },
+    {
       "tag": "BUG",
       "text": "fix\",",
       "file": "risc_bridge_server.py:84"
@@ -7336,11 +5302,6 @@
       "tag": "BUG",
       "text": "fix\"}:",
       "file": "risc_bridge_server.py:970"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
-      "file": "topology_sidecar.py:881"
     }
   ],
   "local_desktop-main": [
@@ -7396,33 +5357,18 @@
     },
     {
       "tag": "TODO",
-      "text": "System | ACTIVE |",
-      "file": "README.md:214"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE",
-      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
-    },
-    {
-      "tag": "TODO",
       "text": "& LOGIC GAPS",
       "file": "SimAgentCity_SYNC_20260514.md:12"
     },
     {
       "tag": "BUG",
       "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:52"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:802"
+      "file": "ViperNotes_SYNC_20260514.md:49"
     },
     {
       "tag": "TODO",
       "text": "& LOGIC GAPS",
-      "file": "ViperAI_SYNC_20260514.md:1847"
+      "file": "ViperNotes_SYNC_20260514.md:510"
     },
     {
       "tag": "TODO",
@@ -7455,26 +5401,6 @@
       "file": "command_center_maintenance.py:441"
     },
     {
-      "tag": "BUG",
-      "text": "reports. (`as is' distribution)",
-      "file": "freetype.md:71"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAiTrain_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperNotes_SYNC_20260514.md:49"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperNotes_SYNC_20260514.md:510"
-    },
-    {
       "tag": "TODO",
       "text": "QUEUE\": 7,",
       "file": "data_retrieval_lens_agent.py:72"
@@ -7493,6 +5419,41 @@
       "tag": "TODO",
       "text": "QUEUE\",",
       "file": "data_retrieval_lens_agent.py:1225"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
+    },
+    {
+      "tag": "TODO",
+      "text": "System | ACTIVE |",
+      "file": "README.md:214"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
@@ -7610,6 +5571,11 @@
       "file": "global_agent_network.py:875"
     },
     {
+      "tag": "TODO",
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
+    },
+    {
       "tag": "BUG",
       "text": "fix\",",
       "file": "risc_bridge_server.py:84"
@@ -7618,11 +5584,6 @@
       "tag": "BUG",
       "text": "fix\"}:",
       "file": "risc_bridge_server.py:969"
-    },
-    {
-      "tag": "TODO",
-      "text": "Implement dynamic routing based on ledger health",
-      "file": "swarm_router.py:76"
     },
     {
       "tag": "TODO",
@@ -7671,8 +5632,8 @@
     },
     {
       "tag": "TODO",
-      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
-      "file": "sims1337_node_manager.py:23"
+      "text": "Implement dynamic routing based on ledger health",
+      "file": "swarm_router.py:76"
     }
   ],
   "local_documents": [
@@ -9188,76 +7149,936 @@
       "file": "todo_0038_.md.md:21"
     }
   ],
-  "Matrix_CEAPPS": [
+  "Matrix_CEAGENTS": [
     {
       "tag": "TODO",
-      "text": "0001__Training_routine_implementation_for_skill_harv.md",
-      "file": "README.md:17"
+      "text": "#1 in Matrix_CEAGENTS",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
     },
     {
       "tag": "TODO",
-      "text": "0002__Verification_cycle_3-reply_test..md",
-      "file": "README.md:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "75ad01061ac7_file_does_not_parse_invalid_ch.md",
-      "file": "README.md:50"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in Matrix_CEAPPS",
-      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:1"
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
     },
     {
       "tag": "TODO",
       "text": "Text",
-      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:15"
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:21"
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0001__Training_routine_implementation_for_skill_harv.md:27"
+      "file": "todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
     },
     {
       "tag": "TODO",
-      "text": "#2 in Matrix_CEAPPS",
-      "file": "todo_0002__Verification_cycle_3-reply_test..md:1"
+      "text": "#2 in Matrix_CEAGENTS",
+      "file": "todo_0002__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "todo_0002__DB_exist_okTrue.md:12"
     },
     {
       "tag": "TODO",
       "text": "Text",
-      "file": "todo_0002__Verification_cycle_3-reply_test..md:15"
+      "file": "todo_0002__DB_exist_okTrue.md:15"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0002__Verification_cycle_3-reply_test..md:21"
+      "file": "todo_0002__DB_exist_okTrue.md:21"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0002__Verification_cycle_3-reply_test..md:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "keystore...\"",
-      "file": "QwenConfigApp/build.sh:47"
-    },
-    {
-      "tag": "BUG",
-      "text": "keyalg RSA -keysize 2048 -validity 10000 -storepass matrixce",
-      "file": "QwenConfigApp/build.sh:48"
+      "file": "todo_0002__DB_exist_okTrue.md:27"
     },
     {
       "tag": "TODO",
-      "text": "75ad01061ac7 \u2014 SYNTAX",
-      "file": "todo/todo_75ad01061ac7_file_does_not_parse_invalid_ch.md:1"
+      "text": "#3 in Matrix_CEAGENTS",
+      "file": "todo_0003__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0003__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in Matrix_CEAGENTS",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in Matrix_CEAGENTS",
+      "file": "todo_0005__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0005__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0005__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in Matrix_CEAGENTS",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in Matrix_CEAGENTS",
+      "file": "todo_0007_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0007_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0007_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in Matrix_CEAGENTS",
+      "file": "todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in Matrix_CEAGENTS",
+      "file": "todo_0009__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0009__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0009__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in Matrix_CEAGENTS",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in Matrix_CEAGENTS",
+      "file": "todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#12 in Matrix_CEAGENTS",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#13 in Matrix_CEAGENTS",
+      "file": "todo_0013__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0013__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0013__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#14 in Matrix_CEAGENTS",
+      "file": "todo_0014_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "todo_0014_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0014_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#15 in Matrix_CEAGENTS",
+      "file": "todo_0015__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0015__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0015__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#16 in Matrix_CEAGENTS",
+      "file": "todo_0016__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "todo_0016__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0016__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0003__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0005__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0007_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0008__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0009__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0011__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#12 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#13 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0013__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#14 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0014_SYSTEM_---.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#15 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0015__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#16 in Matrix_CEAGENTS",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "AEGEN_TODOS/todo_0016__DB.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/chat_harvester.py:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "Database for H2O Execution",
+      "file": "system/chat_harvester.py:37"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB), exist_ok=True)",
+      "file": "system/chat_harvester.py:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/chat_harvester.py:39"
+    },
+    {
+      "tag": "BUG",
+      "text": "this in C.\"",
+      "file": "system/fault_injector.py:33"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/flow_orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/flow_orchestrator.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "database with Google Keep with backoff.",
+      "file": "system/google_bridge.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "system/gui_bridge.py:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "system/gui_bridge.py:534"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/gui_bridge.py:537"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "system/gui_bridge.py:560"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/gui_bridge.py:561"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
+      "file": "system/orchestrator.py:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/orchestrator.py:13"
+    },
+    {
+      "tag": "BUG",
+      "text": "Prompt length: {len(prompt)}\")",
+      "file": "system/orchestrator.py:44"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response status: {response.status_code}\")",
+      "file": "system/orchestrator.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "Response content: {response.text}\")",
+      "file": "system/orchestrator.py:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
+      "file": "system/backup/gui_bridge_LEGACY.py:16"
+    },
+    {
+      "tag": "TODO",
+      "text": "Router",
+      "file": "system/backup/gui_bridge_LEGACY.py:131"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"})",
+      "file": "system/backup/gui_bridge_LEGACY.py:139"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYSTEM ---",
+      "file": "system/backup/gui_bridge_LEGACY.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:242"
+    },
+    {
+      "tag": "TODO",
+      "text": "google():",
+      "file": "system/backup/gui_bridge_LEGACY.py:265"
+    },
+    {
+      "tag": "TODO",
+      "text": "DB)",
+      "file": "system/backup/gui_bridge_LEGACY.py:266"
     }
   ],
   "Matrix_CEBack": [
@@ -10578,6 +9399,1075 @@
       "file": "src/ui/gist_wall.js:139"
     }
   ],
+  "Nova": [
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:85"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:100"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:108"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": ".director_payload.md:113"
+    },
+    {
+      "tag": "BUG",
+      "text": "Fixed:** The `get_program_out` function in `DarwinianEngine_",
+      "file": "NOTES.md:23"
+    },
+    {
+      "tag": "BUG",
+      "text": "using Boolean Logic.",
+      "file": "NOTES.md:38"
+    },
+    {
+      "tag": "TODO",
+      "text": "Install cryptography and use real Ed25519",
+      "file": "heartbeat_endpoint_atomic.py:95"
+    },
+    {
+      "tag": "BUG",
+      "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
+      "file": "prompt_evolver.py:90"
+    },
+    {
+      "tag": "BUG",
+      "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
+      "file": "prompt_evolver.py:92"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:6"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/CHANGELOG.md:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes and stability improvements",
+      "file": "openrouter_manager/ROADMAP.md:15"
+    }
+  ],
+  "openrouter_manager": [
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": ".pilot_payload.md:3"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure seamless tracking and implementation of tasks",
+      "file": ".pilot_payload.md:7"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": ".pilot_payload.md:9"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": ".pilot_payload.md:45"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": ".pilot_payload.md:46"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": ".pilot_payload.md:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": ".pilot_payload.md:48"
+    },
+    {
+      "tag": "TODO",
+      "text": "list and prioritizing tasks, we can ensure the successful co",
+      "file": ".pilot_payload.md:79"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:47"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:48"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:50"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:51"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:53"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:54"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:55"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:56"
+    },
+    {
+      "tag": "BUG",
+      "text": "0.log",
+      "file": "README_ENTERPRISE.md:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "test.sh",
+      "file": "README_ENTERPRISE.md:705"
+    },
+    {
+      "tag": "TODO",
+      "text": "(Google Keep Hypersync)**",
+      "file": "initialize_enterprise_project.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "C/C++ in real-time, heavily assisted by the Danube AI tutor.",
+      "file": "initialize_enterprise_project.py:83"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "pedagogy_loop.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "#1 in openrouter_manager",
+      "file": "todo_0001_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0001_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0001_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#2 in openrouter_manager",
+      "file": "todo_0002_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0002_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0002_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0002_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#3 in openrouter_manager",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure seamless tracking and implementation of tasks",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized to facilitate efficient c",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0003_list_to_ensure_seamless_tracking_and_implementatio.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#4 in openrouter_manager",
+      "file": "todo_0004_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0004_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0004_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0004_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#5 in openrouter_manager",
+      "file": "todo_0005_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0005_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0005_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#6 in openrouter_manager",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0006_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#7 in openrouter_manager",
+      "file": "todo_0007_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0007_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0007_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0007_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#8 in openrouter_manager",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0008_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#9 in openrouter_manager",
+      "file": "todo_0009_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0009_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0009_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0009_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#10 in openrouter_manager",
+      "file": "todo_0010_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list and prioritizing tasks, we can ensure the successful co",
+      "file": "todo_0010_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0010_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0010_list_and_prioritizing_tasks_we_can_ensure_the_suc.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#11 in openrouter_manager",
+      "file": "todo_0011_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0011_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0011_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#12 in openrouter_manager",
+      "file": "todo_0012_.md_with_improved_documentation_and_formatting.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0012_.md_with_improved_documentation_and_formatting.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012_.md_with_improved_documentation_and_formatting.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0012_.md_with_improved_documentation_and_formatting.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#13 in openrouter_manager",
+      "file": "todo_0013__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "SYPHON.py && grep \\\"[ ]\\\" ~/VIPER_SCRIPT_LIBRARY/CHAT_SYPHON",
+      "file": "todo_0013__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0013__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0013__SYPHON.py__grep______VIPER_SCRIPT_LIBRARY_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#14 in openrouter_manager",
+      "file": "todo_0014_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0014_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0014_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#15 in openrouter_manager",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "list",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0015_.md_with_comprehensive_TODO_list.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#16 in openrouter_manager",
+      "file": "todo_0016_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0016_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0016_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#17 in openrouter_manager",
+      "file": "todo_0017_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0017_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0017_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0017_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#18 in openrouter_manager",
+      "file": "todo_0018_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0018_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0018_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0018_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0018_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#19 in openrouter_manager",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0019_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#20 in openrouter_manager",
+      "file": "todo_0020_List.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List",
+      "file": "todo_0020_List.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0020_List.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0020_List.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0020_List.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#21 in openrouter_manager",
+      "file": "todo_0021_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0021_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0021_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0021_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#22 in openrouter_manager",
+      "file": "todo_0022_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0022_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0022_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0022_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0022_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#23 in openrouter_manager",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0023_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#24 in openrouter_manager",
+      "file": "todo_0024_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0024_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0024_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0024_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0024_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#25 in openrouter_manager",
+      "file": "todo_0025_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0025_list_will_be_used_to_track_and_implement_API_updat.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0025_list_will_be_used_to_track_and_implement_API_updat.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0025_list_will_be_used_to_track_and_implement_API_updat.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0025_list_will_be_used_to_track_and_implement_API_updat.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#26 in openrouter_manager",
+      "file": "todo_0026_List_Summary.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "todo_0026_List_Summary.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0026_List_Summary.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0026_List_Summary.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0026_List_Summary.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#27 in openrouter_manager",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0027_list_outlines_the_current_tasks_and_features_to_be.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#28 in openrouter_manager",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list has been updated with a comprehensive outline of tasks ",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0028_list_has_been_updated_with_a_comprehensive_outline.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#29 in openrouter_manager",
+      "file": "todo_0029_list_by_implementing_automated_testing_optimizing.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list by implementing automated testing, optimizing database ",
+      "file": "todo_0029_list_by_implementing_automated_testing_optimizing.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0029_list_by_implementing_automated_testing_optimizing.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0029_list_by_implementing_automated_testing_optimizing.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0029_list_by_implementing_automated_testing_optimizing.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#30 in openrouter_manager",
+      "file": "todo_0030_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0030_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0030_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0030_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#31 in openrouter_manager",
+      "file": "todo_0031_List_for_OpenRouter_Manager.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List for OpenRouter Manager",
+      "file": "todo_0031_List_for_OpenRouter_Manager.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0031_List_for_OpenRouter_Manager.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0031_List_for_OpenRouter_Manager.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0031_List_for_OpenRouter_Manager.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#34 in openrouter_manager",
+      "file": "todo_0034_.md.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0034_.md.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0034_.md.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0034_.md.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#35 in openrouter_manager",
+      "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement user interface upda",
+      "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#36 in openrouter_manager",
+      "file": "todo_0036_list_will_be_used_to_track_and_implement_database_.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement database performanc",
+      "file": "todo_0036_list_will_be_used_to_track_and_implement_database_.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0036_list_will_be_used_to_track_and_implement_database_.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0036_list_will_be_used_to_track_and_implement_database_.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0036_list_will_be_used_to_track_and_implement_database_.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#37 in openrouter_manager",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#39 in openrouter_manager",
+      "file": "todo_0039_List_Summary.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "List Summary",
+      "file": "todo_0039_List_Summary.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0039_List_Summary.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0039_List_Summary.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0039_List_Summary.md:27"
+    },
+    {
+      "tag": "TODO",
+      "text": "#40 in openrouter_manager",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:21"
+    }
+  ],
   "painting-ops-vault": [
     {
       "tag": "TODO",
@@ -10660,6 +10550,143 @@
       "tag": "TODO",
       "text": "0e16031f16b9 \u2014 STUB",
       "file": "todo/todo_0e16031f16b9_function_draw_is_an_empty_stub.md:1"
+    }
+  ],
+  "Prometheus": [
+    {
+      "tag": "BUG",
+      "text": "on its first live check",
+      "file": "MEASUREMENTS.md:74"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the model's code: `.get()` was called on every value of t",
+      "file": "MEASUREMENTS.md:80"
+    },
+    {
+      "tag": "BUG",
+      "text": "in both branches. Recorded as a failure, never installed |",
+      "file": "MEASUREMENTS.md:86"
+    },
+    {
+      "tag": "BUG",
+      "text": "species (guards the comprehension condition with `isinstance",
+      "file": "MEASUREMENTS.md:87"
+    },
+    {
+      "tag": "BUG",
+      "text": "species is. Wired in as a real consumer: the sweep asks the ",
+      "file": "MEASUREMENTS.md:90"
+    },
+    {
+      "tag": "BUG",
+      "text": "obs_forensic_sophia__tinyllama ModuleNotFoundError",
+      "file": "docs/MASTER_PLAN_ALIVE_20261008.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "[~] partial  [x] done",
+      "file": "docs/swarm_as_one_welcome_20261008.md:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.py\", \"no new contract has reached the board for a day;",
+      "file": "scripts/prometheus_board.py:45"
+    },
+    {
+      "tag": "TODO",
+      "text": "= TARGETS[cls]",
+      "file": "scripts/prometheus_board.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, text, source=\"x\", repo=None, **kw):",
+      "file": "scripts/prometheus_board.py:140"
+    },
+    {
+      "tag": "TODO",
+      "text": "id in self.d:",
+      "file": "scripts/prometheus_board.py:141"
+    },
+    {
+      "tag": "TODO",
+      "text": "id}",
+      "file": "scripts/prometheus_board.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "id] = {\"text\": text, \"source\": source}",
+      "file": "scripts/prometheus_board.py:143"
+    },
+    {
+      "tag": "TODO",
+      "text": "id}",
+      "file": "scripts/prometheus_board.py:144"
+    },
+    {
+      "tag": "BUG",
+      "text": "SPECIES: a comprehension / generator whose `if` calls `.get(",
+      "file": "scripts/spec_fix.py:115"
+    },
+    {
+      "tag": "BUG",
+      "text": "= \"def f(data):\" + chr(10) + \"    return sum(1 for item in d",
+      "file": "scripts/spec_fix.py:194"
+    },
+    {
+      "tag": "BUG",
+      "text": "= {}",
+      "file": "scripts/spec_fix.py:200"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/spec_fix.py:222"
+    },
+    {
+      "tag": "TODO",
+      "text": "= fix_contracts_to_post()",
+      "file": "scripts/swarm_features.py:428"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:430"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:437"
+    },
+    {
+      "tag": "TODO",
+      "text": "= to_post()",
+      "file": "scripts/swarm_features.py:446"
+    },
+    {
+      "tag": "TODO",
+      "text": "else None}))",
+      "file": "scripts/swarm_features.py:447"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:448"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "scripts/swarm_features.py:455"
+    },
+    {
+      "tag": "BUG",
+      "text": "species, repaired by the SYSTEM (and reported), not left to ",
+      "file": "scripts/template_run.py:156"
+    },
+    {
+      "tag": "BUG",
+      "text": "species_in_a_filled_body_is_repaired_by_the_system_and_repor",
+      "file": "scripts/template_run.py:303"
     }
   ],
   "Ryush": [
@@ -10776,11 +10803,410 @@
       "file": "project_architect.py:92"
     }
   ],
+  "sims-java-neo-fx": [
+    {
+      "tag": "TODO",
+      "text": "QUEUE`, and SHA ledger where relevant.",
+      "file": "AGENT_APP_DEV_PROTOCOL.md:115"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "BLUEPRINT.md:18"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "BVD_ASSIST_SYNC_20260514.md:11"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes.",
+      "file": "CONTRIBUTING.md:8"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "COUNTER_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "DarwinGeneticLLMPIPE_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Extraction:** Deep scan of all source files for `// TODO` an",
+      "file": "END_TO_END_PLAN.md:32"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE = re.compile(r\"(?i)\\b(todo|to do|need to|needs to|should|",
+      "file": "extract_global_todos.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE.\",",
+      "file": "extract_global_todos.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "extract_global_todos.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority)\")",
+      "file": "extract_global_todos.py:64"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "extract_global_todos.py:104"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\").fetchall()",
+      "file": "extract_global_todos.py:135"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_EXTRACT_{now_id()}_{index:03d}\"",
+      "file": "extract_global_todos.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "extract_global_todos.py:147"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "extract_global_todos.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, 2, assigned),",
+      "file": "extract_global_todos.py:152"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
+      "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:61"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "security_sentinel.py:62"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "security_sentinel.py:95"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_SECURITY_{now_id()}_{fingerprint[:12]}\"",
+      "file": "security_sentinel.py:134"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "security_sentinel.py:156"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, status, assigned_agent, proof_",
+      "file": "security_sentinel.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "id,",
+      "file": "security_sentinel.py:162"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id,",
+      "file": "security_sentinel.py:181"
+    },
+    {
+      "tag": "TODO",
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:827"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:969"
+    },
+    {
+      "tag": "TODO",
+      "text": "Implement dynamic routing based on ledger health",
+      "file": "swarm_router.py:76"
+    },
+    {
+      "tag": "BUG",
+      "text": "report.\"),",
+      "file": "scripts/agents/crew_loop.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "<what>\"",
+      "file": "scripts/agents/crew_loop.py:44"
+    }
+  ],
   "sims-javafx-neo": [
     {
       "tag": "BUG",
       "text": "in simulation logic",
       "file": ".director_payload.md:138"
+    }
+  ],
+  "SIMS1337": [
+    {
+      "tag": "TODO",
+      "text": "at (0,0) \"Wire FOW to all 8 models\" \u2192 marked \u2705 done",
+      "file": "CHANGELOG.md:30"
+    },
+    {
+      "tag": "BUG",
+      "text": "Trail",
+      "file": "docs/BLUEPRINT.md:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACT)",
+      "file": "docs/LEARNINGS.md:155"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACTIVE with today's date",
+      "file": "docs/LEARNINGS.md:158"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACT)",
+      "file": "docs/LEARNINGS.md:247"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution as ACTIVE with today's date",
+      "file": "docs/LEARNINGS.md:250"
+    },
+    {
+      "tag": "TODO",
+      "text": "Resolution + Dashboards | \u23f3 Ongoing | Parallel |",
+      "file": "docs/MASTER_STATUS_UPDATED.md:40"
+    },
+    {
+      "tag": "TODO",
+      "text": "resolution, revenue) continue autonomously.",
+      "file": "docs/MASTER_STATUS_UPDATED.md:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "docs/RUNBOOK.md:56"
+    },
+    {
+      "tag": "TODO",
+      "text": "Auto-Resolve",
+      "file": "docs/RUNBOOK.md:58"
+    },
+    {
+      "tag": "BUG",
+      "text": "report.\"),",
+      "file": "scripts/agents/crew_loop.py:18"
+    },
+    {
+      "tag": "BUG",
+      "text": "<what>\"",
+      "file": "scripts/agents/crew_loop.py:44"
     }
   ],
   "Sophia": [
@@ -11125,6 +11551,413 @@
       "file": "VIPER_MASTER_PLAN.md:231"
     }
   ],
+  "ViperCli": [
+    {
+      "tag": "BUG",
+      "text": "symbols: use `pyinstaller --onefile --strip`",
+      "file": "BUILD.md:180"
+    },
+    {
+      "tag": "BUG",
+      "text": "symbols",
+      "file": "HARDENING_REPORT.md:149"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.py`, `aegis_daily_report.py`, the contracts board \u2014 w",
+      "file": "PLAN.md:169"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix",
+      "file": "STANDARDS.md:85"
+    },
+    {
+      "tag": "BUG",
+      "text": "fixes, hardening, performance \u2014 backward-compatible",
+      "file": "VERSIONING.md:9"
+    },
+    {
+      "tag": "BUG",
+      "text": "Report\"",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "or unexpected behavior\"",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:3"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": ".github/ISSUE_TEMPLATE/bug.md:5"
+    },
+    {
+      "tag": "BUG",
+      "text": "was found by a test that submitted a throwaway `def X(): ret",
+      "file": "docs/DECISIONS.md:372"
+    },
+    {
+      "tag": "BUG",
+      "text": "species` swaps `SCRIPTS`,",
+      "file": "docs/DECISIONS.md:380"
+    },
+    {
+      "tag": "BUG",
+      "text": "the tests found.",
+      "file": "docs/DECISIONS.md:386"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing the word coverage. Each entry keeps its `source`,",
+      "file": "docs/DECISIONS.md:577"
+    },
+    {
+      "tag": "BUG",
+      "text": "in intake's plan builder.",
+      "file": "docs/DECISIONS.md:783"
+    },
+    {
+      "tag": "BUG",
+      "text": "whose only symptom is a hang.** *\"if not then back to option",
+      "file": "docs/DECISIONS.md:817"
+    },
+    {
+      "tag": "BUG",
+      "text": "of the same family as house_cpp's.** The check \"this file",
+      "file": "docs/DECISIONS.md:1081"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.py`",
+      "file": "docs/DECISIONS.md:1151"
+    },
+    {
+      "tag": "TODO",
+      "text": "loop beside them.",
+      "file": "docs/DECISIONS.md:1154"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.DOCS` (which files hold a project's",
+      "file": "docs/DECISIONS.md:1184"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md` (markdown unwrapping, already fixed there",
+      "file": "docs/DECISIONS.md:1185"
+    },
+    {
+      "tag": "BUG",
+      "text": "that ships quietly. Called",
+      "file": "docs/DECISIONS.md:1515"
+    },
+    {
+      "tag": "BUG",
+      "text": "can fake: rotation preserves norm.**",
+      "file": "docs/DECISIONS.md:1530"
+    },
+    {
+      "tag": "BUG",
+      "text": "(wrong axis, wrong",
+      "file": "docs/DECISIONS.md:1535"
+    },
+    {
+      "tag": "BUG",
+      "text": "top-1 (and",
+      "file": "docs/DECISIONS.md:1735"
+    },
+    {
+      "tag": "BUG",
+      "text": "both implementations happen to agree on):** identical",
+      "file": "docs/DECISIONS.md:1845"
+    },
+    {
+      "tag": "BUG",
+      "text": "returning**: a new regression-guard test",
+      "file": "docs/DECISIONS.md:1900"
+    },
+    {
+      "tag": "BUG",
+      "text": "found because it broke `taskgen.py`'s own",
+      "file": "docs/DECISIONS.md:1951"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own priority-1",
+      "file": "docs/MASTERPLAN.md:42"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "docs/v2-history/PHASE_22_COMPLETE.md:83"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific step in isolation",
+      "file": "docs/v2-history/PHASE_23_REMOTE_TESTING.md:211"
+    },
+    {
+      "tag": "BUG",
+      "text": "(inference_v2.py)",
+      "file": "docs/v2-history/STATUS.md:35"
+    },
+    {
+      "tag": "BUG",
+      "text": "lived here first: the fixture put \"term_a\"/\"term_b\" in",
+      "file": "src/allele.py:239"
+    },
+    {
+      "tag": "BUG",
+      "text": "caught only",
+      "file": "src/ast_generator.py:31"
+    },
+    {
+      "tag": "BUG",
+      "text": "that made",
+      "file": "src/ast_generator.py:86"
+    },
+    {
+      "tag": "BUG",
+      "text": "aid",
+      "file": "src/bootstrap.py:140"
+    },
+    {
+      "tag": "BUG",
+      "text": "\"never",
+      "file": "src/changelog.py:61"
+    },
+    {
+      "tag": "BUG",
+      "text": "this",
+      "file": "src/changelog.py:182"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl.DOCS (README/TASKS/ROADMAP/TODO/BLUEPRINT)",
+      "file": "src/compound.py:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md -- already fixed the bug where",
+      "file": "src/compound.py:20"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl",
+      "file": "src/compound.py:117"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawl._strip_md(text)",
+      "file": "src/compound.py:118"
+    },
+    {
+      "tag": "BUG",
+      "text": "was found and fixed on 2026-09-11.**\\n\"",
+      "file": "src/compound.py:548"
+    },
+    {
+      "tag": "BUG",
+      "text": "here would pass any test that only checks the first",
+      "file": "src/gguf_kernel.py:509"
+    },
+    {
+      "tag": "BUG",
+      "text": "found by running the test below sampled",
+      "file": "src/gguf_kernel.py:2132"
+    },
+    {
+      "tag": "BUG",
+      "text": "found",
+      "file": "src/gguf_kernel.py:2368"
+    },
+    {
+      "tag": "BUG",
+      "text": "%r\"",
+      "file": "src/gguf_kernel.py:2825"
+    },
+    {
+      "tag": "BUG",
+      "text": "%r\"",
+      "file": "src/gguf_kernel.py:2829"
+    },
+    {
+      "tag": "BUG",
+      "text": "in rope_frequencies.",
+      "file": "src/gguf_kernel.py:2957"
+    },
+    {
+      "tag": "BUG",
+      "text": "CAN FAKE: a rotation is norm-preserving.",
+      "file": "src/gguf_kernel.py:2973"
+    },
+    {
+      "tag": "BUG",
+      "text": "(wrong axis, wrong broadcast) would show up",
+      "file": "src/gguf_kernel.py:2988"
+    },
+    {
+      "tag": "BUG",
+      "text": "that",
+      "file": "src/gguf_kernel.py:3150"
+    },
+    {
+      "tag": "BUG",
+      "text": "ALREADY FOUND ONCE. Profiled",
+      "file": "src/gguf_kernel.py:3371"
+    },
+    {
+      "tag": "BUG",
+      "text": "(a per-call weight copy) reintroduced\" % step_s)",
+      "file": "src/gguf_kernel.py:3396"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "src/gguf_kernel.py:3596"
+    },
+    {
+      "tag": "BUG",
+      "text": "(wrong axis, wrong broadcast) would",
+      "file": "src/gguf_kernel.py:3681"
+    },
+    {
+      "tag": "BUG",
+      "text": "found by running",
+      "file": "src/gguf_kernel.py:4038"
+    },
+    {
+      "tag": "BUG",
+      "text": "in intake's plan builder.",
+      "file": "src/ledgers.py:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "on a dense panel, and a readout that",
+      "file": "src/memory_provider.py:301"
+    },
+    {
+      "tag": "BUG",
+      "text": "were still there, a",
+      "file": "src/memory_provider.py:596"
+    },
+    {
+      "tag": "BUG",
+      "text": "trace(items)\\n    for x in items:\\n        s += x\\n    retur",
+      "file": "src/seed_upgrade.py:417"
+    },
+    {
+      "tag": "BUG",
+      "text": "trace\" not in u.get(\"source\", \"\")",
+      "file": "src/seed_upgrade.py:424"
+    },
+    {
+      "tag": "BUG",
+      "text": "trace\" in u[\"diff\"][0][\"removed\"]",
+      "file": "src/seed_upgrade.py:425"
+    },
+    {
+      "tag": "BUG",
+      "text": "cannot come back.",
+      "file": "src/shapes.py:426"
+    },
+    {
+      "tag": "BUG",
+      "text": "the repo NAME matching an occupant must not be",
+      "file": "src/shapes.py:445"
+    },
+    {
+      "tag": "BUG",
+      "text": "above hid for eight days.",
+      "file": "src/state_machine.py:86"
+    },
+    {
+      "tag": "BUG",
+      "text": "that cried tampering) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "src/taskgen.py:218"
+    },
+    {
+      "tag": "BUG",
+      "text": "WAS REAL. `change_ledger.record()`",
+      "file": "src/taskgen.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own shape \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "src/taskgen.py:660"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.GH_REPOS -- filing there means todo_driver's",
+      "file": "src/taskgen.py:666"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver does not scan, so those",
+      "file": "src/taskgen.py:668"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver.gh_issues()'s OWN regex, matched exactly.",
+      "file": "src/taskgen.py:674"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's own parser cannot read, which would be worse than n",
+      "file": "src/taskgen.py:678"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's existing pipeline);",
+      "file": "src/taskgen.py:717"
+    },
+    {
+      "tag": "TODO",
+      "text": "DRIVER'S OWN REGEX. Filing 341",
+      "file": "src/taskgen.py:901"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver's regex expects one: %r\"",
+      "file": "src/taskgen.py:911"
+    },
+    {
+      "tag": "BUG",
+      "text": "wearing the word coverage. Two of these three would have bee",
+      "file": "src/tool_registry.py:25"
+    },
+    {
+      "tag": "BUG",
+      "text": "THIS MODULE HIT: an unclosed paren followed by a",
+      "file": "src/triage.py:345"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "src/vipercli_core.py:658"
+    },
+    {
+      "tag": "BUG",
+      "text": "found and left honestly",
+      "file": "src/voice_interface.py:202"
+    },
+    {
+      "tag": "BUG",
+      "text": "specifically --",
+      "file": "src/voice_interface.py:241"
+    },
+    {
+      "tag": "TODO",
+      "text": "list for vipercli -> the unified",
+      "file": "termux_bot/autonomous.py:5"
+    },
+    {
+      "tag": "TODO",
+      "text": "list ----------",
+      "file": "termux_bot/autonomous.py:123"
+    }
+  ],
   "ViperCli-v2": [
     {
       "tag": "BUG",
@@ -11320,7 +12153,7 @@
     {
       "tag": "BUG",
       "text": "into a permanent lie (the AEGIS lesson).",
-      "file": "README.md:38"
+      "file": "README.md:40"
     },
     {
       "tag": "BUG",
@@ -11416,6 +12249,11 @@
       "tag": "BUG",
       "text": "class is now unbuildable)\")",
       "file": "tests/test_drop_vec.py:62"
+    },
+    {
+      "tag": "BUG",
+      "text": "history narrative lives there).",
+      "file": "tests/test_layout_ssot_ban.py:9"
     },
     {
       "tag": "BUG",
