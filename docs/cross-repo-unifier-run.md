@@ -1,74 +1,64 @@
 # 🌐 Multi-Repo Unified Synthesis & Next Steps
 
-> Automated correlation report (local regen of cross-repo-unifier). Regenerated: 2026-11-15T20:11:02+00:00. Data: live GitHub repos API (67 repos) + siphoned TODOs.
+> Automated correlation report generated for Kernel BDI execution loops.
+
+> Local regen of cross-repo-unifier. Regenerated: 2026-11-20T21:01:45+00:00.
 
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
 | `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Agent/BDI, Telemetry |
-| `Aegis_Agents` | `H2OIDE` | Telemetry |
-| `Aegis_Agents` | `H2OMatrixCE` | Telemetry |
+| `Aegis_Agents` | `Machine2` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
 | `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
-| `Aegis_Agents` | `mindpalace` | Agent/BDI, Telemetry |
+| `Aegis_Agents` | `Nova` | Telemetry |
 | `Aegis_Agents` | `openrouter_manager` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
 | `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `H2OIDE` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `H2OMatrixCE` | Telemetry |
+| `Chrisalunlloyd2-sudo` | `Machine2` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `mindpalace` | Agent/BDI, Telemetry |
+| `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI, Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
 | `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
-| `H2OIDE` | `H2OMatrixCE` | Telemetry |
-| `H2OIDE` | `MasterLogs` | Telemetry |
-| `H2OIDE` | `MatrixCE_GUI` | Telemetry |
-| `H2OIDE` | `MATRIX_GEN8_HOME` | Telemetry |
-| `H2OIDE` | `mind-palace` | Telemetry |
-| `H2OIDE` | `mindpalace` | Telemetry |
-| `H2OIDE` | `openrouter_manager` | Telemetry |
-| `H2OIDE` | `sims-java-neo-fx` | Telemetry |
-| `H2OIDE` | `sims-javafx-neo` | Telemetry |
-| `H2OMatrixCE` | `MasterLogs` | Telemetry |
-| `H2OMatrixCE` | `MatrixCE_GUI` | Telemetry |
-| `H2OMatrixCE` | `MATRIX_GEN8_HOME` | Telemetry |
-| `H2OMatrixCE` | `mind-palace` | Telemetry |
-| `H2OMatrixCE` | `mindpalace` | Telemetry |
-| `H2OMatrixCE` | `openrouter_manager` | Telemetry |
-| `H2OMatrixCE` | `sims-java-neo-fx` | Telemetry |
-| `H2OMatrixCE` | `sims-javafx-neo` | Telemetry |
-| `Kernel_Pedagogy` | `mindpalace` | Orchestration |
+| `Machine2` | `MasterLogs` | Telemetry |
+| `Machine2` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
+| `Machine2` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
+| `Machine2` | `mind-palace` | Telemetry |
+| `Machine2` | `Nova` | Telemetry |
+| `Machine2` | `openrouter_manager` | Agent/BDI, Telemetry |
+| `Machine2` | `sims-java-neo-fx` | Telemetry |
+| `Machine2` | `sims-javafx-neo` | Telemetry |
 | `MasterLogs` | `MatrixCE_GUI` | Telemetry |
 | `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
 | `MasterLogs` | `mind-palace` | Telemetry |
-| `MasterLogs` | `mindpalace` | Telemetry |
+| `MasterLogs` | `Nova` | Telemetry |
 | `MasterLogs` | `openrouter_manager` | Telemetry |
 | `MasterLogs` | `sims-java-neo-fx` | Telemetry |
 | `MasterLogs` | `sims-javafx-neo` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | API/Web, Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry, API/Web |
 | `MatrixCE_GUI` | `mind-palace` | Telemetry |
-| `MatrixCE_GUI` | `mindpalace` | Agent/BDI, Telemetry |
-| `MatrixCE_GUI` | `openrouter_manager` | API/Web, Agent/BDI, Telemetry |
+| `MatrixCE_GUI` | `Nova` | Telemetry |
+| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, Telemetry, API/Web |
 | `MatrixCE_GUI` | `sims-java-neo-fx` | Telemetry |
 | `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
-| `MATRIX_GEN8_HOME` | `mindpalace` | Agent/BDI, Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | API/Web, Agent/BDI, Telemetry |
+| `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
+| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, Telemetry, API/Web |
 | `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
 | `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
-| `mind-palace` | `mindpalace` | Telemetry |
+| `mind-palace` | `Nova` | Telemetry |
 | `mind-palace` | `openrouter_manager` | Telemetry |
 | `mind-palace` | `sims-java-neo-fx` | Telemetry |
 | `mind-palace` | `sims-javafx-neo` | Telemetry |
-| `mindpalace` | `openrouter_manager` | Agent/BDI, Telemetry |
-| `mindpalace` | `sims-java-neo-fx` | Telemetry |
-| `mindpalace` | `sims-javafx-neo` | Telemetry |
+| `Nova` | `openrouter_manager` | Telemetry |
+| `Nova` | `sims-java-neo-fx` | Telemetry |
+| `Nova` | `sims-javafx-neo` | Telemetry |
 | `openrouter_manager` | `sims-java-neo-fx` | Telemetry |
 | `openrouter_manager` | `sims-javafx-neo` | Telemetry |
 | `sims-java-neo-fx` | `sims-javafx-neo` | Telemetry |
@@ -89,24 +79,3 @@
 - 🔴 **[BUG]** `Alice` → (fz00008). *(notes/py4qwhip_rulings_2026-10-16.md:4)*
 - 🔴 **[BUG]** `Alice` → (require() vs String()); error WITHOUT the value = transport *(notes/tool_armor_index.md:17)*
 - 🔴 **[BUG]** `Alice` → filed); free RAM 2738MB = 334MB under floor JUDGE=BREACH so  *(notes/weekly_stats_W40.md:67)*
-
-### 📊 Stack Map
-| Domain | Repos |
-| :--- | :--- |
-| Database |  |
-| Orchestration | `Kernel_Pedagogy`, `mindpalace` |
-| Agent/BDI | `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `mindpalace`, `openrouter_manager` |
-| API/Web | `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `openrouter_manager` |
-| Telemetry | `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `H2OIDE`, `H2OMatrixCE`, `MasterLogs`, `MatrixCE_GUI`, `MATRIX_GEN8_HOME`, `mind-palace` … |
-
-_Source: GitHub REST /users/chrisalunlloyd2-sudo/repos + data/siphoned_todos.json. Regenerated by Alice, slot cross-repo-unifier._
-
-## 2026-11-16T02:15Z — slot cross-repo-unifier (rotation 5/13)
-- Live regen from GH API: 67 repos, 67 domain cross-links, 70 TODO sources, 25 prioritized next actions.
-- data/synthesis.json + SYNTHESIS_PLAN.md + assets/synthesis/unified_dag.svg (graphviz 86 KB) refreshed, ADD-only.
-
----
-
-## Local regen 2026-11-16T05:32Z (rotation slot: cross-repo-unifier)
-
-Extracted the embedded Python verbatim from `.github/workflows/cross-repo-unifier.yml` (dedent only), ran with live GH_TOKEN: **67 repos** correlated, domain cross-links + prioritized next-action queue regenerated. Outputs refreshed ADD-only: `SYNTHESIS_PLAN.md`, `data/synthesis.json`, `assets/synthesis/unified_dag.svg` (graphviz `dot` present in sandbox). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/ · next rotation slot: `fsm-diagram`.
