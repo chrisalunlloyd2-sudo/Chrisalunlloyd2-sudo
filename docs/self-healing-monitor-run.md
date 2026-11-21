@@ -46,3 +46,11 @@
 - Failures: **AvatarAlive 5** (Multi-Track CI, chronic LFS-quota class refs #25 — down from 7) · aegis-agent-bridge 0 · living-ascii-art 0 · profile 0.
 - Profile repo: 13/14 workflows still disabled_manually (Pages build-deployment active, branch-source docs/).
 - POST_MORTEMS.md: 1 incident appended ADD-only (nothing rewritten/deleted).
+
+## Run 2026-11-21 16:19:59Z (heartbeat, Alice) — slot self-healing-monitor re-run
+- Source: GitHub REST `actions/runs?status=failure&created=>24h` across 4 repos (AvatarAlive, profile, aegis-agent-bridge, living-ascii-art).
+- Failures: **AvatarAlive 14** (Multi-Track CI x8 + 13-Tier Studio Verification Gate x6; latest run 44923884506 @ 16:18:51Z) · profile 0 · aegis-agent-bridge 0 · living-ascii-art 0.
+- Note: 13-Tier Studio Verification Gate x6 is a **second failure class** this window (prior windows were Multi-Track CI/LFS-quota only) — diagnose next slot or post-T002 re-run.
+- Profile repo: 13 disabled_manually + 1 active (Pages branch-source, unaffected) — verified via API this run.
+- POST_MORTEMS.md: 1 new aggregate incident appended ADD-only (nothing rewritten/deleted).
+- Action: AvatarAlive LFS budget / .glb migration (refs #25) + classify the 6 gate failures.

@@ -228,3 +228,11 @@ workflow's original entry format.
 - **Recommended Action:** LFS budget (refs #25) — 5 failed runs in last 24h; aegis-agent-bridge 0, living-ascii-art 0, profile 0.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI + 13-Tier Studio Verification Gate (aggregate 24h)
+- **Timestamp:** `2026-11-21 16:19:59Z`
+- **Workflow Run:** [View Execution Log](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/44923884506)
+- **Agent Diagnosis Status:** `PENDING_BDI_ANALYSIS`
+- **Recommended Action:** 14 failed runs/24h — Multi-Track CI x8 (chronic LFS-quota class refs #25) + 13-Tier Studio Verification Gate x6 (failure class not yet diagnosed; check gate log for LFS vs test regressions after today's T002 full 46 re-run). Validate state lock and corpus integrity; check heartbeat feed.
+
+---
