@@ -58,3 +58,9 @@
 - **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, **byte-identical** (md5 79cb6b05d83e18683c0bc550d1ebe1c9) — diagram current, source unchanged
 - **Toolchain:** PlantUML jar (/root/plantuml.jar) + sandbox JVM. Also refreshed docs/github-snake{,-dark}.svg + ocean.svg (contribution graph date-shift, XML-validated).
 - Workflow still disabled; Alice runs it locally per heartbeat rotation.
+
+## Re-verification (cycle 7, slot fsm-diagram)
+
+- **Run at:** 2026-11-21 19:45 UTC (heartbeat)
+- **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg` — **byte-identical**, XML validated
+- **Toolchain:** PlantUML jar (/root/plantuml.jar) + sandbox JVM. Workflow still disabled; Alice runs it locally per heartbeat rotation.
