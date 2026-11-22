@@ -16,6 +16,16 @@ NOW = dt.datetime(2026, 11, 15, tzinfo=dt.timezone.utc)
 repos = json.load(open("data/repos_live.json"))
 syn = json.load(open("data/synthesis.json"))
 links = syn.get("cross_links", [])
+if isinstance(links, int):
+    # Schema variant: cross_links is a count; rebuild real edges from domains co-membership
+    by_dom = syn.get("domains", {})
+    pairs = {}
+    for dom, members in by_dom.items():
+        members = sorted(set(members))
+        for i, a in enumerate(members):
+            for b in members[i+1:]:
+                pairs.setdefault((a, b), set()).add(dom)
+    links = [{"source": a, "target": b, "domains": sorted(d)} for (a, b), d in sorted(pairs.items())]
 degree, domains = {}, {}
 for l in links:
     for k in ("source", "target"):
