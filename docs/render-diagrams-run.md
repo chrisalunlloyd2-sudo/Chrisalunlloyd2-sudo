@@ -46,3 +46,9 @@
 - Input: `schemas/pipeline.mmd` + `dags/pipeline.mmd` — md5 72b3273c both (unchanged).
 - Output: `assets/diagrams/pipeline_local.svg` re-rendered via `scripts/render_mmd_local.py`, XML-validated. mmdc/Chrome unavailable in sandbox; external `pipeline.svg` (mmdc) retained ADD-only.
 - Rotation note: all 13 disabled workflows now have a local Alice run this cycle.
+
+## Render run 2026-11-22T01:55Z (rotation slot render-diagrams — heartbeat, Alice)
+- Trigger: heartbeat; render-diagrams.yml disabled 2026-11-12 (local replacement).
+- Input: schemas/pipeline.mmd + dags/pipeline.mmd — toolchain scripts/render_mmd_local.py (mmdc/Chrome unavailable, quota = power + water).
+- Output: assets/diagrams/*.svg regenerated + XML-validated.
+- Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
