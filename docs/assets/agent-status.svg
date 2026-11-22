@@ -8,15 +8,15 @@
           display:inline-block; box-shadow:0 0 8px #00f2fe; }
         .status-row { display:flex; align-items:center; justify-content:space-between; margin-bottom:8px; }
         .title { color:#58a6ff; font-weight:bold; font-size:14px; }
-        .meta { font-size:11px; #8b949e; color:#8b949e; }
+        .meta { font-size:11px; color:#8b949e; }
       </style>
       <div class="box">
         <div class="status-row">
           <span class="title"><span class="dot"></span> KERNEL STATUS: ONLINE</span>
           <span class="meta">SUITE: 672 passed 72.6s</span>
         </div>
-        <div class="meta">LAST HEARTBEAT: 2026-11-21 18:35 UTC</div>
-        <div class="meta">CORPUS: 1444 lines &#8226; BDI-FSM &#8226; Sophia logic &#8226; Enigma rotors</div>
+        <div class="meta">LAST HEARTBEAT: 2026-11-22 18:03 UTC</div>
+        <div class="meta">CORPUS: 1444 lines • BDI-FSM • Sophia logic • Enigma rotors</div>
       </div>
     </div>
   </foreignObject>
