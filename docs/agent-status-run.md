@@ -21,3 +21,8 @@
 ## Pulse 2026-11-22T08:30:45Z (heartbeat rotation: agent-status)
 - Regenerated assets/agent-status.svg per disabled agent-status.yml template (suite: 672, corpus: passed 72.6s 1444).
 - ADD-only receipt, alice heartbeat.
+
+## agent-status run (local rotation slot)
+- Pulse: 2026-11-22T11:51Z (Alice heartbeat, replacement for disabled agent-status.yml, rendered inline: no docker in sandbox)
+- Inputs: state_snapshot/db_metrics.json last_suite=672 passed 72.6s corpus=1444
+- Output: assets/agent-status.svg regenerated, pushed to main.
