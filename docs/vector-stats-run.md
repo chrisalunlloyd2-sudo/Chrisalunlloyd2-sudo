@@ -41,3 +41,9 @@
 - regenerated assets/agent/vector-memory.svg from state_snapshot/db_metrics.json (live): 1.4k vectors / 7 chunks / 1444 corpus — **byte-identical to 01:12Z regen** (source data unchanged), no asset diff
 - recipe: local replay of disabled vector-stats.yml (heredoc SVG byte-parity); minidom-validated
 - alice heartbeat rotation slot (one of 13)
+
+---
+## vector-stats local regen 2026-11-22T21:27:52Z [alice-heartbeat]
+- source: state_snapshot/db_metrics.json (chunks=7, vectors=1.4k, corpus=1444)
+- output: assets/agent/vector-memory.svg (ADD-only)
+- replaces disabled vector-stats.yml
