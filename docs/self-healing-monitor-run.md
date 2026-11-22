@@ -62,3 +62,13 @@
 - POST_MORTEMS.md: 1 new incident appended ADD-only (nothing rewritten/deleted).
 - Profile repo: 13/14 workflows disabled_manually, 1 active (pages-build-deployment, branch-source docs/ unaffected).
 - Action: T015b triage (env/PYTHONPATH vs real) next AvatarAlive pulse.
+
+## Run 2026-11-22T13:34:56Z (heartbeat, Alice) — slot self-healing-monitor re-run
+- Source: GitHub REST `actions/runs?status=failure&created=>24h` across 4 repos (AvatarAlive, profile, aegis-agent-bridge, living-ascii-art).
+- Failures: **AvatarAlive 76** (`AvatarAlive Multi-Track CI` x38 + `AvatarAlive 13-Tier Studio Verification Gate` x38, latest 2026-11-22T13:01:47Z) · profile 0 · aegis-agent-bridge 0 · living-ascii-art 0.
+- T015b triage (action from 04:40Z run) — failing steps pinned from job logs of runs 45025312412 / 45025312495 / 45022101007:
+  1. `Track 3 - Physics, glTF 2.0 Quality Gate, Viseme & Shader Rubric` (Full Regression & Adversarial Suite, py3.12)
+  2. `Run 13-Tier Standalone Verification Suite (409 Tests)` — fails on BOTH py3.11 and py3.12 matrix legs ⇒ not env/PYTHONPATH, a real repo defect.
+- Profile repo: 1 active / 13 inactive (13 disabled_manually, as intended). Pages = branch-source `docs/`, unaffected.
+- POST_MORTEMS.md: 1 new aggregate incident appended ADD-only.
+- Action: pull the exact 13-Tier failing nodeids next AvatarAlive pulse (focus-repo defect hunt), then fix ADD-only.
