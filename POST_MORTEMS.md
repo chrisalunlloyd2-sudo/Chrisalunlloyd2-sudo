@@ -251,3 +251,11 @@ workflow's original entry format.
 - **Recommended Action:** 13-tier 409-test suite fails on both py3.11 and py3.12 ⇒ real defect, not env. Pin nodeids and fix ADD-only; Track 3 (physics/gltf/viseme/shader) failing in parallel on the Full Regression job.
 
 ---
+
+### ⚠️ Incident Detected: Manual Health Audit (local self-healing slot)
+- **Timestamp:** `2026-11-22T23:16:08Z`
+- **Workflow Run:** N/A (local replacement for disabled self-healing-monitor.yml)
+- **Agent Diagnosis Status:** `RESOLVED_BDI_ANALYSIS`
+- **Recommended Action:** Disk at 98% (1.2G free) — AvatarAlive gate initially RED from missing GLB asset; restored ADD-only (3c3b67c), full suite re-run GREEN 218 at 23:16Z. Purge /tmp before next gate.
+
+---
