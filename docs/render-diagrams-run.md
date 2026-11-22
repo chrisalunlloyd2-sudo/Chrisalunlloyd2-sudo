@@ -60,3 +60,6 @@
 - Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome unavailable — quota = power + water).
 - Output: `pipeline_schema.svg` + `pipeline_dag.svg` regenerated, XML-validated (receipt run, byte-stable vs source).
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+
+## render-diagrams local regeneration receipt 2026-11-22T15:49:57Z
+- scripts/render_mmd_local.py (mmdc/Chrome unavailable locally) over schemas/*.mmd + dags/*.mmd → docs/assets/diagrams/{schemas,dags}_pipeline.svg (RC=0). Prefix names added because both sources are named pipeline.mmd (existing pipeline.svg untouched, ADD-only).
