@@ -5,4 +5,5 @@
   <text x="130" y="21" fill="#58a6ff" font-weight="bold" font-family="monospace" font-size="12">1.4k vectors</text>
   <text x="240" y="21" fill="#a5d6ff" font-family="monospace" font-size="11">(7 chunks)</text>
   <text x="330" y="21" fill="#7ee787" font-family="monospace" font-size="11">1444 corpus</text>
+  <text x="30" y="31" fill="#484f58" font-family="monospace" font-size="8">regen 2026-11-22T16:57:02Z (local vector-stats slot)</text>
 </svg>
