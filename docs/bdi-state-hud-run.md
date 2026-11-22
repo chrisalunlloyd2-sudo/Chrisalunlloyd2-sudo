@@ -12,3 +12,8 @@
 
 ## Pulse 2026-11-22T02:18Z (heartbeat rotation: bdi-state-hud)
 - Regenerated assets/agent/bdi-core-hud.svg + docs copy from state_snapshot/bdi/*; live UTC timestamp; minidom-validated. ADD-only receipt.
+
+- Run: 2026-11-22 12:24Z (UTC), slot: bdi-state-hud rotation (Alice, replaces disabled Actions)
+- Source: state_snapshot/bdi/{beliefs.json,desires.json,active_plan.txt} (REAL, no fallback strings)
+- Output: assets/agent/bdi-core-hud.svg (XML-valid, md5 eb99a5152f2da08e6e2c0986d97ed0a9)
+- Data: fsm_state=IDLE, corpus=1444, plan=COMPLETE_FLEET_ACTIONS_ARSENAL, desires=5 (incl. 11 BDI + 14 Aegis TODO triage)
