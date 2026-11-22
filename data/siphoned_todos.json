@@ -709,6 +709,11 @@
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
+      "file": "mined/mined_01b0fd35_061821.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan code_lineage` -- the boolean for this specie",
       "file": "mined/mined_01b0fd35_081102.py:2"
     },
     {
@@ -724,12 +729,12 @@
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_123954.py:2"
+      "file": "mined/mined_01b0fd35_154931.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_164003.py:2"
+      "file": "mined/mined_01b0fd35_202649.py:2"
     },
     {
       "tag": "BUG",
@@ -739,12 +744,7 @@
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_122407.py:2"
+      "file": "mined/mined_01d055db_032527.py:2"
     },
     {
       "tag": "BUG",
@@ -764,7 +764,7 @@
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_203243.py:2"
+      "file": "mined/mined_01d055db_232811.py:2"
     },
     {
       "tag": "BUG",
@@ -774,27 +774,12 @@
     {
       "tag": "BUG",
       "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_031112.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
       "file": "mined/mined_025c58bd_040602.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_153453.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_161413.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_214257.py:2"
+      "file": "mined/mined_025c58bd_162948.py:2"
     },
     {
       "tag": "BUG",
@@ -809,42 +794,12 @@
     {
       "tag": "BUG",
       "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_031239.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_031239.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
       "file": "mined/mined_02fc6923_032758.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py` to ensure that the boolean for this species is F",
       "file": "mined/mined_02fc6923_032758.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_051159.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_051159.py:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_090802.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_090802.py:22"
     },
     {
       "tag": "BUG",
@@ -859,6 +814,16 @@
     {
       "tag": "BUG",
       "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_02fc6923_154038.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` to ensure that the boolean for this species is F",
+      "file": "mined/mined_02fc6923_154038.py:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
       "file": "mined/mined_02fc6923_213043.py:2"
     },
     {
@@ -868,13 +833,28 @@
     },
     {
       "tag": "BUG",
-      "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_010009.py:2"
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_02fc6923_222831.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` to ensure that the boolean for this species is F",
+      "file": "mined/mined_02fc6923_222831.py:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_033fd495.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_033fd495_022034.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_061821.py:2"
+      "file": "mined/mined_01b0fd35_010009.py:2"
     },
     {
       "tag": "BUG",
@@ -904,12 +884,17 @@
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_154931.py:2"
+      "file": "mined/mined_01b0fd35_123954.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan code_lineage` -- the boolean for this specie",
-      "file": "mined/mined_01b0fd35_202649.py:2"
+      "file": "mined/mined_01b0fd35_164003.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_01d055db.py:2"
     },
     {
       "tag": "BUG",
@@ -924,17 +909,17 @@
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_032527.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan cue_node` -- the boolean for this species mu",
       "file": "mined/mined_01d055db_093307.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
       "file": "mined/mined_01d055db_115423.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan cue_node` -- the boolean for this species mu",
+      "file": "mined/mined_01d055db_122407.py:2"
     },
     {
       "tag": "BUG",
@@ -954,12 +939,12 @@
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_232609.py:2"
+      "file": "mined/mined_01d055db_203243.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan cue_node` -- the boolean for this species mu",
-      "file": "mined/mined_01d055db_232811.py:2"
+      "file": "mined/mined_01d055db_232609.py:2"
     },
     {
       "tag": "BUG",
@@ -969,7 +954,42 @@
     {
       "tag": "BUG",
       "text": "species.py scan agent_book` -- the boolean for this species ",
-      "file": "mined/mined_025c58bd_162948.py:2"
+      "file": "mined/mined_025c58bd_031112.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_025c58bd_153453.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_025c58bd_161413.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan agent_book` -- the boolean for this species ",
+      "file": "mined/mined_025c58bd_214257.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_02fc6923_031239.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` to ensure that the boolean for this species is F",
+      "file": "mined/mined_02fc6923_031239.py:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan email_todo` -- the boolean for this species ",
+      "file": "mined/mined_02fc6923_051159.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py` to ensure that the boolean for this species is F",
+      "file": "mined/mined_02fc6923_051159.py:22"
     },
     {
       "tag": "BUG",
@@ -984,12 +1004,12 @@
     {
       "tag": "BUG",
       "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_154038.py:2"
+      "file": "mined/mined_02fc6923_090802.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_154038.py:22"
+      "file": "mined/mined_02fc6923_090802.py:22"
     },
     {
       "tag": "BUG",
@@ -1013,18 +1033,18 @@
     },
     {
       "tag": "BUG",
-      "text": "species.py scan email_todo` -- the boolean for this species ",
-      "file": "mined/mined_02fc6923_222831.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py` to ensure that the boolean for this species is F",
-      "file": "mined/mined_02fc6923_222831.py:22"
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_033fd495_081244.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_022034.py:2"
+      "file": "mined/mined_033fd495_094001.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_033fd495_094826.py:2"
     },
     {
       "tag": "BUG",
@@ -1033,58 +1053,78 @@
     },
     {
       "tag": "BUG",
+      "text": "species.py scan graduation` -- the boolean for this species ",
+      "file": "mined/mined_033fd495_210959.py:2"
+    },
+    {
+      "tag": "BUG",
       "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_210752.py:2"
+      "file": "mined/mined_03b40667.py:2"
     },
     {
       "tag": "BUG",
       "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_210752.py:19"
+      "file": "mined/mined_03b40667.py:19"
     },
     {
       "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_135407.py:2"
+      "file": "mined/mined_03e36ed1_072007.py:2"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_135407.py:14"
+      "file": "mined/mined_03e36ed1_072007.py:14"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_135407.py:19"
+      "file": "mined/mined_03e36ed1_072007.py:19"
     },
     {
       "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_143100.py:2"
+      "file": "mined/mined_03e36ed1_101621.py:2"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_143100.py:14"
+      "file": "mined/mined_03e36ed1_101621.py:14"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_143100.py:19"
+      "file": "mined/mined_03e36ed1_101621.py:19"
     },
     {
       "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_232853.py:2"
+      "file": "mined/mined_03e36ed1_115120.py:2"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:14"
+      "file": "mined/mined_03e36ed1_115120.py:14"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_232853.py:19"
+      "file": "mined/mined_03e36ed1_115120.py:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan conveyor` -- the boolean for this species mu",
+      "file": "mined/mined_03e36ed1_173536.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species module to classify bugs and species.",
+      "file": "mined/mined_03e36ed1_173536.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "species module to classify bugs and species.",
+      "file": "mined/mined_03e36ed1_173536.py:19"
     },
     {
       "tag": "BUG",
@@ -1119,52 +1159,52 @@
     {
       "tag": "BUG",
       "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_212610.py:2"
+      "file": "mined/mined_04355e54_125540.py:2"
     },
     {
       "tag": "BUG",
       "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_212610.py:12"
+      "file": "mined/mined_04355e54_125540.py:12"
     },
     {
       "tag": "BUG",
       "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_212610.py:16"
+      "file": "mined/mined_04355e54_125540.py:16"
     },
     {
       "tag": "BUG",
       "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_212610.py:20"
+      "file": "mined/mined_04355e54_125540.py:20"
     },
     {
       "tag": "BUG",
       "text": "situation. But in all",
-      "file": "mined/mined_04355e54_212610.py:27"
+      "file": "mined/mined_04355e54_125540.py:27"
     },
     {
       "tag": "BUG",
       "text": "species.",
-      "file": "mined/mined_04355e54_212610.py:37"
+      "file": "mined/mined_04355e54_125540.py:37"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495.py:2"
+      "file": "mined/mined_033fd495_092134.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_083348.py:2"
+      "file": "mined/mined_033fd495_101927.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_094826.py:2"
+      "file": "mined/mined_033fd495_125703.py:2"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_150645.py:2"
+      "file": "mined/mined_033fd495_164535.py:2"
     },
     {
       "tag": "BUG",
@@ -1174,12 +1214,22 @@
     {
       "tag": "BUG",
       "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667.py:2"
+      "file": "mined/mined_03b40667_034358.py:2"
     },
     {
       "tag": "BUG",
       "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667.py:19"
+      "file": "mined/mined_03b40667_034358.py:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
+      "file": "mined/mined_03b40667_154821.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "10 times now im detecting a pattern in your",
+      "file": "mined/mined_03b40667_154821.py:19"
     },
     {
       "tag": "BUG",
@@ -1209,47 +1259,17 @@
     {
       "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_033645.py:2"
+      "file": "mined/mined_03e36ed1_113845.py:2"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_033645.py:14"
+      "file": "mined/mined_03e36ed1_113845.py:14"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_033645.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_040956.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_040956.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_040956.py:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_104714.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_104714.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_104714.py:19"
+      "file": "mined/mined_03e36ed1_113845.py:19"
     },
     {
       "tag": "BUG",
@@ -1268,63 +1288,68 @@
     },
     {
       "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_132422.py:2"
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_04355e54_130625.py:2"
     },
     {
       "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_132422.py:14"
+      "text": "Sighting and Investigation System.",
+      "file": "mined/mined_04355e54_130625.py:12"
     },
     {
       "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_132422.py:19"
+      "text": "collector's chaos,",
+      "file": "mined/mined_04355e54_130625.py:16"
     },
     {
       "tag": "BUG",
-      "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_221911.py:2"
+      "text": "Sighting and Investigation System,",
+      "file": "mined/mined_04355e54_130625.py:20"
     },
     {
       "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_221911.py:14"
+      "text": "situation. But in all",
+      "file": "mined/mined_04355e54_130625.py:27"
     },
     {
       "tag": "BUG",
-      "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_221911.py:19"
+      "text": "species.",
+      "file": "mined/mined_04355e54_130625.py:37"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan aegis_gist` -- the boolean for this species ",
+      "file": "mined/mined_04355e54_164235.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "Sighting and Investigation System.",
+      "file": "mined/mined_04355e54_164235.py:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "collector's chaos,",
+      "file": "mined/mined_04355e54_164235.py:16"
+    },
+    {
+      "tag": "BUG",
+      "text": "Sighting and Investigation System,",
+      "file": "mined/mined_04355e54_164235.py:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "situation. But in all",
+      "file": "mined/mined_04355e54_164235.py:27"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.",
+      "file": "mined/mined_04355e54_164235.py:37"
     },
     {
       "tag": "BUG",
       "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_092134.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_101927.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_125703.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan graduation` -- the boolean for this species ",
-      "file": "mined/mined_033fd495_210959.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_090026.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_090026.py:19"
+      "file": "mined/mined_033fd495_074035.py:2"
     },
     {
       "tag": "BUG",
@@ -1339,12 +1364,27 @@
     {
       "tag": "BUG",
       "text": "species.py scan aegis_conductor` -- the boolean for this spe",
-      "file": "mined/mined_03b40667_154821.py:2"
+      "file": "mined/mined_03b40667_151919.py:2"
     },
     {
       "tag": "BUG",
       "text": "10 times now im detecting a pattern in your",
-      "file": "mined/mined_03b40667_154821.py:19"
+      "file": "mined/mined_03b40667_151919.py:19"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py scan conveyor` -- the boolean for this species mu",
+      "file": "mined/mined_03e36ed1_033645.py:2"
+    },
+    {
+      "tag": "BUG",
+      "text": "species module to classify bugs and species.",
+      "file": "mined/mined_03e36ed1_033645.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "species module to classify bugs and species.",
+      "file": "mined/mined_03e36ed1_033645.py:19"
     },
     {
       "tag": "BUG",
@@ -1364,17 +1404,17 @@
     {
       "tag": "BUG",
       "text": "species.py scan conveyor` -- the boolean for this species mu",
-      "file": "mined/mined_03e36ed1_113845.py:2"
+      "file": "mined/mined_03e36ed1_143100.py:2"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_113845.py:14"
+      "file": "mined/mined_03e36ed1_143100.py:14"
     },
     {
       "tag": "BUG",
       "text": "species module to classify bugs and species.",
-      "file": "mined/mined_03e36ed1_113845.py:19"
+      "file": "mined/mined_03e36ed1_143100.py:19"
     },
     {
       "tag": "BUG",
@@ -1465,46 +1505,6 @@
       "tag": "BUG",
       "text": "collector's chaos,",
       "file": "mined/mined_04355e54_042911.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_042911.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_042911.py:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.",
-      "file": "mined/mined_04355e54_042911.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "species.py scan aegis_gist` -- the boolean for this species ",
-      "file": "mined/mined_04355e54_125540.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System.",
-      "file": "mined/mined_04355e54_125540.py:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "collector's chaos,",
-      "file": "mined/mined_04355e54_125540.py:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "Sighting and Investigation System,",
-      "file": "mined/mined_04355e54_125540.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "situation. But in all",
-      "file": "mined/mined_04355e54_125540.py:27"
     }
   ],
   "Alice": [
@@ -2177,1008 +2177,6 @@
       "tag": "TODO",
       "text": "delete this comment?",
       "file": "vendor/three/three.module.js:53223"
-    }
-  ],
-  "AvatarAlive": [
-    {
-      "tag": "TODO",
-      "text": "> execute plan EXACTLY -> land -> update",
-      "file": "AGENT_NOTES.md:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "wearing a race's clothes. Cheapest possible test:",
-      "file": "AGENT_NOTES.md:124"
-    },
-    {
-      "tag": "BUG",
-      "text": "community discussion #208822 (and #207572/#206902) \u2014 synthet",
-      "file": "AGENT_NOTES.md:251"
-    },
-    {
-      "tag": "TODO",
-      "text": "siphon)",
-      "file": "ALICE_HEARTBEAT_PULSES.md:6"
-    },
-    {
-      "tag": "TODO",
-      "text": "siphon locally (siphon TODOs from 66 repos -> todo_hex_grid.",
-      "file": "ALICE_HEARTBEAT_PULSES.md:7"
-    },
-    {
-      "tag": "TODO",
-      "text": "sources \u2192 docs/cross-repo-unifier-run.md + synthesis.json + ",
-      "file": "ALICE_HEARTBEAT_PULSES.md:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "#24 still firing on every push, unaffected by local commits.",
-      "file": "CODER_RECEIPTS.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "siphon. CI startup_failure block persists (run 43423502960).",
-      "file": "CODER_RECEIPTS.md:35"
-    },
-    {
-      "tag": "TODO",
-      "text": "siphon siphon push (9bcb8325) \u2014 174 repos scanned, 220 tasks",
-      "file": "CODER_RECEIPTS.md:36"
-    },
-    {
-      "tag": "TODO",
-      "text": "siphon` landed on profile repo `48973f93` \u2014 chunked re-run s",
-      "file": "PULSE_LOG.md:3"
-    },
-    {
-      "tag": "BUG",
-      "text": "flags (`window.AVATAR_DEBUG_FLAGS`).",
-      "file": "QUALITY.md:145"
-    },
-    {
-      "tag": "BUG",
-      "text": "Overlays",
-      "file": "QUALITY.md:147"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Remediation Analysis 1",
-      "file": ".agents/sentinel_8/BRIEFING.md:68"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Remediation Analysis 2",
-      "file": ".agents/sentinel_8/BRIEFING.md:69"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Remediation Analysis 3",
-      "file": ".agents/sentinel_8/BRIEFING.md:70"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01` remediation",
-      "file": ".agents/teamwork/auditor_m3_14_1/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 is genuinely eliminated.",
-      "file": ".agents/teamwork/auditor_m3_14_1/BRIEFING.md:53"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 was genuinely fixed without mocks, fake pass asse",
-      "file": ".agents/teamwork/auditor_m3_14_1/DISPATCH.md:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 Elimination & Execution Viability**: **PASS** \u2014 `",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Dental Arch Separation)**: Lower dental arch ve",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:139"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Chin Skin Non-Penetration)**: Under combine",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:140"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01` is genuinely resolved with backward-compatible i",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:159"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02` (lower dental arch isolation) and `BUG-M3-03` (submen",
-      "file": ".agents/teamwork/auditor_m3_14_1/handoff.md:160"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 without mocks or hardcoded strings",
-      "file": ".agents/teamwork/auditor_m3_14_1/progress.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)",
-      "file": ".agents/teamwork/auditor_m3_remed13_1/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01`) is **100% AUTHENTIC and CLEAN**.",
-      "file": ".agents/teamwork/auditor_m3_remed13_1/handoff.md:183"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 & BUG-M3-03)",
-      "file": ".agents/teamwork/auditor_m3_remed13_2/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02) |",
-      "file": ".agents/teamwork/auditor_m3_remed13_2/handoff.md:87"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03) |",
-      "file": ".agents/teamwork/auditor_m3_remed13_2/handoff.md:88"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03 in the exporter is mathematically and pr",
-      "file": ".agents/teamwork/auditor_m3_remed13_2/handoff.md:93"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03.",
-      "file": ".agents/teamwork/auditor_m3_remed13_2/handoff.md:145"
-    },
-    {
-      "tag": "BUG",
-      "text": "via `_merge_traits`. Matches traits by `trait_id`, `topic_ha",
-      "file": ".agents/teamwork/auditor_m5_2/audit_report.md:64"
-    },
-    {
-      "tag": "BUG",
-      "text": "reproduction)",
-      "file": ".agents/teamwork/auditor_m5_2/audit_report.md:98"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 Audit)",
-      "file": ".agents/teamwork/challenger_m3_14_1/handoff.md:70"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 Audit)",
-      "file": ".agents/teamwork/challenger_m3_14_1/handoff.md:79"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 regression). Result: REFUTED (displacement is strictly",
-      "file": ".agents/teamwork/challenger_m3_14_2/BRIEFING.md:62"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 regression). Result: REFUTED (clearance is +27.0mm ahe",
-      "file": ".agents/teamwork/challenger_m3_14_2/BRIEFING.md:63"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 Isolation)**: In `src/gltf_exporter.py:321`, tongueOut",
-      "file": ".agents/teamwork/challenger_m3_14_2/handoff.md:79"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 Aperture Elevation)**: Tongue tip elevates to $y' = 1.",
-      "file": ".agents/teamwork/challenger_m3_14_2/handoff.md:81"
-    },
-    {
-      "tag": "BUG",
-      "text": "free and will execute without errors.",
-      "file": ".agents/teamwork/challenger_m3_14_2/handoff.md:127"
-    },
-    {
-      "tag": "BUG",
-      "text": "in `05_TEST/test_empirical_challenger_m3.py` is resolved.",
-      "file": ".agents/teamwork/challenger_m3_14_2/handoff.md:137"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01: `SubmeshBuilder.build_garments` in `src/submesh_build",
-      "file": ".agents/teamwork/challenger_m3_gen12_1/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02: `GLTF2BinaryExporter` in `src/gltf_exporter.py` packs",
-      "file": ".agents/teamwork/challenger_m3_gen12_1/BRIEFING.md:36"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01**: `SubmeshBuilder.build_garments` in `src/submesh_bui",
-      "file": ".agents/teamwork/challenger_m3_gen12_1/handoff.md:153"
-    },
-    {
-      "tag": "BUG",
-      "text": "FOUND: SubmeshBuilder ignores character_data scales, causing",
-      "file": ".agents/teamwork/challenger_m3_gen12_1/progress.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 remediation on AvatarAlive submesh and mesh generator:",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 remediation challenge)",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/BRIEFING.md:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 is mathematically and topologically sound.",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/BRIEFING.md:43"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 is fully remediated by worker `worker_m3_remed13_1`.",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/BRIEFING.md:50"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 remediation:",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/DISPATCH.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Remediation Verification",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` (Garment clearance collapse at modular scaling extrem",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/handoff.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` by `worker_m3_remed13_1` satisfies all empirical, mat",
-      "file": ".agents/teamwork/challenger_m3_remed13_1/handoff.md:149"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02: `tongueOut` delta bleeding into lower dental arch roo",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/BRIEFING.md:40"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03: Combined `jawOpen=1.0 + tongueOut=1.0` causes tongue ",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/BRIEFING.md:41"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 remediation by worker_m3_remed13_1 is mathematically s",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/BRIEFING.md:51"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Teeth Bleeding under `tongueOut`)**:",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:111"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Penetration under Combined `jawOpen = 1.0 +",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:126"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01`",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:155"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03.",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:169"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` is confirmed fixed, **Criterion 2 (oral cavity dynami",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:177"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02` (Lower Teeth Deformation Bleed under `tongueOut`)**:",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:180"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03` (Submental Skin Penetration under `jawOpen = 1.0 + to",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:182"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:236"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/handoff.md:237"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03)",
-      "file": ".agents/teamwork/challenger_m3_remed13_2/progress.md:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02, BUG-M3-03 remediation and BUG-M3-01 non-regression.",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01) across [0.8x, 1.0x, 1.2x, 1.5x] body scales >= +3.5mm",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/BRIEFING.md:30"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 is 100% resolved: 60/60 lower teeth vertices receive s",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/BRIEFING.md:34"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 is 100% resolved: tongue tip elevates through oral ape",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 non-regression: radial garment clearance is >= +3.50mm",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/BRIEFING.md:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03 remediation:",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/DISPATCH.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01: garment radial clearance across [0.8x, 1.0x, 1.2x, 1.",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/DISPATCH.md:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 & BUG-M3-03 Remediation Verification",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02`: Lower dental arch vertex displacement bleed under `t",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:7"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03`: Submental chin skin penetration under combined artic",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:8"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01`: Non-regression of garment radial clearance across mo",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:9"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02), 2B (jawOpen clearance), and 2C (BUG-M3-03 combined a",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:88"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 across [0.8x, 1.0x, 1.2x, 1.5x] body scales.",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:89"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:99"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 is 100% RESOLVED.**",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:116"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:120"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 is 100% RESOLVED.**",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:159"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01`)",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:183"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01.",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:198"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02` and `BUG-M3-03` by `worker_m3_remed13_2` has been emp",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:214"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02`**: 60 out of 60 lower dental arch vertices have stric",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:215"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03`**: Under simultaneous `jawOpen = 1.0 + tongueOut = 1.",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:216"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` Non-Regression**: Conformal radial clearance between ",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:218"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:240"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:241"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:244"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:245"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:246"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:247"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/handoff.md:248"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 lower dental arch displacement under tongueOut=1.0: 60",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/progress.md:8"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 combined jawOpen=1.0 + tongueOut=1.0 kinematics: clear",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/progress.md:9"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 non-regression: garment radial clearance >= +3.50mm ac",
-      "file": ".agents/teamwork/challenger_m3_remed13_3/progress.md:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01 found).",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01: Line 194 of `05_TEST/test_empirical_challenger_m",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/BRIEFING.md:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/handoff.md:45"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03.",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/handoff.md:85"
-    },
-    {
-      "tag": "BUG",
-      "text": "empirically, it does not count\"* and *\"Run build and tests t",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/handoff.md:90"
-    },
-    {
-      "tag": "BUG",
-      "text": "TEST-M3-01)** |",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/handoff.md:159"
-    },
-    {
-      "tag": "BUG",
-      "text": "found: `05_TEST/test_empirical_challenger_m3.py` lines 194-1",
-      "file": ".agents/teamwork/challenger_m3_remed13_4/progress.md:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "in `Idle_ShiftWeight`: pelvic roll lowers downward hip joint",
-      "file": ".agents/teamwork/challenger_m6_2_1/BRIEFING.md:36"
-    },
-    {
-      "tag": "BUG",
-      "text": "in `Walk` and `Run`: out-of-reach target clamping and $+0.05",
-      "file": ".agents/teamwork/challenger_m6_2_1/BRIEFING.md:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "and verified ephemeral copy semantics",
-      "file": ".agents/teamwork/explorer_m1_remed_2/progress.md:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "guarantees 100% pass across all 37 existing tests + all newl",
-      "file": ".agents/teamwork/explorer_m1_remed_3/handoff.md:129"
-    },
-    {
-      "tag": "BUG",
-      "text": "found: vy range missing 1.55m)",
-      "file": ".agents/teamwork/explorer_m3_gen12_1/BRIEFING.md:36"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (lower teeth shear/chin penetration on tongueOut) and ",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 confirmed: `src/gltf_exporter.py:321` filter `vy < 1.5",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/BRIEFING.md:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 confirmed: under combined `jawOpen = 1.0` and `tongueO",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/BRIEFING.md:27"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02: In src/gltf_exporter.py:321, filter if vy < 1.500 and",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/DISPATCH.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03: Combined jawOpen=1.0 and tongueOut=1.0 depresses tong",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/DISPATCH.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 & BUG-M3-03)",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02` (Lower teeth shear / chin penetration) & `BUG-M3-03` ",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Dental Arch Bleed)",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:98"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Chin Penetration under Combined Articulatio",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:111"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 guard).",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:248"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 guard).",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:250"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 REGRESSION GUARD)",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:276"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 DETECTED: Lower dental arch vertex #{idx} at y={mouth_",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:290"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 REGRESSION GUARD)",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:312"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 DETECTED: Tongue tip at y={deformed_y:.4f}m is depress",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/handoff.md:333"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (vertex filtering condition for tongue ribbon vs lower",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/progress.md:9"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (elevation vector +Y under jawOpen + tongueOut to avoi",
-      "file": ".agents/teamwork/explorer_m3_remed13_1/progress.md:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03.",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/BRIEFING.md:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 root cause: `vy < 1.500 and vz > 0.030` in `gltf_expor",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/BRIEFING.md:33"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 root cause: Tongue tip depresses by $-30\\text{mm}$ und",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/BRIEFING.md:34"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02: In src/gltf_exporter.py:321, filter if vy < 1.500 and",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/DISPATCH.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03: Combined jawOpen=1.0 and tongueOut=1.0 causes tongue ",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/DISPATCH.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 & BUG-M3-03)",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Teeth Bleed under `tongueOut`)",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:122"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Penetration under Combined Articulation)",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:135"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 completely resolved**.",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:157"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 completely resolved**.",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:182"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02`**: Caused by `vy < 1.500` capturing the $1.499\\text{m",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:197"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03`**: Caused by negative elevation ($-0.005$) pushing th",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:198"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:259"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/handoff.md:260"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03 complete. All coordinate boundaries, ind",
-      "file": ".agents/teamwork/explorer_m3_remed13_2/progress.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02, BUG-M3-03, resting/jawOpen clearances, and non-regres",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 root cause confirmed: `src/gltf_exporter.py:321` filte",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/BRIEFING.md:34"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 root cause confirmed: under `jawOpen = 1.0` (mandible ",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/BRIEFING.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 non-regression confirmed: garment radial clearance $\\g",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/BRIEFING.md:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02: Lower teeth bleeding on tongueOut.",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/DISPATCH.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03: Submental chin skin penetration on simultaneous jawOp",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/DISPATCH.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 (garment radial clearance >= +3.5mm across all scales)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/DISPATCH.md:21"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02` (Lower teeth bleeding on `tongueOut`) & `BUG-M3-03` (",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 (Lower Dental Arch Bleed under `tongueOut`)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:93"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 (Submental Chin Penetration under Combined Articulatio",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:103"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:115"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 addressed garment-to-skin clearance across body scales",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:116"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01.",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:120"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 audit.",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:174"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 audit.",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:177"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02): Lower Dental Arch Displacement under tongueOut = 1.0",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:247"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 DETECTED: Lower dental arch vertex #{idx} at ({mouth_v",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:258"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03): Combined Articulation Clearance (jawOpen=1.0 + tongu",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:273"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:312"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03 DETECTED: Tongue vertex at ({tv[0]:.4f}, {tv[1]:.4f}, ",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:328"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:415"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/handoff.md:416"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/progress.md:13"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/progress.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 (garment radial clearance >= +3.5mm across all scales)",
-      "file": ".agents/teamwork/explorer_m3_remed13_3/progress.md:16"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02 and BUG-M3-03) is 100% correct and procedural. The def",
-      "file": ".agents/teamwork/explorer_m3_remed13_5/handoff.md:193"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02).",
-      "file": ".agents/teamwork/explorer_m3_remed13_5/handoff.md:364"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03).",
-      "file": ".agents/teamwork/explorer_m3_remed13_5/handoff.md:365"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01.",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/BRIEFING.md:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 (radial clearances >= +3.0mm preserved across scales 0",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/BRIEFING.md:34"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01.",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/DISPATCH.md:19"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:146"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:157"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:183"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01).",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:221"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-02)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:314"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:317"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-03)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:318"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:319"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:321"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01)** |",
-      "file": ".agents/teamwork/explorer_m3_remed13_6/handoff.md:323"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 (Garment clearance collapse at scaling extremes) in Su",
-      "file": ".agents/teamwork/explorer_m3_remed_1/BRIEFING.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01: garment clearance collapse at scaling extremes",
-      "file": ".agents/teamwork/explorer_m3_remed_1/BRIEFING.md:15"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 (Garment clearance collapse at scaling extremes):",
-      "file": ".agents/teamwork/explorer_m3_remed_1/DISPATCH.md:17"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Garment Clearance Collapse at Scaling Extremes",
-      "file": ".agents/teamwork/explorer_m3_remed_1/handoff.md:1"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` (Garment clearance collapse at scaling extremes)",
-      "file": ".agents/teamwork/explorer_m3_remed_1/handoff.md:6"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` is resolved by extracting `modular_scales` and `torso",
-      "file": ".agents/teamwork/explorer_m3_remed_1/handoff.md:118"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01` is fully diagnosed. The root cause is the omission of",
-      "file": ".agents/teamwork/explorer_m3_remed_1/handoff.md:132"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 Fix)",
-      "file": ".agents/teamwork/explorer_m3_remed_1/handoff.md:173"
-    },
-    {
-      "tag": "BUG",
-      "text": "is present or mitigated",
-      "file": ".agents/teamwork/explorer_m3_remed_2/handoff.md:47"
-    },
-    {
-      "tag": "BUG",
-      "text": "is present or mitigated",
-      "file": ".agents/teamwork/explorer_m3_remed_2/handoff.md:311"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 and recommendation REC-M3-01 analyzed)",
-      "file": ".agents/teamwork/explorer_m3_remed_3/BRIEFING.md:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01) in `src/submesh_builder.py`",
-      "file": ".agents/teamwork/explorer_m3_remed_3/handoff.md:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "M3-01 completely.",
-      "file": ".agents/teamwork/explorer_m3_remed_3/handoff.md:169"
-    },
-    {
-      "tag": "BUG",
-      "text": "`dream_cycle.due()` only checks `(self.clock() - act) >= sel",
-      "file": ".agents/teamwork/explorer_m5_mem_1/BRIEFING.md:36"
-    },
-    {
-      "tag": "BUG",
-      "text": "in `DreamCycle.due()` causes the background server daemon to",
-      "file": ".agents/teamwork/explorer_m5_mem_1/report.md:24"
     }
   ],
   "batch_powershell": [
@@ -6609,9 +5607,159 @@
       "file": "agent/conversation_compression_reply_anchor.py:195"
     },
     {
+      "tag": "TODO",
+      "text": "snapshot_synthetic\", \"_empty_recovery_synthetic\", \"_verifica",
+      "file": "agent/conversation_compression_scaffolding.py:26"
+    },
+    {
+      "tag": "BUG",
+      "text": "not worth retrying. NEVER add \"conversation_loop\" or",
+      "file": "agent/conversation_loop.py:239"
+    },
+    {
+      "tag": "BUG",
+      "text": "dump, no retry. Same class as",
+      "file": "agent/conversation_loop.py:262"
+    },
+    {
+      "tag": "BUG",
+      "text": "as silent cache-off.",
+      "file": "agent/conversation_loop.py:1285"
+    },
+    {
+      "tag": "BUG",
+      "text": "this is the moment a login is lost. Benching for a TTL would",
+      "file": "agent/credential_pool_plugin.py:96"
+    },
+    {
+      "tag": "BUG",
+      "text": "with no trace for the user.",
+      "file": "agent/credential_pool_plugin.py:97"
+    },
+    {
       "tag": "BUG",
       "text": "so the curator never aborts a pass over a",
       "file": "agent/curator_backup.py:185"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "agent/error_surface.py:73"
+    },
+    {
+      "tag": "BUG",
+      "text": "in the",
+      "file": "agent/gemini_native_adapter.py:114"
+    },
+    {
+      "tag": "BUG",
+      "text": "class).",
+      "file": "agent/gemini_native_adapter.py:780"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\": _tool(",
+      "file": "agent/inline_tool_executors.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "tool\", \"todo_tool\", (\"todos\", \"todos\"), (\"merge\", \"merge\", F",
+      "file": "agent/inline_tool_executors.py:303"
+    },
+    {
+      "tag": "TODO",
+      "text": "store,",
+      "file": "agent/inline_tool_executors.py:304"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\", \"session_search\", \"memory\"})",
+      "file": "agent/inline_tool_executors.py:373"
+    },
+    {
+      "tag": "TODO",
+      "text": "list/session_search/memory, then memory-manager tools, then ",
+      "file": "agent/inline_tool_executors.py:379"
+    },
+    {
+      "tag": "BUG",
+      "text": "class \u2014 the same dishonesty this module's cost buckets exist",
+      "file": "agent/insights.py:26"
+    },
+    {
+      "tag": "BUG",
+      "text": "and swallowed. ``aggregator_output``",
+      "file": "agent/moa_trace.py:83"
+    },
+    {
+      "tag": "BUG",
+      "text": "and would make get_model_context_length() return 0 (`0 is no",
+      "file": "agent/model_metadata.py:1134"
+    },
+    {
+      "tag": "BUG",
+      "text": "class as the step-9 fallback \u2014 warn here too.",
+      "file": "agent/model_metadata.py:2076"
+    },
+    {
+      "tag": "BUG",
+      "text": "and return *default*.\"\"\"",
+      "file": "agent/models_dev.py:249"
+    },
+    {
+      "tag": "BUG",
+      "text": "log.\"\"\"",
+      "file": "agent/plugin_llm.py:319"
+    },
+    {
+      "tag": "BUG",
+      "text": "with *what* for context).\"\"\"",
+      "file": "agent/prompt_builder.py:1005"
+    },
+    {
+      "tag": "BUG",
+      "text": "or a lost plugin host. It is",
+      "file": "agent/provider_route_hooks.py:103"
+    },
+    {
+      "tag": "BUG",
+      "text": "cannot vanish silently. HERMES_DEV_CREDITS_FIXTURE injects a",
+      "file": "agent/rate_limit_credits.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "on the multiplexed \"",
+      "file": "agent/secret_scope.py:139"
+    },
+    {
+      "tag": "BUG",
+      "text": "share`.\"",
+      "file": "agent/secret_scope.py:141"
+    },
+    {
+      "tag": "BUG",
+      "text": "would pin a stale map silently.\"\"\"",
+      "file": "agent/skill_commands.py:519"
+    },
+    {
+      "tag": "BUG",
+      "text": "mode; stack at debug.",
+      "file": "agent/title_generator.py:694"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\", \"memory\", \"skill_manage\",",
+      "file": "agent/tool_guardrails.py:57"
+    },
+    {
+      "tag": "BUG",
+      "text": "this is the moment a login is lost. At the default log level",
+      "file": "agent/credential_pool.py:1768"
+    },
+    {
+      "tag": "BUG",
+      "text": "is \"",
+      "file": "agent/curator.py:299"
     },
     {
       "tag": "TODO",
@@ -6675,63 +5823,8 @@
     },
     {
       "tag": "BUG",
-      "text": "",
-      "file": "agent/error_surface.py:73"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the",
-      "file": "agent/gemini_native_adapter.py:114"
-    },
-    {
-      "tag": "BUG",
-      "text": "class).",
-      "file": "agent/gemini_native_adapter.py:780"
-    },
-    {
-      "tag": "TODO",
-      "text": "list\": _tool(",
-      "file": "agent/inline_tool_executors.py:302"
-    },
-    {
-      "tag": "TODO",
-      "text": "tool\", \"todo_tool\", (\"todos\", \"todos\"), (\"merge\", \"merge\", F",
-      "file": "agent/inline_tool_executors.py:303"
-    },
-    {
-      "tag": "TODO",
-      "text": "store,",
-      "file": "agent/inline_tool_executors.py:304"
-    },
-    {
-      "tag": "TODO",
-      "text": "list\", \"session_search\", \"memory\"})",
-      "file": "agent/inline_tool_executors.py:373"
-    },
-    {
-      "tag": "TODO",
-      "text": "list/session_search/memory, then memory-manager tools, then ",
-      "file": "agent/inline_tool_executors.py:379"
-    },
-    {
-      "tag": "BUG",
-      "text": "class \u2014 the same dishonesty this module's cost buckets exist",
-      "file": "agent/insights.py:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "and swallowed. ``aggregator_output``",
-      "file": "agent/moa_trace.py:83"
-    },
-    {
-      "tag": "BUG",
-      "text": "and would make get_model_context_length() return 0 (`0 is no",
-      "file": "agent/model_metadata.py:1134"
-    },
-    {
-      "tag": "BUG",
-      "text": "class as the step-9 fallback \u2014 warn here too.",
-      "file": "agent/model_metadata.py:2076"
+      "text": "this is the aggregator's ONLY decoration path).",
+      "file": "agent/moa_loop.py:1190"
     },
     {
       "tag": "TODO",
@@ -6745,16 +5838,6 @@
     },
     {
       "tag": "BUG",
-      "text": "or a lost plugin host. It is",
-      "file": "agent/provider_route_hooks.py:103"
-    },
-    {
-      "tag": "BUG",
-      "text": "cannot vanish silently. HERMES_DEV_CREDITS_FIXTURE injects a",
-      "file": "agent/rate_limit_credits.py:84"
-    },
-    {
-      "tag": "BUG",
       "text": "dumps, session export all pass force=True): ordinary prose/c",
       "file": "agent/redact.py:788"
     },
@@ -6762,81 +5845,6 @@
       "tag": "BUG",
       "text": "dumps, session export) is a safety boundary",
       "file": "agent/redact.py:1582"
-    },
-    {
-      "tag": "BUG",
-      "text": "on the multiplexed \"",
-      "file": "agent/secret_scope.py:139"
-    },
-    {
-      "tag": "BUG",
-      "text": "share`.\"",
-      "file": "agent/secret_scope.py:141"
-    },
-    {
-      "tag": "BUG",
-      "text": "would pin a stale map silently.\"\"\"",
-      "file": "agent/skill_commands.py:519"
-    },
-    {
-      "tag": "TODO",
-      "text": "snapshot_synthetic\", \"_empty_recovery_synthetic\", \"_verifica",
-      "file": "agent/conversation_compression_scaffolding.py:26"
-    },
-    {
-      "tag": "BUG",
-      "text": "not worth retrying. NEVER add \"conversation_loop\" or",
-      "file": "agent/conversation_loop.py:239"
-    },
-    {
-      "tag": "BUG",
-      "text": "dump, no retry. Same class as",
-      "file": "agent/conversation_loop.py:262"
-    },
-    {
-      "tag": "BUG",
-      "text": "as silent cache-off.",
-      "file": "agent/conversation_loop.py:1285"
-    },
-    {
-      "tag": "BUG",
-      "text": "this is the moment a login is lost. At the default log level",
-      "file": "agent/credential_pool.py:1768"
-    },
-    {
-      "tag": "BUG",
-      "text": "this is the moment a login is lost. Benching for a TTL would",
-      "file": "agent/credential_pool_plugin.py:96"
-    },
-    {
-      "tag": "BUG",
-      "text": "with no trace for the user.",
-      "file": "agent/credential_pool_plugin.py:97"
-    },
-    {
-      "tag": "BUG",
-      "text": "is \"",
-      "file": "agent/curator.py:299"
-    },
-    {
-      "tag": "BUG",
-      "text": "this is the aggregator's ONLY decoration path).",
-      "file": "agent/moa_loop.py:1190"
-    },
-    {
-      "tag": "BUG",
-      "text": "and return *default*.\"\"\"",
-      "file": "agent/models_dev.py:249"
-    },
-    {
-      "tag": "BUG",
-      "text": "log.\"\"\"",
-      "file": "agent/plugin_llm.py:319"
-    },
-    {
-      "tag": "BUG",
-      "text": "with *what* for context).\"\"\"",
-      "file": "agent/prompt_builder.py:1005"
     },
     {
       "tag": "BUG",
@@ -6850,13 +5858,13 @@
     },
     {
       "tag": "BUG",
-      "text": "mode; stack at debug.",
-      "file": "agent/title_generator.py:694"
+      "text": "class behind",
+      "file": "agent/tool_executor.py:274"
     },
     {
-      "tag": "TODO",
-      "text": "list\", \"memory\", \"skill_manage\",",
-      "file": "agent/tool_guardrails.py:57"
+      "tag": "BUG",
+      "text": "(#65147)",
+      "file": "agent/turn_api_error.py:254"
     },
     {
       "tag": "TODO",
@@ -6894,44 +5902,14 @@
       "file": "agent/turn_context.py:776"
     },
     {
-      "tag": "TODO",
-      "text": "snapshot can't steal it.",
-      "file": "agent/turn_context_compaction.py:351"
+      "tag": "BUG",
+      "text": "dump, flush",
+      "file": "agent/turn_recovery.py:1046"
     },
     {
       "tag": "BUG",
-      "text": "class behind",
-      "file": "agent/tool_executor.py:274"
-    },
-    {
-      "tag": "BUG",
-      "text": "log only.",
-      "file": "agent/turn_stop_gates.py:186"
-    },
-    {
-      "tag": "TODO",
-      "text": "list\": (\"updated\", \"task list\", \"task lists\"),",
-      "file": "agent/turn_summary.py:47"
-    },
-    {
-      "tag": "BUG",
-      "text": "(#65147)",
-      "file": "agent/turn_api_error.py:254"
-    },
-    {
-      "tag": "BUG",
-      "text": "dump. Nothing here imports",
-      "file": "agent/turn_api_request.py:5"
-    },
-    {
-      "tag": "BUG",
-      "text": "dumps observe the payload).\"\"\"",
-      "file": "agent/turn_api_request.py:193"
-    },
-    {
-      "tag": "BUG",
-      "text": "dumps so",
-      "file": "agent/turn_api_request.py:213"
+      "text": "(#73237).\"\"\"",
+      "file": "agent/turn_recovery.py:1361"
     },
     {
       "tag": "BUG",
@@ -6949,9 +5927,29 @@
       "file": "agent/turn_iteration_prep.py:508"
     },
     {
+      "tag": "TODO",
+      "text": "snapshot can't steal it.",
+      "file": "agent/turn_context_compaction.py:351"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\": (\"updated\", \"task list\", \"task lists\"),",
+      "file": "agent/turn_summary.py:47"
+    },
+    {
+      "tag": "TODO",
+      "text": "list\", \"skill_manage\", \"session_search\"})",
+      "file": "agent/turn_tool_round.py:24"
+    },
+    {
       "tag": "BUG",
-      "text": "msg: str) -> None:",
-      "file": "agent/turn_liveness.py:196"
+      "text": "dump. Nothing here imports",
+      "file": "agent/turn_api_request.py:5"
+    },
+    {
+      "tag": "BUG",
+      "text": "dumps observe the payload).\"\"\"",
+      "file": "agent/turn_api_request.py:193"
     }
   ],
   "home": [
@@ -8199,62 +7197,12 @@
     {
       "tag": "TODO",
       "text": "& LOGIC GAPS",
-      "file": "JRMCHRONOS_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperNotes_SYNC_20260514.md:49"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperNotes_SYNC_20260514.md:510"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits = scan_todos(source)",
-      "file": "command_center_maintenance.py:376"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(todo_hits),",
-      "file": "command_center_maintenance.py:384"
-    },
-    {
-      "tag": "TODO",
-      "text": "count: {len(todo_hits)}\",",
-      "file": "command_center_maintenance.py:399"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits[:25]),",
-      "file": "command_center_maintenance.py:402"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits[:25]),",
-      "file": "command_center_maintenance.py:433"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(todo_hits)})",
-      "file": "command_center_maintenance.py:441"
-    },
-    {
-      "tag": "BUG",
-      "text": "reports. (`as is' distribution)",
-      "file": "freetype.md:71"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
       "file": "GITAUTOSHIP_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
-      "text": "backlog.",
-      "file": "MASTER_300_STEP_ROADMAP.md:29"
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
@@ -8270,51 +7218,6 @@
       "tag": "TODO",
       "text": "",
       "file": "README.md:9"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "SimAgentCity_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:52"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperAI_SYNC_20260514.md:802"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAI_SYNC_20260514.md:1847"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAiTrain_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\": 7,",
-      "file": "data_retrieval_lens_agent.py:72"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\",",
-      "file": "data_retrieval_lens_agent.py:101"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
-      "file": "data_retrieval_lens_agent.py:1121"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\",",
-      "file": "data_retrieval_lens_agent.py:1225"
     },
     {
       "tag": "TODO",
@@ -8375,6 +7278,11 @@
       "tag": "TODO",
       "text": "id\": todo_id, \"title\": title, \"assigned_agent\": assigned})",
       "file": "extract_global_todos.py:154"
+    },
+    {
+      "tag": "BUG",
+      "text": "reports. (`as is' distribution)",
+      "file": "freetype.md:71"
     },
     {
       "tag": "TODO",
@@ -8485,6 +7393,96 @@
       "tag": "TODO",
       "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
       "file": "topology_sidecar.py:881"
+    },
+    {
+      "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:52"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperAI_SYNC_20260514.md:802"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAI_SYNC_20260514.md:1847"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
     }
   ],
   "local_desktop-main": [
@@ -8525,8 +7523,83 @@
     },
     {
       "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits = scan_todos(source)",
+      "file": "command_center_maintenance.py:376"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits),",
+      "file": "command_center_maintenance.py:384"
+    },
+    {
+      "tag": "TODO",
+      "text": "count: {len(todo_hits)}\",",
+      "file": "command_center_maintenance.py:399"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:402"
+    },
+    {
+      "tag": "TODO",
+      "text": "hits[:25]),",
+      "file": "command_center_maintenance.py:433"
+    },
+    {
+      "tag": "TODO",
+      "text": "count\": len(todo_hits)})",
+      "file": "command_center_maintenance.py:441"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\",",
+      "file": "risc_bridge_server.py:84"
+    },
+    {
+      "tag": "BUG",
+      "text": "fix\"}:",
+      "file": "risc_bridge_server.py:969"
+    },
+    {
+      "tag": "TODO",
+      "text": "backlog.",
+      "file": "MASTER_300_STEP_ROADMAP.md:29"
+    },
+    {
+      "tag": "TODO",
       "text": "System | ACTIVE |",
       "file": "README.md:214"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE",
+      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
     },
     {
       "tag": "TODO",
@@ -8550,18 +7623,23 @@
     },
     {
       "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperAiTrain_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperNotes_SYNC_20260514.md:49"
+      "text": "QUEUE\": 7,",
+      "file": "data_retrieval_lens_agent.py:72"
     },
     {
       "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperNotes_SYNC_20260514.md:510"
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:101"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
+      "file": "data_retrieval_lens_agent.py:1121"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "data_retrieval_lens_agent.py:1225"
     },
     {
       "tag": "TODO",
@@ -8685,86 +7763,6 @@
     },
     {
       "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "JRMCHRONOS_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "backlog.",
-      "file": "MASTER_300_STEP_ROADMAP.md:29"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE",
-      "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits = scan_todos(source)",
-      "file": "command_center_maintenance.py:376"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(todo_hits),",
-      "file": "command_center_maintenance.py:384"
-    },
-    {
-      "tag": "TODO",
-      "text": "count: {len(todo_hits)}\",",
-      "file": "command_center_maintenance.py:399"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits[:25]),",
-      "file": "command_center_maintenance.py:402"
-    },
-    {
-      "tag": "TODO",
-      "text": "hits[:25]),",
-      "file": "command_center_maintenance.py:433"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(todo_hits)})",
-      "file": "command_center_maintenance.py:441"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\": 7,",
-      "file": "data_retrieval_lens_agent.py:72"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\",",
-      "file": "data_retrieval_lens_agent.py:101"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\", [\"todo_id\", \"title\", \"details\", \"status\"], \"GLOBAL_T",
-      "file": "data_retrieval_lens_agent.py:1121"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\",",
-      "file": "data_retrieval_lens_agent.py:1225"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix\",",
-      "file": "risc_bridge_server.py:84"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix\"}:",
-      "file": "risc_bridge_server.py:969"
-    },
-    {
-      "tag": "TODO",
       "text": "QUEUE (",
       "file": "security_sentinel.py:61"
     },
@@ -8805,11 +7803,6 @@
     },
     {
       "tag": "TODO",
-      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
-      "file": "sims1337_node_manager.py:23"
-    },
-    {
-      "tag": "TODO",
       "text": "Implement dynamic routing based on ledger health",
       "file": "swarm_router.py:76"
     },
@@ -8817,6 +7810,11 @@
       "tag": "TODO",
       "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
       "file": "topology_sidecar.py:827"
+    },
+    {
+      "tag": "TODO",
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
     }
   ],
   "local_documents": [
@@ -10330,1008 +9328,6 @@
       "tag": "TODO",
       "text": "",
       "file": "todo_0038_.md.md:21"
-    }
-  ],
-  "MatrixWinCE": [
-    {
-      "tag": "TODO",
-      "text": "Priorities",
-      "file": "BUILD_LOG.md:5"
-    },
-    {
-      "tag": "TODO",
-      "text": "count per hex (T1, T2 markers), tooltip shows TODO text",
-      "file": "BUILD_LOG.md:16"
-    },
-    {
-      "tag": "TODO",
-      "text": "Harvester (`gmail_harvester.py`)",
-      "file": "README.md:434"
-    },
-    {
-      "tag": "TODO",
-      "text": "found, generate /spec from prompt",
-      "file": "ROADMAP.md:53"
-    },
-    {
-      "tag": "TODO",
-      "text": "list from code comments (// TODO, # FIXME)",
-      "file": "ROADMAP.md:90"
-    },
-    {
-      "tag": "TODO",
-      "text": "emails.\"\"\"",
-      "file": "auto_updater.py:178"
-    },
-    {
-      "tag": "BUG",
-      "text": "in classified.get(\"bug\", [])[:3]:",
-      "file": "auto_updater.py:289"
-    },
-    {
-      "tag": "TODO",
-      "text": "stale      \u2014 markdown [ ] TODOs older than 7d",
-      "file": "error_cascade.py:22"
-    },
-    {
-      "tag": "TODO",
-      "text": "stale\",",
-      "file": "error_cascade.py:38"
-    },
-    {
-      "tag": "TODO",
-      "text": "stale \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "error_cascade.py:111"
-    },
-    {
-      "tag": "TODO",
-      "text": "stale(root, max_age_days=7):",
-      "file": "error_cascade.py:112"
-    },
-    {
-      "tag": "TODO",
-      "text": "stale\": sc_todo_stale,",
-      "file": "error_cascade.py:291"
-    },
-    {
-      "tag": "TODO",
-      "text": "line, ...]}\"\"\"",
-      "file": "fow_gate.py:142"
-    },
-    {
-      "tag": "HACK",
-      "text": "context near coordinates",
-      "file": "fow_gate.py:148"
-    },
-    {
-      "tag": "TODO",
-      "text": "pat = re.compile(r'(TODO|FIXME|HACK|\u2b21)', re.IGNORECASE)",
-      "file": "fow_gate.py:150"
-    },
-    {
-      "tag": "HACK",
-      "text": "only",
-      "file": "fow_gate.py:169"
-    },
-    {
-      "tag": "TODO",
-      "text": "pat.search(line):",
-      "file": "fow_gate.py:170"
-    },
-    {
-      "tag": "TODO",
-      "text": "count\": len(todos),",
-      "file": "fow_gate.py:200"
-    },
-    {
-      "tag": "TODO",
-      "text": "count']} TODOs{blind_flag}\")",
-      "file": "fow_gate.py:241"
-    },
-    {
-      "tag": "TODO",
-      "text": "in h[\"todos\"][:3]:",
-      "file": "fow_gate.py:244"
-    },
-    {
-      "tag": "TODO",
-      "text": "count, visibility, and recency",
-      "file": "fow_kqml_bridge.py:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "line: str, agent: str) -> dict:",
-      "file": "fow_miner.py:93"
-    },
-    {
-      "tag": "TODO",
-      "text": "to GGUF and get an action plan.\"\"\"",
-      "file": "fow_miner.py:94"
-    },
-    {
-      "tag": "TODO",
-      "text": "{todo_line[:200]}\\n\"",
-      "file": "fow_miner.py:97"
-    },
-    {
-      "tag": "TODO",
-      "text": "line) % 100000}\"",
-      "file": "fow_miner.py:104"
-    },
-    {
-      "tag": "TODO",
-      "text": "line[:200],",
-      "file": "fow_miner.py:108"
-    },
-    {
-      "tag": "TODO",
-      "text": "in todos[:3]:  # mine max 3 per hex per round",
-      "file": "fow_miner.py:152"
-    },
-    {
-      "tag": "TODO",
-      "text": "resolution via GGUF.",
-      "file": "fow_patrol.py:3"
-    },
-    {
-      "tag": "TODO",
-      "text": "to GGUF for resolution plan.\"\"\"",
-      "file": "fow_patrol.py:65"
-    },
-    {
-      "tag": "TODO",
-      "text": "in todos:",
-      "file": "fow_patrol.py:71"
-    },
-    {
-      "tag": "TODO",
-      "text": "text (after file:line prefix)",
-      "file": "fow_patrol.py:72"
-    },
-    {
-      "tag": "TODO",
-      "text": "else todo[:200]",
-      "file": "fow_patrol.py:73"
-    },
-    {
-      "tag": "TODO",
-      "text": "found: {text}\\n\"",
-      "file": "fow_patrol.py:77"
-    },
-    {
-      "tag": "TODO",
-      "text": "count = len(task[\"todos\"])",
-      "file": "fow_patrol.py:112"
-    },
-    {
-      "tag": "TODO",
-      "text": "count} TODOs)\")",
-      "file": "fow_patrol.py:115"
-    },
-    {
-      "tag": "TODO",
-      "text": "count} TODOs)\")",
-      "file": "fow_patrol.py:117"
-    },
-    {
-      "tag": "FIXME",
-      "text": "markers",
-      "file": "gist_scanner.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix\"",
-      "file": "gist_scanner.py:78"
-    },
-    {
-      "tag": "TODO",
-      "text": "{t[:80]}\")",
-      "file": "gist_scanner.py:232"
-    },
-    {
-      "tag": "TODO",
-      "text": "HARVESTER",
-      "file": "gmail_harvester.py:3"
-    },
-    {
-      "tag": "TODO",
-      "text": "items from email body text.\"\"\"",
-      "file": "gmail_harvester.py:74"
-    },
-    {
-      "tag": "TODO",
-      "text": "/ FIXME: / FEATURE: lines",
-      "file": "gmail_harvester.py:76"
-    },
-    {
-      "tag": "TODO",
-      "text": "= match.group(1).strip()",
-      "file": "gmail_harvester.py:84"
-    },
-    {
-      "tag": "TODO",
-      "text": "and len(todo) > 5:",
-      "file": "gmail_harvester.py:85"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = hashlib.sha256(",
-      "file": "gmail_harvester.py:92"
-    },
-    {
-      "tag": "TODO",
-      "text": "id}\",",
-      "file": "gmail_harvester.py:102"
-    },
-    {
-      "tag": "TODO",
-      "text": "Harvester\")",
-      "file": "gmail_harvester.py:261"
-    },
-    {
-      "tag": "BUG",
-      "text": "Logging",
-      "file": "archives/Git/docs/CHANGELOG.md:4"
-    },
-    {
-      "tag": "BUG",
-      "text": "logging to the `process_request` method for easier diagnosti",
-      "file": "archives/Git/docs/CHANGELOG.md:5"
-    },
-    {
-      "tag": "BUG",
-      "text": "Logging**: Implemented detailed logging in the Orchestrator ",
-      "file": "archives/Git/docs/CHANGELOG.md:9"
-    },
-    {
-      "tag": "BUG",
-      "text": "where the native code for terminal interaction was missing f",
-      "file": "archives/Git/docs/CHANGELOG.md:35"
-    },
-    {
-      "tag": "BUG",
-      "text": "Logging",
-      "file": "archives/Git/docs/README.md:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "logging to the `process_request` method for easier diagnosti",
-      "file": "archives/Git/docs/README.md:11"
-    },
-    {
-      "tag": "BUG",
-      "text": "Logging**: Implemented detailed logging in the Orchestrator ",
-      "file": "archives/Git/docs/README.md:15"
-    },
-    {
-      "tag": "BUG",
-      "text": "Parsed command='{command}', target='{target}' from request='",
-      "file": "archives/Git/src/python/orchestrator.py:49"
-    },
-    {
-      "tag": "BUG",
-      "text": "Routing to execute_task('READ', '{target}')\")",
-      "file": "archives/Git/src/python/orchestrator.py:53"
-    },
-    {
-      "tag": "BUG",
-      "text": "Routing to execute_task('EXEC', '{target}')\")",
-      "file": "archives/Git/src/python/orchestrator.py:56"
-    },
-    {
-      "tag": "BUG",
-      "text": "Routing to execute_task('WRITE', '{target_file}|{content}')\"",
-      "file": "archives/Git/src/python/orchestrator.py:63"
-    },
-    {
-      "tag": "BUG",
-      "text": "Routing to execute_task('BUILD', None)\")",
-      "file": "archives/Git/src/python/orchestrator.py:71"
-    },
-    {
-      "tag": "BUG",
-      "text": "No command matched. Falling back to default chat response fo",
-      "file": "archives/Git/src/python/orchestrator.py:101"
-    },
-    {
-      "tag": "BUG",
-      "text": "Manifested in core.\")",
-      "file": "archives/MatrixIDE_Manifest/.matrix_ide/core/injection_attack.py:18"
-    },
-    {
-      "tag": "BUG",
-      "text": "Fixed:** The `get_program_out` function in `DarwinianEngine_",
-      "file": "archives/MatrixIDE_Manifest/.matrix_ide/seeds/nova/NOTES.md:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "using Boolean Logic.",
-      "file": "archives/MatrixIDE_Manifest/.matrix_ide/seeds/nova/NOTES.md:38"
-    },
-    {
-      "tag": "BUG",
-      "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
-      "file": "archives/MatrixIDE_Manifest/.matrix_ide/seeds/nova/prompt_evolver.py:90"
-    },
-    {
-      "tag": "BUG",
-      "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
-      "file": "archives/MatrixIDE_Manifest/.matrix_ide/seeds/nova/prompt_evolver.py:92"
-    },
-    {
-      "tag": "BUG",
-      "text": "mode with sound).",
-      "file": "bwa/MANIFEST_ADDITIONS.md:68"
-    },
-    {
-      "tag": "TODO",
-      "text": "DAG",
-      "file": "docs/NYX_PROJECT_BLUEPRINT.md:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "Extraction**: Parses source files to gather all `// TODO` an",
-      "file": "docs/SOVEREIGN_SYSTEM_OPERATIONS.md:128"
-    },
-    {
-      "tag": "BUG",
-      "text": "keystore for APK signing",
-      "file": "keystore/generate_keystore.sh:3"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:51"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:52"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:53"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:54"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:55"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:56"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:57"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:58"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:59"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:60"
-    },
-    {
-      "tag": "BUG",
-      "text": "0.log",
-      "file": "modules/H2O_MATRIX/README.md:61"
-    },
-    {
-      "tag": "BUG",
-      "text": "test.sh",
-      "file": "modules/H2O_MATRIX/README.md:710"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "modules/H2O_MATRIX/SINGULARITY_LOG.md:15"
-    },
-    {
-      "tag": "BUG",
-      "text": "fix/feature is a hypothesis based on observed data flow anom",
-      "file": "modules/H2O_MATRIX/SINGULARITY_ROADMAP.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in H2O_MATRIX",
-      "file": "modules/H2O_MATRIX/todo_0001_LIST.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "LIST",
-      "file": "modules/H2O_MATRIX/todo_0001_LIST.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/H2O_MATRIX/todo_0001_LIST.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/H2O_MATRIX/todo_0001_LIST.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/H2O_MATRIX/todo_0001_LIST.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#2 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0002__DB_exist_okTrue.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "modules/Matrix_CEAGENTS/todo_0002__DB_exist_okTrue.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0002__DB_exist_okTrue.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0002__DB_exist_okTrue.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0002__DB_exist_okTrue.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#3 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0003__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0003__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0003__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0003__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0003__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#4 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#5 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0005__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0005__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0005__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0005__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0005__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#6 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#7 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0007_SYSTEM_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "modules/Matrix_CEAGENTS/todo_0007_SYSTEM_---.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0007_SYSTEM_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0007_SYSTEM_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0007_SYSTEM_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#8 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0008__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0008__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0008__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0008__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0008__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#9 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0009__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0009__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0009__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0009__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0009__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#10 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0010__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#11 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0011__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0011__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0011__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0011__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0011__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#12 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0012__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#13 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0013__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0013__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0013__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0013__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0013__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#14 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0014_SYSTEM_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "modules/Matrix_CEAGENTS/todo_0014_SYSTEM_---.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0014_SYSTEM_---.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0014_SYSTEM_---.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0014_SYSTEM_---.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#15 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0015__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0015__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0015__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0015__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0015__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#16 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/todo_0016__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/todo_0016__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/todo_0016__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0016__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/todo_0016__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#1 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0001__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#2 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB), exist_ok=True)",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0002__DB_exist_okTrue.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#3 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0003__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0003__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0003__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0003__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0003__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#4 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.expanduser(\"~/.matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0004__DB__os.path.expanduser_.matrix_ide_database_t.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#5 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0005__DB.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB)",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0005__DB.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0005__DB.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0005__DB.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0005__DB.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#6 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "DB = os.path.join(HOME_DIR, \".matrix_ide/database/todo.db\")",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:12"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0006__DB__os.path.joinHOME_DIR_.matrix_ide_database.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#7 in Matrix_CEAGENTS",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0007_SYSTEM_---.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "SYSTEM ---",
-      "file": "modules/Matrix_CEAGENTS/AEGEN_TODOS/todo_0007_SYSTEM_---.md:12"
     }
   ],
   "Matrix_CEAGENTS": [
@@ -15168,6 +13164,36 @@
     },
     {
       "tag": "TODO",
+      "text": "#32 in openrouter_manager",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list to ensure that all tasks and features are properly trac",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "Text",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "items, prioritized and categorized for efficient completion.",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:17"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:21"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "todo_0032_list_to_ensure_that_all_tasks_and_features_are_pro.md:27"
+    },
+    {
+      "tag": "TODO",
       "text": "#35 in openrouter_manager",
       "file": "todo_0035_list_will_be_used_to_track_and_implement_user_inte.md:1"
     },
@@ -15193,98 +13219,68 @@
     },
     {
       "tag": "TODO",
-      "text": "#41 in openrouter_manager",
-      "file": "todo_0041_.md.md:1"
+      "text": "#37 in openrouter_manager",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement system state manage",
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:12"
     },
     {
       "tag": "TODO",
       "text": "Text",
-      "file": "todo_0041_.md.md:15"
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:15"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0041_.md.md:21"
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:21"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0041_.md.md:27"
+      "file": "todo_0037_list_will_be_used_to_track_and_implement_system_st.md:27"
     },
     {
       "tag": "TODO",
-      "text": "#42 in openrouter_manager",
-      "file": "todo_0042_.md_with_improved_documentation_and_formatting.md:1"
+      "text": "#38 in openrouter_manager",
+      "file": "todo_0038_list_will_be_used_to_track_and_implement_API_updat.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list will be used to track and implement API updates and imp",
+      "file": "todo_0038_list_will_be_used_to_track_and_implement_API_updat.md:12"
     },
     {
       "tag": "TODO",
       "text": "Text",
-      "file": "todo_0042_.md_with_improved_documentation_and_formatting.md:15"
+      "file": "todo_0038_list_will_be_used_to_track_and_implement_API_updat.md:15"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0042_.md_with_improved_documentation_and_formatting.md:21"
+      "file": "todo_0038_list_will_be_used_to_track_and_implement_API_updat.md:21"
     },
     {
       "tag": "TODO",
       "text": "",
-      "file": "todo_0042_.md_with_improved_documentation_and_formatting.md:27"
+      "file": "todo_0038_list_will_be_used_to_track_and_implement_API_updat.md:27"
     },
     {
       "tag": "TODO",
-      "text": "#43 in openrouter_manager",
-      "file": "todo_0043_.md.md:1"
+      "text": "#40 in openrouter_manager",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:1"
+    },
+    {
+      "tag": "TODO",
+      "text": "list outlines the current tasks and features to be implement",
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:12"
     },
     {
       "tag": "TODO",
       "text": "Text",
-      "file": "todo_0043_.md.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0043_.md.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0043_.md.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#44 in openrouter_manager",
-      "file": "todo_0044_.md.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0044_.md.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0044_.md.md:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0044_.md.md:27"
-    },
-    {
-      "tag": "TODO",
-      "text": "#46 in openrouter_manager",
-      "file": "todo_0046_.md_with_improved_documentation_and_formatting.md:1"
-    },
-    {
-      "tag": "TODO",
-      "text": "Text",
-      "file": "todo_0046_.md_with_improved_documentation_and_formatting.md:15"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "todo_0046_.md_with_improved_documentation_and_formatting.md:21"
+      "file": "todo_0040_list_outlines_the_current_tasks_and_features_to_be.md:15"
     }
   ],
   "painting-ops-vault": [
@@ -15661,7 +13657,7 @@
     {
       "tag": "TODO",
       "text": "& LOGIC GAPS",
-      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
@@ -15672,11 +13668,6 @@
       "tag": "TODO",
       "text": "QUEUE",
       "file": "RAG_RETRIEVAL_UPGRADE_NOTES.md:129"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "SimAgentCity_SYNC_20260514.md:12"
     },
     {
       "tag": "BUG",
@@ -15697,6 +13688,26 @@
       "tag": "TODO",
       "text": "& LOGIC GAPS",
       "file": "ViperAiTrain_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "BUG",
+      "text": "l1-1-0.dll",
+      "file": "ViperNotes_SYNC_20260514.md:49"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "ViperNotes_SYNC_20260514.md:510"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "JRMCHRONOS_SYNC_20260514.md:12"
+    },
+    {
+      "tag": "TODO",
+      "text": "& LOGIC GAPS",
+      "file": "SimAgentCity_SYNC_20260514.md:12"
     },
     {
       "tag": "TODO",
@@ -15747,76 +13758,6 @@
       "tag": "TODO",
       "text": "QUEUE\",",
       "file": "data_retrieval_lens_agent.py:1225"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE (",
-      "file": "global_agent_network.py:88"
-    },
-    {
-      "tag": "TODO",
-      "text": "id TEXT PRIMARY KEY,",
-      "file": "global_agent_network.py:89"
-    },
-    {
-      "tag": "TODO",
-      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
-      "file": "global_agent_network.py:229"
-    },
-    {
-      "tag": "TODO",
-      "text": "hash = sha256_text(title + details + str(priority))",
-      "file": "global_agent_network.py:715"
-    },
-    {
-      "tag": "TODO",
-      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
-      "file": "global_agent_network.py:716"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE (",
-      "file": "global_agent_network.py:720"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, title, details, priority, assigned_agent",
-      "file": "global_agent_network.py:721"
-    },
-    {
-      "tag": "TODO",
-      "text": "id, title, details, priority, assigned_agent),",
-      "file": "global_agent_network.py:725"
-    },
-    {
-      "tag": "TODO",
-      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
-      "file": "global_agent_network.py:727"
-    },
-    {
-      "tag": "TODO",
-      "text": "= add_todo(",
-      "file": "global_agent_network.py:847"
-    },
-    {
-      "tag": "TODO",
-      "text": "QUEUE\",",
-      "file": "global_agent_network.py:875"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "GITAUTOSHIP_SYNC_20260514.md:12"
-    },
-    {
-      "tag": "BUG",
-      "text": "l1-1-0.dll",
-      "file": "ViperNotes_SYNC_20260514.md:49"
-    },
-    {
-      "tag": "TODO",
-      "text": "& LOGIC GAPS",
-      "file": "ViperNotes_SYNC_20260514.md:510"
     },
     {
       "tag": "TODO",
@@ -15884,6 +13825,61 @@
       "file": "freetype.md:71"
     },
     {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:88"
+    },
+    {
+      "tag": "TODO",
+      "text": "id TEXT PRIMARY KEY,",
+      "file": "global_agent_network.py:89"
+    },
+    {
+      "tag": "TODO",
+      "text": "status_priority ON GLOBAL_TODO_QUEUE(status, priority);",
+      "file": "global_agent_network.py:229"
+    },
+    {
+      "tag": "TODO",
+      "text": "hash = sha256_text(title + details + str(priority))",
+      "file": "global_agent_network.py:715"
+    },
+    {
+      "tag": "TODO",
+      "text": "id = f\"TODO_{now_id()}_{todo_hash[:10]}\"",
+      "file": "global_agent_network.py:716"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE (",
+      "file": "global_agent_network.py:720"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent",
+      "file": "global_agent_network.py:721"
+    },
+    {
+      "tag": "TODO",
+      "text": "id, title, details, priority, assigned_agent),",
+      "file": "global_agent_network.py:725"
+    },
+    {
+      "tag": "TODO",
+      "text": "id\": todo_id, \"title\": title, \"priority\": priority}",
+      "file": "global_agent_network.py:727"
+    },
+    {
+      "tag": "TODO",
+      "text": "= add_todo(",
+      "file": "global_agent_network.py:847"
+    },
+    {
+      "tag": "TODO",
+      "text": "QUEUE\",",
+      "file": "global_agent_network.py:875"
+    },
+    {
       "tag": "BUG",
       "text": "fix\",",
       "file": "risc_bridge_server.py:84"
@@ -15940,13 +13936,13 @@
     },
     {
       "tag": "TODO",
-      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
-      "file": "sims1337_node_manager.py:23"
+      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
+      "file": "topology_sidecar.py:827"
     },
     {
       "tag": "TODO",
-      "text": "count\": len(re.findall(r\"\\b(?:TODO|FIXME|HACK)\\b\", text, fla",
-      "file": "topology_sidecar.py:827"
+      "text": "System\", \"tinyllama:1.1b\", \"Task queue parsing and prioritiz",
+      "file": "sims1337_node_manager.py:23"
     },
     {
       "tag": "BUG",
@@ -17013,8 +15009,8 @@
     },
     {
       "tag": "BUG",
-      "text": "to get right, and duplicating that here",
-      "file": "bdi_cell.py:95"
+      "text": "applied at scale.",
+      "file": "batch_layers.py:22"
     },
     {
       "tag": "TODO",
@@ -17090,336 +15086,6 @@
       "tag": "BUG",
       "text": "as above).",
       "file": "blueprint_orchestrator.py:247"
-    },
-    {
-      "tag": "BUG",
-      "text": "the test caught)",
-      "file": "code_assist.py:114"
-    },
-    {
-      "tag": "BUG",
-      "text": "say so once, loudly, then carry on",
-      "file": "combo_tournament.py:96"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "correctness_audit.py:118"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement\\n    pass\",",
-      "file": "cortex.py:318"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement\\n}}\",",
-      "file": "cortex.py:319"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement\\n}}\",",
-      "file": "cortex.py:320"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement\\n}}\",",
-      "file": "cortex.py:321"
-    },
-    {
-      "tag": "BUG",
-      "text": "and git",
-      "file": "curriculum.py:7"
-    },
-    {
-      "tag": "BUG",
-      "text": "into",
-      "file": "curriculum.py:150"
-    },
-    {
-      "tag": "BUG",
-      "text": "that made the house answer five",
-      "file": "curriculum.py:241"
-    },
-    {
-      "tag": "BUG",
-      "text": "why the path fails and verify it\"),",
-      "file": "curriculum.py:574"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "dag_exporter.py:166"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "email_command.py:269"
-    },
-    {
-      "tag": "TODO",
-      "text": "= uids[:limit]",
-      "file": "email_harvester.py:201"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "email_harvester.py:205"
-    },
-    {
-      "tag": "TODO",
-      "text": "/ intent extraction from self-sent emails \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "file": "email_harvester.py:302"
-    },
-    {
-      "tag": "TODO",
-      "text": "RE   = re.compile(r'(?im)^\\s*(TODO|FIXME|HACK|NOTE|REMIND(?:",
-      "file": "email_harvester.py:309"
-    },
-    {
-      "tag": "TODO",
-      "text": "RE.finditer(text):",
-      "file": "email_harvester.py:344"
-    },
-    {
-      "tag": "TODO",
-      "text": "= uids[:limit]",
-      "file": "email_harvester.py:521"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "email_harvester.py:528"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "email_harvester.py:596"
-    },
-    {
-      "tag": "BUG",
-      "text": "class (Chris's H0 homeostasis",
-      "file": "fabrication_scanner.py:2"
-    },
-    {
-      "tag": "BUG",
-      "text": "not a missing os.replace,",
-      "file": "fabrication_scanner.py:8"
-    },
-    {
-      "tag": "BUG",
-      "text": "this exact pattern caused: gui_commander.py's \"",
-      "file": "fabrication_scanner.py:154"
-    },
-    {
-      "tag": "BUG",
-      "text": "found this session --",
-      "file": "fabrication_scanner.py:175"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent\", \"todo_agent.jsonl\", 72)],",
-      "file": "factory_pulse.py:37"
-    },
-    {
-      "tag": "BUG",
-      "text": "\"def f(n): return n[n]\" \"f([1,2,3])\"",
-      "file": "foundry_debugger.py:17"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "free_thought.py:123"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler.py, not a replacement: that module",
-      "file": "gap_analyzer.py:4"
-    },
-    {
-      "tag": "TODO",
-      "text": "regex",
-      "file": "gap_analyzer.py:10"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate() already uses for TODO/FIXME/XXX/HACK -- del",
-      "file": "gap_analyzer.py:18"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent's SLM crew) can pick them up exactly like any other re",
-      "file": "gap_analyzer.py:21"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler's TODO fix (2026-07-26): the marker must be the actu",
-      "file": "gap_analyzer.py:58"
-    },
-    {
-      "tag": "HACK",
-      "text": "comment markers in any non-Python source file, anchored so p",
-      "file": "gap_analyzer.py:90"
-    },
-    {
-      "tag": "TODO",
-      "text": "label(gh_repo):",
-      "file": "gap_analyzer.py:154"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate()) never mis-sizes the work:",
-      "file": "gap_analyzer.py:165"
-    },
-    {
-      "tag": "TODO",
-      "text": "label(gh_repo)",
-      "file": "gap_analyzer.py:174"
-    },
-    {
-      "tag": "TODO",
-      "text": "= 0",
-      "file": "gap_analyzer.py:184"
-    },
-    {
-      "tag": "TODO",
-      "text": "+= 1",
-      "file": "gap_analyzer.py:194"
-    },
-    {
-      "tag": "TODO",
-      "text": "candidates\": len(result.get(\"source_stubs\", [])),",
-      "file": "gap_analyzer.py:209"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate()'s",
-      "file": "gap_analyzer.py:218"
-    },
-    {
-      "tag": "TODO",
-      "text": "label(gh_repo)",
-      "file": "gap_analyzer.py:224"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate()'s regex requires a real file:line structure",
-      "file": "gap_analyzer.py:255"
-    },
-    {
-      "tag": "TODO",
-      "text": "crawler's own real markers rather than inventing a second fo",
-      "file": "gap_analyzer.py:258"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.delegate(), pointed at the REAL local checkout via VIP",
-      "file": "gap_analyzer.py:290"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent.py\", \"delegate\", \"3\"],",
-      "file": "gap_analyzer.py:304"
-    },
-    {
-      "tag": "TODO",
-      "text": "implement caching\"))",
-      "file": "gap_analyzer.py:359"
-    },
-    {
-      "tag": "TODO",
-      "text": "| swallow | shell | eval",
-      "file": "genome.py:10"
-    },
-    {
-      "tag": "BUG",
-      "text": "and a fixable one.",
-      "file": "hero_kernel.py:844"
-    },
-    {
-      "tag": "TODO",
-      "text": "actual correlation from code_lineage",
-      "file": "hessian_pack.py:133"
-    },
-    {
-      "tag": "TODO",
-      "text": "query KG for coupled_nodes",
-      "file": "hessian_pack.py:234"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_command_center.py:483"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_project.py:182"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hex_signal.py:163"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hexeract.py:326"
-    },
-    {
-      "tag": "TODO",
-      "text": "into a candidate patch. Writes nothing to disk directly -- e",
-      "file": "hexeract_expand.py:67"
-    },
-    {
-      "tag": "BUG",
-      "text": "in the never_twice ledger, so a fixed \"",
-      "file": "hexeract_expand.py:82"
-    },
-    {
-      "tag": "BUG",
-      "text": "has something standing guard over it.\"),",
-      "file": "hexeract_expand.py:83"
-    },
-    {
-      "tag": "TODO",
-      "text": "grand_unifier\", \"orch\", 1, \"think\",",
-      "file": "hexeract_expand.py:188"
-    },
-    {
-      "tag": "TODO",
-      "text": "list assembled from blackboard, ledgers, hive, and this cata",
-      "file": "hexeract_expand.py:189"
-    },
-    {
-      "tag": "BUG",
-      "text": "has cost more time here than any other.\"),",
-      "file": "hexeract_expand.py:287"
-    },
-    {
-      "tag": "TODO",
-      "text": "= pending_proposals()",
-      "file": "hive_selfmod.py:134"
-    },
-    {
-      "tag": "TODO",
-      "text": "and not integrity_guard.kill_switch_active():",
-      "file": "hive_selfmod.py:136"
-    },
-    {
-      "tag": "TODO",
-      "text": "",
-      "file": "hive_selfmod.py:138"
-    },
-    {
-      "tag": "TODO",
-      "text": "agent): no-LLM self-test so quicktest can verify this module",
-      "file": "hourly_notice.py:210"
-    },
-    {
-      "tag": "BUG",
-      "text": "applied at scale.",
-      "file": "batch_layers.py:22"
     },
     {
       "tag": "BUG",
@@ -17625,6 +15291,336 @@
       "tag": "TODO",
       "text": "crawl (hourly)",
       "file": "burn_in.py:158"
+    },
+    {
+      "tag": "TODO",
+      "text": "(hourly) had each run TWICE in ten hours: never failing, so",
+      "file": "burn_in.py:159"
+    },
+    {
+      "tag": "BUG",
+      "text": "as a live PID",
+      "file": "cell_report.py:45"
+    },
+    {
+      "tag": "BUG",
+      "text": "this file shipped with, now nailed down --------------------",
+      "file": "cell_report.py:547"
+    },
+    {
+      "tag": "BUG",
+      "text": "does not live in any file, so no amount of reading a file fi",
+      "file": "clock_cycle.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver was budgeted 90s and took",
+      "file": "clock_cycle.py:25"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver case:",
+      "file": "clock_cycle.py:220"
+    },
+    {
+      "tag": "BUG",
+      "text": "the lock was",
+      "file": "clock_cycle.py:255"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver was given and blew through by 1441 seconds was a",
+      "file": "clock_cycle.py:364"
+    },
+    {
+      "tag": "BUG",
+      "text": "as reading a PID and calling it health.",
+      "file": "clock_cycle.py:683"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver on 2026-08-25: 1531s of wall, hero_kernel's ~1900MB r",
+      "file": "clock_cycle.py:870"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver_priced_to_ceiling\"] = period_for(heavy) == CEIL_S",
+      "file": "clock_cycle.py:873"
+    },
+    {
+      "tag": "BUG",
+      "text": "\u2014 todo_agent's deterministic fixers on any open GitHub issue",
+      "file": "contrib_engine.py:13"
+    },
+    {
+      "tag": "TODO",
+      "text": "list (the review/suggestion round).",
+      "file": "contrib_engine.py:14"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent's proven fixer),",
+      "file": "contrib_engine.py:230"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent",
+      "file": "contrib_engine.py:232"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent._fix_contract(path)                   # inserts the ge",
+      "file": "contrib_engine.py:239"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent) \u2014 commits + closes.\"\"\"",
+      "file": "contrib_engine.py:271"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent",
+      "file": "contrib_engine.py:273"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent.work(n=n)",
+      "file": "contrib_engine.py:274"
+    },
+    {
+      "tag": "TODO",
+      "text": "list.\"\"\"",
+      "file": "contrib_engine.py:282"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler",
+      "file": "contrib_engine.py:284"
+    },
+    {
+      "tag": "TODO",
+      "text": "crawler.sync()",
+      "file": "contrib_engine.py:285"
+    },
+    {
+      "tag": "BUG",
+      "text": "+ suggest interspersed. Chat-yielded, bounded.\"\"\"",
+      "file": "contrib_engine.py:308"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent.delegate()'s crew asks) should submit with priority=\"h",
+      "file": "conveyor.py:64"
+    },
+    {
+      "tag": "BUG",
+      "text": "and git",
+      "file": "curriculum.py:7"
+    },
+    {
+      "tag": "BUG",
+      "text": "into",
+      "file": "curriculum.py:150"
+    },
+    {
+      "tag": "BUG",
+      "text": "that made the house answer five",
+      "file": "curriculum.py:241"
+    },
+    {
+      "tag": "BUG",
+      "text": "why the path fails and verify it\"),",
+      "file": "curriculum.py:574"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent): no-LLM self-test so quicktest can verify this module",
+      "file": "dag_exporter.py:166"
+    },
+    {
+      "tag": "BUG",
+      "text": "this routing decision:\\nQuery: {query}\\nChosen agent: {agent",
+      "file": "db-init-prompts.py:96"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "db-init-prompts.py:351"
+    },
+    {
+      "tag": "BUG",
+      "text": "lived in one line here.",
+      "file": "dep_runtimes.py:170"
+    },
+    {
+      "tag": "BUG",
+      "text": "species.py census -- the first real instance it",
+      "file": "dep_runtimes.py:172"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent): no-LLM self-test so quicktest can verify this module",
+      "file": "e2e_summary.py:84"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_command.py:269"
+    },
+    {
+      "tag": "TODO",
+      "text": "= uids[:limit]",
+      "file": "email_harvester.py:201"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_harvester.py:205"
+    },
+    {
+      "tag": "TODO",
+      "text": "/ intent extraction from self-sent emails \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+      "file": "email_harvester.py:302"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE   = re.compile(r'(?im)^\\s*(TODO|FIXME|HACK|NOTE|REMIND(?:",
+      "file": "email_harvester.py:309"
+    },
+    {
+      "tag": "TODO",
+      "text": "RE.finditer(text):",
+      "file": "email_harvester.py:344"
+    },
+    {
+      "tag": "TODO",
+      "text": "= uids[:limit]",
+      "file": "email_harvester.py:521"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_harvester.py:528"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent): no-LLM self-test so quicktest can verify this module",
+      "file": "email_harvester.py:596"
+    },
+    {
+      "tag": "TODO",
+      "text": "is a POINTER (\"this message looks like it wants",
+      "file": "email_todo.py:15"
+    },
+    {
+      "tag": "TODO",
+      "text": "DAYS\", \"21\"))",
+      "file": "email_todo.py:51"
+    },
+    {
+      "tag": "TODO",
+      "text": "SCAN\", \"300\"))",
+      "file": "email_todo.py:52"
+    },
+    {
+      "tag": "TODO",
+      "text": "MIN_SCORE\", \"2.0\"))",
+      "file": "email_todo.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "OWNER\", \"chrisalunlloyd2@gmail.com\")",
+      "file": "email_todo.py:54"
+    },
+    {
+      "tag": "TODO",
+      "text": "(",
+      "file": "email_todo.py:94"
+    },
+    {
+      "tag": "TODO",
+      "text": "",
+      "file": "email_todo.py:212"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE status='pending'",
+      "file": "email_todo.py:236"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE status='pending'",
+      "file": "email_todo.py:259"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE status='pending'\").fetchone()[0]",
+      "file": "email_todo.py:278"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE status='quarantined'\").fetchone()[0]",
+      "file": "email_todo.py:279"
+    },
+    {
+      "tag": "TODO",
+      "text": "\")",
+      "file": "email_todo.py:296"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE sender='attacker@evil.com'\").fetchone()",
+      "file": "email_todo.py:328"
+    },
+    {
+      "tag": "TODO",
+      "text": "WHERE injection_risk=1 AND status='pending'\").fetchone()[0]",
+      "file": "email_todo.py:331"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent\", \"todo_agent.jsonl\", 72)],",
+      "file": "factory_pulse.py:37"
+    },
+    {
+      "tag": "BUG",
+      "text": "\"def f(n): return n[n]\" \"f([1,2,3])\"",
+      "file": "foundry_debugger.py:17"
+    },
+    {
+      "tag": "BUG",
+      "text": "closed GitHub issue #220",
+      "file": "foundry_loop.py:215"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver",
+      "file": "foundry_loop.py:227"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver._is_trivial(code):",
+      "file": "foundry_loop.py:228"
+    },
+    {
+      "tag": "TODO",
+      "text": "agent): no-LLM self-test so quicktest can verify this module",
+      "file": "free_thought.py:123"
+    },
+    {
+      "tag": "TODO",
+      "text": "| swallow | shell | eval",
+      "file": "genome.py:10"
+    },
+    {
+      "tag": "BUG",
+      "text": "that broke a real conveyor job twice this",
+      "file": "heartbeat_healer.py:249"
+    },
+    {
+      "tag": "TODO",
+      "text": "driver 95 while the healer checked databases, repos and log",
+      "file": "heartbeat_healer.py:290"
     }
   ],
   "viper-state": [
@@ -18579,24 +16575,9 @@
       "file": "scripts/convert_pt_to_hf.py:4"
     },
     {
-      "tag": "BUG",
-      "text": "specific ctest program.",
-      "file": "scripts/debug-test.sh:22"
-    },
-    {
-      "tag": "BUG",
-      "text": "specific ctest program.",
-      "file": "scripts/debug-test.sh:42"
-    },
-    {
-      "tag": "BUG",
-      "text": "DGGML_CUDA=1 || abort \"Failed to build environment\"",
-      "file": "scripts/debug-test.sh:112"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "scripts/debug-test.sh:171"
+      "tag": "TODO",
+      "text": "@ngxson : remove this when we support MTP for deepseek model",
+      "file": "scripts/deepseek.py:180"
     },
     {
       "tag": "FIXME",
@@ -18617,6 +16598,11 @@
       "tag": "BUG",
       "text": "if args.verbose else logging.INFO)",
       "file": "scripts/gguf_convert_endian.py:179"
+    },
+    {
+      "tag": "BUG",
+      "text": "if args.verbose else logging.INFO)",
+      "file": "scripts/gguf_new_metadata.py:123"
     },
     {
       "tag": "FIXME",
@@ -18679,26 +16665,6 @@
       "file": "scripts/gui_bridge_v2.py:266"
     },
     {
-      "tag": "BUG",
-      "text": "Manifested in core.\")",
-      "file": "scripts/injection_attack.py:18"
-    },
-    {
-      "tag": "FIXME",
-      "text": "",
-      "file": "scripts/internlm.py:52"
-    },
-    {
-      "tag": "HACK",
-      "text": "here and replace the \\x00 characters.",
-      "file": "scripts/internlm.py:53"
-    },
-    {
-      "tag": "TODO",
-      "text": "this is a hack, should be fixed",
-      "file": "scripts/internlm.py:138"
-    },
-    {
       "tag": "TODO",
       "text": "support \"uri\", \"email\" string formats",
       "file": "scripts/json_schema_to_grammar.py:215"
@@ -18740,8 +16706,43 @@
     },
     {
       "tag": "TODO",
-      "text": "fix this",
-      "file": "scripts/pydantic_models_to_grammar.py:20"
+      "text": "does this really matter?",
+      "file": "scripts/mamba.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "load adapter_config.json when possible, it usually contains ",
+      "file": "scripts/metadata.py:72"
+    },
+    {
+      "tag": "HACK",
+      "text": "to fix the Norway problem",
+      "file": "scripts/metadata.py:186"
+    },
+    {
+      "tag": "TODO",
+      "text": "should word-based size labels always be removed instead?",
+      "file": "scripts/metadata.py:325"
+    },
+    {
+      "tag": "TODO",
+      "text": "should the basename version always be excluded?",
+      "file": "scripts/metadata.py:354"
+    },
+    {
+      "tag": "TODO",
+      "text": "remove this once everyone migrates to newer version of llama",
+      "file": "scripts/mistral.py:34"
+    },
+    {
+      "tag": "BUG",
+      "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
+      "file": "scripts/prompt_evolver.py:90"
+    },
+    {
+      "tag": "BUG",
+      "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
+      "file": "scripts/prompt_evolver.py:92"
     },
     {
       "tag": "TODO",
@@ -18749,9 +16750,24 @@
       "file": "scripts/refact.py:18"
     },
     {
-      "tag": "TODO",
-      "text": "@ngxson : remove this when we support MTP for deepseek model",
-      "file": "scripts/deepseek.py:180"
+      "tag": "BUG",
+      "text": "specific ctest program.",
+      "file": "scripts/debug-test.sh:22"
+    },
+    {
+      "tag": "BUG",
+      "text": "specific ctest program.",
+      "file": "scripts/debug-test.sh:42"
+    },
+    {
+      "tag": "BUG",
+      "text": "DGGML_CUDA=1 || abort \"Failed to build environment\"",
+      "file": "scripts/debug-test.sh:112"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/debug-test.sh:171"
     },
     {
       "tag": "BUG",
@@ -18771,11 +16787,6 @@
     {
       "tag": "BUG",
       "text": "if args.verbose else logging.INFO)",
-      "file": "scripts/gguf_new_metadata.py:123"
-    },
-    {
-      "tag": "BUG",
-      "text": "if args.verbose else logging.INFO)",
       "file": "scripts/gguf_set_metadata.py:87"
     },
     {
@@ -18787,6 +16798,26 @@
       "tag": "TODO",
       "text": "this is an assert in Qwen, why?",
       "file": "scripts/hunyuan.py:38"
+    },
+    {
+      "tag": "BUG",
+      "text": "Manifested in core.\")",
+      "file": "scripts/injection_attack.py:18"
+    },
+    {
+      "tag": "FIXME",
+      "text": "",
+      "file": "scripts/internlm.py:52"
+    },
+    {
+      "tag": "HACK",
+      "text": "here and replace the \\x00 characters.",
+      "file": "scripts/internlm.py:53"
+    },
+    {
+      "tag": "TODO",
+      "text": "this is a hack, should be fixed",
+      "file": "scripts/internlm.py:138"
     },
     {
       "tag": "BUG",
@@ -18844,34 +16875,144 @@
       "file": "scripts/loom.sh:9"
     },
     {
-      "tag": "TODO",
-      "text": "does this really matter?",
-      "file": "scripts/mamba.py:148"
+      "tag": "BUG",
+      "text": "= True",
+      "file": "scripts/test_kv_keep_only_active.py:29"
     },
     {
       "tag": "TODO",
-      "text": "load adapter_config.json when possible, it usually contains ",
-      "file": "scripts/metadata.py:72"
-    },
-    {
-      "tag": "HACK",
-      "text": "to fix the Norway problem",
-      "file": "scripts/metadata.py:186"
+      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
+      "file": "scripts/test_lora.py:59"
     },
     {
       "tag": "TODO",
-      "text": "should word-based size labels always be removed instead?",
-      "file": "scripts/metadata.py:325"
+      "text": "find & add other lora adapters for this model",
+      "file": "scripts/test_lora.py:82"
     },
     {
       "tag": "TODO",
-      "text": "should the basename version always be excluded?",
-      "file": "scripts/metadata.py:354"
+      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
+      "file": "scripts/test_lora.py:108"
     },
     {
       "tag": "TODO",
-      "text": "remove this once everyone migrates to newer version of llama",
-      "file": "scripts/mistral.py:34"
+      "text": "hf suffix which could be ignored but isn't",
+      "file": "scripts/test_metadata.py:110"
+    },
+    {
+      "tag": "TODO",
+      "text": "DPO in the name",
+      "file": "scripts/test_metadata.py:142"
+    },
+    {
+      "tag": "TODO",
+      "text": "should \"base\" be a 'finetune' or 'size_label'?",
+      "file": "scripts/test_metadata.py:151"
+    },
+    {
+      "tag": "TODO",
+      "text": "this needs to be fixed",
+      "file": "scripts/tts-outetts.py:123"
+    },
+    {
+      "tag": "TODO",
+      "text": "load from json",
+      "file": "scripts/tts-outetts.py:148"
+    },
+    {
+      "tag": "TODO",
+      "text": "tokenization is slow for some reason - here is pre-tokenized",
+      "file": "scripts/tts-outetts.py:181"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/ = {",
+      "file": "scripts/validate-ios.sh:376"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = dwarf;",
+      "file": "scripts/validate-ios.sh:410"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = INCLUDE_SOURCE;",
+      "file": "scripts/validate-ios.sh:428"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = \"dwarf-with-dsym\";",
+      "file": "scripts/validate-ios.sh:471"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = NO;",
+      "file": "scripts/validate-ios.sh:483"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/ = {",
+      "file": "scripts/validate-ios.sh:492"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/,",
+      "file": "scripts/validate-ios.sh:548"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/,",
+      "file": "scripts/validate-ios.sh:557"
+    },
+    {
+      "tag": "BUG",
+      "text": "hook, save_output_data",
+      "file": "scripts/run-org-model.py:14"
+    },
+    {
+      "tag": "BUG",
+      "text": "output\")",
+      "file": "scripts/run-org-model.py:20"
+    },
+    {
+      "tag": "BUG",
+      "text": "hook(name))",
+      "file": "scripts/run-org-model.py:101"
+    },
+    {
+      "tag": "BUG",
+      "text": "if verbose else logging.INFO,",
+      "file": "scripts/test-deepseek-ocr.py:157"
+    },
+    {
+      "tag": "TODO",
+      "text": "fix these (wrong results, either didn't respect decimal inst",
+      "file": "scripts/test_tool_call.py:442"
+    },
+    {
+      "tag": "TODO",
+      "text": "handle request errors (maybe with limited retries?)",
+      "file": "scripts/utility.py:87"
+    },
+    {
+      "tag": "BUG",
+      "text": "bool = False",
+      "file": "scripts/utils.py:49"
+    },
+    {
+      "tag": "BUG",
+      "text": "= True",
+      "file": "scripts/utils.py:121"
+    },
+    {
+      "tag": "BUG",
+      "text": "EXTERNAL\" in os.environ",
+      "file": "scripts/utils.py:124"
+    },
+    {
+      "tag": "BUG",
+      "text": "",
+      "file": "scripts/utils.py:215"
     },
     {
       "tag": "TODO",
@@ -18985,83 +17126,18 @@
     },
     {
       "tag": "BUG",
-      "text": "if args.verbose else logging.INFO)",
-      "file": "scripts/test-tokenizer-random.py:489"
+      "text": "",
+      "file": "scripts/start-svr.sh:30"
     },
     {
-      "tag": "BUG",
-      "text": "*/ = {",
-      "file": "scripts/validate-visionos.sh:365"
+      "tag": "HACK",
+      "text": "\"${cmd}\" --each-feature --optional-deps",
+      "file": "scripts/test-stable.sh:10"
     },
     {
-      "tag": "BUG",
-      "text": "INFORMATION_FORMAT = dwarf;",
-      "file": "scripts/validate-visionos.sh:399"
-    },
-    {
-      "tag": "BUG",
-      "text": "INFO = INCLUDE_SOURCE;",
-      "file": "scripts/validate-visionos.sh:416"
-    },
-    {
-      "tag": "BUG",
-      "text": "INFORMATION_FORMAT = \"dwarf-with-dsym\";",
-      "file": "scripts/validate-visionos.sh:460"
-    },
-    {
-      "tag": "BUG",
-      "text": "INFO = NO;",
-      "file": "scripts/validate-visionos.sh:471"
-    },
-    {
-      "tag": "BUG",
-      "text": "*/ = {",
-      "file": "scripts/validate-visionos.sh:481"
-    },
-    {
-      "tag": "BUG",
-      "text": "*/,",
-      "file": "scripts/validate-visionos.sh:539"
-    },
-    {
-      "tag": "BUG",
-      "text": "*/,",
-      "file": "scripts/validate-visionos.sh:548"
-    },
-    {
-      "tag": "BUG",
-      "text": "Task: {task['page']}, AST: {ast_ok}, NoYap: {no_yap}, Len: {",
-      "file": "scripts/prompt_evolver.py:90"
-    },
-    {
-      "tag": "BUG",
-      "text": "Raw Code Snippet (first 50 chars): {repr(code[:50])}\")",
-      "file": "scripts/prompt_evolver.py:92"
-    },
-    {
-      "tag": "BUG",
-      "text": "= True  # to get the \"__verbose\" object in the response",
-      "file": "scripts/test_chat_completion.py:145"
-    },
-    {
-      "tag": "BUG",
-      "text": "= True  # to get the \"__verbose\" object in the response",
-      "file": "scripts/test_chat_completion.py:167"
-    },
-    {
-      "tag": "BUG",
-      "text": "= True",
-      "file": "scripts/test_chat_completion.py:188"
-    },
-    {
-      "tag": "BUG",
-      "text": "= True",
-      "file": "scripts/test_chat_completion.py:275"
-    },
-    {
-      "tag": "TODO",
-      "text": "should not be a valid case",
-      "file": "scripts/test_chat_completion.py:317"
+      "tag": "HACK",
+      "text": "remove-dev-deps --workspace",
+      "file": "scripts/test-stable.sh:21"
     },
     {
       "tag": "BUG",
@@ -19075,131 +17151,6 @@
     },
     {
       "tag": "TODO",
-      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
-      "file": "scripts/test_completion.py:163"
-    },
-    {
-      "tag": "TODO",
-      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
-      "file": "scripts/test_completion.py:181"
-    },
-    {
-      "tag": "TODO",
-      "text": "figure why it don't work with temperature = 1",
-      "file": "scripts/test_completion.py:187"
-    },
-    {
-      "tag": "TODO",
-      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
-      "file": "scripts/test_completion.py:201"
-    },
-    {
-      "tag": "FIXME",
-      "text": "the result is not deterministic when using other slot than s",
-      "file": "scripts/test_completion.py:369"
-    },
-    {
-      "tag": "TODO",
-      "text": "fix these (wrong results, either didn't respect decimal inst",
-      "file": "scripts/test_tool_call.py:442"
-    },
-    {
-      "tag": "TODO",
-      "text": "this needs to be fixed",
-      "file": "scripts/tts-outetts.py:123"
-    },
-    {
-      "tag": "TODO",
-      "text": "load from json",
-      "file": "scripts/tts-outetts.py:148"
-    },
-    {
-      "tag": "TODO",
-      "text": "tokenization is slow for some reason - here is pre-tokenized",
-      "file": "scripts/tts-outetts.py:181"
-    },
-    {
-      "tag": "TODO",
-      "text": "handle request errors (maybe with limited retries?)",
-      "file": "scripts/utility.py:87"
-    },
-    {
-      "tag": "TODO",
-      "text": "internally store as the new format instead of converting to ",
-      "file": "scripts/vocab.py:163"
-    },
-    {
-      "tag": "FIXME",
-      "text": "Verify that added tokens here _cannot_ overlap with the main",
-      "file": "scripts/vocab.py:369"
-    },
-    {
-      "tag": "BUG",
-      "text": "j8",
-      "file": "scripts/run-converted-model-embeddings-logits.sh:21"
-    },
-    {
-      "tag": "BUG",
-      "text": "m $CONVERTED_MODEL --embedding -p \"Hello world today\" --save",
-      "file": "scripts/run-converted-model-embeddings-logits.sh:23"
-    },
-    {
-      "tag": "BUG",
-      "text": "hook, save_output_data",
-      "file": "scripts/run-org-model.py:14"
-    },
-    {
-      "tag": "BUG",
-      "text": "output\")",
-      "file": "scripts/run-org-model.py:20"
-    },
-    {
-      "tag": "BUG",
-      "text": "hook(name))",
-      "file": "scripts/run-org-model.py:101"
-    },
-    {
-      "tag": "BUG",
-      "text": "",
-      "file": "scripts/start-svr.sh:30"
-    },
-    {
-      "tag": "BUG",
-      "text": "= True",
-      "file": "scripts/test_kv_keep_only_active.py:29"
-    },
-    {
-      "tag": "TODO",
-      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
-      "file": "scripts/test_lora.py:59"
-    },
-    {
-      "tag": "TODO",
-      "text": "find & add other lora adapters for this model",
-      "file": "scripts/test_lora.py:82"
-    },
-    {
-      "tag": "TODO",
-      "text": "remove this once test_cache_vs_nocache_prompt is fixed",
-      "file": "scripts/test_lora.py:108"
-    },
-    {
-      "tag": "TODO",
-      "text": "hf suffix which could be ignored but isn't",
-      "file": "scripts/test_metadata.py:110"
-    },
-    {
-      "tag": "TODO",
-      "text": "DPO in the name",
-      "file": "scripts/test_metadata.py:142"
-    },
-    {
-      "tag": "TODO",
-      "text": "should \"base\" be a 'finetune' or 'size_label'?",
-      "file": "scripts/test_metadata.py:151"
-    },
-    {
-      "tag": "TODO",
       "text": "is a column-wise sum of squares appropriate?",
       "file": "scripts/test_quants.py:108"
     },
@@ -19210,28 +17161,73 @@
     },
     {
       "tag": "BUG",
-      "text": "bool = False",
-      "file": "scripts/utils.py:49"
-    },
-    {
-      "tag": "BUG",
       "text": "= True",
-      "file": "scripts/utils.py:121"
+      "file": "scripts/tool_bench.py:335"
     },
     {
       "tag": "BUG",
-      "text": "EXTERNAL\" in os.environ",
-      "file": "scripts/utils.py:124"
+      "text": "*/ = {",
+      "file": "scripts/validate-macos.sh:372"
     },
     {
       "tag": "BUG",
-      "text": "",
-      "file": "scripts/utils.py:215"
+      "text": "INFORMATION_FORMAT = dwarf;",
+      "file": "scripts/validate-macos.sh:406"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = INCLUDE_SOURCE;",
+      "file": "scripts/validate-macos.sh:424"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = \"dwarf-with-dsym\";",
+      "file": "scripts/validate-macos.sh:467"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = NO;",
+      "file": "scripts/validate-macos.sh:479"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/ = {",
+      "file": "scripts/validate-macos.sh:487"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/,",
+      "file": "scripts/validate-macos.sh:545"
+    },
+    {
+      "tag": "BUG",
+      "text": "*/,",
+      "file": "scripts/validate-macos.sh:554"
     },
     {
       "tag": "BUG",
       "text": "*/ = {",
       "file": "scripts/validate-tvos.sh:369"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = dwarf;",
+      "file": "scripts/validate-tvos.sh:403"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = INCLUDE_SOURCE;",
+      "file": "scripts/validate-tvos.sh:421"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFORMATION_FORMAT = \"dwarf-with-dsym\";",
+      "file": "scripts/validate-tvos.sh:464"
+    },
+    {
+      "tag": "BUG",
+      "text": "INFO = NO;",
+      "file": "scripts/validate-tvos.sh:476"
     }
   ],
   "VoiceHex": [
