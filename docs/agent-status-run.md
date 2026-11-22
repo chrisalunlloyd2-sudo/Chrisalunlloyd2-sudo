@@ -17,3 +17,7 @@
 ## Pulse 2026-11-21T22:26Z (heartbeat rotation: agent-status)
 - Regenerated locally: assets/agent-status.svg (workflow path) from state_snapshot/db_metrics.json + live UTC timestamp.
 - Result: XML-validated; slot 5/13 in this rotation cycle. ADD-only receipt.
+
+## Pulse 2026-11-22T08:30:45Z (heartbeat rotation: agent-status)
+- Regenerated assets/agent-status.svg per disabled agent-status.yml template (suite: 672, corpus: passed 72.6s 1444).
+- ADD-only receipt, alice heartbeat.

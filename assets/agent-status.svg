@@ -13,10 +13,10 @@
       <div class="box">
         <div class="status-row">
           <span class="title"><span class="dot"></span> KERNEL STATUS: ONLINE</span>
-          <span class="meta">SUITE: 672 passed 72.6s</span>
+          <span class="meta">SUITE: 672</span>
         </div>
-        <div class="meta">LAST HEARTBEAT: 2026-11-21 22:26 UTC</div>
-        <div class="meta">CORPUS: 1444 lines • BDI-FSM • Sophia logic • Enigma rotors</div>
+        <div class="meta">LAST HEARTBEAT: 2026-11-22 08:30 UTC</div>
+        <div class="meta">CORPUS: passed 72.6s 1444 lines • BDI-FSM • Sophia logic • Enigma rotors</div>
       </div>
     </div>
   </foreignObject>
