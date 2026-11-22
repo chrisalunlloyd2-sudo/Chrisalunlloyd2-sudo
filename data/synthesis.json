@@ -1,37 +1,320 @@
 {
-  "total_repos": 66,
-  "cross_links": 67,
-  "domains": {
+  "total_repos": 67,
+  "cross_links": [
+    {
+      "source": "Aegis_Agents",
+      "target": "MasterLogs",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Agent/BDI",
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "Aegis_Agents",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "MATRIX_GEN8_HOME",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MasterLogs",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    },
+    {
+      "source": "MATRIX_GEN8_HOME",
+      "target": "mind-palace",
+      "domains": [
+        "Telemetry"
+      ]
+    }
+  ],
+  "next_actions": [
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "aegis-fleet-docs",
+      "task": "fixed 2026-08-09.)",
+      "location": "WORKFLOW.md:30",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode')",
+      "location": "karoo_gp/pause.py:40",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "display mode engaged (for evolutionary biologists)')",
+      "location": "karoo_gp/pause.py:75",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis-GAN-OTG",
+      "task": "or set expected output for tests",
+      "location": "karoo_gp/test/util.py:42",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis_Agents",
+      "task": "LOGGING",
+      "location": "gemini_bridge_api.py:884",
+      "domains": [
+        "Agent/BDI",
+        "Telemetry"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis_Unified",
+      "task": "\u00b7 2 repos with uncommitted work |",
+      "location": "FORWARD-PLAN.md:10",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "Aegis_Unified",
+      "task": "2026-08-16).",
+      "location": "self_extend.py:77",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_013201.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_013201.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_031404.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_031404.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_032809.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_032809.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_085840.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_085840.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_090830.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_090830.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_112319.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_112319.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_113636.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_113636.py:16",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "species.py scan epmo_cadence` -- the boolean for this specie",
+      "location": "mined/mined_00fe2a86_114800.py:2",
+      "domains": [
+        "General"
+      ]
+    },
+    {
+      "priority": 1,
+      "tag": "BUG",
+      "repo": "agent-squiggly",
+      "task": "10 times now im detecting a pattern in your",
+      "location": "mined/mined_00fe2a86_114800.py:16",
+      "domains": [
+        "General"
+      ]
+    }
+  ],
+  "unified_stack": {
     "Database": [],
     "Orchestration": [
-      "Kernel_Pedagogy",
-      "mindpalace"
+      "Kernel_Pedagogy"
     ],
     "Agent/BDI": [
       "Aegis_Agents",
-      "Chrisalunlloyd2-sudo",
-      "Machine2",
-      "MatrixCE_GUI",
-      "mindpalace",
-      "openrouter_manager"
+      "MATRIX_GEN8_HOME"
     ],
     "API/Web": [
-      "MatrixCE_GUI",
-      "openrouter_manager"
+      "MATRIX_GEN8_HOME"
     ],
     "Telemetry": [
       "Aegis_Agents",
-      "Chrisalunlloyd2-sudo",
-      "H2OIDE",
-      "H2OMatrixCE",
-      "Machine2",
       "MasterLogs",
-      "MatrixCE_GUI",
-      "Nova",
-      "mind-palace",
-      "mindpalace",
-      "openrouter_manager",
-      "sims-javafx-neo"
+      "MATRIX_GEN8_HOME",
+      "mind-palace"
     ]
   }
 }

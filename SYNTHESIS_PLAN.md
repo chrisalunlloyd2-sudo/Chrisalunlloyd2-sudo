@@ -1,65 +1,16 @@
 # 🌐 Multi-Repo Unified Synthesis & Next Steps
 
-> Automated correlation report generated for Kernel BDI execution loops.
+> Automated correlation report generated for Kernel BDI execution loops. (local run by Alice — Action disabled 2026-11-12)
 
 ### 🔗 Cross-Repository Domain Correlations
 | Source Repo | Target Repo | Shared Domains |
 | :--- | :--- | :--- |
-| `Aegis_Agents` | `Chrisalunlloyd2-sudo` | Agent/BDI, Telemetry |
-| `Aegis_Agents` | `Machine2` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `MasterLogs` | Telemetry |
-| `Aegis_Agents` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
 | `Aegis_Agents` | `mind-palace` | Telemetry |
-| `Aegis_Agents` | `Nova` | Telemetry |
-| `Aegis_Agents` | `openrouter_manager` | Agent/BDI, Telemetry |
-| `Aegis_Agents` | `sims-java-neo-fx` | Telemetry |
-| `Aegis_Agents` | `sims-javafx-neo` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `Machine2` | Agent/BDI, Telemetry |
-| `Chrisalunlloyd2-sudo` | `MasterLogs` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
-| `Chrisalunlloyd2-sudo` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
-| `Chrisalunlloyd2-sudo` | `mind-palace` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `Nova` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `openrouter_manager` | Agent/BDI, Telemetry |
-| `Chrisalunlloyd2-sudo` | `sims-java-neo-fx` | Telemetry |
-| `Chrisalunlloyd2-sudo` | `sims-javafx-neo` | Telemetry |
-| `Machine2` | `MasterLogs` | Telemetry |
-| `Machine2` | `MatrixCE_GUI` | Agent/BDI, Telemetry |
-| `Machine2` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry |
-| `Machine2` | `mind-palace` | Telemetry |
-| `Machine2` | `Nova` | Telemetry |
-| `Machine2` | `openrouter_manager` | Agent/BDI, Telemetry |
-| `Machine2` | `sims-java-neo-fx` | Telemetry |
-| `Machine2` | `sims-javafx-neo` | Telemetry |
-| `MasterLogs` | `MatrixCE_GUI` | Telemetry |
 | `MasterLogs` | `MATRIX_GEN8_HOME` | Telemetry |
 | `MasterLogs` | `mind-palace` | Telemetry |
-| `MasterLogs` | `Nova` | Telemetry |
-| `MasterLogs` | `openrouter_manager` | Telemetry |
-| `MasterLogs` | `sims-java-neo-fx` | Telemetry |
-| `MasterLogs` | `sims-javafx-neo` | Telemetry |
-| `MatrixCE_GUI` | `MATRIX_GEN8_HOME` | Agent/BDI, Telemetry, API/Web |
-| `MatrixCE_GUI` | `mind-palace` | Telemetry |
-| `MatrixCE_GUI` | `Nova` | Telemetry |
-| `MatrixCE_GUI` | `openrouter_manager` | Agent/BDI, Telemetry, API/Web |
-| `MatrixCE_GUI` | `sims-java-neo-fx` | Telemetry |
-| `MatrixCE_GUI` | `sims-javafx-neo` | Telemetry |
 | `MATRIX_GEN8_HOME` | `mind-palace` | Telemetry |
-| `MATRIX_GEN8_HOME` | `Nova` | Telemetry |
-| `MATRIX_GEN8_HOME` | `openrouter_manager` | Agent/BDI, Telemetry, API/Web |
-| `MATRIX_GEN8_HOME` | `sims-java-neo-fx` | Telemetry |
-| `MATRIX_GEN8_HOME` | `sims-javafx-neo` | Telemetry |
-| `mind-palace` | `Nova` | Telemetry |
-| `mind-palace` | `openrouter_manager` | Telemetry |
-| `mind-palace` | `sims-java-neo-fx` | Telemetry |
-| `mind-palace` | `sims-javafx-neo` | Telemetry |
-| `Nova` | `openrouter_manager` | Telemetry |
-| `Nova` | `sims-java-neo-fx` | Telemetry |
-| `Nova` | `sims-javafx-neo` | Telemetry |
-| `openrouter_manager` | `sims-java-neo-fx` | Telemetry |
-| `openrouter_manager` | `sims-javafx-neo` | Telemetry |
-| `sims-java-neo-fx` | `sims-javafx-neo` | Telemetry |
 
 ### ⚡ Prioritized Execution Queue (Next Steps)
 - 🔴 **[BUG]** `aegis-fleet-docs` → fixed 2026-08-09.) *(WORKFLOW.md:30)*
@@ -69,11 +20,11 @@
 - 🔴 **[BUG]** `Aegis_Agents` → LOGGING *(gemini_bridge_api.py:884)*
 - 🔴 **[BUG]** `Aegis_Unified` → · 2 repos with uncommitted work | *(FORWARD-PLAN.md:10)*
 - 🔴 **[BUG]** `Aegis_Unified` → 2026-08-16). *(self_extend.py:77)*
-- 🔴 **[BUG]** `Alice` → Cube**: Red cube deployed to test Three.js rendering. *(CHANGELOG.md:44)*
-- 🔴 **[BUG]** `Alice` → before it fired | *(NECTAR.md:27)*
-- 🔴 **[BUG]** `Alice` → noted); verdict held for 07:05 recheck task; candidate class *(notes/breaches_2026-10-01.md:24)*
-- 🔴 **[BUG]** `Alice` → not engaged). THREE-PROBE CONCORDANCE: 1196 tasklist = 1196  *(notes/breaches_2026-10-01.md:26)*
-- 🔴 **[BUG]** `Alice` → 83164 caught: *(notes/mail_probe.js:5)*
-- 🔴 **[BUG]** `Alice` → (fz00008). *(notes/py4qwhip_rulings_2026-10-16.md:4)*
-- 🔴 **[BUG]** `Alice` → (require() vs String()); error WITHOUT the value = transport *(notes/tool_armor_index.md:17)*
-- 🔴 **[BUG]** `Alice` → filed); free RAM 2738MB = 334MB under floor JUDGE=BREACH so  *(notes/weekly_stats_W40.md:67)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_013201.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_013201.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_031404.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_031404.py:16)*
+- 🔴 **[BUG]** `agent-squiggly` → species.py scan epmo_cadence` -- the boolean for this specie *(mined/mined_00fe2a86_032809.py:2)*
+- 🔴 **[BUG]** `agent-squiggly` → 10 times now im detecting a pattern in your *(mined/mined_00fe2a86_032809.py:16)*

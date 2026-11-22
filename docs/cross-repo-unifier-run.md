@@ -81,3 +81,8 @@
 - **Agent/BDI** (6): `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `Machine2`, `MatrixCE_GUI`, `mindpalace`, `openrouter_manager`
 - **API/Web** (2): `MatrixCE_GUI`, `openrouter_manager`
 - **Telemetry** (12): `Aegis_Agents`, `Chrisalunlloyd2-sudo`, `H2OIDE`, `H2OMatrixCE`, `Machine2`, `MasterLogs`, `MatrixCE_GUI`, `Nova`, `mind-palace`, `mindpalace`, `openrouter_manager`, `sims-javafx-neo`
+
+### cross-repo-unifier regen 2026-11-22T12:58Z
+- regenerated SYNTHESIS_PLAN.md + data/synthesis.json + assets/synthesis/unified_dag.svg via scripts/synthesis_local.py (local replay of disabled cross-repo-unifier.yml)
+- result: repos=67, cross-links=6, actions=1169, stacked=8; SVG 52063 B (dot RC=0); inputs = live repo API + data/siphoned_todos.json (rewritten 03:00Z hex slot)
+- alice heartbeat rotation slot (one of 13)
