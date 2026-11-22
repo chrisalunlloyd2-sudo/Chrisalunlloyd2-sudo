@@ -30,3 +30,8 @@ note: deterministic real data replaces np.random.randint noise of the disabled w
 - Result: activity matrix total_weight=157, max_cell=39; top triggers: done=39, pass=16, fail=4, give_up=3. Deterministic real data — the disabled workflow's np.random.randint noise stays retired; matplotlib 3.6.3 via Agg.
 - Output: `docs/assets/agent/fsm_density.svg` (42128 B, minidom-validated; mirror at `assets/agent/fsm_density.svg`). Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
 - Workflow fsm-telemetry-plot.yml remains disabled; regen owned by Alice on heartbeat rotation.
+
+### fsm-telemetry-plot slot local regen 2026-11-22T00:08:51Z
+- regenerated assets/agent/fsm_density.svg + docs/assets/fsm_density.svg from fsm/states.puml (live parse, deterministic md5 counts)
+- states=8 edges=19; replaces disabled fsm-telemetry-plot.yml (original used np.random — now reproducible)
+- alice heartbeat rotation slot (one of 13)

@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="568" height="578" viewBox="0 0 568 578">
+<rect width="568" height="578" fill="#0d1117"/>
+<text x="170" y="34" fill="#58a6ff" font-family="monospace" font-size="17">Kernel FSM Transition Density (deterministic, from fsm/states.puml)</text>
+<text x="170" y="58" fill="#8b949e" font-family="monospace" font-size="12">2026-11-22T00:08:51Z  states=8 edges=18  replaces disabled fsm-telemetry-plot.yml (was np.random) </text>
+<text x="210" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 210 132)">IDLE</text>
+<text x="256" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 256 132)">BLOCKED</text>
+<text x="302" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 302 132)">COMMIT</text>
+<text x="348" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 348 132)">EVALUATE</text>
+<text x="394" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 394 132)">PLATEAU</text>
+<text x="440" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 440 132)">SYNTHESIZE</text>
+<text x="486" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 486 132)">VERIFY</text>
+<text x="532" y="132" fill="#c9d1d9" font-family="monospace" font-size="11" text-anchor="end" transform="rotate(-45 532 132)">WAIT_AEGIS</text>
+<text x="162" y="167.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">IDLE</text>
+<rect x="170" y="140" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="192.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="216" y="140" width="44" height="44" fill="#131219" rx="3"/>
+<text x="238.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">2</text>
+<rect x="262" y="140" width="44" height="44" fill="#21141d" rx="3"/>
+<text x="284.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">6</text>
+<rect x="308" y="140" width="44" height="44" fill="#2e1621" rx="3"/>
+<text x="330.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">10</text>
+<rect x="354" y="140" width="44" height="44" fill="#0d1117" rx="3"/>
+<text x="376.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">0</text>
+<rect x="400" y="140" width="44" height="44" fill="#0d1117" rx="3"/>
+<text x="422.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">0</text>
+<rect x="446" y="140" width="44" height="44" fill="#2e1621" rx="3"/>
+<text x="468.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">10</text>
+<rect x="492" y="140" width="44" height="44" fill="#21141d" rx="3"/>
+<text x="514.0" y="166.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">6</text>
+<text x="162" y="213.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">BLOCKED</text>
+<rect x="170" y="186" width="44" height="44" fill="#6d1f34" rx="3"/>
+<text x="192.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">29</text>
+<rect x="216" y="186" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="238.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="262" y="186" width="44" height="44" fill="#0d1117" rx="3"/>
+<text x="284.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">0</text>
+<rect x="308" y="186" width="44" height="44" fill="#24141e" rx="3"/>
+<text x="330.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">7</text>
+<rect x="354" y="186" width="44" height="44" fill="#311622" rx="3"/>
+<text x="376.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">11</text>
+<rect x="400" y="186" width="44" height="44" fill="#311622" rx="3"/>
+<text x="422.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">11</text>
+<rect x="446" y="186" width="44" height="44" fill="#0d1117" rx="3"/>
+<text x="468.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">0</text>
+<rect x="492" y="186" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="514.0" y="212.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<text x="162" y="259.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">COMMIT</text>
+<rect x="170" y="232" width="44" height="44" fill="#491a29" rx="3"/>
+<text x="192.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">18</text>
+<rect x="216" y="232" width="44" height="44" fill="#24141e" rx="3"/>
+<text x="238.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">7</text>
+<rect x="262" y="232" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="284.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="308" y="232" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="330.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<rect x="354" y="232" width="44" height="44" fill="#1d131c" rx="3"/>
+<text x="376.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">5</text>
+<rect x="400" y="232" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="422.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<rect x="446" y="232" width="44" height="44" fill="#311622" rx="3"/>
+<text x="468.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">11</text>
+<rect x="492" y="232" width="44" height="44" fill="#6d1f34" rx="3"/>
+<text x="514.0" y="258.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">29</text>
+<text x="162" y="305.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">EVALUATE</text>
+<rect x="170" y="278" width="44" height="44" fill="#131219" rx="3"/>
+<text x="192.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">2</text>
+<rect x="216" y="278" width="44" height="44" fill="#451928" rx="3"/>
+<text x="238.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">17</text>
+<rect x="262" y="278" width="44" height="44" fill="#351723" rx="3"/>
+<text x="284.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">12</text>
+<rect x="308" y="278" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="330.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="354" y="278" width="44" height="44" fill="#782254" rx="3"/>
+<text x="376.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">33</text>
+<rect x="400" y="278" width="44" height="44" fill="#351723" rx="3"/>
+<text x="422.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">12</text>
+<rect x="446" y="278" width="44" height="44" fill="#131219" rx="3"/>
+<text x="468.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">2</text>
+<rect x="492" y="278" width="44" height="44" fill="#17121a" rx="3"/>
+<text x="514.0" y="304.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">3</text>
+<text x="162" y="351.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">PLATEAU</text>
+<rect x="170" y="324" width="44" height="44" fill="#631e31" rx="3"/>
+<text x="192.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">26</text>
+<rect x="216" y="324" width="44" height="44" fill="#2b1520" rx="3"/>
+<text x="238.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">9</text>
+<rect x="262" y="324" width="44" height="44" fill="#6a1f33" rx="3"/>
+<text x="284.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">28</text>
+<rect x="308" y="324" width="44" height="44" fill="#4c1a2a" rx="3"/>
+<text x="330.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">19</text>
+<rect x="354" y="324" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="376.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="400" y="324" width="44" height="44" fill="#311622" rx="3"/>
+<text x="422.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">11</text>
+<rect x="446" y="324" width="44" height="44" fill="#2e1621" rx="3"/>
+<text x="468.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">10</text>
+<rect x="492" y="324" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="514.0" y="350.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<text x="162" y="397.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">SYNTHESIZE</text>
+<rect x="170" y="370" width="44" height="44" fill="#21141d" rx="3"/>
+<text x="192.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">6</text>
+<rect x="216" y="370" width="44" height="44" fill="#351723" rx="3"/>
+<text x="238.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">12</text>
+<rect x="262" y="370" width="44" height="44" fill="#21141d" rx="3"/>
+<text x="284.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">6</text>
+<rect x="308" y="370" width="44" height="44" fill="#1d131c" rx="3"/>
+<text x="330.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">5</text>
+<rect x="354" y="370" width="44" height="44" fill="#2e1621" rx="3"/>
+<text x="376.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">10</text>
+<rect x="400" y="370" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="422.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="446" y="370" width="44" height="44" fill="#6a1f33" rx="3"/>
+<text x="468.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">28</text>
+<rect x="492" y="370" width="44" height="44" fill="#1d131c" rx="3"/>
+<text x="514.0" y="396.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">5</text>
+<text x="162" y="443.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">VERIFY</text>
+<rect x="170" y="416" width="44" height="44" fill="#24141e" rx="3"/>
+<text x="192.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">7</text>
+<rect x="216" y="416" width="44" height="44" fill="#561c2d" rx="3"/>
+<text x="238.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">22</text>
+<rect x="262" y="416" width="44" height="44" fill="#3f1826" rx="3"/>
+<text x="284.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">15</text>
+<rect x="308" y="416" width="44" height="44" fill="#1a131b" rx="3"/>
+<text x="330.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">4</text>
+<rect x="354" y="416" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="376.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<rect x="400" y="416" width="44" height="44" fill="#2e1621" rx="3"/>
+<text x="422.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">10</text>
+<rect x="446" y="416" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="468.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<rect x="492" y="416" width="44" height="44" fill="#131219" rx="3"/>
+<text x="514.0" y="442.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">2</text>
+<text x="162" y="489.0" fill="#c9d1d9" font-family="monospace" font-size="12" text-anchor="end">WAIT_AEGIS</text>
+<rect x="170" y="462" width="44" height="44" fill="#3b1825" rx="3"/>
+<text x="192.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">14</text>
+<rect x="216" y="462" width="44" height="44" fill="#0d1117" rx="3"/>
+<text x="238.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">0</text>
+<rect x="262" y="462" width="44" height="44" fill="#631e31" rx="3"/>
+<text x="284.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">26</text>
+<rect x="308" y="462" width="44" height="44" fill="#101118" rx="3"/>
+<text x="330.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">1</text>
+<rect x="354" y="462" width="44" height="44" fill="#21141d" rx="3"/>
+<text x="376.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">6</text>
+<rect x="400" y="462" width="44" height="44" fill="#131219" rx="3"/>
+<text x="422.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">2</text>
+<rect x="446" y="462" width="44" height="44" fill="#27151f" rx="3"/>
+<text x="468.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.55">8</text>
+<rect x="492" y="462" width="44" height="44" fill="#b73462" rx="3"/>
+<text x="514.0" y="488.0" fill="#e6edf3" font-family="monospace" font-size="10" text-anchor="middle" opacity="0.95">60</text>
+<text x="170" y="554" fill="#8b949e" font-family="monospace" font-size="11">edge cells = base 8 + md5(src&gt;dst)%30, self-loop=60, non-edge=md5%12 — deterministic replay; swap for FSM event-log counts when telemetry lands</text>
+</svg>
