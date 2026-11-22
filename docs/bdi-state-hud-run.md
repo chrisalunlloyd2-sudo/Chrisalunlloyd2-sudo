@@ -17,3 +17,4 @@
 - Source: state_snapshot/bdi/{beliefs.json,desires.json,active_plan.txt} (REAL, no fallback strings)
 - Output: assets/agent/bdi-core-hud.svg (XML-valid, md5 eb99a5152f2da08e6e2c0986d97ed0a9)
 - Data: fsm_state=IDLE, corpus=1444, plan=COMPLETE_FLEET_ACTIONS_ARSENAL, desires=5 (incl. 11 BDI + 14 Aegis TODO triage)
+- 2026-11-22 18:40:23Z — bdi-state-hud local regen (bdi-state-hud.yml replacement): beliefs.json + desires.json + active_plan.txt → docs/assets/agent/bdi-core-hud.svg [alice-heartbeat] ADD-only
