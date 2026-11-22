@@ -2,35 +2,35 @@
 <rect width="800" height="560" fill="#ffffff"/>
 <rect width="800" height="70" fill="#1f2328"/>
 <text x="28" y="44" font-size="24" fill="#ffffff" font-weight="700">@chrisalunlloyd2-sudo — deep metrics</text>
-<text x="28" y="62" font-size="12" fill="#9da7b1">local regeneration of lowlighter/metrics classic · 2026-11-17 22:06 UTC</text>
+<text x="28" y="62" font-size="12" fill="#9da7b1">local regeneration of lowlighter/metrics classic · 2026-11-22 09:38 UTC</text>
 <text x="28" y="118" font-size="26" font-weight="700" fill="#1f2328">121</text>
 <text x="28" y="138" font-size="11" fill="#656d76">repositories</text>
 <text x="160" y="118" font-size="26" font-weight="700" fill="#1f2328">15</text>
 <text x="160" y="138" font-size="11" fill="#656d76">stars</text>
 <text x="292" y="118" font-size="26" font-weight="700" fill="#1f2328">4</text>
 <text x="292" y="138" font-size="11" fill="#656d76">forks</text>
-<text x="424" y="118" font-size="26" font-weight="700" fill="#1f2328">30</text>
+<text x="424" y="118" font-size="26" font-weight="700" fill="#1f2328">31</text>
 <text x="424" y="138" font-size="11" fill="#656d76">followers</text>
-<text x="556" y="118" font-size="26" font-weight="700" fill="#1f2328">27</text>
+<text x="556" y="118" font-size="26" font-weight="700" fill="#1f2328">12</text>
 <text x="556" y="138" font-size="11" fill="#656d76">public events/100</text>
 <text x="688" y="118" font-size="26" font-weight="700" fill="#1f2328">private+public</text>
 <text x="688" y="138" font-size="11" fill="#656d76">mode</text>
 <text x="28" y="184" font-size="15" font-weight="700" fill="#1f2328">Languages (repo size share, non-forks)</text>
 <text x="28" y="217" font-size="12" fill="#1f2328">Python</text>
 <rect x="170" y="206" width="241" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
-<text x="417" y="217" font-size="11" fill="#656d76">48.2%</text>
+<text x="417" y="217" font-size="11" fill="#656d76">48.4%</text>
 <text x="28" y="241" font-size="12" fill="#1f2328">C++</text>
 <rect x="170" y="230" width="93" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
-<text x="269" y="241" font-size="11" fill="#656d76">18.8%</text>
+<text x="269" y="241" font-size="11" fill="#656d76">18.7%</text>
 <text x="28" y="265" font-size="12" fill="#1f2328">Java</text>
 <rect x="170" y="254" width="85" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
 <text x="261" y="265" font-size="11" fill="#656d76">17.2%</text>
 <text x="28" y="289" font-size="12" fill="#1f2328">Smali</text>
-<rect x="170" y="278" width="35" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
-<text x="211" y="289" font-size="11" fill="#656d76">7.0%</text>
+<rect x="170" y="278" width="34" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
+<text x="210" y="289" font-size="11" fill="#656d76">7.0%</text>
 <text x="28" y="313" font-size="12" fill="#1f2328">JavaScript</text>
 <rect x="170" y="302" width="24" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
-<text x="200" y="313" font-size="11" fill="#656d76">5.0%</text>
+<text x="200" y="313" font-size="11" fill="#656d76">4.9%</text>
 <text x="28" y="337" font-size="12" fill="#1f2328">HTML</text>
 <rect x="170" y="326" width="19" height="14" rx="3" fill="#2ea043" opacity="0.85"/>
 <text x="195" y="337" font-size="11" fill="#656d76">3.8%</text>
@@ -44,8 +44,8 @@
 <text x="28" y="438" font-size="12" fill="#1f2328">agent-squiggly</text>
 <text x="480" y="438" font-size="12" fill="#656d76">Python</text>
 <text x="600" y="438" font-size="12" fill="#1f2328">0</text>
-<text x="670" y="438" font-size="12" fill="#1f2328">107299</text>
-<text x="740" y="438" font-size="11" fill="#656d76">2026-11-17</text>
+<text x="670" y="438" font-size="12" fill="#1f2328">109046</text>
+<text x="740" y="438" font-size="11" fill="#656d76">2026-11-22</text>
 <text x="28" y="458" font-size="12" fill="#1f2328">MATRIX_GEN8_HOME</text>
 <text x="480" y="458" font-size="12" fill="#656d76">Python</text>
 <text x="600" y="458" font-size="12" fill="#1f2328">1</text>
@@ -64,8 +64,8 @@
 <text x="28" y="518" font-size="12" fill="#1f2328">mindpalace</text>
 <text x="480" y="518" font-size="12" fill="#656d76">Java</text>
 <text x="600" y="518" font-size="12" fill="#1f2328">2</text>
-<text x="670" y="518" font-size="12" fill="#1f2328">55419</text>
-<text x="740" y="518" font-size="11" fill="#656d76">2026-11-17</text>
+<text x="670" y="518" font-size="12" fill="#1f2328">55835</text>
+<text x="740" y="518" font-size="11" fill="#656d76">2026-11-21</text>
 <text x="28" y="538" font-size="12" fill="#1f2328">JRM</text>
 <text x="480" y="538" font-size="12" fill="#656d76">Java</text>
 <text x="600" y="538" font-size="12" fill="#1f2328">0</text>
@@ -74,8 +74,8 @@
 <text x="28" y="558" font-size="12" fill="#1f2328">viper-scripts</text>
 <text x="480" y="558" font-size="12" fill="#656d76">Python</text>
 <text x="600" y="558" font-size="12" fill="#1f2328">0</text>
-<text x="670" y="558" font-size="12" fill="#1f2328">45265</text>
-<text x="740" y="558" font-size="11" fill="#656d76">2026-11-17</text>
+<text x="670" y="558" font-size="12" fill="#1f2328">45343</text>
+<text x="740" y="558" font-size="11" fill="#656d76">2026-11-19</text>
 <line x1="28" y1="520" x2="772" y2="520" stroke="#d0d7de"/>
 <text x="28" y="540" font-size="11" fill="#656d76">Generated locally by scripts_local_metrics.py (Alice heartbeat rotation 3/13, replaces disabled metrics.yml). Pages: /Chrisalunlloyd2-sudo/</text>
 </svg>
