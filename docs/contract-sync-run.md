@@ -23,3 +23,9 @@ Workflow: .github/workflows/auto-contract-sync.yml (disabled Actions; run locall
 - downstream md5 cmp: BDI_FSM_AGENT 72b3273c79e6 OK · Sophia 72b3273c79e6 OK · Aegis_Unified 72b3273c79e6 OK
 - 0/3 drifted → no broadcast, no downstream branch/PR (guard would skip anyway)
 - alice heartbeat pulse (rotation slot auto-contract-sync)
+
+### auto-contract-sync regen 2026-11-22T14:06:45Z
+- source: schemas/pipeline.mmd md5 72b3273c79e6221aef981b453ccde991 (unchanged)
+- downstream md5 cmp via contents API: BDI_FSM_AGENT 72b3273c79e6 MATCH · Sophia 72b3273c79e6 MATCH · Aegis_Unified 72b3273c79e6 MATCH
+- 0/3 drifted → no broadcast, no downstream branch/PR (workflow's git diff --cached --quiet guard would skip anyway)
+- alice heartbeat pulse (rotation slot auto-contract-sync, cycle 7)
