@@ -19,3 +19,9 @@
 - Regenerated locally: assets/telemetry/todo_hex_grid.svg + data/siphoned_todos.json (scripts/generate_hex_grid.py, GH_TOKEN from origin).
 - Result: grid 220 tasks, 30 agent events; SVG XML-validated.
 - ADD-only receipt.
+
+### hex-todo-siphon regen 2026-11-22T03:01:20Z
+- regenerated assets/telemetry/todo_hex_grid.svg + data/siphoned_todos.json via scripts/generate_hex_grid.py (local replay of disabled hex-todo-siphon.yml, GH_TOKEN from origin)
+- result: grid: 220 tasks, 0 occupied cells, 12 agent events
+- minidom SVG OK, JSON OK; oldest rotation slot (last run 2026-11-16) — slot closed
+- alice heartbeat rotation slot (one of 13)
