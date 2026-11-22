@@ -54,3 +54,11 @@
 - Profile repo: 13 disabled_manually + 1 active (Pages branch-source, unaffected) — verified via API this run.
 - POST_MORTEMS.md: 1 new aggregate incident appended ADD-only (nothing rewritten/deleted).
 - Action: AvatarAlive LFS budget / .glb migration (refs #25) + classify the 6 gate failures.
+
+## Run 2026-11-22T04:40Z (heartbeat, Alice) — slot self-healing-monitor re-run
+- Source: GitHub REST `actions/runs?status=failure&created=>24h` across 4 repos.
+- Failures: **AvatarAlive 44** (22 of them `Multi-Track CI` — failing step: `Track 3 - Physics, glTF 2.0 Quality Gate, Viseme & Shader Rubric`; plus `13-Tier Studio Verification Gate`), aegis-agent-bridge 0, living-ascii-art 0, profile 0. Latest AvatarAlive failure 2026-11-22T04:06:55Z.
+- Diagnosis: Track 3 = wide-suite tier = TICKETS T015b items 2-11 (T015a color-clamp test fix pushed this pulse as AvatarAlive `9dbd375`, expect green for that test on next run).
+- POST_MORTEMS.md: 1 new incident appended ADD-only (nothing rewritten/deleted).
+- Profile repo: 13/14 workflows disabled_manually, 1 active (pages-build-deployment, branch-source docs/ unaffected).
+- Action: T015b triage (env/PYTHONPATH vs real) next AvatarAlive pulse.

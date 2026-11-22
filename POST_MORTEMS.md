@@ -236,3 +236,10 @@ workflow's original entry format.
 - **Recommended Action:** 14 failed runs/24h — Multi-Track CI x8 (chronic LFS-quota class refs #25) + 13-Tier Studio Verification Gate x6 (failure class not yet diagnosed; check gate log for LFS vs test regressions after today's T002 full 46 re-run). Validate state lock and corpus integrity; check heartbeat feed.
 
 ---
+
+### ⚠️ Incident Detected: AvatarAlive Multi-Track CI (22 failed runs / 24h)
+- **Timestamp:** `2026-11-22 04:39:06Z`
+- **Workflow Run:** [View Execution Log](https://github.com/chrisalunlloyd2-sudo/AvatarAlive/actions/runs/44983602756)
+- **Agent Diagnosis Status:** `DIAGNOSED_TRACK3_WIDE_SUITE`
+- **Recommended Action:** Triage AvatarAlive TICKETS.md T015b (Track 3 Physics/gltf/Viseme gate failures = wide-suite tier; T015a color-clamp test fix already pushed 9dbd375, CI green next run needs T015b items 2-11).
+- Latest failure: 2026-11-22T04:06:55Z (AvatarAlive 13-Tier Studio Verification Gate)
