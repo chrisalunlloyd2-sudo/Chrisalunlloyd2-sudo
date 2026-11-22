@@ -53,3 +53,10 @@
 - Output: assets/diagrams/*.svg regenerated + XML-validated.
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
 - Correction: first invocation errored (missing src/dst args); re-ran per-file — schemas→pipeline_schema.svg, dags→pipeline_dag.svg regenerated + XML-validated.
+
+## Render run 2026-11-22T05:44Z (slot 6/13 re-run — heartbeat, Alice)
+- Trigger: heartbeat; `render-diagrams.yml` disabled 2026-11-12 (local replacement).
+- Input: `schemas/pipeline.mmd` + `dags/pipeline.mmd` — md5 72b3273c both (source unchanged).
+- Toolchain: `scripts/render_mmd_local.py` (mmdc/Chrome unavailable — quota = power + water).
+- Output: `pipeline_schema.svg` + `pipeline_dag.svg` regenerated, XML-validated (receipt run, byte-stable vs source).
+- Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
