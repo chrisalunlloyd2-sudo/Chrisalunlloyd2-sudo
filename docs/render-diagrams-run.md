@@ -52,3 +52,4 @@
 - Input: schemas/pipeline.mmd + dags/pipeline.mmd — toolchain scripts/render_mmd_local.py (mmdc/Chrome unavailable, quota = power + water).
 - Output: assets/diagrams/*.svg regenerated + XML-validated.
 - Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
+- Correction: first invocation errored (missing src/dst args); re-ran per-file — schemas→pipeline_schema.svg, dags→pipeline_dag.svg regenerated + XML-validated.
