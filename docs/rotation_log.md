@@ -7,3 +7,4 @@
 - 2026-11-23T11:22Z metrics slot — docs/metrics.md regenerated locally from repo test/TODO telemetry (replaces disabled metrics.yml); receipt in this log [alice-heartbeat]
 
 - 2026-11-23T12:23Z fsm-diagram slot — assets/fsm/states.svg re-rendered from fsm/states.puml via plantuml 1.2024.7 (replaces disabled fsm-diagram.yml); also lands prior 11:21Z metrics slot receipt (assets/github-metrics.svg + docs/metrics.md) left uncommitted by tool limit [alice-heartbeat]
+- 2026-11-23T13:29Z render-diagrams slot — schemas/pipeline.mmd + dags/pipeline.mmd (md5 72b3273c both, unchanged) re-rendered via scripts/render_mmd_local.py → docs/assets/diagrams/{schemas,dags}_pipeline.svg (5n/5e/5s each, XML minidom-validated, RC=0); replaces disabled render-diagrams.yml [alice-heartbeat]

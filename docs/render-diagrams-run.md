@@ -63,3 +63,10 @@
 
 ## render-diagrams local regeneration receipt 2026-11-22T15:49:57Z
 - scripts/render_mmd_local.py (mmdc/Chrome unavailable locally) over schemas/*.mmd + dags/*.mmd → docs/assets/diagrams/{schemas,dags}_pipeline.svg (RC=0). Prefix names added because both sources are named pipeline.mmd (existing pipeline.svg untouched, ADD-only).
+
+## Render run 2026-11-23T13:29Z (rotation slot render-diagrams — heartbeat, Alice)
+- Trigger: heartbeat; `render-diagrams.yml` disabled 2026-11-12 (local replacement).
+- Input: schemas/pipeline.mmd + dags/pipeline.mmd — md5 72b3273c both (source unchanged).
+- Toolchain: scripts/render_mmd_local.py (mmdc/Chrome unavailable — quota = power + water).
+- Output: docs/assets/diagrams/schemas_pipeline.svg + dags_pipeline.svg regenerated, XML-minidom validated (5 nodes / 5 edges / 5 styles each), RC=0.
+- Pages: https://chrisalunlloyd2-sudo.github.io/Chrisalunlloyd2-sudo/
