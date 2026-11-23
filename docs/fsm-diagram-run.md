@@ -88,3 +88,9 @@
 - **Run at:** 2026-11-23T00:22:06Z (heartbeat)
 - **Result:** re-rendered fsm/states.puml -> assets/fsm/states.svg, **byte-identical** (md5 79cb6b05d83e18683c0bc550d1ebe1c9) — diagram current, source unchanged. XML validated OK.
 - **Toolchain:** PlantUML 1.2024.7 jar (/root/plantuml.jar) + sandbox JVM. Workflow still disabled; Alice runs it locally per heartbeat rotation.
+
+## Re-verification (cycle 5, slot fsm-diagram)
+
+- **Run at:** 2026-11-23T10:14:09Z (heartbeat rotation)
+- **Result:** re-rendered `fsm/states.puml` -> `assets/fsm/states.svg`, **byte-identical** (md5 79cb6b05) — diagram still current, source unchanged.
+- **Toolchain:** PlantUML 1.2024.7 jar, OpenJDK sandbox. Workflow still disabled; Alice runs it locally per heartbeat rotation.
