@@ -25,3 +25,8 @@
 - result: grid: 220 tasks, 0 occupied cells, 12 agent events
 - minidom SVG OK, JSON OK; oldest rotation slot (last run 2026-11-16) — slot closed
 - alice heartbeat rotation slot (one of 13)
+
+### hex-todo-siphon regen 2026-11-23T01:58:28Z (deferred from pulse 3 background run)
+- background run of scripts/generate_hex_grid.py completed; assets/telemetry/todo_hex_grid.svg + data/siphoned_todos.json updated
+- todos: 0 ; XML_OK
+- alice heartbeat rotation slot (one of 13), local replay of disabled hex-todo-siphon.yml
